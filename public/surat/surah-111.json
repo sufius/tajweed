@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6217,
+        "text": "تَبَّتْ يَد[o[َآ] أَبِى لَهَ[a:14669[بٍ و]َتَ[q[ب]َّ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6218,
+        "text": "م[o[َآ] أَغْنَىٰ عَنْهُ مَالُهُ[n[ۥ] وَمَا كَسَ[q[ب]َ",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6219,
+        "text": "سَيَصْلَىٰ نَا[f:14670[رًا ذ]َاتَ لَهَ[q[ب]ٍ",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6220,
+        "text": "وَ[h:9999[ٱ]مْرَأَتُهُ[n[ۥ] حَ[g[مّ]َالَةَ [h:14671[ٱ]لْحَطَ[q[ب]ِ",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6221,
+        "text": "فِى جِيدِهَا حَ[q:14672[بْ][a:14673[لٌ م]ّ[a:14674[ِن م]َّسَ[q[د]ِۭ",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 603,
+        "ruku": 553,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-tajweed",
+      "language": "ar",
+      "name": "القرآن الكريم المجود (ملون) (tajweed)",
+      "englishName": "Tajweed",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

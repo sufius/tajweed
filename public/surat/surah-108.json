@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "Abundance",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 3,
+    "ayahs": [
+      {
+        "number": 6205,
+        "text": "إِ[g[نّ][o[َآ] أَعْطَيْنَ[n[ـٰ]كَ [h:14659[ٱ]لْكَوْثَرَ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6206,
+        "text": "فَصَلِّ لِرَبِّكَ وَ[h:14660[ٱ]نْحَرْ",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6207,
+        "text": "إِ[g[نّ]َ شَانِئَكَ هُوَ [h:14661[ٱ]لْأَ[q:14662[بْ]تَرُ",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 550,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-tajweed",
+      "language": "ar",
+      "name": "القرآن الكريم المجود (ملون) (tajweed)",
+      "englishName": "Tajweed",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
