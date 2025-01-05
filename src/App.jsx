@@ -1,13 +1,13 @@
 import { useState, useEffect, useRef } from 'react'
 import tajweed, {Tajweed}  from 'tajweed';
 import axios from 'axios';
-import { saveAs } from 'file-saver';
 import './App.css'
 import './tajweed.css'  
 
 const surahNumberStart = 2;
 const amountSurat = surahNumberStart;
-const url = (surahNumber) => `/surat/surah-${surahNumber}.json`;
+// const url = (surahNumber) => `/surat/surah-${surahNumber}.json`;
+const url = (surahNumber) =>  `https://api.globalquran.com/surah/${surahNumber}/quran-tajweed`;
 // const url = (surahNumber) =>  `http://api.alquran.cloud/v1/ruku/${surahNumber}/quran-tajweed`;
 
 const parseTajweed = new Tajweed();
@@ -61,14 +61,11 @@ function App() {
     try {
       for (let surahNumber = surahNumberStart; surahNumber <= amountSurat; surahNumber++) {
         const response = await axios.get(url(surahNumber));
-
         if (response.status === 200) {
-          let responseData = response.data?.data?.ayahs;
-          // let responseDataStringified = JSON.stringify(responseData, null, 2);
-          // const blob = new Blob([responseDataStringified], {
-          //   type: 'application/json',
-          // });
-          // saveAs(blob, `../public/surat/surah-${surahNumber}.json`);
+          let responseData = response.data?.data?.ayahs || response.data?.quran['quran-tajweed'];
+          if (typeof responseData === 'object' && responseData !== null) {
+              responseData = Object.values(responseData);
+          }
           responseData && setAyat(responseData);
         } else {
           console.error(`Failed to fetch Surah ${surahNumber}`);
@@ -99,7 +96,7 @@ function App() {
                   whiteSpace: "nowrap"
                 }}
                 ref={el => itemsRef.current[index] = el} 
-                dangerouslySetInnerHTML={{__html:parseTajweed.parse(ayah.text,true) }} 
+                dangerouslySetInnerHTML={{__html:parseTajweed.parse(ayah.text || ayah.verse,true) }} 
                 key={index}
               ></span>
             )}
