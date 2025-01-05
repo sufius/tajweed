@@ -125,7 +125,9 @@
           "resource_id": 27,
           "text": "Sag: Er ist Allah, Einer,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قُلْ هُوَ [h:8078[ٱ]للَّهُ أَحَ[q[د]ٌ",
+      "text_uthmani_tajweed_parsed": "قُلْ هُوَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8078\">ٱ</tajweed>للَّهُ أَحَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ٌ"
     },
     {
       "id": 6223,
@@ -216,7 +218,9 @@
           "resource_id": 27,
           "text": "Allah, der Überlegene."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱللَّهُ [h:14675[ٱ][l[ل]صَّمَ[q[د]ُ",
+      "text_uthmani_tajweed_parsed": "ٱللَّهُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14675\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صَّمَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ"
     },
     {
       "id": 6224,
@@ -343,7 +347,9 @@
           "resource_id": 27,
           "text": "Er hat nicht gezeugt und ist nicht gezeugt worden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لَمْ يَلِ[q:14676[دْ] وَلَمْ يُولَ[q:14677[دْ]",
+      "text_uthmani_tajweed_parsed": "لَمْ يَلِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14676\">دْ</tajweed> وَلَمْ يُولَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14677\">دْ</tajweed>"
     },
     {
       "id": 6225,
@@ -488,7 +494,9 @@
           "resource_id": 27,
           "text": "und niemand ist Ihm jemals gleich."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلَمْ يَك[u:2596[ُن ل]َّهُ[n[ۥ] كُفُوًا أَحَ[q[د]ُۢ",
+      "text_uthmani_tajweed_parsed": "وَلَمْ يَك<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":2596\">ُن ل</tajweed>َّهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> كُفُوًا أَحَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُۢ"
     }
   ],
   "pagination": {
@@ -497,5 +505,11 @@
     "next_page": null,
     "total_pages": 1,
     "total_records": 4
-  }
+  },
+  "englishName": "Al-Ikhlaas",
+  "name": "سُورَةُ الإِخۡلَاصِ",
+  "englishNameTranslation": "Sincerity",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 4,
+  "number": 112
 }

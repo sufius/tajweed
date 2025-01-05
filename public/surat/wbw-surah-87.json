@@ -125,7 +125,9 @@
           "resource_id": 27,
           "text": "Preise den Namen deines höchsten Herrn,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "سَبِّحِ [h:14437[ٱ]سْمَ رَبِّكَ [h:14438[ٱ]لْأَعْلَى",
+      "text_uthmani_tajweed_parsed": "سَبِّحِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14437\">ٱ</tajweed>سْمَ رَبِّكَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14438\">ٱ</tajweed>لْأَعْلَى"
     },
     {
       "id": 5950,
@@ -234,7 +236,9 @@
           "resource_id": 27,
           "text": "Der erschafft und dann zurechtformt"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "text_uthmani_tajweed_parsed": "ٱلَّذِى خَلَقَ فَسَوَّىٰ"
     },
     {
       "id": 5951,
@@ -343,7 +347,9 @@
           "resource_id": 27,
           "text": "und Der das Maß festsetzt und dann rechtleitet"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لَّذِى قَدَّرَ فَهَدَىٰ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لَّذِى قَدَّرَ فَهَدَىٰ"
     },
     {
       "id": 5952,
@@ -452,7 +458,9 @@
           "resource_id": 27,
           "text": "und Der die Weide hervorbringt"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لَّذ[o[ِىٓ] أَخْرَجَ [h:14439[ٱ]لْمَرْعَىٰ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَخْرَجَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14439\">ٱ</tajweed>لْمَرْعَىٰ"
     },
     {
       "id": 5953,
@@ -561,7 +569,9 @@
           "resource_id": 27,
           "text": "und sie dann zu dunkelbrauner Spreu macht."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَجَعَلَهُ[n[ۥ] غُث[o[َا]ٓءً أَحْوَىٰ",
+      "text_uthmani_tajweed_parsed": "فَجَعَلَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> غُث<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءً أَحْوَىٰ"
     },
     {
       "id": 5954,
@@ -670,7 +680,9 @@
           "resource_id": 27,
           "text": "Wir werden dich lesen lassen, und dann wirst du nichts vergessen,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "سَنُ[q:14440[قْ]رِئُكَ فَلَا تَ[f:14441[نس]َىٰٓ",
+      "text_uthmani_tajweed_parsed": "سَنُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14440\">قْ</tajweed>رِئُكَ فَلَا تَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14441\">نس</tajweed>َىٰٓ"
     },
     {
       "id": 5955,
@@ -887,7 +899,9 @@
           "resource_id": 27,
           "text": "außer dem, was Allah will. Er weiß ja, was laut vernehmbar geäußert wird und was verborgen bleibt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِلَّا مَا ش[o[َا]ٓءَ [h:78[ٱ]للَّهُ‌ۚ إِ[g[نّ]َهُ[n[ۥ] يَعْلَمُ [h:8891[ٱ]لْجَهْرَ وَمَا يَخْفَىٰ",
+      "text_uthmani_tajweed_parsed": "إِلَّا مَا ش<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":78\">ٱ</tajweed>للَّهُ‌ۚ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> يَعْلَمُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8891\">ٱ</tajweed>لْجَهْرَ وَمَا يَخْفَىٰ"
     },
     {
       "id": 5956,
@@ -978,7 +992,9 @@
           "resource_id": 27,
           "text": "Und Wir werden dir den Weg zum Leichteren leicht machen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "text_uthmani_tajweed_parsed": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ"
     },
     {
       "id": 5957,
@@ -1105,7 +1121,9 @@
           "resource_id": 27,
           "text": "So ermahne -, wenn die Ermahnung nützt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَذَكِّرْ إ[a:14442[ِن ن]َّفَعَتِ [h:14443[ٱ][l[ل]ذِّكْرَىٰ",
+      "text_uthmani_tajweed_parsed": "فَذَكِّرْ إ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14442\">ِن ن</tajweed>َّفَعَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14443\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ذِّكْرَىٰ"
     },
     {
       "id": 5958,
@@ -1214,7 +1232,9 @@
           "resource_id": 27,
           "text": "Bedenken wird jemand, der gottesfürchtig ist."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "سَيَذَّكَّرُ م[a:14444[َن ي]َخْشَىٰ",
+      "text_uthmani_tajweed_parsed": "سَيَذَّكَّرُ م<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14444\">َن ي</tajweed>َخْشَىٰ"
     }
   ],
   "pagination": {
@@ -1223,5 +1243,11 @@
     "next_page": 2,
     "total_pages": 2,
     "total_records": 19
-  }
+  },
+  "englishName": "Al-A'laa",
+  "name": "سُورَةُ الأَعۡلَىٰ",
+  "englishNameTranslation": "The Most High",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 19,
+  "number": 87
 }

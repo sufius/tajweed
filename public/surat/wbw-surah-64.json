@@ -359,7 +359,9 @@
           "resource_id": 27,
           "text": "Es preist Allah (alles), was in den Himmeln und (alles) was auf der Erde ist. Ihm gehört die Herrschaft, und Ihm gehört (alles) Lob, und Er hat zu allem die Macht."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يُسَبِّحُ لِلَّهِ مَا فِى [h:609[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَمَا فِى [h:44[ٱ]لْأَرْضِ‌ۖ لَهُ [h:1397[ٱ]لْمُلْكُ وَلَهُ [h:10443[ٱ]لْحَمْدُ‌ۖ وَهُوَ عَلَىٰ كُلِّ ش[f:81[َىْءٍ ق]َد[p[ِي]رٌ",
+      "text_uthmani_tajweed_parsed": "يُسَبِّحُ لِلَّهِ مَا فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":609\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّمَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>و<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>تِ وَمَا فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":44\">ٱ</tajweed>لْأَرْضِ‌ۖ لَهُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1397\">ٱ</tajweed>لْمُلْكُ وَلَهُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10443\">ٱ</tajweed>لْحَمْدُ‌ۖ وَهُوَ عَلَىٰ كُلِّ ش<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":81\">َىْءٍ ق</tajweed>َد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رٌ"
     },
     {
       "id": 5201,
@@ -612,7 +614,9 @@
           "resource_id": 27,
           "text": "Er ist es, Der euch erschaffen hat. So gibt es unter euch Ungläubige und gibt es unter euch Gläubige, und was ihr tut, sieht Allah wohl."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "هُوَ [h:153[ٱ]لَّذِى خَلَقَكُمْ فَمِ[f:12615[نك]ُمْ كَافِ[a:13630[رٌ و]َمِ[f:2325[نك][w:13631[ُم م]ُّؤْمِ[a:13632[نٌ‌ۚ و]َ[h:72[ٱ]للَّهُ بِمَا تَعْمَلُونَ بَص[p[ِي]رٌ",
+      "text_uthmani_tajweed_parsed": "هُوَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":153\">ٱ</tajweed>لَّذِى خَلَقَكُمْ فَمِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":12615\">نك</tajweed>ُمْ كَافِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13630\">رٌ و</tajweed>َمِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2325\">نك</tajweed><tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":13631\">ُم م</tajweed>ُّؤْمِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13632\">نٌ‌ۚ و</tajweed>َ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":72\">ٱ</tajweed>للَّهُ بِمَا تَعْمَلُونَ بَص<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رٌ"
     },
     {
       "id": 5202,
@@ -829,7 +833,9 @@
           "resource_id": 27,
           "text": "Er hat die Himmel und die Erde in Wahrheit erschaffen und euch gestaltet, und da(bei) eure Gestalten schön gemacht. Und zu Ihm ist der Ausgang."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "خَلَقَ [h:3913[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَ[h:1474[ٱ]لْأَرْضَ بِ[h:370[ٱ]لْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ‌ۖ وَإِلَيْهِ [h:3461[ٱ]لْمَص[p[ِي]رُ",
+      "text_uthmani_tajweed_parsed": "خَلَقَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3913\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّمَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>و<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>تِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1474\">ٱ</tajweed>لْأَرْضَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":370\">ٱ</tajweed>لْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ‌ۖ وَإِلَيْهِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3461\">ٱ</tajweed>لْمَص<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رُ"
     },
     {
       "id": 5203,
@@ -1136,7 +1142,9 @@
           "resource_id": 27,
           "text": "Er weiß, was in den Himmeln und auf der Erde ist, und Er weiß, was ihr geheimhaltet und was ihr offenlegt. Und Allah weiß über das Innerste der Brüste Bescheid."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَعْلَمُ مَا فِى [h:609[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَ[h:177[ٱ]لْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ‌ۚ وَ[h:72[ٱ]للَّهُ عَلِي[i:2196[مُۢ ب]ِذَاتِ [h:2197[ٱ][l[ل]صُّد[p[ُو]رِ",
+      "text_uthmani_tajweed_parsed": "يَعْلَمُ مَا فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":609\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّمَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>و<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>تِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":177\">ٱ</tajweed>لْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ‌ۚ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":72\">ٱ</tajweed>للَّهُ عَلِي<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":2196\">مُۢ ب</tajweed>ِذَاتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2197\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صُّد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
     },
     {
       "id": 5204,
@@ -1425,7 +1433,9 @@
           "resource_id": 27,
           "text": "Ist zu euch nicht die Kunde von denjenigen gekommen, die zuvor ungläubig waren und dann die schlimmen Folgen ihres Verhaltens kosteten? Und für sie wird es schmerzhafte Strafe geben."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَلَمْ يَأْتِكُمْ نَبَؤُ[s[اْ] [h:7058[ٱ]لَّذِينَ كَفَرُو[s[اْ] مِ[f:128[ن ق]َ[q:129[بْ]لُ فَذَاقُو[s[اْ] وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَل[p[ِي]مٌ",
+      "text_uthmani_tajweed_parsed": "أَلَمْ يَأْتِكُمْ نَبَؤُ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7058\">ٱ</tajweed>لَّذِينَ كَفَرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":128\">ن ق</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":129\">بْ</tajweed>لُ فَذَاقُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مٌ"
     },
     {
       "id": 5205,
@@ -1768,7 +1778,9 @@
           "resource_id": 27,
           "text": "Dies, weil ihre Gesandten immer wieder zu ihnen mit den klaren Beweisen kamen, sie aber sagten: Sollen (etwa) menschliche Wesen uns rechtleiten? So wurden sie ungläubig und kehrten sich ab. Doch Allah bedurfte (ihrer) nicht, und Allah ist Unbedürftig und Lobenswürdig."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ذ[n[َٲ]لِكَ بِأَ[g[نّ]َهُ[n[ۥ] كَانَت تَّأْتِيهِمْ رُسُلُه[c:4900[ُم ب]ِ[h:484[ٱ]لْبَيِّنَ[n[ـٰ]تِ فَقَال[o[ُوٓ][s[اْ] أَبَشَ[a:13633[رٌ ي]َهْدُونَنَا فَكَفَرُو[s[اْ] وَتَوَلَّو[s[اْ‌ۚ] وَّ[h:13634[ٱ]سْتَغْنَى [h:13635[ٱ]للَّهُ‌ۚ وَ[h:72[ٱ]للَّهُ غَنِىٌّ حَم[p[ِي][q[د]ٌ",
+      "text_uthmani_tajweed_parsed": "ذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ بِأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> كَانَت تَّأْتِيهِمْ رُسُلُه<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":4900\">ُم ب</tajweed>ِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":484\">ٱ</tajweed>لْبَيِّنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ فَقَال<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ُوٓ</tajweed><tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> أَبَشَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13633\">رٌ ي</tajweed>َهْدُونَنَا فَكَفَرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَتَوَلَّو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ‌ۚ</tajweed> وَّ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13634\">ٱ</tajweed>سْتَغْنَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13635\">ٱ</tajweed>للَّهُ‌ۚ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":72\">ٱ</tajweed>للَّهُ غَنِىٌّ حَم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ٌ"
     },
     {
       "id": 5206,
@@ -2147,7 +2159,9 @@
           "resource_id": 27,
           "text": "Diejenigen, die ungläubig sind, behaupten, daß sie nicht auferweckt werden. Sag: Aber ja doch, bei meinem Herrn, ihr werdet ganz gewiß auferweckt werden; hierauf wird euch ganz gewiß das kundgetan, was ihr getan habt. Und dies ist Allah ein leichtes."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "زَعَمَ [h:13636[ٱ]لَّذِينَ كَفَر[o[ُوٓ][s[اْ] أ[u:8842[َن ل]ّ[a:13637[َن ي]ُ[q:13638[بْ]عَثُو[s[اْ‌ۚ] قُلْ بَلَىٰ وَرَبِّى لَتُ[q:13639[بْ]عَثُ[g[نّ]َ ثُ[g[مّ]َ لَتُنَبَّؤُ[g[نّ]َ بِمَا عَمِلْتُمْ‌ۚ وَذ[n[َٲ]لِكَ عَلَى [h:412[ٱ]للَّهِ يَس[p[ِي]رٌ",
+      "text_uthmani_tajweed_parsed": "زَعَمَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13636\">ٱ</tajweed>لَّذِينَ كَفَر<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ُوٓ</tajweed><tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> أ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":8842\">َن ل</tajweed>ّ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13637\">َن ي</tajweed>ُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13638\">بْ</tajweed>عَثُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ‌ۚ</tajweed> قُلْ بَلَىٰ وَرَبِّى لَتُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13639\">بْ</tajweed>عَثُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ ثُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َ لَتُنَبَّؤُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ بِمَا عَمِلْتُمْ‌ۚ وَذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ عَلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":412\">ٱ</tajweed>للَّهِ يَس<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رٌ"
     },
     {
       "id": 5207,
@@ -2382,7 +2396,9 @@
           "resource_id": 27,
           "text": "Darum glaubt an Allah und Seinen Gesandten und das Licht, das Wir hinabgesandt haben. Und Allah ist dessen, was ihr tut, Kundig."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَـَٔـامِنُو[s[اْ] بِ[h:32[ٱ]للَّهِ وَرَسُولِه[n[ِۦ] وَ[h:13640[ٱ][l[ل][g[نّ]ُورِ [h:13641[ٱ]لَّذ[o[ِىٓ] أَ[f:515[نز]َلْنَا‌ۚ وَ[h:72[ٱ]للَّهُ بِمَا تَعْمَلُونَ خَب[p[ِي]رٌ",
+      "text_uthmani_tajweed_parsed": "فَـَٔـامِنُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":32\">ٱ</tajweed>للَّهِ وَرَسُولِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13640\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ُورِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13641\">ٱ</tajweed>لَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":515\">نز</tajweed>َلْنَا‌ۚ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":72\">ٱ</tajweed>للَّهُ بِمَا تَعْمَلُونَ خَب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رٌ"
     },
     {
       "id": 5208,
@@ -2923,7 +2939,9 @@
           "resource_id": 27,
           "text": "Am Tag, da Er euch zum Tag der Versammlung versammeln wird. Das ist der Tag der Übervorteilung. Wer an Allah glaubt und rechtschaffen handelt, dem tilgt Er seine bösen Taten, und den wird Er in Gärten eingehen lassen, durcheilt von Bächen, ewig und auf immer darin zu bleiben; das ist der großartige Erfolg."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَوْمَ يَ[q:12425[جْ]مَعُكُمْ لِيَوْمِ [h:13642[ٱ]لْجَمْعِ‌ۖ ذ[n[َٲ]لِكَ يَوْمُ [h:13643[ٱ][l[ل]تَّغَابُنِ‌ۗ وَم[a:13644[َن ي]ُؤْم[i:12652[ِنۢ ب]ِ[h:32[ٱ]للَّهِ وَيَعْمَلْ صَ[n[ـٰ]لِ[a:13645[حًا ي]ُكَفِّرْ عَنْهُ سَيِّـَٔـاتِه[n[ِۦ] وَيُ[q:13646[دْ]خِلْهُ جَ[g[نّ]َ[n[ـٰ][f:119[تٍ ت]َ[q:120[جْ]رِى مِ[f:121[ن ت]َحْتِهَا [h:122[ٱ]لْأَنْهَ[n[ـٰ]رُ خَ[n[ـٰ]لِدِينَ فِيه[o[َآ] أَبَ[f:5811[دًا‌ۚ ذ][n[َٲ]لِكَ [h:3911[ٱ]لْفَوْزُ [h:2633[ٱ]لْعَظ[p[ِي]مُ",
+      "text_uthmani_tajweed_parsed": "يَوْمَ يَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":12425\">جْ</tajweed>مَعُكُمْ لِيَوْمِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13642\">ٱ</tajweed>لْجَمْعِ‌ۖ ذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ يَوْمُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13643\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>تَّغَابُنِ‌ۗ وَم<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13644\">َن ي</tajweed>ُؤْم<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":12652\">ِنۢ ب</tajweed>ِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":32\">ٱ</tajweed>للَّهِ وَيَعْمَلْ صَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13645\">حًا ي</tajweed>ُكَفِّرْ عَنْهُ سَيِّـَٔـاتِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> وَيُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13646\">دْ</tajweed>خِلْهُ جَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":119\">تٍ ت</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":120\">جْ</tajweed>رِى مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":121\">ن ت</tajweed>َحْتِهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":122\">ٱ</tajweed>لْأَنْهَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>رُ خَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لِدِينَ فِيه<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَبَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":5811\">دًا‌ۚ ذ</tajweed><tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3911\">ٱ</tajweed>لْفَوْزُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2633\">ٱ</tajweed>لْعَظ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مُ"
     },
     {
       "id": 5209,
@@ -3176,7 +3194,9 @@
           "resource_id": 27,
           "text": "Und diejenigen, die ungläubig sind und Unsere Zeichen für Lüge erklären, das sind Insassen des (Höllen)feuers, ewig darin zu bleiben - ein schlimmer Ausgang!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لَّذِينَ كَفَرُو[s[اْ] وَكَذَّبُو[s[اْ] بِـَٔـايَ[n[ـٰ]تِن[o[َآ] أُ[s[وْ]لَ[o[ـٰٓ]ئِكَ أَصْحَ[n[ـٰ]بُ [h:201[ٱ][l[ل][g[نّ]َارِ خَ[n[ـٰ]لِدِينَ فِيهَا‌ۖ وَبِئْسَ [h:665[ٱ]لْمَص[p[ِي]رُ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لَّذِينَ كَفَرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَكَذَّبُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِـَٔـايَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِن<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أُ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">وْ</tajweed>لَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>ئِكَ أَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":201\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َارِ خَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لِدِينَ فِيهَا‌ۖ وَبِئْسَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":665\">ٱ</tajweed>لْمَص<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رُ"
     }
   ],
   "pagination": {
@@ -3185,5 +3205,11 @@
     "next_page": 2,
     "total_pages": 2,
     "total_records": 18
-  }
+  },
+  "englishName": "At-Taghaabun",
+  "name": "سُورَةُ التَّغَابُنِ",
+  "englishNameTranslation": "Mutual Disillusion",
+  "revelationType": "Medinan",
+  "numberOfAyahs": 18,
+  "number": 64
 }

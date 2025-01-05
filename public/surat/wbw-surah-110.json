@@ -143,7 +143,9 @@
           "resource_id": 27,
           "text": "Wenn Allahs Hilfe kommt und der Sieg"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِذَا ج[o[َا]ٓءَ نَصْرُ [h:1184[ٱ]للَّهِ وَ[h:14666[ٱ]لْفَتْحُ",
+      "text_uthmani_tajweed_parsed": "إِذَا ج<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ نَصْرُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1184\">ٱ</tajweed>للَّهِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14666\">ٱ</tajweed>لْفَتْحُ"
     },
     {
       "id": 6215,
@@ -324,7 +326,9 @@
           "resource_id": 27,
           "text": "und du die Menschen in Allahs Religion in Scharen eintreten siehst,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَرَأَيْتَ [h:14667[ٱ][l[ل][g[نّ]َاسَ يَ[q:3156[دْ]خُلُونَ فِى دِينِ [h:2072[ٱ]للَّهِ أَفْوَاجًا",
+      "text_uthmani_tajweed_parsed": "وَرَأَيْتَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14667\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاسَ يَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":3156\">دْ</tajweed>خُلُونَ فِى دِينِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2072\">ٱ</tajweed>للَّهِ أَفْوَاجًا"
     },
     {
       "id": 6216,
@@ -505,7 +509,9 @@
           "resource_id": 27,
           "text": "dann lobpreise deinen Herrn und bitte Ihn um Vergebung; gewiß, Er ist Reue-Annehmend."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ[h:14668[ٱ]سْتَغْفِرْهُ‌ۚ إِ[g[نّ]َهُ[n[ۥ] كَانَ تَوَّابَۢا",
+      "text_uthmani_tajweed_parsed": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14668\">ٱ</tajweed>سْتَغْفِرْهُ‌ۚ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> كَانَ تَوَّابَۢا"
     }
   ],
   "pagination": {
@@ -514,5 +520,11 @@
     "next_page": null,
     "total_pages": 1,
     "total_records": 3
-  }
+  },
+  "englishName": "An-Nasr",
+  "name": "سُورَةُ النَّصۡرِ",
+  "englishNameTranslation": "Divine Support",
+  "revelationType": "Medinan",
+  "numberOfAyahs": 3,
+  "number": 110
 }

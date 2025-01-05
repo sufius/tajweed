@@ -71,7 +71,9 @@
           "resource_id": 27,
           "text": "Ya-Sin."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ي[m[سٓ]",
+      "text_uthmani_tajweed_parsed": "ي<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">سٓ</tajweed>"
     },
     {
       "id": 3707,
@@ -162,7 +164,9 @@
           "resource_id": 27,
           "text": "Bei dem weisen Qur’an,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لْقُرْءَانِ [h:11176[ٱ]لْحَك[p[ِي]مِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْقُرْءَانِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":11176\">ٱ</tajweed>لْحَك<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مِ"
     },
     {
       "id": 3708,
@@ -271,7 +275,9 @@
           "resource_id": 27,
           "text": "du bist wahrlich einer der Gesandten"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َكَ لَمِنَ [h:1443[ٱ]لْمُرْسَل[p[ِي]نَ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َكَ لَمِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1443\">ٱ</tajweed>لْمُرْسَل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     },
     {
       "id": 3709,
@@ -380,7 +386,9 @@
           "resource_id": 27,
           "text": "auf einem geraden Weg."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "عَلَىٰ صِر[n[َٲ][a:726[طٍ م]ُّسْتَق[p[ِي]مٍ",
+      "text_uthmani_tajweed_parsed": "عَلَىٰ صِر<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed><tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":726\">طٍ م</tajweed>ُّسْتَق<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مٍ"
     },
     {
       "id": 3710,
@@ -489,7 +497,9 @@
           "resource_id": 27,
           "text": "(Er ist) die Offenbarung des Allmächtigen und Barmherzigen,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "تَ[f:11177[نز]ِيلَ [h:11178[ٱ]لْعَزِيزِ [h:9869[ٱ][l[ل]رَّح[p[ِي]مِ",
+      "text_uthmani_tajweed_parsed": "تَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":11177\">نز</tajweed>ِيلَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":11178\">ٱ</tajweed>لْعَزِيزِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9869\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>رَّح<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مِ"
     },
     {
       "id": 3711,
@@ -670,7 +680,9 @@
           "resource_id": 27,
           "text": "damit du ein Volk warnst, dessen Väter nicht gewarnt wurden, so daß sie (gegenüber allem) unachtsam sind."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لِتُ[f:4582[نذ]ِرَ قَوْ[a:10181[مًا م]ّ[o[َآ] أُ[f:11179[نذ]ِرَ ءَاب[o[َا]ٓؤُهُمْ فَهُمْ غَ[n[ـٰ]فِل[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "لِتُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":4582\">نذ</tajweed>ِرَ قَوْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":10181\">مًا م</tajweed>ّ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":11179\">نذ</tajweed>ِرَ ءَاب<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓؤُهُمْ فَهُمْ غَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 3712,
@@ -869,7 +881,9 @@
           "resource_id": 27,
           "text": "Das Wort ist ja gegen die meisten von ihnen unvermeidlich fällig geworden, so glauben sie nicht."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لَقَ[q:2389[دْ] حَقَّ [h:10639[ٱ]لْقَوْلُ عَلَ[o[ىٰٓ] أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِن[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "لَقَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":2389\">دْ</tajweed> حَقَّ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10639\">ٱ</tajweed>لْقَوْلُ عَلَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ىٰٓ</tajweed> أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 3713,
@@ -1104,7 +1118,9 @@
           "resource_id": 27,
           "text": "Gewiß, Wir haben um ihre Hälse Fesseln gelegt. Sie reichen bis zum Kinn, so daß sie den Kopf hochhalten (müssen)."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َا جَعَلْنَا ف[o[ِىٓ] أَعْنَ[n[ـٰ]قِهِمْ أَغْلَ[n[ـٰ]ل[f:11180[اً ف]َهِىَ إِلَى [h:11181[ٱ]لْأَذْقَانِ فَه[w:11182[ُم م]ُّ[q:11183[قْ]مَح[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا جَعَلْنَا ف<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَعْنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>قِهِمْ أَغْلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ل<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":11180\">اً ف</tajweed>َهِىَ إِلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":11181\">ٱ</tajweed>لْأَذْقَانِ فَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":11182\">ُم م</tajweed>ُّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":11183\">قْ</tajweed>مَح<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 3714,
@@ -1375,7 +1391,9 @@
           "resource_id": 27,
           "text": "Und Wir haben vor ihnen eine Sperrmauer errichtet und hinter ihnen eine Sperrmauer und sie so überdeckt, daß sie nicht sehen (können)."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَجَعَلْنَا م[i:4612[ِنۢ ب]َيْنِ أَيْدِيهِمْ سَد[a:11184[ًّا و]َمِنْ خَلْفِهِمْ سَد[f:11185[ًّا ف]َأَغْشَيْنَ[n[ـٰ]هُمْ فَهُمْ لَا يُ[q:60[بْ]صِر[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "وَجَعَلْنَا م<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":4612\">ِنۢ ب</tajweed>َيْنِ أَيْدِيهِمْ سَد<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":11184\">ًّا و</tajweed>َمِنْ خَلْفِهِمْ سَد<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":11185\">ًّا ف</tajweed>َأَغْشَيْنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>هُمْ فَهُمْ لَا يُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":60\">بْ</tajweed>صِر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 3715,
@@ -1574,7 +1592,9 @@
           "resource_id": 27,
           "text": "Und gleich ist es in Bezug auf sie, ob du sie warnst oder sie nicht warnst; sie glauben nicht."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَسَو[o[َا]ٓءٌ عَلَيْهِمْ ءَأَ[f:25[نذ]َرْتَهُمْ أَمْ لَمْ تُ[f:26[نذ]ِرْهُمْ لَا يُؤْمِن[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "وَسَو<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءٌ عَلَيْهِمْ ءَأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":25\">نذ</tajweed>َرْتَهُمْ أَمْ لَمْ تُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":26\">نذ</tajweed>ِرْهُمْ لَا يُؤْمِن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
   "pagination": {
@@ -1583,5 +1603,11 @@
     "next_page": 2,
     "total_pages": 9,
     "total_records": 83
-  }
+  },
+  "englishName": "Yaseen",
+  "name": "سُورَةُ يسٓ",
+  "englishNameTranslation": "Yaseen",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 83,
+  "number": 36
 }

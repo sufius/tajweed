@@ -125,7 +125,9 @@
           "resource_id": 27,
           "text": "Nein! Ich schwöre beim Tag der Auferstehung."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ل[o[َآ] أُ[q:13287[قْ]سِمُ بِيَوْمِ [h:14115[ٱ]لْقِيَ[n[ـٰ]مَةِ",
+      "text_uthmani_tajweed_parsed": "ل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13287\">قْ</tajweed>سِمُ بِيَوْمِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14115\">ٱ</tajweed>لْقِيَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>مَةِ"
     },
     {
       "id": 5553,
@@ -252,7 +254,9 @@
           "resource_id": 27,
           "text": "Nein! Ich schwöre bei der Seele, die sich selbst tadelt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَل[o[َآ] أُ[q:13287[قْ]سِمُ بِ[h:3575[ٱ][l[ل][g[نّ]َفْسِ [h:14116[ٱ][l[ل]لَّوَّامَةِ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13287\">قْ</tajweed>سِمُ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3575\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َفْسِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14116\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>لَّوَّامَةِ"
     },
     {
       "id": 5554,
@@ -397,7 +401,9 @@
           "resource_id": 27,
           "text": "Meint der Mensch (etwa), daß Wir seine Knochen nicht zusammenfügen werden?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَيَحْسَبُ [h:14117[ٱ]لْإِ[f:2732[نس]َ[n[ـٰ]نُ أَلّ[a:14118[َن ن]َّ[q:14119[جْ]مَعَ عِظَامَهُۥ",
+      "text_uthmani_tajweed_parsed": "أَيَحْسَبُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14117\">ٱ</tajweed>لْإِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2732\">نس</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>نُ أَلّ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14118\">َن ن</tajweed>َّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14119\">جْ</tajweed>مَعَ عِظَامَهُۥ"
     },
     {
       "id": 5555,
@@ -560,7 +566,9 @@
           "resource_id": 27,
           "text": "Ja doch! (Wir) haben die Macht dazu, seine Fingerspitzen zurechtzuformen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "بَلَىٰ قَ[n[ـٰ]دِرِينَ عَلَ[o[ىٰٓ] أ[a:14120[َن ن]ُّسَوِّىَ بَنَانَهُۥ",
+      "text_uthmani_tajweed_parsed": "بَلَىٰ قَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>دِرِينَ عَلَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ىٰٓ</tajweed> أ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14120\">َن ن</tajweed>ُّسَوِّىَ بَنَانَهُۥ"
     },
     {
       "id": 5556,
@@ -705,7 +713,9 @@
           "resource_id": 27,
           "text": "Aber nein! Der Mensch will (fortdauernd) vor sich hin lasterhaft sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "بَلْ يُرِيدُ [h:14121[ٱ]لْإِ[f:2732[نس]َ[n[ـٰ]نُ لِيَفْجُرَ أَمَامَهُۥ",
+      "text_uthmani_tajweed_parsed": "بَلْ يُرِيدُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14121\">ٱ</tajweed>لْإِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2732\">نس</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>نُ لِيَفْجُرَ أَمَامَهُۥ"
     },
     {
       "id": 5557,
@@ -832,7 +842,9 @@
           "resource_id": 27,
           "text": "Er fragt: Wann wird bloß der Tag der Auferstehung sein?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَسْــَٔلُ أَيَّانَ يَوْمُ [h:14122[ٱ]لْقِيَ[n[ـٰ]مَةِ",
+      "text_uthmani_tajweed_parsed": "يَسْــَٔلُ أَيَّانَ يَوْمُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14122\">ٱ</tajweed>لْقِيَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>مَةِ"
     },
     {
       "id": 5558,
@@ -941,7 +953,9 @@
           "resource_id": 27,
           "text": "Wenn dann der Blick verwirrt ist"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَإِذَا بَرِقَ [h:14123[ٱ]لْبَصَرُ",
+      "text_uthmani_tajweed_parsed": "فَإِذَا بَرِقَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14123\">ٱ</tajweed>لْبَصَرُ"
     },
     {
       "id": 5559,
@@ -1032,7 +1046,9 @@
           "resource_id": 27,
           "text": "und der Mond sich verfinstert"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَخَسَفَ [h:14124[ٱ]لْقَمَرُ",
+      "text_uthmani_tajweed_parsed": "وَخَسَفَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14124\">ٱ</tajweed>لْقَمَرُ"
     },
     {
       "id": 5560,
@@ -1141,7 +1157,9 @@
           "resource_id": 27,
           "text": "und Sonne und Mond zusammengebracht werden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَجُمِعَ [h:14125[ٱ][l[ل]شَّمْسُ وَ[h:8956[ٱ]لْقَمَرُ",
+      "text_uthmani_tajweed_parsed": "وَجُمِعَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14125\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>شَّمْسُ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8956\">ٱ</tajweed>لْقَمَرُ"
     },
     {
       "id": 5561,
@@ -1286,7 +1304,9 @@
           "resource_id": 27,
           "text": "wird der Mensch an jenem Tag sagen: Wohin soll die Flucht sein?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَقُولُ [h:14126[ٱ]لْإِ[f:2732[نس]َ[n[ـٰ]نُ يَوْمَئِذٍ أَيْنَ [h:14127[ٱ]لْمَفَرُّ",
+      "text_uthmani_tajweed_parsed": "يَقُولُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14126\">ٱ</tajweed>لْإِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2732\">نس</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>نُ يَوْمَئِذٍ أَيْنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14127\">ٱ</tajweed>لْمَفَرُّ"
     }
   ],
   "pagination": {
@@ -1295,5 +1315,11 @@
     "next_page": 2,
     "total_pages": 4,
     "total_records": 40
-  }
+  },
+  "englishName": "Al-Qiyaama",
+  "name": "سُورَةُ القِيَامَةِ",
+  "englishNameTranslation": "The Resurrection",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 40,
+  "number": 75
 }

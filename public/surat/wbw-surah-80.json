@@ -89,7 +89,9 @@
           "resource_id": 27,
           "text": "Er blickte düster und kehrte sich ab,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "عَبَسَ وَتَوَلَّىٰٓ",
+      "text_uthmani_tajweed_parsed": "عَبَسَ وَتَوَلَّىٰٓ"
     },
     {
       "id": 5760,
@@ -198,7 +200,9 @@
           "resource_id": 27,
           "text": "weil der Blinde zu ihm kam."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَ[f:14298[ن ج][o[َا]ٓءَهُ [h:14299[ٱ]لْأَعْمَىٰ",
+      "text_uthmani_tajweed_parsed": "أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14298\">ن ج</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَهُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14299\">ٱ</tajweed>لْأَعْمَىٰ"
     },
     {
       "id": 5761,
@@ -325,7 +329,9 @@
           "resource_id": 27,
           "text": "Was läßt dich wissen, vielleicht läutert er sich"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَمَا يُ[q:10898[دْ]رِيكَ لَعَلَّهُ[n[ۥ] يَزَّكَّىٰٓ",
+      "text_uthmani_tajweed_parsed": "وَمَا يُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":10898\">دْ</tajweed>رِيكَ لَعَلَّهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> يَزَّكَّىٰٓ"
     },
     {
       "id": 5762,
@@ -452,7 +458,9 @@
           "resource_id": 27,
           "text": "oder bedenkt, so daß ihm die Ermahnung nützt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَوْ يَذَّكَّرُ فَتَ[f:14300[نف]َعَهُ [h:14301[ٱ][l[ل]ذِّكْرَىٰٓ",
+      "text_uthmani_tajweed_parsed": "أَوْ يَذَّكَّرُ فَتَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14300\">نف</tajweed>َعَهُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14301\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ذِّكْرَىٰٓ"
     },
     {
       "id": 5763,
@@ -561,7 +569,9 @@
           "resource_id": 27,
           "text": "Was nun jemanden angeht, der sich für unbedürftig hält,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَ[g[مّ]َا مَنِ [h:14302[ٱ]سْتَغْنَىٰ",
+      "text_uthmani_tajweed_parsed": "أَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا مَنِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14302\">ٱ</tajweed>سْتَغْنَىٰ"
     },
     {
       "id": 5764,
@@ -670,7 +680,9 @@
           "resource_id": 27,
           "text": "so widmest du dich ihm,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأَ[f:14303[نت]َ لَهُ[n[ۥ] تَصَدَّىٰ",
+      "text_uthmani_tajweed_parsed": "فَأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14303\">نت</tajweed>َ لَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> تَصَدَّىٰ"
     },
     {
       "id": 5765,
@@ -797,7 +809,9 @@
           "resource_id": 27,
           "text": "obgleich es dich nicht zu kümmern hat, daß er sich nicht läutern will."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "text_uthmani_tajweed_parsed": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ"
     },
     {
       "id": 5766,
@@ -924,7 +938,9 @@
           "resource_id": 27,
           "text": "Was aber jemanden angeht, der zu dir geeilt kommt"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَأَ[g[مّ]َا مَ[f:14304[ن ج][o[َا]ٓءَكَ يَسْعَىٰ",
+      "text_uthmani_tajweed_parsed": "وَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا مَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14304\">ن ج</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَكَ يَسْعَىٰ"
     },
     {
       "id": 5767,
@@ -1015,7 +1031,9 @@
           "resource_id": 27,
           "text": "und dabei gottesfürchtig ist,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَهُوَ يَخْشَىٰ",
+      "text_uthmani_tajweed_parsed": "وَهُوَ يَخْشَىٰ"
     },
     {
       "id": 5768,
@@ -1124,7 +1142,9 @@
           "resource_id": 27,
           "text": "von dem läßt du dich ablenken."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأَ[f:14303[نت]َ عَنْهُ تَلَهَّىٰ",
+      "text_uthmani_tajweed_parsed": "فَأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14303\">نت</tajweed>َ عَنْهُ تَلَهَّىٰ"
     }
   ],
   "pagination": {
@@ -1133,5 +1153,11 @@
     "next_page": 2,
     "total_pages": 5,
     "total_records": 42
-  }
+  },
+  "englishName": "Abasa",
+  "name": "سُورَةُ عَبَسَ",
+  "englishNameTranslation": "He frowned",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 42,
+  "number": 80
 }

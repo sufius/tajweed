@@ -71,7 +71,9 @@
           "resource_id": 27,
           "text": "Das Verhängnis!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱلْقَارِعَةُ",
+      "text_uthmani_tajweed_parsed": "ٱلْقَارِعَةُ"
     },
     {
       "id": 6159,
@@ -162,7 +164,9 @@
           "resource_id": 27,
           "text": "Was ist das Verhängnis?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "مَا [h:14619[ٱ]لْقَارِعَةُ",
+      "text_uthmani_tajweed_parsed": "مَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14619\">ٱ</tajweed>لْقَارِعَةُ"
     },
     {
       "id": 6160,
@@ -289,7 +293,9 @@
           "resource_id": 27,
           "text": "Und was läßt dich wissen, was das Verhängnis ist?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَم[o[َآ] أَ[q:13858[دْ]رَ[n[ٮٰ]كَ مَا [h:14619[ٱ]لْقَارِعَةُ",
+      "text_uthmani_tajweed_parsed": "وَم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13858\">دْ</tajweed>رَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>كَ مَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14619\">ٱ</tajweed>لْقَارِعَةُ"
     },
     {
       "id": 6161,
@@ -434,7 +440,9 @@
           "resource_id": 27,
           "text": "Am Tag, da die Menschen wie flatternde Motten sein werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَوْمَ يَكُونُ [h:14620[ٱ][l[ل][g[نّ]َاسُ كَ[h:14621[ٱ]لْفَرَاشِ [h:14622[ٱ]لْمَ[q:14623[بْ]ث[p[ُو]ثِ",
+      "text_uthmani_tajweed_parsed": "يَوْمَ يَكُونُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14620\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاسُ كَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14621\">ٱ</tajweed>لْفَرَاشِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14622\">ٱ</tajweed>لْمَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14623\">بْ</tajweed>ث<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>ثِ"
     },
     {
       "id": 6162,
@@ -561,7 +569,9 @@
           "resource_id": 27,
           "text": "und die Berge wie zerflockte gefärbte Wolle sein werden."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَتَكُونُ [h:13919[ٱ]لْجِبَالُ كَ[h:13920[ٱ]لْعِهْنِ [h:14624[ٱ]لْمَ[f:14625[نف][p[ُو]شِ",
+      "text_uthmani_tajweed_parsed": "وَتَكُونُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13919\">ٱ</tajweed>لْجِبَالُ كَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13920\">ٱ</tajweed>لْعِهْنِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14624\">ٱ</tajweed>لْمَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14625\">نف</tajweed><tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>شِ"
     },
     {
       "id": 6163,
@@ -688,7 +698,9 @@
           "resource_id": 27,
           "text": "Was nun jemanden angeht, dessen Waagschalen schwer sind,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأَ[g[مّ]َا مَ[f:14626[ن ث]َقُلَتْ مَو[n[َٲ]زِينُهُۥ",
+      "text_uthmani_tajweed_parsed": "فَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا مَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14626\">ن ث</tajweed>َقُلَتْ مَو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>زِينُهُۥ"
     },
     {
       "id": 6164,
@@ -815,7 +827,9 @@
           "resource_id": 27,
           "text": "so wird er in einem zufriedenen Leben sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَهُوَ فِى عِيشَ[u:13890[ةٍ ر]َّاضِيَةٍ",
+      "text_uthmani_tajweed_parsed": "فَهُوَ فِى عِيشَ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":13890\">ةٍ ر</tajweed>َّاضِيَةٍ"
     },
     {
       "id": 6165,
@@ -942,7 +956,9 @@
           "resource_id": 27,
           "text": "Was aber jemanden angeht, dessen Waagschalen leicht sind,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَأَ[g[مّ]َا مَنْ خَفَّتْ مَو[n[َٲ]زِينُهُۥ",
+      "text_uthmani_tajweed_parsed": "وَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا مَنْ خَفَّتْ مَو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>زِينُهُۥ"
     },
     {
       "id": 6166,
@@ -1033,7 +1049,9 @@
           "resource_id": 27,
           "text": "dessen Mutter wird ein Abgrund sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأُ[g[مّ]ُهُ[n[ۥ] هَاوِيَةٌ",
+      "text_uthmani_tajweed_parsed": "فَأُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>ُهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> هَاوِيَةٌ"
     },
     {
       "id": 6167,
@@ -1160,7 +1178,9 @@
           "resource_id": 27,
           "text": "Und was läßt dich wissen, was das ist?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَم[o[َآ] أَ[q:13858[دْ]رَ[n[ٮٰ]كَ مَا هِيَهْ",
+      "text_uthmani_tajweed_parsed": "وَم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13858\">دْ</tajweed>رَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>كَ مَا هِيَهْ"
     }
   ],
   "pagination": {
@@ -1169,5 +1189,11 @@
     "next_page": 2,
     "total_pages": 2,
     "total_records": 11
-  }
+  },
+  "englishName": "Al-Qaari'a",
+  "name": "سُورَةُ القَارِعَةِ",
+  "englishNameTranslation": "The Calamity",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 11,
+  "number": 101
 }

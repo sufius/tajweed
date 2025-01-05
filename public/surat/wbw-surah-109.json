@@ -107,7 +107,9 @@
           "resource_id": 27,
           "text": "Sag: O ihr Ungläubigen,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قُلْ يَ[o[ـٰٓ]أَيُّهَا [h:14663[ٱ]لْكَ[n[ـٰ]فِر[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "قُلْ يَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>أَيُّهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14663\">ٱ</tajweed>لْكَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 6209,
@@ -234,7 +236,9 @@
           "resource_id": 27,
           "text": "ich diene nicht dem, dem ihr dient,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ل[o[َآ] أَعْبُدُ مَا تَعْبُد[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "ل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 6210,
@@ -379,7 +383,9 @@
           "resource_id": 27,
           "text": "und ihr dient nicht Dem, Dem ich diene."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":428\">نت</tajweed>ُمْ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِدُونَ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ"
     },
     {
       "id": 6211,
@@ -524,7 +530,9 @@
           "resource_id": 27,
           "text": "Und ich werde (auch) nicht dem dienen, dem ihr gedient habt,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَل[o[َآ] أَنَا۟ عَابِ[a:14664[دٌ م]َّا عَبَ[d:14665[د]تُّمْ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَنَا۟ عَابِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14664\">دٌ م</tajweed>َّا عَبَ<tajweed class=\"idgh_mus\" data-type=\"idgham-mutajanisayn\" data-description=\"Idgham - Mutajanisayn\" data-tajweed=\":14665\">د</tajweed>تُّمْ"
     },
     {
       "id": 6212,
@@ -669,7 +677,9 @@
           "resource_id": 27,
           "text": "Und ihr werdet nicht Dem dienen, Dem ich diene."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":428\">نت</tajweed>ُمْ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِدُونَ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ"
     },
     {
       "id": 6213,
@@ -796,7 +806,9 @@
           "resource_id": 27,
           "text": "Euch eure Religion und mir meine Religion."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لَكُمْ دِينُكُمْ وَلِىَ د[p[ِي]نِ",
+      "text_uthmani_tajweed_parsed": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نِ"
     }
   ],
   "pagination": {
@@ -805,5 +817,11 @@
     "next_page": null,
     "total_pages": 1,
     "total_records": 6
-  }
+  },
+  "englishName": "Al-Kaafiroon",
+  "name": "سُورَةُ الكَافِرُونَ",
+  "englishNameTranslation": "The Disbelievers",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 6,
+  "number": 109
 }

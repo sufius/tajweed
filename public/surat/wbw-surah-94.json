@@ -125,7 +125,9 @@
           "resource_id": 27,
           "text": "Haben Wir dir nicht deine Brust aufgetan"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَلَمْ نَشْرَحْ لَكَ صَ[q:14548[دْ]رَكَ",
+      "text_uthmani_tajweed_parsed": "أَلَمْ نَشْرَحْ لَكَ صَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14548\">دْ</tajweed>رَكَ"
     },
     {
       "id": 6092,
@@ -234,7 +236,9 @@
           "resource_id": 27,
           "text": "und dir deine Last abgenommen,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَوَضَعْنَا عَ[f:626[نك]َ وِزْرَكَ",
+      "text_uthmani_tajweed_parsed": "وَوَضَعْنَا عَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":626\">نك</tajweed>َ وِزْرَكَ"
     },
     {
       "id": 6093,
@@ -343,7 +347,9 @@
           "resource_id": 27,
           "text": "die deinen Rücken niederdrückte,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱلَّذ[o[ِىٓ] أَ[f:14549[نق]َضَ ظَهْرَكَ",
+      "text_uthmani_tajweed_parsed": "ٱلَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14549\">نق</tajweed>َضَ ظَهْرَكَ"
     },
     {
       "id": 6094,
@@ -452,7 +458,9 @@
           "resource_id": 27,
           "text": "und dir dein Ansehen erhöht?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "text_uthmani_tajweed_parsed": "وَرَفَعْنَا لَكَ ذِكْرَكَ"
     },
     {
       "id": 6095,
@@ -579,7 +587,9 @@
           "resource_id": 27,
           "text": "Also gewiß, mit der Erschwernis ist Erleichterung,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَإِ[g[نّ]َ مَعَ [h:14550[ٱ]لْعُسْرِ يُسْرًا",
+      "text_uthmani_tajweed_parsed": "فَإِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ مَعَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14550\">ٱ</tajweed>لْعُسْرِ يُسْرًا"
     },
     {
       "id": 6096,
@@ -706,7 +716,9 @@
           "resource_id": 27,
           "text": "gewiß, mit der Erschwernis ist Erleichterung."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َ مَعَ [h:14550[ٱ]لْعُسْرِ يُسْرًا",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ مَعَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14550\">ٱ</tajweed>لْعُسْرِ يُسْرًا"
     },
     {
       "id": 6097,
@@ -815,7 +827,9 @@
           "resource_id": 27,
           "text": "Wenn du nun fertig bist, dann strenge dich an"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَإِذَا فَرَغْتَ فَ[h:14551[ٱ][f:14551[نص]َ[q:14551[بْ]",
+      "text_uthmani_tajweed_parsed": "فَإِذَا فَرَغْتَ فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14551\">ٱ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14551\">نص</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14551\">بْ</tajweed>"
     },
     {
       "id": 6098,
@@ -924,7 +938,9 @@
           "resource_id": 27,
           "text": "und nach deinem Herrn richte dein Begehren aus."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِلَىٰ رَبِّكَ فَ[h:14552[ٱ]رْغَ[q[ب]",
+      "text_uthmani_tajweed_parsed": "وَإِلَىٰ رَبِّكَ فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14552\">ٱ</tajweed>رْغَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">ب</tajweed>"
     }
   ],
   "pagination": {
@@ -933,5 +949,11 @@
     "next_page": null,
     "total_pages": 1,
     "total_records": 8
-  }
+  },
+  "englishName": "Ash-Sharh",
+  "name": "سُورَةُ الشَّرۡحِ",
+  "englishNameTranslation": "The Consolation",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 8,
+  "number": 94
 }

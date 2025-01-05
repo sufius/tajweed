@@ -107,7 +107,9 @@
           "resource_id": 27,
           "text": "Wenn die Sonne umschlungen wird’"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِذَا [h:14331[ٱ][l[ل]شَّمْسُ كُوِّرَتْ",
+      "text_uthmani_tajweed_parsed": "إِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14331\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>شَّمْسُ كُوِّرَتْ"
     },
     {
       "id": 5802,
@@ -216,7 +218,9 @@
           "resource_id": 27,
           "text": "und wenn die Sterne verstreut werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14332[ٱ][l[ل][g[نّ]ُجُومُ [h:14333[ٱ][f:14334[نك]َدَرَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14332\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ُجُومُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14333\">ٱ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14334\">نك</tajweed>َدَرَتْ"
     },
     {
       "id": 5803,
@@ -325,7 +329,9 @@
           "resource_id": 27,
           "text": "und wenn die Berge versetzt werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14211[ٱ]لْجِبَالُ سُيِّرَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14211\">ٱ</tajweed>لْجِبَالُ سُيِّرَتْ"
     },
     {
       "id": 5804,
@@ -434,7 +440,9 @@
           "resource_id": 27,
           "text": "und wenn die trächtigen Kamelstuten vernachlässigt werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14335[ٱ]لْعِشَارُ عُطِّلَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14335\">ٱ</tajweed>لْعِشَارُ عُطِّلَتْ"
     },
     {
       "id": 5805,
@@ -543,7 +551,9 @@
           "resource_id": 27,
           "text": "und wenn die wilden Tiere versammelt werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14336[ٱ]لْوُحُوشُ حُشِرَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14336\">ٱ</tajweed>لْوُحُوشُ حُشِرَتْ"
     },
     {
       "id": 5806,
@@ -652,7 +662,9 @@
           "resource_id": 27,
           "text": "und wenn die Meere zum Überfließen gebracht werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14337[ٱ]لْبِحَارُ سُجِّرَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14337\">ٱ</tajweed>لْبِحَارُ سُجِّرَتْ"
     },
     {
       "id": 5807,
@@ -761,7 +773,9 @@
           "resource_id": 27,
           "text": "und wenn die Seelen gepaart werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14338[ٱ][l[ل][g[نّ]ُفُوسُ زُوِّجَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14338\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ُفُوسُ زُوِّجَتْ"
     },
     {
       "id": 5808,
@@ -870,7 +884,9 @@
           "resource_id": 27,
           "text": "und wenn das lebendig begrabene Mädchen gefragt wird,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14339[ٱ]لْمَوْءُ[n[ۥ]دَةُ سُئِلَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14339\">ٱ</tajweed>لْمَوْءُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed>دَةُ سُئِلَتْ"
     },
     {
       "id": 5809,
@@ -979,7 +995,9 @@
           "resource_id": 27,
           "text": "wegen welcher Sünde es getötet wurde,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "بِأَىِّ ذَ[i:14340[نۢب][f:14341[ٍ ق]ُتِلَتْ",
+      "text_uthmani_tajweed_parsed": "بِأَىِّ ذَ<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":14340\">نۢب</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14341\">ٍ ق</tajweed>ُتِلَتْ"
     },
     {
       "id": 5810,
@@ -1088,7 +1106,9 @@
           "resource_id": 27,
           "text": "und wenn die Blätter aufgeschlagen werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِذَا [h:14342[ٱ][l[ل]صُّحُفُ نُشِرَتْ",
+      "text_uthmani_tajweed_parsed": "وَإِذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14342\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صُّحُفُ نُشِرَتْ"
     }
   ],
   "pagination": {
@@ -1097,5 +1117,11 @@
     "next_page": 2,
     "total_pages": 3,
     "total_records": 29
-  }
+  },
+  "englishName": "At-Takwir",
+  "name": "سُورَةُ التَّكۡوِيرِ",
+  "englishNameTranslation": "The Overthrowing",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 29,
+  "number": 81
 }

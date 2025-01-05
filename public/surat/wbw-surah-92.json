@@ -107,7 +107,9 @@
           "resource_id": 27,
           "text": "Bei der Nacht, wenn sie (alles) überdeckt,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لَّيْلِ إِذَا يَغْشَىٰ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لَّيْلِ إِذَا يَغْشَىٰ"
     },
     {
       "id": 6060,
@@ -216,7 +218,9 @@
           "resource_id": 27,
           "text": "und dem Tag, wenn er (in seiner Helligkeit) erscheint,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل][g[نّ]َهَارِ إِذَا تَجَلَّىٰ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهَارِ إِذَا تَجَلَّىٰ"
     },
     {
       "id": 6061,
@@ -343,7 +347,9 @@
           "resource_id": 27,
           "text": "und Dem, Der das Männliche und das Weibliche erschaffen hat!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَمَا خَلَقَ [h:14531[ٱ][l[ل]ذَّكَرَ وَ[h:929[ٱ]لْأُ[f:929[نث]َىٰٓ",
+      "text_uthmani_tajweed_parsed": "وَمَا خَلَقَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14531\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ذَّكَرَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":929\">ٱ</tajweed>لْأُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":929\">نث</tajweed>َىٰٓ"
     },
     {
       "id": 6062,
@@ -452,7 +458,9 @@
           "resource_id": 27,
           "text": "Euer Bemühen ist wahrlich verschieden."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َ سَعْيَكُمْ لَشَتَّىٰ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ سَعْيَكُمْ لَشَتَّىٰ"
     },
     {
       "id": 6063,
@@ -579,7 +587,9 @@
           "resource_id": 27,
           "text": "Was nun jemanden angeht, der gibt und gottesfürchtig ist"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأَ[g[مّ]َا مَنْ أَعْطَىٰ وَ[h:2036[ٱ]تَّقَىٰ",
+      "text_uthmani_tajweed_parsed": "فَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا مَنْ أَعْطَىٰ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2036\">ٱ</tajweed>تَّقَىٰ"
     },
     {
       "id": 6064,
@@ -670,7 +680,9 @@
           "resource_id": 27,
           "text": "und das Beste für wahr hält,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَصَدَّقَ بِ[h:13002[ٱ]لْحُسْنَىٰ",
+      "text_uthmani_tajweed_parsed": "وَصَدَّقَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13002\">ٱ</tajweed>لْحُسْنَىٰ"
     },
     {
       "id": 6065,
@@ -761,7 +773,9 @@
           "resource_id": 27,
           "text": "so werden Wir ihm den Weg zum Leichteren leicht machen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَسَنُيَسِّرُهُ[n[ۥ] لِلْيُسْرَىٰ",
+      "text_uthmani_tajweed_parsed": "فَسَنُيَسِّرُهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> لِلْيُسْرَىٰ"
     },
     {
       "id": 6066,
@@ -888,7 +902,9 @@
           "resource_id": 27,
           "text": "Was aber jemanden angeht, der geizt und sich für unbedürftig hält"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَأَ[g[مّ]َا م[i:14532[َنۢ ب]َخِلَ وَ[h:13634[ٱ]سْتَغْنَىٰ",
+      "text_uthmani_tajweed_parsed": "وَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا م<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":14532\">َنۢ ب</tajweed>َخِلَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13634\">ٱ</tajweed>سْتَغْنَىٰ"
     },
     {
       "id": 6067,
@@ -979,7 +995,9 @@
           "resource_id": 27,
           "text": "und das Beste für Lüge erklärt,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَكَذَّبَ بِ[h:13002[ٱ]لْحُسْنَىٰ",
+      "text_uthmani_tajweed_parsed": "وَكَذَّبَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13002\">ٱ</tajweed>لْحُسْنَىٰ"
     },
     {
       "id": 6068,
@@ -1070,7 +1088,9 @@
           "resource_id": 27,
           "text": "so werden Wir ihm den Weg zum Schwereren leicht machen;"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَسَنُيَسِّرُهُ[n[ۥ] لِلْعُسْرَىٰ",
+      "text_uthmani_tajweed_parsed": "فَسَنُيَسِّرُهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> لِلْعُسْرَىٰ"
     }
   ],
   "pagination": {
@@ -1079,5 +1099,11 @@
     "next_page": 2,
     "total_pages": 3,
     "total_records": 21
-  }
+  },
+  "englishName": "Al-Lail",
+  "name": "سُورَةُ اللَّيۡلِ",
+  "englishNameTranslation": "The Night",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 21,
+  "number": 92
 }

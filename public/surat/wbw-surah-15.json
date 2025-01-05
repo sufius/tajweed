@@ -161,7 +161,9 @@
           "resource_id": 27,
           "text": "Alif-Lam-Ra. Dies sind die Zeichen des Buches und eines deutlichen Qur’ans."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ا[m[لٓ]ر‌ۚ تِلْكَ ءَايَ[n[ـٰ]تُ [h:5932[ٱ]لْكِتَ[n[ـٰ]بِ وَقُرْءَا[a:7193[نٍ م]ُّب[p[ِي]نٍ",
+      "text_uthmani_tajweed_parsed": "ا<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">لٓ</tajweed>ر‌ۚ تِلْكَ ءَايَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":5932\">ٱ</tajweed>لْكِتَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِ وَقُرْءَا<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":7193\">نٍ م</tajweed>ُّب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نٍ"
     },
     {
       "id": 1804,
@@ -342,7 +344,9 @@
           "resource_id": 27,
           "text": "Vielleicht werden diejenigen, die ungläubig sind, wünschen, Muslime gewesen zu sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "رُّبَمَا يَوَدُّ [h:544[ٱ]لَّذِينَ كَفَرُو[s[اْ] لَوْ كَانُو[s[اْ] مُسْلِم[p[ِي]نَ",
+      "text_uthmani_tajweed_parsed": "رُّبَمَا يَوَدُّ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":544\">ٱ</tajweed>لَّذِينَ كَفَرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> لَوْ كَانُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> مُسْلِم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     },
     {
       "id": 1805,
@@ -523,7 +527,9 @@
           "resource_id": 27,
           "text": "Lasse sie nur essen und genießen und sich durch (falsche) Hoffnung ablenken lassen. Sie werden (es noch) erfahren."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ذَرْهُمْ يَأْكُلُو[s[اْ] وَيَتَمَتَّعُو[s[اْ] وَيُلْهِهِمُ [h:7194[ٱ]لْأَمَلُ‌ۖ فَسَوْفَ يَعْلَم[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "ذَرْهُمْ يَأْكُلُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَيَتَمَتَّعُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَيُلْهِهِمُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7194\">ٱ</tajweed>لْأَمَلُ‌ۖ فَسَوْفَ يَعْلَم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 1806,
@@ -722,7 +728,9 @@
           "resource_id": 27,
           "text": "Und wir haben keine Stadt vernichtet, ohne daß sie eine festgelegte Frist gehabt hätte."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَم[o[َآ] أَهْلَكْنَا مِ[f:4585[ن ق]َرْيَةٍ إِلَّا وَلَهَا كِتَا[a:7195[بٌ م]َّعْل[p[ُو]مٌ",
+      "text_uthmani_tajweed_parsed": "وَم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَهْلَكْنَا مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":4585\">ن ق</tajweed>َرْيَةٍ إِلَّا وَلَهَا كِتَا<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":7195\">بٌ م</tajweed>َّعْل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>مٌ"
     },
     {
       "id": 1807,
@@ -903,7 +911,9 @@
           "resource_id": 27,
           "text": "Keine Gemeinschaft kann ihrer Frist vorausgehen, noch sie hinausschieben."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "مَّا تَسْبِقُ مِنْ أُ[g[مّ]َةٍ أَجَلَهَا وَمَا يَسْتَــْٔخِر[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "مَّا تَسْبِقُ مِنْ أُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َةٍ أَجَلَهَا وَمَا يَسْتَــْٔخِر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 1808,
@@ -1102,7 +1112,9 @@
           "resource_id": 27,
           "text": "Und sie sagen: O du, dem (angeblich) die Ermahnung offenbart worden ist, du bist ja fürwahr besessen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَقَالُو[s[اْ] يَ[o[ـٰٓ]أَيُّهَا [h:7196[ٱ]لَّذِى نُزِّلَ عَلَيْهِ [h:7197[ٱ][l[ل]ذِّكْرُ إِ[g[نّ]َكَ لَمَ[q:7198[جْ]ن[p[ُو]نٌ",
+      "text_uthmani_tajweed_parsed": "وَقَالُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> يَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>أَيُّهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7196\">ٱ</tajweed>لَّذِى نُزِّلَ عَلَيْهِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7197\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ذِّكْرُ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َكَ لَمَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":7198\">جْ</tajweed>ن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نٌ"
     },
     {
       "id": 1809,
@@ -1301,7 +1313,9 @@
           "resource_id": 27,
           "text": "Warum bringst du uns nicht die Engel, wenn du zu den Wahrhaftigen gehörst?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لَّوْ مَا تَأْتِينَا بِ[h:7199[ٱ]لْمَلَ[o[ـٰٓ]ئِكَةِ إِ[f:4792[ن ك]ُ[f:735[نت]َ مِنَ [h:4793[ٱ][l[ل]صَّ[n[ـٰ]دِق[p[ِي]نَ",
+      "text_uthmani_tajweed_parsed": "لَّوْ مَا تَأْتِينَا بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7199\">ٱ</tajweed>لْمَلَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>ئِكَةِ إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":4792\">ن ك</tajweed>ُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":735\">نت</tajweed>َ مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":4793\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>دِق<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     },
     {
       "id": 1810,
@@ -1518,7 +1532,9 @@
           "resource_id": 27,
           "text": "Wir senden die Engel nur mit der Wahrheit hinab. Dann wird ihnen kein Aufschub gewährt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "مَا نُنَزِّلُ [h:7200[ٱ]لْمَلَ[o[ـٰٓ]ئِكَةَ إِلَّا بِ[h:370[ٱ]لْحَقِّ وَمَا كَان[o[ُوٓ][s[اْ] إِ[a:7201[ذًا م]ُّ[f:7202[نظ]َر[p[ِي]نَ",
+      "text_uthmani_tajweed_parsed": "مَا نُنَزِّلُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7200\">ٱ</tajweed>لْمَلَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>ئِكَةَ إِلَّا بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":370\">ٱ</tajweed>لْحَقِّ وَمَا كَان<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ُوٓ</tajweed><tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> إِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":7201\">ذًا م</tajweed>ُّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":7202\">نظ</tajweed>َر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     },
     {
       "id": 1811,
@@ -1699,7 +1715,9 @@
           "resource_id": 27,
           "text": "Gewiß, Wir sind es, die Wir die Ermahnung offenbart haben, und Wir werden wahrlich ihr Hüter sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َا نَحْنُ نَزَّلْنَا [h:7203[ٱ][l[ل]ذِّكْرَ وَإِ[g[نّ]َا لَهُ[n[ۥ] لَحَ[n[ـٰ]فِظ[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا نَحْنُ نَزَّلْنَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7203\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ذِّكْرَ وَإِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا لَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> لَحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِظ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     },
     {
       "id": 1812,
@@ -1880,7 +1898,9 @@
           "resource_id": 27,
           "text": "Wir haben ja bereits vor dir unter den Lagern der Früheren entsandt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلَقَ[q:341[دْ] أَرْسَلْنَا مِ[f:18[ن ق]َ[q:19[بْ]لِكَ فِى شِيَعِ [h:7204[ٱ]لْأَوَّل[p[ِي]نَ",
+      "text_uthmani_tajweed_parsed": "وَلَقَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":341\">دْ</tajweed> أَرْسَلْنَا مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":18\">ن ق</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":19\">بْ</tajweed>لِكَ فِى شِيَعِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7204\">ٱ</tajweed>لْأَوَّل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
   "pagination": {
@@ -1889,5 +1909,11 @@
     "next_page": 2,
     "total_pages": 10,
     "total_records": 99
-  }
+  },
+  "englishName": "Al-Hijr",
+  "name": "سُورَةُ الحِجۡرِ",
+  "englishNameTranslation": "The Rock",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 99,
+  "number": 15
 }

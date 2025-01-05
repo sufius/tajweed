@@ -89,7 +89,9 @@
           "resource_id": 27,
           "text": "O du Zugedeckter,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَ[o[ـٰٓ]أَيُّهَا [h:14069[ٱ]لْمُدَّثِّرُ",
+      "text_uthmani_tajweed_parsed": "يَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>أَيُّهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14069\">ٱ</tajweed>لْمُدَّثِّرُ"
     },
     {
       "id": 5497,
@@ -180,7 +182,9 @@
           "resource_id": 27,
           "text": "stehe auf und warne;"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قُمْ فَأَ[f:14070[نذ]ِرْ",
+      "text_uthmani_tajweed_parsed": "قُمْ فَأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14070\">نذ</tajweed>ِرْ"
     },
     {
       "id": 5498,
@@ -271,7 +275,9 @@
           "resource_id": 27,
           "text": "und deinen Herrn, Den preise als den Größten,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَرَبَّكَ فَكَبِّرْ",
+      "text_uthmani_tajweed_parsed": "وَرَبَّكَ فَكَبِّرْ"
     },
     {
       "id": 5499,
@@ -362,7 +368,9 @@
           "resource_id": 27,
           "text": "und deine Gewänder, die reinige,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَثِيَابَكَ فَطَهِّرْ",
+      "text_uthmani_tajweed_parsed": "وَثِيَابَكَ فَطَهِّرْ"
     },
     {
       "id": 5500,
@@ -453,7 +461,9 @@
           "resource_id": 27,
           "text": "und die (Unreinheit des) Götzen(dienstes), die meide,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]رُّ[q:14071[جْ]زَ فَ[h:14072[ٱ]هْجُرْ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>رُّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14071\">جْ</tajweed>زَ فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14072\">ٱ</tajweed>هْجُرْ"
     },
     {
       "id": 5501,
@@ -562,7 +572,9 @@
           "resource_id": 27,
           "text": "und halte nicht (deinen Verdienst) vor, und halte ihn nicht für zu groß,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلَا تَمْنُ[f:14073[ن ت]َسْتَكْثِرُ",
+      "text_uthmani_tajweed_parsed": "وَلَا تَمْنُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14073\">ن ت</tajweed>َسْتَكْثِرُ"
     },
     {
       "id": 5502,
@@ -653,7 +665,9 @@
           "resource_id": 27,
           "text": "und ertrage standhaft (alles) für deinen Herrn."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلِرَبِّكَ فَ[h:6374[ٱ]صْبِرْ",
+      "text_uthmani_tajweed_parsed": "وَلِرَبِّكَ فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6374\">ٱ</tajweed>صْبِرْ"
     },
     {
       "id": 5503,
@@ -780,7 +794,9 @@
           "resource_id": 27,
           "text": "Wenn dann ins Horn gestoßen wird,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَإِذَا نُقِرَ فِى [h:14074[ٱ][l[ل][g[نّ]َاق[p[ُو]رِ",
+      "text_uthmani_tajweed_parsed": "فَإِذَا نُقِرَ فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14074\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاق<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
     },
     {
       "id": 5504,
@@ -907,7 +923,9 @@
           "resource_id": 27,
           "text": "so wird jener Tag ein schwerer Tag sein"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَذ[n[َٲ]لِكَ يَوْمَئِ[a:14075[ذٍ ي]َوْمٌ عَس[p[ِي]رٌ",
+      "text_uthmani_tajweed_parsed": "فَذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ يَوْمَئِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14075\">ذٍ ي</tajweed>َوْمٌ عَس<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رٌ"
     },
     {
       "id": 5505,
@@ -1034,7 +1052,9 @@
           "resource_id": 27,
           "text": "für die Ungläubigen nicht leicht."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "عَلَى [h:468[ٱ]لْكَ[n[ـٰ]فِرِينَ غَيْرُ يَس[p[ِي]رٍ",
+      "text_uthmani_tajweed_parsed": "عَلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":468\">ٱ</tajweed>لْكَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِرِينَ غَيْرُ يَس<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رٍ"
     }
   ],
   "pagination": {
@@ -1043,5 +1063,11 @@
     "next_page": 2,
     "total_pages": 6,
     "total_records": 56
-  }
+  },
+  "englishName": "Al-Muddaththir",
+  "name": "سُورَةُ المُدَّثِّرِ",
+  "englishNameTranslation": "The Cloaked One",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 56,
+  "number": 74
 }

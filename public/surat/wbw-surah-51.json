@@ -89,7 +89,9 @@
           "resource_id": 27,
           "text": "Bei den heftig Zerstreuenden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]ذّ[n[َٲ]رِيَ[n[ـٰ]تِ ذَرْوًا",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ذّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>رِيَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ ذَرْوًا"
     },
     {
       "id": 4677,
@@ -180,7 +182,9 @@
           "resource_id": 27,
           "text": "dann den eine Last Tragenden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَ[h:9999[ٱ]لْحَ[n[ـٰ]مِلَ[n[ـٰ]تِ وِ[q:12843[قْ]رًا",
+      "text_uthmani_tajweed_parsed": "فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>مِلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ وِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":12843\">قْ</tajweed>رًا"
     },
     {
       "id": 4678,
@@ -271,7 +275,9 @@
           "resource_id": 27,
           "text": "dann den leicht Dahinziehenden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَ[h:9999[ٱ]لْجَ[n[ـٰ]رِيَ[n[ـٰ]تِ يُسْرًا",
+      "text_uthmani_tajweed_parsed": "فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْجَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>رِيَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ يُسْرًا"
     },
     {
       "id": 4679,
@@ -362,7 +368,9 @@
           "resource_id": 27,
           "text": "dann den Angelegenheiten Regelnden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَ[h:9999[ٱ]لْمُقَسِّمَ[n[ـٰ]تِ أَمْرًا",
+      "text_uthmani_tajweed_parsed": "فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْمُقَسِّمَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ أَمْرًا"
     },
     {
       "id": 4680,
@@ -471,7 +479,9 @@
           "resource_id": 27,
           "text": "sicherlich, was euch angedroht wird, ist wahr,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َمَا تُوعَدُونَ لَصَادِ[q[ق]ٌ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َمَا تُوعَدُونَ لَصَادِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">ق</tajweed>ٌ"
     },
     {
       "id": 4681,
@@ -580,7 +590,9 @@
           "resource_id": 27,
           "text": "und das Gericht wird gewiß hereinbrechen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِ[g[نّ]َ [h:12844[ٱ][l[ل]دِّينَ لَو[n[َٲ]قِعٌ",
+      "text_uthmani_tajweed_parsed": "وَإِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12844\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>دِّينَ لَو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>قِعٌ"
     },
     {
       "id": 4682,
@@ -689,7 +701,9 @@
           "resource_id": 27,
           "text": "Beim Himmel in seiner Vollkommenheit;"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]سَّم[o[َا]ٓءِ ذَاتِ [h:12845[ٱ]لْحُبُكِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءِ ذَاتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12845\">ٱ</tajweed>لْحُبُكِ"
     },
     {
       "id": 4683,
@@ -816,7 +830,9 @@
           "resource_id": 27,
           "text": "ihr äußert fürwahr unterschiedliche Reden."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َكُمْ لَفِى قَوْ[a:12846[لٍ م]ُّخْتَلِفٍ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َكُمْ لَفِى قَوْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":12846\">لٍ م</tajweed>ُّخْتَلِفٍ"
     },
     {
       "id": 4684,
@@ -943,7 +959,9 @@
           "resource_id": 27,
           "text": "Abwendig machen läßt sich davon, wer sich abwendig machen läßt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+      "text_uthmani_tajweed_parsed": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ"
     },
     {
       "id": 4685,
@@ -1034,7 +1052,9 @@
           "resource_id": 27,
           "text": "Tod den Mutmaßern,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قُتِلَ [h:12847[ٱ]لْخَرّ[n[َٲ]ص[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "قُتِلَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12847\">ٱ</tajweed>لْخَرّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>ص<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
   "pagination": {
@@ -1043,5 +1063,11 @@
     "next_page": 2,
     "total_pages": 6,
     "total_records": 60
-  }
+  },
+  "englishName": "Adh-Dhaariyat",
+  "name": "سُورَةُ الذَّارِيَاتِ",
+  "englishNameTranslation": "The Winnowing Winds",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 60,
+  "number": 51
 }

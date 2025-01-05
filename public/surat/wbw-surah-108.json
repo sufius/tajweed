@@ -107,7 +107,9 @@
           "resource_id": 27,
           "text": "Wir haben dir ja al-Kautar gegeben."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ][o[َآ] أَعْطَيْنَ[n[ـٰ]كَ [h:14659[ٱ]لْكَوْثَرَ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْطَيْنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>كَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14659\">ٱ</tajweed>لْكَوْثَرَ"
     },
     {
       "id": 6206,
@@ -216,7 +218,9 @@
           "resource_id": 27,
           "text": "So bete zu deinem Herrn und opfere."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَصَلِّ لِرَبِّكَ وَ[h:14660[ٱ]نْحَرْ",
+      "text_uthmani_tajweed_parsed": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14660\">ٱ</tajweed>نْحَرْ"
     },
     {
       "id": 6207,
@@ -343,7 +347,9 @@
           "resource_id": 27,
           "text": "Gewiß, derjenige, der dich haßt, - er ist vom Guten abgetrennt ."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َ شَانِئَكَ هُوَ [h:14661[ٱ]لْأَ[q:14662[بْ]تَرُ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14661\">ٱ</tajweed>لْأَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14662\">بْ</tajweed>تَرُ"
     }
   ],
   "pagination": {
@@ -352,5 +358,11 @@
     "next_page": null,
     "total_pages": 1,
     "total_records": 3
-  }
+  },
+  "englishName": "Al-Kawthar",
+  "name": "سُورَةُ الكَوۡثَرِ",
+  "englishNameTranslation": "Abundance",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 3,
+  "number": 108
 }

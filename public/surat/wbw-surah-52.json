@@ -71,7 +71,9 @@
           "resource_id": 27,
           "text": "Bei dem Berg;"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]طّ[p[ُو]رِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>طّ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
     },
     {
       "id": 4737,
@@ -162,7 +164,9 @@
           "resource_id": 27,
           "text": "und bei einem Buch, das in Zeilen niedergeschrieben ist"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَكِتَ[n[ـٰ][a:12891[بٍ م]َّسْط[p[ُو]رٍ",
+      "text_uthmani_tajweed_parsed": "وَكِتَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":12891\">بٍ م</tajweed>َّسْط<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رٍ"
     },
     {
       "id": 4738,
@@ -271,7 +275,9 @@
           "resource_id": 27,
           "text": "auf ausgebreiteter Tierhaut;"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فِى رَ[a:12892[قٍّ م]َّ[f:12893[نش][p[ُو]رٍ",
+      "text_uthmani_tajweed_parsed": "فِى رَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":12892\">قٍّ م</tajweed>َّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":12893\">نش</tajweed><tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رٍ"
     },
     {
       "id": 4739,
@@ -362,7 +368,9 @@
           "resource_id": 27,
           "text": "bei dem vielbesuchten (Gottes)haus"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لْبَيْتِ [h:12894[ٱ]لْمَعْم[p[ُو]رِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْبَيْتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12894\">ٱ</tajweed>لْمَعْم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
     },
     {
       "id": 4740,
@@ -453,7 +461,9 @@
           "resource_id": 27,
           "text": "und bei dem erhöhten Dach"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]سَّ[q:12895[قْ]فِ [h:12896[ٱ]لْمَرْف[p[ُو]عِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":12895\">قْ</tajweed>فِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12896\">ٱ</tajweed>لْمَرْف<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>عِ"
     },
     {
       "id": 4741,
@@ -544,7 +554,9 @@
           "resource_id": 27,
           "text": "und bei dem angefüllten Meer!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لْبَحْرِ [h:12897[ٱ]لْمَسْج[p[ُو]رِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْبَحْرِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12897\">ٱ</tajweed>لْمَسْج<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
     },
     {
       "id": 4742,
@@ -671,7 +683,9 @@
           "resource_id": 27,
           "text": "Die Strafe deines Herrn wird gewiß hereinbrechen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َ عَذَابَ رَبِّكَ لَو[n[َٲ]قِعٌ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ عَذَابَ رَبِّكَ لَو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>قِعٌ"
     },
     {
       "id": 4743,
@@ -798,7 +812,9 @@
           "resource_id": 27,
           "text": "Es gibt niemanden, der sie abwehren könnte."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "مَّا لَهُ[n[ۥ] مِ[f:12898[ن د]َافِعٍ",
+      "text_uthmani_tajweed_parsed": "مَّا لَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":12898\">ن د</tajweed>َافِعٍ"
     },
     {
       "id": 4744,
@@ -925,7 +941,9 @@
           "resource_id": 27,
           "text": "Am Tag, da der Himmel sich heftig hin und her bewegen"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَوْمَ تَمُورُ [h:12899[ٱ][l[ل]سَّم[o[َا]ٓءُ مَوْرًا",
+      "text_uthmani_tajweed_parsed": "يَوْمَ تَمُورُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12899\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءُ مَوْرًا"
     },
     {
       "id": 4745,
@@ -1034,7 +1052,9 @@
           "resource_id": 27,
           "text": "und die Berge sich in der Tat bewegen werden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَتَسِيرُ [h:12900[ٱ]لْجِبَالُ سَيْرًا",
+      "text_uthmani_tajweed_parsed": "وَتَسِيرُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12900\">ٱ</tajweed>لْجِبَالُ سَيْرًا"
     }
   ],
   "pagination": {
@@ -1043,5 +1063,11 @@
     "next_page": 2,
     "total_pages": 5,
     "total_records": 49
-  }
+  },
+  "englishName": "At-Tur",
+  "name": "سُورَةُ الطُّورِ",
+  "englishNameTranslation": "The Mount",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 49,
+  "number": 52
 }

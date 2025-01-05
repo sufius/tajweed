@@ -71,7 +71,9 @@
           "resource_id": 27,
           "text": "Bei der Morgendämmerung"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لْفَ[q:14468[جْ]رِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْفَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14468\">جْ</tajweed>رِ"
     },
     {
       "id": 5995,
@@ -162,7 +164,9 @@
           "resource_id": 27,
           "text": "und den zehn Nächten"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلَيَالٍ عَشْرٍ",
+      "text_uthmani_tajweed_parsed": "وَلَيَالٍ عَشْرٍ"
     },
     {
       "id": 5996,
@@ -253,7 +257,9 @@
           "resource_id": 27,
           "text": "und dem geraden und dem ungeraden (Tag)"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]شَّفْعِ وَ[h:14469[ٱ]لْوَتْرِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>شَّفْعِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14469\">ٱ</tajweed>لْوَتْرِ"
     },
     {
       "id": 5997,
@@ -362,7 +368,9 @@
           "resource_id": 27,
           "text": "und der Nacht, wenn sie fortzieht!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لَّيْلِ إِذَا يَسْرِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لَّيْلِ إِذَا يَسْرِ"
     },
     {
       "id": 5998,
@@ -525,7 +533,9 @@
           "resource_id": 27,
           "text": "Ist darin ein (ausreichender) Schwur für jemanden, der Klugheit besitzt?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "هَلْ فِى ذ[n[َٲ]لِكَ قَسَ[u:14470[مٌ ل]ِّذِى حِ[q:14471[جْ]رٍ",
+      "text_uthmani_tajweed_parsed": "هَلْ فِى ذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ قَسَ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":14470\">مٌ ل</tajweed>ِّذِى حِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14471\">جْ</tajweed>رٍ"
     },
     {
       "id": 5999,
@@ -688,7 +698,9 @@
           "resource_id": 27,
           "text": "Siehst du nicht, wie dein Herr mit den ’Ad verfuhr,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِع[p[َا][q[د]ٍ",
+      "text_uthmani_tajweed_parsed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِع<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َا</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ٍ"
     },
     {
       "id": 6000,
@@ -797,7 +809,9 @@
           "resource_id": 27,
           "text": "(mit) Iram mit den Stützen,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِرَمَ ذَاتِ [h:14472[ٱ]لْعِم[p[َا][q[د]ِ",
+      "text_uthmani_tajweed_parsed": "إِرَمَ ذَاتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14472\">ٱ</tajweed>لْعِم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َا</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ِ"
     },
     {
       "id": 6001,
@@ -960,7 +974,9 @@
           "resource_id": 27,
           "text": "dergleichen nicht erschaffen wurden in den Landstrichen?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱلَّتِى لَمْ يُخْلَ[q:14473[قْ] مِثْلُهَا فِى [h:2519[ٱ]لْبِلَ[p[ـٰ][q[د]ِ",
+      "text_uthmani_tajweed_parsed": "ٱلَّتِى لَمْ يُخْلَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14473\">قْ</tajweed> مِثْلُهَا فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2519\">ٱ</tajweed>لْبِلَ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ِ"
     },
     {
       "id": 6002,
@@ -1105,7 +1121,9 @@
           "resource_id": 27,
           "text": "Und (mit) den Tamud, die im Tal die Felsen aushöhlten?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَثَمُودَ [h:14474[ٱ]لَّذِينَ جَابُو[s[اْ] [h:14475[ٱ][l[ل]صَّخْرَ بِ[h:8451[ٱ]لْو[p[َا][q[د]ِ",
+      "text_uthmani_tajweed_parsed": "وَثَمُودَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14474\">ٱ</tajweed>لَّذِينَ جَابُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14475\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صَّخْرَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8451\">ٱ</tajweed>لْو<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َا</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ِ"
     },
     {
       "id": 6003,
@@ -1214,7 +1232,9 @@
           "resource_id": 27,
           "text": "Und (mit) Fir’aun, dem Besitzer der Pfähle,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَفِرْعَوْنَ ذِى [h:14476[ٱ]لْأَوْت[p[َا][q[د]ِ",
+      "text_uthmani_tajweed_parsed": "وَفِرْعَوْنَ ذِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14476\">ٱ</tajweed>لْأَوْت<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َا</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ِ"
     }
   ],
   "pagination": {
@@ -1223,5 +1243,11 @@
     "next_page": 2,
     "total_pages": 3,
     "total_records": 30
-  }
+  },
+  "englishName": "Al-Fajr",
+  "name": "سُورَةُ الفَجۡرِ",
+  "englishNameTranslation": "The Dawn",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 30,
+  "number": 89
 }

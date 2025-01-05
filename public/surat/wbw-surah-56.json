@@ -107,7 +107,9 @@
           "resource_id": 27,
           "text": "Wenn die (Stunde) eintrifft, die eintreffen wird,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِذَا وَقَعَتِ [h:13200[ٱ]لْوَاقِعَةُ",
+      "text_uthmani_tajweed_parsed": "إِذَا وَقَعَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13200\">ٱ</tajweed>لْوَاقِعَةُ"
     },
     {
       "id": 4981,
@@ -216,7 +218,9 @@
           "resource_id": 27,
           "text": "gibt es niemanden, der ihr Eintreffen leugnen wird."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لَيْسَ لِوَ[q:13201[قْ]عَتِهَا كَاذِبَةٌ",
+      "text_uthmani_tajweed_parsed": "لَيْسَ لِوَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13201\">قْ</tajweed>عَتِهَا كَاذِبَةٌ"
     },
     {
       "id": 4982,
@@ -307,7 +311,9 @@
           "resource_id": 27,
           "text": "Sie wird (manches) niedrig machen und (manches) erhöhen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "خَافِضَ[u:13202[ةٌ ر]َّافِعَةٌ",
+      "text_uthmani_tajweed_parsed": "خَافِضَ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":13202\">ةٌ ر</tajweed>َّافِعَةٌ"
     },
     {
       "id": 4983,
@@ -434,7 +440,9 @@
           "resource_id": 27,
           "text": "Wenn die Erde heftig hin und her geschüttelt wird"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِذَا رُجَّتِ [h:13203[ٱ]لْأَرْضُ رَجًّا",
+      "text_uthmani_tajweed_parsed": "إِذَا رُجَّتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13203\">ٱ</tajweed>لْأَرْضُ رَجًّا"
     },
     {
       "id": 4984,
@@ -543,7 +551,9 @@
           "resource_id": 27,
           "text": "und die Berge völlig zermalmt werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَبُسَّتِ [h:13204[ٱ]لْجِبَالُ بَسًّا",
+      "text_uthmani_tajweed_parsed": "وَبُسَّتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13204\">ٱ</tajweed>لْجِبَالُ بَسًّا"
     },
     {
       "id": 4985,
@@ -652,7 +662,9 @@
           "resource_id": 27,
           "text": "und dann zu verstreutem Staub werden"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَكَانَتْ هَب[o[َا]ٓ[a:13205[ءً م]ُّ[i:13206[نۢب]َثًّا",
+      "text_uthmani_tajweed_parsed": "فَكَانَتْ هَب<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13205\">ءً م</tajweed>ُّ<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":13206\">نۢب</tajweed>َثًّا"
     },
     {
       "id": 4986,
@@ -761,7 +773,9 @@
           "resource_id": 27,
           "text": "und ihr (in) drei Arten (aufgeteilt) werdet:"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَكُ[f:151[نت]ُمْ أَزْو[n[َٲ][f:13207[جًا ث]َلَ[n[ـٰ]ثَةً",
+      "text_uthmani_tajweed_parsed": "وَكُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":151\">نت</tajweed>ُمْ أَزْو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":13207\">جًا ث</tajweed>َلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ثَةً"
     },
     {
       "id": 4987,
@@ -906,7 +920,9 @@
           "resource_id": 27,
           "text": "Die Gefährten von der rechten Seite - was sind die Gefährten von der rechten Seite?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأَصْحَ[n[ـٰ]بُ [h:13208[ٱ]لْمَيْمَنَةِ م[o[َآ] أَصْحَ[n[ـٰ]بُ [h:13209[ٱ]لْمَيْمَنَةِ",
+      "text_uthmani_tajweed_parsed": "فَأَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13208\">ٱ</tajweed>لْمَيْمَنَةِ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13209\">ٱ</tajweed>لْمَيْمَنَةِ"
     },
     {
       "id": 4988,
@@ -1051,7 +1067,9 @@
           "resource_id": 27,
           "text": "Und die Gefährten von der unheilvollen Seite - was sind die Gefährten von der unheilvollen Seite?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَأَصْحَ[n[ـٰ]بُ [h:13210[ٱ]لْمَشْــَٔمَةِ م[o[َآ] أَصْحَ[n[ـٰ]بُ [h:13211[ٱ]لْمَشْــَٔمَةِ",
+      "text_uthmani_tajweed_parsed": "وَأَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13210\">ٱ</tajweed>لْمَشْــَٔمَةِ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13211\">ٱ</tajweed>لْمَشْــَٔمَةِ"
     },
     {
       "id": 4989,
@@ -1142,7 +1160,9 @@
           "resource_id": 27,
           "text": "Und die Vorausgeeilten, ja die Vorausgeeilten,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]سَّ[n[ـٰ]بِقُونَ [h:13212[ٱ][l[ل]سَّ[n[ـٰ]بِق[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِقُونَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13212\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِق<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
   "pagination": {
@@ -1151,5 +1171,11 @@
     "next_page": 2,
     "total_pages": 10,
     "total_records": 96
-  }
+  },
+  "englishName": "Al-Waaqia",
+  "name": "سُورَةُ الوَاقِعَةِ",
+  "englishNameTranslation": "The Inevitable",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 96,
+  "number": 56
 }

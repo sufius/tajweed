@@ -71,7 +71,9 @@
           "resource_id": 27,
           "text": "Kaf-Ha-Ya-’Ayn-Sad."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "[m[كٓ]هي[m[عٓ][m[صٓ]",
+      "text_uthmani_tajweed_parsed": "<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">كٓ</tajweed>هي<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">عٓ</tajweed><tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">صٓ</tajweed>"
     },
     {
       "id": 2252,
@@ -216,7 +218,9 @@
           "resource_id": 27,
           "text": "(Diese Verse sind) zum Gedenken an die Barmherzigkeit deines Herrn zu Seinem Diener Zakariyya."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ذِكْرُ رَحْمَتِ رَبِّكَ عَ[q:8257[بْ]دَهُ[n[ۥ] زَكَرِيَّآ",
+      "text_uthmani_tajweed_parsed": "ذِكْرُ رَحْمَتِ رَبِّكَ عَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":8257\">بْ</tajweed>دَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> زَكَرِيَّآ"
     },
     {
       "id": 2253,
@@ -361,7 +365,9 @@
           "resource_id": 27,
           "text": "Als er zu seinem Herrn im Verborgenen rief"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِذْ نَادَىٰ رَبَّهُ[n[ۥ] نِد[o[َا]ٓءً خَفِيًّا",
+      "text_uthmani_tajweed_parsed": "إِذْ نَادَىٰ رَبَّهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> نِد<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءً خَفِيًّا"
     },
     {
       "id": 2254,
@@ -668,7 +674,9 @@
           "resource_id": 27,
           "text": "(und) sagte: „Mein Herr, schwach sind mir die Knochen geworden, und in Altersgrauheit entfacht ist der Kopf. Und ich war im Bittgebet zu Dir, mein Herr, (noch) nie unglücklich."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قَالَ رَبِّ إِ[g[نّ]ِى وَهَنَ [h:8258[ٱ]لْعَظْمُ مِ[g[نّ]ِى وَ[h:8259[ٱ]شْتَعَلَ [h:8260[ٱ][l[ل]رَّأْسُ شَيْ[a:8261[بًا و]َلَمْ أَك[i:8262[ُنۢ ب]ِدُع[o[َا]ٓئِكَ رَبِّ شَقِيًّا",
+      "text_uthmani_tajweed_parsed": "قَالَ رَبِّ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ِى وَهَنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8258\">ٱ</tajweed>لْعَظْمُ مِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ِى وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8259\">ٱ</tajweed>شْتَعَلَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8260\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>رَّأْسُ شَيْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":8261\">بًا و</tajweed>َلَمْ أَك<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":8262\">ُنۢ ب</tajweed>ِدُع<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓئِكَ رَبِّ شَقِيًّا"
     },
     {
       "id": 2255,
@@ -957,7 +965,9 @@
           "resource_id": 27,
           "text": "Gewiß, ich fürchte die Verwandten nach mir, und meine Frau ist unfruchtbar. So schenke mir von Dir aus einen nahen Verwandten,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِ[g[نّ]ِى خِفْتُ [h:8263[ٱ]لْمَو[n[َٲ]لِىَ م[a:8264[ِن و]َر[o[َا]ٓءِى وَكَانَتِ [h:8265[ٱ]مْرَأَتِى عَاقِ[f:8266[رًا ف]َهَ[q:8267[بْ] لِى م[u:1746[ِن ل]َّدُ[f:1747[نك]َ وَلِيًّا",
+      "text_uthmani_tajweed_parsed": "وَإِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ِى خِفْتُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8263\">ٱ</tajweed>لْمَو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِىَ م<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":8264\">ِن و</tajweed>َر<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءِى وَكَانَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8265\">ٱ</tajweed>مْرَأَتِى عَاقِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":8266\">رًا ف</tajweed>َهَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":8267\">بْ</tajweed> لِى م<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":1746\">ِن ل</tajweed>َّدُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":1747\">نك</tajweed>َ وَلِيًّا"
     },
     {
       "id": 2256,
@@ -1156,7 +1166,9 @@
           "resource_id": 27,
           "text": "der mich beerbt und von der Sippe Ya’qubs erbt, und mach ihn, mein Herr, (Dir) wohlgefällig."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ‌ۖ وَ[h:8268[ٱ][q:8268[جْ]عَلْهُ رَبِّ رَضِيًّا",
+      "text_uthmani_tajweed_parsed": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ‌ۖ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8268\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":8268\">جْ</tajweed>عَلْهُ رَبِّ رَضِيًّا"
     },
     {
       "id": 2257,
@@ -1427,7 +1439,9 @@
           "resource_id": 27,
           "text": "„O Zakariyya, Wir verkünden dir einen Jungen, dessen Name Yahya ist, wie Wir zuvor noch niemandem Kennzeichen gleich den seinen gegeben haben."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَ[n[ـٰ]زَكَرِيّ[o[َآ] إِ[g[نّ]َا نُبَشِّرُكَ بِغُلَ[n[ـٰ]مٍ [h:8269[ٱ]سْمُهُ[n[ۥ] يَحْيَىٰ لَمْ نَ[q:8219[جْ]عَل لَّهُ[n[ۥ] مِ[f:128[ن ق]َ[q:129[بْ]لُ سَمِيًّا",
+      "text_uthmani_tajweed_parsed": "يَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>زَكَرِيّ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا نُبَشِّرُكَ بِغُلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>مٍ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8269\">ٱ</tajweed>سْمُهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> يَحْيَىٰ لَمْ نَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":8219\">جْ</tajweed>عَل لَّهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":128\">ن ق</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":129\">بْ</tajweed>لُ سَمِيًّا"
     },
     {
       "id": 2258,
@@ -1734,7 +1748,9 @@
           "resource_id": 27,
           "text": "Er sagte: „Mein Herr, wie soll ich einen Jungen haben, wo meine Frau unfruchtbar ist und ich vom hohen Alter bereits einen Dürrezustand erreicht habe?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قَالَ رَبِّ أَ[g[نّ]َىٰ يَكُونُ لِى غُلَ[n[ـٰ][a:8270[مٌ و]َكَانَتِ [h:8265[ٱ]مْرَأَتِى عَاقِ[a:8271[رًا و]َقَ[q:387[دْ] بَلَغْتُ مِنَ [h:8272[ٱ]لْكِبَرِ عِتِيًّا",
+      "text_uthmani_tajweed_parsed": "قَالَ رَبِّ أَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َىٰ يَكُونُ لِى غُلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":8270\">مٌ و</tajweed>َكَانَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8265\">ٱ</tajweed>مْرَأَتِى عَاقِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":8271\">رًا و</tajweed>َقَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":387\">دْ</tajweed> بَلَغْتُ مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":8272\">ٱ</tajweed>لْكِبَرِ عِتِيًّا"
     },
     {
       "id": 2259,
@@ -2041,7 +2057,9 @@
           "resource_id": 27,
           "text": "Er sagte: „So wird es sein. Dein Herr sagt: ,Das ist Mir ein leichtes; und auch dich habe Ich ja zuvor erschaffen, als du noch nichts warst’."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قَالَ كَذ[n[َٲ]لِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّ[a:8273[نٌ و]َقَ[q:387[دْ] خَلَ[q:8274[قْ]تُكَ مِ[f:128[ن ق]َ[q:129[بْ]لُ وَلَمْ تَكُ شَيْــًٔا",
+      "text_uthmani_tajweed_parsed": "قَالَ كَذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":8273\">نٌ و</tajweed>َقَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":387\">دْ</tajweed> خَلَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":8274\">قْ</tajweed>تُكَ مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":128\">ن ق</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":129\">بْ</tajweed>لُ وَلَمْ تَكُ شَيْــًٔا"
     },
     {
       "id": 2260,
@@ -2330,7 +2348,9 @@
           "resource_id": 27,
           "text": "Er sagte: „Mein Herr, setze mir ein Zeichen. Er sagte: „Dein Zeichen ist, daß du drei Nächte lang, obwohl gesund, nicht zu den Menschen sprechen wirst."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "قَالَ رَبِّ [h:657[ٱ][q:658[جْ]عَل لّ[o[ِىٓ] ءَايَ[f:1895[ةً‌ۚ ق]َالَ ءَايَتُكَ أَلَّا تُكَلِّمَ [h:1896[ٱ][l[ل][g[نّ]َاسَ ثَلَ[n[ـٰ]ثَ لَيَا[f:8275[لٍ س]َوِيًّا",
+      "text_uthmani_tajweed_parsed": "قَالَ رَبِّ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":657\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":658\">جْ</tajweed>عَل لّ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> ءَايَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":1895\">ةً‌ۚ ق</tajweed>َالَ ءَايَتُكَ أَلَّا تُكَلِّمَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1896\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاسَ ثَلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ثَ لَيَا<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":8275\">لٍ س</tajweed>َوِيًّا"
     }
   ],
   "pagination": {
@@ -2339,5 +2359,11 @@
     "next_page": 2,
     "total_pages": 10,
     "total_records": 98
-  }
+  },
+  "englishName": "Maryam",
+  "name": "سُورَةُ مَرۡيَمَ",
+  "englishNameTranslation": "Mary",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 98,
+  "number": 19
 }
