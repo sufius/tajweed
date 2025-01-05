@@ -1,0 +1,826 @@
+{
+  "verses": [
+    {
+      "id": 6126,
+      "verse_number": 1,
+      "verse_key": "97:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 169,
+          "position": 1,
+          "audio_url": "wbw/097_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭑ",
+          "translation": {
+            "text": "Indeed, We",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 170,
+          "position": 2,
+          "audio_url": "wbw/097_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭒ",
+          "translation": {
+            "text": "revealed it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "anzalnāhu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 171,
+          "position": 3,
+          "audio_url": "wbw/097_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭓ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭓ",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 172,
+          "position": 4,
+          "audio_url": "wbw/097_001_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭔ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭔ",
+          "translation": {
+            "text": "(the) Night",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "laylati",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 173,
+          "position": 5,
+          "audio_url": "wbw/097_001_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭕ",
+          "translation": {
+            "text": "(of) Power",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-qadri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 174,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭖ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭖ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96113,
+          "resource_id": 19,
+          "text": "Lo! We revealed it on the Night of Predestination."
+        },
+        {
+          "id": 370413,
+          "resource_id": 79,
+          "text": "Поистине, Мы [Аллах] ниспослали его [весь Коран целиком] (с Хранимой Скрижали на ближайшее небо) в ночь предопределения [[Аллах Всевышний ниспослал весь Коран целиком с хранимой скрижали (Лаух-ул-махфуз) на ближайшее небо в ночь предопределения. Далее с ближайшего неба Коран ниспосылался пророку Мухаммаду частями в течение 23 лет, в соответствии с возникающими обстоятельствами. Ночь предопределения является одной из ночей месяца рамадан.]]!"
+        },
+        {
+          "id": 256390,
+          "resource_id": 45,
+          "text": "Воистину, Мы ниспослали его (Коран) в ночь предопределения (или величия)."
+        },
+        {
+          "id": 145239,
+          "resource_id": 27,
+          "text": "Wir haben ihn ja in der Nacht der Bestimmung hinabgesandt."
+        }
+      ]
+    },
+    {
+      "id": 6127,
+      "verse_number": 2,
+      "verse_key": "97:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 1789,
+          "position": 1,
+          "audio_url": "wbw/097_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭗ",
+          "translation": {
+            "text": "And what",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1790,
+          "position": 2,
+          "audio_url": "wbw/097_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭘ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭘ",
+          "translation": {
+            "text": "can make you know",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "adrāka",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1791,
+          "position": 3,
+          "audio_url": "wbw/097_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭙ",
+          "translation": {
+            "text": "what",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1792,
+          "position": 4,
+          "audio_url": "wbw/097_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭚ",
+          "translation": {
+            "text": "(the) Night",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "laylatu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1793,
+          "position": 5,
+          "audio_url": "wbw/097_002_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭛ",
+          "translation": {
+            "text": "(of) Power (is)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-qadri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1794,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭜ",
+          "page_number": 598,
+          "line_number": 3,
+          "text": "ﭜ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96115,
+          "resource_id": 19,
+          "text": "Ah, what will convey unto thee what the Night of Power is!"
+        },
+        {
+          "id": 370414,
+          "resource_id": 79,
+          "text": "И что дало тебе знать [ты хоть знаешь] ((о, Пророк)), что такое ночь предопределения [[Эта ночь называется ночью предопределения, так как в эту ночь Аллах Всевышний определяет дела на будущий год. Имеется в виду то, что дела, которые совершаются в эту единственную ночь в году, лучше дел, которые совершались бы в течение 1000 месяцев (около 83 лет).]]?"
+        },
+        {
+          "id": 256392,
+          "resource_id": 45,
+          "text": "Откуда ты мог знать, что такое ночь предопределения (или величия)?"
+        },
+        {
+          "id": 145241,
+          "resource_id": 27,
+          "text": "Und was läßt dich wissen, was die Nacht der Bestimmung ist?"
+        }
+      ]
+    },
+    {
+      "id": 6128,
+      "verse_number": 3,
+      "verse_key": "97:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 2900,
+          "position": 1,
+          "audio_url": "wbw/097_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭝ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭝ",
+          "translation": {
+            "text": "(The) Night",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "laylatu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2901,
+          "position": 2,
+          "audio_url": "wbw/097_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭞ",
+          "translation": {
+            "text": "(of) Power",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-qadri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2902,
+          "position": 3,
+          "audio_url": "wbw/097_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭟ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭟ",
+          "translation": {
+            "text": "(is) better",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "khayrun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2903,
+          "position": 4,
+          "audio_url": "wbw/097_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭠ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭠ",
+          "translation": {
+            "text": "than",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2904,
+          "position": 5,
+          "audio_url": "wbw/097_003_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭡ",
+          "translation": {
+            "text": "a thousand",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alfi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2905,
+          "position": 6,
+          "audio_url": "wbw/097_003_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭢ",
+          "translation": {
+            "text": "month(s)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "shahrin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2906,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭣ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭣ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96117,
+          "resource_id": 19,
+          "text": "The Night of Power is better than a thousand months."
+        },
+        {
+          "id": 370415,
+          "resource_id": 79,
+          "text": "Ночь предопределения лучше тысячи месяцев [[Эта ночь вся является благом и спокойствием и нет в ней зла. И ангелы группами продолжают сходить всю ночью пока не появится рассветная заря.]]."
+        },
+        {
+          "id": 256399,
+          "resource_id": 45,
+          "text": "Ночь предопределения (или величия) лучше тысячи месяцев."
+        },
+        {
+          "id": 145242,
+          "resource_id": 27,
+          "text": "Die Nacht der Bestimmung ist besser als tausend Monate."
+        }
+      ]
+    },
+    {
+      "id": 6129,
+      "verse_number": 4,
+      "verse_key": "97:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 4399,
+          "position": 1,
+          "audio_url": "wbw/097_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭤ",
+          "translation": {
+            "text": "Descend",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "tanazzalu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4400,
+          "position": 2,
+          "audio_url": "wbw/097_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭥ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭥ",
+          "translation": {
+            "text": "the Angels",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-malāikatu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4401,
+          "position": 3,
+          "audio_url": "wbw/097_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭦ",
+          "page_number": 598,
+          "line_number": 4,
+          "text": "ﭦ",
+          "translation": {
+            "text": "and the Spirit",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-rūḥu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4402,
+          "position": 4,
+          "audio_url": "wbw/097_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭧ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭧ",
+          "translation": {
+            "text": "therein",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fīhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4403,
+          "position": 5,
+          "audio_url": "wbw/097_004_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭨ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭨ",
+          "translation": {
+            "text": "by (the) permission",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bi-idh'ni",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4404,
+          "position": 6,
+          "audio_url": "wbw/097_004_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭩ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭩ",
+          "translation": {
+            "text": "(of) their Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbihim",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4405,
+          "position": 7,
+          "audio_url": "wbw/097_004_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭪ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭪ",
+          "translation": {
+            "text": "for",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4406,
+          "position": 8,
+          "audio_url": "wbw/097_004_008.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭫ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭫ",
+          "translation": {
+            "text": "every",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kulli",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4407,
+          "position": 9,
+          "audio_url": "wbw/097_004_009.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭬ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭬ",
+          "translation": {
+            "text": "affair",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "amrin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4408,
+          "position": 10,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭭ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭭ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96119,
+          "resource_id": 19,
+          "text": "The angels and the Spirit descend therein, by the permission of their Lord, with all decrees."
+        },
+        {
+          "id": 370416,
+          "resource_id": 79,
+          "text": "Нисходят ангелы (с небес) и дух [ангел Джибрил] в нее [в эту ночь] с дозволения Господа их для (исполнения) всяких повелений."
+        },
+        {
+          "id": 256401,
+          "resource_id": 45,
+          "text": "В эту ночь ангелы и Дух (Джибрил) нисходят с дозволения их Господа по всем Его повелениям."
+        },
+        {
+          "id": 145252,
+          "resource_id": 27,
+          "text": "Es kommen die Engel und der Geist in ihr mit der Erlaubnis ihres Herrn mit jeder Angelegenheit herab."
+        }
+      ]
+    },
+    {
+      "id": 6130,
+      "verse_number": 5,
+      "verse_key": "97:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 4984,
+          "position": 1,
+          "audio_url": "wbw/097_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭮ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭮ",
+          "translation": {
+            "text": "Peace",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "salāmun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4985,
+          "position": 2,
+          "audio_url": "wbw/097_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭯ",
+          "translation": {
+            "text": "it (is)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "hiya",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4986,
+          "position": 3,
+          "audio_url": "wbw/097_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭰ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭰ",
+          "translation": {
+            "text": "until",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḥattā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4987,
+          "position": 4,
+          "audio_url": "wbw/097_005_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭱ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭱ",
+          "translation": {
+            "text": "(the) emergence",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "maṭlaʿi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4988,
+          "position": 5,
+          "audio_url": "wbw/097_005_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭲ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭲ",
+          "translation": {
+            "text": "(of) the dawn",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-fajri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4989,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭳ",
+          "page_number": 598,
+          "line_number": 5,
+          "text": "ﭳ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96121,
+          "resource_id": 19,
+          "text": "(The night is) Peace until the rising of the dawn."
+        },
+        {
+          "id": 370417,
+          "resource_id": 79,
+          "text": "Она [эта ночь] – мир [благо и спокойствие] до восхода зари !"
+        },
+        {
+          "id": 256407,
+          "resource_id": 45,
+          "text": "Она благополучна вплоть до наступления зари."
+        },
+        {
+          "id": 145246,
+          "resource_id": 27,
+          "text": "Frieden ist sie bis zum Anbruch der Morgendämmerung."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}

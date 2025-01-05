@@ -1,0 +1,1101 @@
+{
+  "verses": [
+    {
+      "id": 4902,
+      "verse_number": 1,
+      "verse_key": "55:1",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلرَّحْمَـٰنُ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 297,
+          "position": 1,
+          "audio_url": "wbw/055_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭷ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭷ",
+          "translation": {
+            "text": "The Most Gracious",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "al-raḥmānu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 298,
+          "position": 2,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭸ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭸ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94303,
+          "resource_id": 19,
+          "text": "The Beneficent"
+        },
+        {
+          "id": 369189,
+          "resource_id": 79,
+          "text": "Милостивый (к Своим рабам) (Аллах)"
+        },
+        {
+          "id": 254611,
+          "resource_id": 45,
+          "text": "Милостивый"
+        },
+        {
+          "id": 139845,
+          "resource_id": 27,
+          "text": "Der Allerbarmer"
+        }
+      ]
+    },
+    {
+      "id": 4903,
+      "verse_number": 2,
+      "verse_key": "55:2",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَ ٱلْقُرْءَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 1061,
+          "position": 1,
+          "audio_url": "wbw/055_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭹ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭹ",
+          "translation": {
+            "text": "He taught",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿallama",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1062,
+          "position": 2,
+          "audio_url": "wbw/055_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭺ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭺ",
+          "translation": {
+            "text": "the Quran",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-qur'āna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1063,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭻ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭻ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94315,
+          "resource_id": 19,
+          "text": "Hath made known the Qur'an."
+        },
+        {
+          "id": 369190,
+          "resource_id": 79,
+          "text": "научил (человека) Корану (облегчив его чтение, понимание и запоминание),"
+        },
+        {
+          "id": 252149,
+          "resource_id": 45,
+          "text": "научил Корану,"
+        },
+        {
+          "id": 143463,
+          "resource_id": 27,
+          "text": "hat den Qur’an gelehrt."
+        }
+      ]
+    },
+    {
+      "id": 4904,
+      "verse_number": 3,
+      "verse_key": "55:3",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 2223,
+          "position": 1,
+          "audio_url": "wbw/055_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭼ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭼ",
+          "translation": {
+            "text": "He created",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "khalaqa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2224,
+          "position": 2,
+          "audio_url": "wbw/055_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭽ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭽ",
+          "translation": {
+            "text": "[the] man",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-insāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2225,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭾ",
+          "page_number": 531,
+          "line_number": 7,
+          "text": "ﭾ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94327,
+          "resource_id": 19,
+          "text": "He hath created man."
+        },
+        {
+          "id": 369191,
+          "resource_id": 79,
+          "text": "(и Он) ­­­­сотворил человека,"
+        },
+        {
+          "id": 254708,
+          "resource_id": 45,
+          "text": "создал человека"
+        },
+        {
+          "id": 143468,
+          "resource_id": 27,
+          "text": "Er hat den Menschen erschaffen."
+        }
+      ]
+    },
+    {
+      "id": 4905,
+      "verse_number": 4,
+      "verse_key": "55:4",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَهُ ٱلْبَيَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 3552,
+          "position": 1,
+          "audio_url": "wbw/055_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭿ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﭿ",
+          "translation": {
+            "text": "He taught him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿallamahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3553,
+          "position": 2,
+          "audio_url": "wbw/055_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮀ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮀ",
+          "translation": {
+            "text": "[the] speech",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-bayāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3554,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮁ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮁ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94339,
+          "resource_id": 19,
+          "text": "He hath taught him utterance."
+        },
+        {
+          "id": 369192,
+          "resource_id": 79,
+          "text": "(и) научил его изъясняться [выражать свои мысли] (отличив его тем самым от других)."
+        },
+        {
+          "id": 254702,
+          "resource_id": 45,
+          "text": "и научил его изъясняться."
+        },
+        {
+          "id": 143478,
+          "resource_id": 27,
+          "text": "Er hat ihn die klare Darlegung gelehrt."
+        }
+      ]
+    },
+    {
+      "id": 4906,
+      "verse_number": 5,
+      "verse_key": "55:5",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 4871,
+          "position": 1,
+          "audio_url": "wbw/055_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮂ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮂ",
+          "translation": {
+            "text": "The sun",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "al-shamsu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4872,
+          "position": 2,
+          "audio_url": "wbw/055_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮃ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮃ",
+          "translation": {
+            "text": "and the moon",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-qamaru",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4873,
+          "position": 3,
+          "audio_url": "wbw/055_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮄ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮄ",
+          "translation": {
+            "text": "by (precise) calculation",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "biḥus'bānin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4874,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮅ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮅ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94353,
+          "resource_id": 19,
+          "text": "The sun and the moon are made punctual."
+        },
+        {
+          "id": 369193,
+          "resource_id": 79,
+          "text": "Солнце и луна (двигаются) по (точному) расчету,"
+        },
+        {
+          "id": 254672,
+          "resource_id": 45,
+          "text": "Солнце и луна движутся согласно рассчитанному порядку."
+        },
+        {
+          "id": 143493,
+          "resource_id": 27,
+          "text": "Die Sonne und der Mond (laufen) nach Berechnung."
+        }
+      ]
+    },
+    {
+      "id": 4907,
+      "verse_number": 6,
+      "verse_key": "55:6",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 6162,
+          "position": 1,
+          "audio_url": "wbw/055_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮆ",
+          "page_number": 531,
+          "line_number": 8,
+          "text": "ﮆ",
+          "translation": {
+            "text": "And the stars",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-najmu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6163,
+          "position": 2,
+          "audio_url": "wbw/055_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮇ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮇ",
+          "translation": {
+            "text": "and the trees",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-shajaru",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6164,
+          "position": 3,
+          "audio_url": "wbw/055_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮈ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮈ",
+          "translation": {
+            "text": "both prostrate",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yasjudāni",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6165,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮉ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮉ",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94365,
+          "resource_id": 19,
+          "text": "The stars and the trees prostrate."
+        },
+        {
+          "id": 369194,
+          "resource_id": 79,
+          "text": "и звезды (на небе) и деревья (на земле) преклоняются ниц (своему Господу)."
+        },
+        {
+          "id": 254690,
+          "resource_id": 45,
+          "text": "Травы (или звезды) и деревья совершают поклоны."
+        },
+        {
+          "id": 143510,
+          "resource_id": 27,
+          "text": "Die stiellosen Pflanzen und die Bäume werfen sich nieder."
+        }
+      ]
+    },
+    {
+      "id": 4908,
+      "verse_number": 7,
+      "verse_key": "55:7",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 7495,
+          "position": 1,
+          "audio_url": "wbw/055_007_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮊ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮊ",
+          "translation": {
+            "text": "And the heaven",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-samāa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7496,
+          "position": 2,
+          "audio_url": "wbw/055_007_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮋ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮋ",
+          "translation": {
+            "text": "He raised it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rafaʿahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7497,
+          "position": 3,
+          "audio_url": "wbw/055_007_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮌ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮌ",
+          "translation": {
+            "text": "and He has set up",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wawaḍaʿa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7498,
+          "position": 4,
+          "audio_url": "wbw/055_007_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮍ",
+          "page_number": 531,
+          "line_number": 9,
+          "text": "ﮍ",
+          "translation": {
+            "text": "the balance",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-mīzāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7499,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮎ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮎ",
+          "translation": {
+            "text": "(7)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94377,
+          "resource_id": 19,
+          "text": "And the sky He hath uplifted; and He hath set the measure,"
+        },
+        {
+          "id": 369195,
+          "resource_id": 79,
+          "text": "И небо Он [Аллах] воздвиг (над землей) и установил весы [справедливость] (и повелел Своим творениям быть справедливыми),"
+        },
+        {
+          "id": 254698,
+          "resource_id": 45,
+          "text": "Он возвысил небо и установил весы,"
+        },
+        {
+          "id": 143521,
+          "resource_id": 27,
+          "text": "Den Himmel hat Er emporgehoben und die Waage aufgestellt,"
+        }
+      ]
+    },
+    {
+      "id": 4909,
+      "verse_number": 8,
+      "verse_key": "55:8",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 8741,
+          "position": 1,
+          "audio_url": "wbw/055_008_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮏ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮏ",
+          "translation": {
+            "text": "That not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "allā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8742,
+          "position": 2,
+          "audio_url": "wbw/055_008_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮐ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮐ",
+          "translation": {
+            "text": "you may transgress",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "taṭghaw",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8743,
+          "position": 3,
+          "audio_url": "wbw/055_008_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮑ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮑ",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8744,
+          "position": 4,
+          "audio_url": "wbw/055_008_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮒ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮒ",
+          "translation": {
+            "text": "the balance",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-mīzāni",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8745,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮓ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮓ",
+          "translation": {
+            "text": "(8)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94388,
+          "resource_id": 19,
+          "text": "That ye exceed not the measure,"
+        },
+        {
+          "id": 369196,
+          "resource_id": 79,
+          "text": "чтобы вы не преступали (границ) в весах (когда взвешиваете другим)."
+        },
+        {
+          "id": 254704,
+          "resource_id": 45,
+          "text": "чтобы вы не преступали границы дозволенного на весах."
+        },
+        {
+          "id": 143523,
+          "resource_id": 27,
+          "text": "damit ihr beim Wägen nicht das Maß überschreitet."
+        }
+      ]
+    },
+    {
+      "id": 4910,
+      "verse_number": 9,
+      "verse_key": "55:9",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 9969,
+          "position": 1,
+          "audio_url": "wbw/055_009_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮔ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮔ",
+          "translation": {
+            "text": "And establish",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-aqīmū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9970,
+          "position": 2,
+          "audio_url": "wbw/055_009_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮕ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮕ",
+          "translation": {
+            "text": "the weight",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-wazna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9971,
+          "position": 3,
+          "audio_url": "wbw/055_009_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮖ",
+          "page_number": 531,
+          "line_number": 10,
+          "text": "ﮖ",
+          "translation": {
+            "text": "in justice",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-qis'ṭi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9972,
+          "position": 4,
+          "audio_url": "wbw/055_009_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮗ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮗ",
+          "translation": {
+            "text": "and (do) not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9973,
+          "position": 5,
+          "audio_url": "wbw/055_009_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮘ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮘ",
+          "translation": {
+            "text": "make deficient",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "tukh'sirū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9974,
+          "position": 6,
+          "audio_url": "wbw/055_009_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮙ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮙ",
+          "translation": {
+            "text": "the balance",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-mīzāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9975,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮚ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮚ",
+          "translation": {
+            "text": "(9)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94390,
+          "resource_id": 19,
+          "text": "But observe the measure strictly, nor fall short thereof."
+        },
+        {
+          "id": 369197,
+          "resource_id": 79,
+          "text": "И устанавливайте вес беспристрастно [справедливо] и не уменьшайте вес (когда взвешиваете людям)!"
+        },
+        {
+          "id": 254706,
+          "resource_id": 45,
+          "text": "Взвешивайте беспристрастно и не занижайте вес."
+        },
+        {
+          "id": 143531,
+          "resource_id": 27,
+          "text": "Und meßt das Gewicht in Gerechtigkeit und gebt beim Wägen nicht weniger."
+        }
+      ]
+    },
+    {
+      "id": 4911,
+      "verse_number": 10,
+      "verse_key": "55:10",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 11167,
+          "position": 1,
+          "audio_url": "wbw/055_010_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮛ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮛ",
+          "translation": {
+            "text": "And the earth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-arḍa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11168,
+          "position": 2,
+          "audio_url": "wbw/055_010_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮜ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮜ",
+          "translation": {
+            "text": "He laid it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waḍaʿahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11169,
+          "position": 3,
+          "audio_url": "wbw/055_010_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮝ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮝ",
+          "translation": {
+            "text": "for the creatures",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lil'anāmi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11170,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮞ",
+          "page_number": 531,
+          "line_number": 11,
+          "text": "ﮞ",
+          "translation": {
+            "text": "(10)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94304,
+          "resource_id": 19,
+          "text": "And the earth hath He appointed for (His) creatures,"
+        },
+        {
+          "id": 369198,
+          "resource_id": 79,
+          "text": "И землю Он положил [распростер] для творений."
+        },
+        {
+          "id": 252190,
+          "resource_id": 45,
+          "text": "Он установил землю для тварей."
+        },
+        {
+          "id": 139874,
+          "resource_id": 27,
+          "text": "Und die Erde hat Er für die Geschöpfe (an)gelegt;"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": 2,
+    "total_pages": 8,
+    "total_records": 78
+  }
+}

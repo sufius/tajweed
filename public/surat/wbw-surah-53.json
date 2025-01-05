@@ -1,0 +1,1263 @@
+{
+  "verses": [
+    {
+      "id": 4785,
+      "verse_number": 1,
+      "verse_key": "53:1",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 280,
+          "position": 1,
+          "audio_url": "wbw/053_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭑ",
+          "translation": {
+            "text": "By the star",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-najmi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 281,
+          "position": 2,
+          "audio_url": "wbw/053_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭒ",
+          "translation": {
+            "text": "when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 282,
+          "position": 3,
+          "audio_url": "wbw/053_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭓ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭓ",
+          "translation": {
+            "text": "it goes down",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "hawā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 283,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭔ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭔ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94162,
+          "resource_id": 19,
+          "text": "By the Star when it setteth,"
+        },
+        {
+          "id": 369072,
+          "resource_id": 79,
+          "text": "Клянусь (Я, Аллах) звездой [всеми звездами], когда она закатывается [когда звезды исчезают с небосклона],"
+        },
+        {
+          "id": 254507,
+          "resource_id": 45,
+          "text": "Клянусь звездой, когда она падает (или частью Корана, когда она нисходит)!"
+        },
+        {
+          "id": 143304,
+          "resource_id": 27,
+          "text": "Bei dem Stern, wenn er sinkt!"
+        }
+      ]
+    },
+    {
+      "id": 4786,
+      "verse_number": 2,
+      "verse_key": "53:2",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 1162,
+          "position": 1,
+          "audio_url": "wbw/053_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭕ",
+          "translation": {
+            "text": "Not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1163,
+          "position": 2,
+          "audio_url": "wbw/053_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭖ",
+          "translation": {
+            "text": "has strayed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḍalla",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1164,
+          "position": 3,
+          "audio_url": "wbw/053_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭗ",
+          "translation": {
+            "text": "your companion",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ṣāḥibukum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1165,
+          "position": 4,
+          "audio_url": "wbw/053_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭘ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭘ",
+          "translation": {
+            "text": "and not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1166,
+          "position": 5,
+          "audio_url": "wbw/053_002_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭙ",
+          "translation": {
+            "text": "has he erred",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ghawā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1167,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭚ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭚ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94176,
+          "resource_id": 19,
+          "text": "Your comrade erreth not, nor is deceived;"
+        },
+        {
+          "id": 369073,
+          "resource_id": 79,
+          "text": "(что) не заблудился (с истинного пути) [не является невежей] товарищ [единоплеменник] ваш (о, курайшиты) [Мухаммад] и не отклонился он."
+        },
+        {
+          "id": 254500,
+          "resource_id": 45,
+          "text": "Не заблудился ваш товарищ и не сошел с пути."
+        },
+        {
+          "id": 143324,
+          "resource_id": 27,
+          "text": "Nicht in die Irre geht euer Gefährte, und auch nicht einem Irrtum ist er erlegen,"
+        }
+      ]
+    },
+    {
+      "id": 4787,
+      "verse_number": 3,
+      "verse_key": "53:3",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 2208,
+          "position": 1,
+          "audio_url": "wbw/053_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭛ",
+          "translation": {
+            "text": "And not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2209,
+          "position": 2,
+          "audio_url": "wbw/053_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭜ",
+          "page_number": 526,
+          "line_number": 2,
+          "text": "ﭜ",
+          "translation": {
+            "text": "he speaks",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yanṭiqu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2210,
+          "position": 3,
+          "audio_url": "wbw/053_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭝ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭝ",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿani",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2211,
+          "position": 4,
+          "audio_url": "wbw/053_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭞ",
+          "translation": {
+            "text": "the desire",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-hawā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2212,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭟ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭟ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94188,
+          "resource_id": 19,
+          "text": "Nor doth he speak of (his own) desire."
+        },
+        {
+          "id": 369074,
+          "resource_id": 79,
+          "text": "И не таков он [Мухаммад], чтобы говорить по (своей) прихоти (чего бы это не касалось)."
+        },
+        {
+          "id": 254509,
+          "resource_id": 45,
+          "text": "Он не говорит по прихоти."
+        },
+        {
+          "id": 143330,
+          "resource_id": 27,
+          "text": "und er redet nicht aus (eigener) Neigung."
+        }
+      ]
+    },
+    {
+      "id": 4788,
+      "verse_number": 4,
+      "verse_key": "53:4",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 3538,
+          "position": 1,
+          "audio_url": "wbw/053_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭠ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭠ",
+          "translation": {
+            "text": "Not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "in",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3539,
+          "position": 2,
+          "audio_url": "wbw/053_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭡ",
+          "translation": {
+            "text": "it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "huwa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3540,
+          "position": 3,
+          "audio_url": "wbw/053_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭢ",
+          "translation": {
+            "text": "(is) except",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "illā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3541,
+          "position": 4,
+          "audio_url": "wbw/053_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭣ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭣ",
+          "translation": {
+            "text": "a revelation",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waḥyun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3542,
+          "position": 5,
+          "audio_url": "wbw/053_004_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭤ",
+          "translation": {
+            "text": "revealed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yūḥā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3543,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭥ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭥ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94200,
+          "resource_id": 19,
+          "text": "It is naught save an inspiration that is inspired,"
+        },
+        {
+          "id": 369075,
+          "resource_id": 79,
+          "text": "Это [Коран] – только откровение (от Аллаха), которое внушается (Пророку)."
+        },
+        {
+          "id": 254551,
+          "resource_id": 45,
+          "text": "Это - всего лишь внушаемое ему откровение."
+        },
+        {
+          "id": 143361,
+          "resource_id": 27,
+          "text": "Es ist nur eine Offenbarung, die eingegeben wird."
+        }
+      ]
+    },
+    {
+      "id": 4789,
+      "verse_number": 5,
+      "verse_key": "53:5",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 4898,
+          "position": 1,
+          "audio_url": "wbw/053_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭦ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭦ",
+          "translation": {
+            "text": "Has taught him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿallamahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4899,
+          "position": 2,
+          "audio_url": "wbw/053_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭧ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭧ",
+          "translation": {
+            "text": "the (one) mighty",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "shadīdu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4900,
+          "position": 3,
+          "audio_url": "wbw/053_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭨ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭨ",
+          "translation": {
+            "text": "(in) power",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-quwā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4901,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭩ",
+          "page_number": 526,
+          "line_number": 3,
+          "text": "ﭩ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94212,
+          "resource_id": 19,
+          "text": "Which one of mighty powers hath taught him,"
+        },
+        {
+          "id": 369076,
+          "resource_id": 79,
+          "text": "Научил его [Пророка] сильный мощью [ангел Джибрил],"
+        },
+        {
+          "id": 254529,
+          "resource_id": 45,
+          "text": "Научил его обладающий могучей силой"
+        },
+        {
+          "id": 142532,
+          "resource_id": 27,
+          "text": "Belehrt hat ihn der Besitzer starker Kräfte,"
+        }
+      ]
+    },
+    {
+      "id": 4790,
+      "verse_number": 6,
+      "verse_key": "53:6",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 6144,
+          "position": 1,
+          "audio_url": "wbw/053_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭪ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭪ",
+          "translation": {
+            "text": "Possessor of soundness",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dhū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6145,
+          "position": 2,
+          "audio_url": "wbw/053_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭫ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭫ",
+          "translation": {
+            "text": "Possessor of soundness",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mirratin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6146,
+          "position": 3,
+          "audio_url": "wbw/053_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭬ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭬ",
+          "translation": {
+            "text": "And he rose",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fa-is'tawā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6147,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭭ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭭ",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94224,
+          "resource_id": 19,
+          "text": "One vigorous; and he grew clear to view"
+        },
+        {
+          "id": 369077,
+          "resource_id": 79,
+          "text": "(у которого) прекрасное сложение [он красив и великолепен], и утвердился"
+        },
+        {
+          "id": 254541,
+          "resource_id": 45,
+          "text": "и прекрасным сложением (или благоразумием). Он вознесся (или выпрямился)"
+        },
+        {
+          "id": 143366,
+          "resource_id": 27,
+          "text": "der (geistige) Macht besitzt. So stand Er da"
+        }
+      ]
+    },
+    {
+      "id": 4791,
+      "verse_number": 7,
+      "verse_key": "53:7",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 7482,
+          "position": 1,
+          "audio_url": "wbw/053_007_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭮ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭮ",
+          "translation": {
+            "text": "While he",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wahuwa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7483,
+          "position": 2,
+          "audio_url": "wbw/053_007_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭯ",
+          "translation": {
+            "text": "(was) in the horizon ",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-ufuqi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7484,
+          "position": 3,
+          "audio_url": "wbw/053_007_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭰ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭰ",
+          "translation": {
+            "text": "the highest",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-aʿlā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7485,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭱ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭱ",
+          "translation": {
+            "text": "(7)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94229,
+          "resource_id": 19,
+          "text": "When he was on the uppermost horizon."
+        },
+        {
+          "id": 369078,
+          "resource_id": 79,
+          "text": "(когда он находился) на наивысшем горизонте (в том виде, в котором создал его Аллах Всевышний),"
+        },
+        {
+          "id": 254546,
+          "resource_id": 45,
+          "text": "на наивысшем горизонте."
+        },
+        {
+          "id": 143374,
+          "resource_id": 27,
+          "text": "und war am obersten Gesichtskreis."
+        }
+      ]
+    },
+    {
+      "id": 4792,
+      "verse_number": 8,
+      "verse_key": "53:8",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 8727,
+          "position": 1,
+          "audio_url": "wbw/053_008_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭲ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭲ",
+          "translation": {
+            "text": "Then",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "thumma",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8728,
+          "position": 2,
+          "audio_url": "wbw/053_008_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭳ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭳ",
+          "translation": {
+            "text": "he approached",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "danā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8729,
+          "position": 3,
+          "audio_url": "wbw/053_008_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭴ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭴ",
+          "translation": {
+            "text": "and came down",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fatadallā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8730,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭵ",
+          "page_number": 526,
+          "line_number": 4,
+          "text": "ﭵ",
+          "translation": {
+            "text": "(8)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94231,
+          "resource_id": 19,
+          "text": "Then he drew nigh and came down"
+        },
+        {
+          "id": 369079,
+          "resource_id": 79,
+          "text": "потом (ангел Джибрил) приблизился (к Мухаммаду) и спустился (став еще ближе),"
+        },
+        {
+          "id": 254399,
+          "resource_id": 45,
+          "text": "Потом он приблизился и спустился."
+        },
+        {
+          "id": 143368,
+          "resource_id": 27,
+          "text": "Hierauf kam er näher und stieg herunter,"
+        }
+      ]
+    },
+    {
+      "id": 4793,
+      "verse_number": 9,
+      "verse_key": "53:9",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 9952,
+          "position": 1,
+          "audio_url": "wbw/053_009_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭶ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭶ",
+          "translation": {
+            "text": "And was",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fakāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9953,
+          "position": 2,
+          "audio_url": "wbw/053_009_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭷ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭷ",
+          "translation": {
+            "text": "(at) a distance",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qāba",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9954,
+          "position": 3,
+          "audio_url": "wbw/053_009_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭸ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭸ",
+          "translation": {
+            "text": "(of) two bow-(lengths)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qawsayni",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9955,
+          "position": 4,
+          "audio_url": "wbw/053_009_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭹ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭹ",
+          "translation": {
+            "text": "or",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "aw",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9956,
+          "position": 5,
+          "audio_url": "wbw/053_009_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭺ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭺ",
+          "translation": {
+            "text": "nearer",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "adnā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9957,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭻ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭻ",
+          "translation": {
+            "text": "(9)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94233,
+          "resource_id": 19,
+          "text": "Till he was (distant) two bows' length or even nearer,"
+        },
+        {
+          "id": 369080,
+          "resource_id": 79,
+          "text": "и был он [ангел Джибрил] (от Пророка) на расстоянии двух полетов стрелы и даже еще ближе,"
+        },
+        {
+          "id": 254472,
+          "resource_id": 45,
+          "text": "Он находился от него (Джибрил от Мухаммада или Мухаммад от Аллаха) на расстоянии двух луков или даже ближе."
+        },
+        {
+          "id": 143370,
+          "resource_id": 27,
+          "text": "so daß er (nur) zwei Bogenlängen entfernt war oder noch näher."
+        }
+      ]
+    },
+    {
+      "id": 4794,
+      "verse_number": 10,
+      "verse_key": "53:10",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 210,
+      "ruku_number": 462,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "page_number": 526,
+      "juz_number": 27,
+      "words": [
+        {
+          "id": 11155,
+          "position": 1,
+          "audio_url": "wbw/053_010_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭼ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭼ",
+          "translation": {
+            "text": "So he revealed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fa-awḥā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11156,
+          "position": 2,
+          "audio_url": "wbw/053_010_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭽ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭽ",
+          "translation": {
+            "text": "to",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11157,
+          "position": 3,
+          "audio_url": "wbw/053_010_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭾ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭾ",
+          "translation": {
+            "text": "His slave",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿabdihi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11158,
+          "position": 4,
+          "audio_url": "wbw/053_010_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭿ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﭿ",
+          "translation": {
+            "text": "what",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11159,
+          "position": 5,
+          "audio_url": "wbw/053_010_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮀ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﮀ",
+          "translation": {
+            "text": "he revealed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "awḥā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11160,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮁ",
+          "page_number": 526,
+          "line_number": 5,
+          "text": "ﮁ",
+          "translation": {
+            "text": "(10)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 94163,
+          "resource_id": 19,
+          "text": "And He revealed unto His slave that which He revealed."
+        },
+        {
+          "id": 369081,
+          "resource_id": 79,
+          "text": "и внушил Он [Аллах] откровением (через ангела Джибриля) Своему рабу [Мухаммаду] то, что внушил [нечто очень важное и великое, а именно Слово Аллаха – Коран]."
+        },
+        {
+          "id": 254492,
+          "resource_id": 45,
+          "text": "Он внушил Его рабу откровение,"
+        },
+        {
+          "id": 143316,
+          "resource_id": 27,
+          "text": "Da gab Er Seinem Diener (als Offenbarung) ein, was Er eingab."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": 2,
+    "total_pages": 7,
+    "total_records": 62
+  }
+}

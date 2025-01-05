@@ -1,0 +1,1101 @@
+{
+  "verses": [
+    {
+      "id": 5801,
+      "verse_number": 1,
+      "verse_key": "81:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 695,
+          "position": 1,
+          "audio_url": "wbw/081_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭑ",
+          "translation": {
+            "text": "When",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 696,
+          "position": 2,
+          "audio_url": "wbw/081_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭒ",
+          "translation": {
+            "text": "the sun",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-shamsu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 697,
+          "position": 3,
+          "audio_url": "wbw/081_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭓ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭓ",
+          "translation": {
+            "text": "is wrapped up",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kuwwirat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 698,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭔ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭔ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95614,
+          "resource_id": 19,
+          "text": "When the sun is overthrown,"
+        },
+        {
+          "id": 370088,
+          "resource_id": 79,
+          "text": "Когда солнце будет скручено (и лишится своего сияния и будет брошено) [перед наступлением Дня Суда],"
+        },
+        {
+          "id": 255952,
+          "resource_id": 45,
+          "text": "Когда солнце будет свернуто (или потеряет свое сияние, или будет выброшено),"
+        },
+        {
+          "id": 144757,
+          "resource_id": 27,
+          "text": "Wenn die Sonne umschlungen wird’"
+        }
+      ]
+    },
+    {
+      "id": 5802,
+      "verse_number": 2,
+      "verse_key": "81:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 1722,
+          "position": 1,
+          "audio_url": "wbw/081_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭕ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1723,
+          "position": 2,
+          "audio_url": "wbw/081_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭖ",
+          "translation": {
+            "text": "the stars",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nujūmu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1724,
+          "position": 3,
+          "audio_url": "wbw/081_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭗ",
+          "translation": {
+            "text": "fall, losing their luster",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "inkadarat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1725,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭘ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭘ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95626,
+          "resource_id": 19,
+          "text": "And when the stars fall,"
+        },
+        {
+          "id": 370089,
+          "resource_id": 79,
+          "text": "и когда звезды падут [потеряют свой порядок и рассеются],"
+        },
+        {
+          "id": 255945,
+          "resource_id": 45,
+          "text": "когда падут звезды,"
+        },
+        {
+          "id": 144777,
+          "resource_id": 27,
+          "text": "und wenn die Sterne verstreut werden"
+        }
+      ]
+    },
+    {
+      "id": 5803,
+      "verse_number": 3,
+      "verse_key": "81:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 2845,
+          "position": 1,
+          "audio_url": "wbw/081_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭙ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2846,
+          "position": 2,
+          "audio_url": "wbw/081_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "page_number": 586,
+          "line_number": 3,
+          "text": "ﭚ",
+          "translation": {
+            "text": "the mountains",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-jibālu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2847,
+          "position": 3,
+          "audio_url": "wbw/081_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭛ",
+          "translation": {
+            "text": "are moved away",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "suyyirat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2848,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭜ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭜ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95638,
+          "resource_id": 19,
+          "text": "And when the hills are moved,"
+        },
+        {
+          "id": 370090,
+          "resource_id": 79,
+          "text": "и когда горы будут приведены в движение [оторвутся от земли, рассеются пылью и поплывут в пространстве]."
+        },
+        {
+          "id": 255947,
+          "resource_id": 45,
+          "text": "когда горы будут сдвинуты с мест (или приведены в движение),"
+        },
+        {
+          "id": 144768,
+          "resource_id": 27,
+          "text": "und wenn die Berge versetzt werden"
+        }
+      ]
+    },
+    {
+      "id": 5804,
+      "verse_number": 4,
+      "verse_key": "81:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 4210,
+          "position": 1,
+          "audio_url": "wbw/081_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭝ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭝ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4211,
+          "position": 2,
+          "audio_url": "wbw/081_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭞ",
+          "translation": {
+            "text": "the full-term she-camels",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ʿishāru",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4212,
+          "position": 3,
+          "audio_url": "wbw/081_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭟ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭟ",
+          "translation": {
+            "text": "(are) left untended",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿuṭṭilat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4213,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭠ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭠ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95640,
+          "resource_id": 19,
+          "text": "And when the camels big with young are abandoned,"
+        },
+        {
+          "id": 370091,
+          "resource_id": 79,
+          "text": "и когда верблюдицы на десятом месяце беременности (которые очень ценны и требуют особого присмотра) останутся без присмотра (из-за великого ужаса),"
+        },
+        {
+          "id": 255948,
+          "resource_id": 45,
+          "text": "когда верблюдицы на десятом месяце беременности останутся без присмотра,"
+        },
+        {
+          "id": 144770,
+          "resource_id": 27,
+          "text": "und wenn die trächtigen Kamelstuten vernachlässigt werden"
+        }
+      ]
+    },
+    {
+      "id": 5805,
+      "verse_number": 5,
+      "verse_key": "81:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 5469,
+          "position": 1,
+          "audio_url": "wbw/081_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭡ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5470,
+          "position": 2,
+          "audio_url": "wbw/081_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭢ",
+          "translation": {
+            "text": "the wild beasts",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-wuḥūshu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5471,
+          "position": 3,
+          "audio_url": "wbw/081_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭣ",
+          "page_number": 586,
+          "line_number": 4,
+          "text": "ﭣ",
+          "translation": {
+            "text": "are gathered",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḥushirat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5472,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭤ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭤ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95643,
+          "resource_id": 19,
+          "text": "And when the wild beasts are herded together,"
+        },
+        {
+          "id": 370092,
+          "resource_id": 79,
+          "text": "и когда (дикие) животные будут собраны."
+        },
+        {
+          "id": 255950,
+          "resource_id": 45,
+          "text": "когда дикие звери будут собраны,"
+        },
+        {
+          "id": 144772,
+          "resource_id": 27,
+          "text": "und wenn die wilden Tiere versammelt werden"
+        }
+      ]
+    },
+    {
+      "id": 5806,
+      "verse_number": 6,
+      "verse_key": "81:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 6689,
+          "position": 1,
+          "audio_url": "wbw/081_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭥ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭥ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6690,
+          "position": 2,
+          "audio_url": "wbw/081_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭦ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭦ",
+          "translation": {
+            "text": "the seas",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-biḥāru",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6691,
+          "position": 3,
+          "audio_url": "wbw/081_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭧ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭧ",
+          "translation": {
+            "text": "are made to overflow",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "sujjirat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6692,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭨ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭨ",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95647,
+          "resource_id": 19,
+          "text": "And when the seas rise,"
+        },
+        {
+          "id": 370093,
+          "resource_id": 79,
+          "text": "и когда моря вспыхнут (огнем),"
+        },
+        {
+          "id": 255954,
+          "resource_id": 45,
+          "text": "когда моря запылают (или переполнятся; или опустеют; или перемешаются; или станут красными),"
+        },
+        {
+          "id": 144775,
+          "resource_id": 27,
+          "text": "und wenn die Meere zum Überfließen gebracht werden"
+        }
+      ]
+    },
+    {
+      "id": 5807,
+      "verse_number": 7,
+      "verse_key": "81:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 8052,
+          "position": 1,
+          "audio_url": "wbw/081_007_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭩ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭩ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8053,
+          "position": 2,
+          "audio_url": "wbw/081_007_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭪ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭪ",
+          "translation": {
+            "text": "the souls",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nufūsu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8054,
+          "position": 3,
+          "audio_url": "wbw/081_007_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭫ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭫ",
+          "translation": {
+            "text": "are paired",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "zuwwijat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8055,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭬ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭬ",
+          "translation": {
+            "text": "(7)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95649,
+          "resource_id": 19,
+          "text": "And when souls are reunited,"
+        },
+        {
+          "id": 370094,
+          "resource_id": 79,
+          "text": "и когда души будут распределены (по группам) [иудей к иудеям, христианин к христианам, многобожник к многобожникам, лицемер к лицемерам, а верующий к верующим]."
+        },
+        {
+          "id": 251251,
+          "resource_id": 45,
+          "text": "когда души объединятся (праведники объединятся с праведниками, а грешники - с грешниками; или праведники соединятся с райскими гуриями, а неверующие - с дьяволами; или души соединятся с телами),"
+        },
+        {
+          "id": 144781,
+          "resource_id": 27,
+          "text": "und wenn die Seelen gepaart werden"
+        }
+      ]
+    },
+    {
+      "id": 5808,
+      "verse_number": 8,
+      "verse_key": "81:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 9203,
+          "position": 1,
+          "audio_url": "wbw/081_008_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭭ",
+          "page_number": 586,
+          "line_number": 5,
+          "text": "ﭭ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9204,
+          "position": 2,
+          "audio_url": "wbw/081_008_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭮ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭮ",
+          "translation": {
+            "text": "the female infant buried alive",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-mawūdatu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9205,
+          "position": 3,
+          "audio_url": "wbw/081_008_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭯ",
+          "translation": {
+            "text": "is asked",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "su-ilat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9206,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭰ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭰ",
+          "translation": {
+            "text": "(8)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95651,
+          "resource_id": 19,
+          "text": "And when the girl-child that was buried alive is asked"
+        },
+        {
+          "id": 370095,
+          "resource_id": 79,
+          "text": "и когда зарытая [похороненная] живьем (девочка) будет спрошена [[Рождение дочери у доисламских арабов считалось позором, и нередко отцы девочек, из-за частых издевательских насмешек своих соплеменников, уносили своих дочерей в пустыню и заживо закапывали в песок.]],"
+        },
+        {
+          "id": 255955,
+          "resource_id": 45,
+          "text": "когда зарытую живьем спросят,"
+        },
+        {
+          "id": 144779,
+          "resource_id": 27,
+          "text": "und wenn das lebendig begrabene Mädchen gefragt wird,"
+        }
+      ]
+    },
+    {
+      "id": 5809,
+      "verse_number": 9,
+      "verse_key": "81:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 10421,
+          "position": 1,
+          "audio_url": "wbw/081_009_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭱ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭱ",
+          "translation": {
+            "text": "For what",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bi-ayyi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10422,
+          "position": 2,
+          "audio_url": "wbw/081_009_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭲ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭲ",
+          "translation": {
+            "text": "sin",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dhanbin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10423,
+          "position": 3,
+          "audio_url": "wbw/081_009_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭳ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭳ",
+          "translation": {
+            "text": "she was killed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qutilat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10424,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭴ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭴ",
+          "translation": {
+            "text": "(9)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95653,
+          "resource_id": 19,
+          "text": "For what sin she was slain,"
+        },
+        {
+          "id": 370096,
+          "resource_id": 79,
+          "text": "за какой грех она была убита [на тех девочках не было никакого греха, чтобы их убить]."
+        },
+        {
+          "id": 258212,
+          "resource_id": 45,
+          "text": "за какой грех ее убили,"
+        },
+        {
+          "id": 144783,
+          "resource_id": 27,
+          "text": "wegen welcher Sünde es getötet wurde,"
+        }
+      ]
+    },
+    {
+      "id": 5810,
+      "verse_number": 10,
+      "verse_key": "81:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 11040,
+          "position": 1,
+          "audio_url": "wbw/081_010_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭵ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭵ",
+          "translation": {
+            "text": "And when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11041,
+          "position": 2,
+          "audio_url": "wbw/081_010_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭶ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭶ",
+          "translation": {
+            "text": "the pages",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ṣuḥufu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11042,
+          "position": 3,
+          "audio_url": "wbw/081_010_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭷ",
+          "page_number": 586,
+          "line_number": 6,
+          "text": "ﭷ",
+          "translation": {
+            "text": "are laid open",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nushirat",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11043,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭸ",
+          "page_number": 586,
+          "line_number": 7,
+          "text": "ﭸ",
+          "translation": {
+            "text": "(10)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95615,
+          "resource_id": 19,
+          "text": "And when the pages are laid open,"
+        },
+        {
+          "id": 370097,
+          "resource_id": 79,
+          "text": "и когда свитки (с записями дел) будут развернуты (для расчета),"
+        },
+        {
+          "id": 255933,
+          "resource_id": 45,
+          "text": "когда свитки с деяниями рабов будут развернуты,"
+        },
+        {
+          "id": 144746,
+          "resource_id": 27,
+          "text": "und wenn die Blätter aufgeschlagen werden"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": 2,
+    "total_pages": 3,
+    "total_records": 29
+  }
+}

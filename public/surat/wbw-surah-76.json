@@ -1,0 +1,2001 @@
+{
+  "verses": [
+    {
+      "id": 5592,
+      "verse_number": 1,
+      "verse_key": "76:1",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 639,
+          "position": 1,
+          "audio_url": "wbw/076_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯜ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯜ",
+          "translation": {
+            "text": "Has",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "hal",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 640,
+          "position": 2,
+          "audio_url": "wbw/076_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯝ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯝ",
+          "translation": {
+            "text": "(there) come",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "atā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 641,
+          "position": 3,
+          "audio_url": "wbw/076_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯞ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯞ",
+          "translation": {
+            "text": "upon",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿalā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 642,
+          "position": 4,
+          "audio_url": "wbw/076_001_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯟ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯟ",
+          "translation": {
+            "text": "man",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-insāni",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 643,
+          "position": 5,
+          "audio_url": "wbw/076_001_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯠ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯠ",
+          "translation": {
+            "text": "a period",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḥīnun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 644,
+          "position": 6,
+          "audio_url": "wbw/076_001_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯡ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯡ",
+          "translation": {
+            "text": "of",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mina",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 645,
+          "position": 7,
+          "audio_url": "wbw/076_001_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯢ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯢ",
+          "translation": {
+            "text": "time",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-dahri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 646,
+          "position": 8,
+          "audio_url": "wbw/076_001_008.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯣ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯣ",
+          "translation": {
+            "text": "not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lam",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 647,
+          "position": 9,
+          "audio_url": "wbw/076_001_009.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯤ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯤ",
+          "translation": {
+            "text": "he was",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yakun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 648,
+          "position": 10,
+          "audio_url": "wbw/076_001_010.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯥ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯥ",
+          "translation": {
+            "text": "a thing",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "shayan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 649,
+          "position": 11,
+          "audio_url": "wbw/076_001_011.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯦ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯦ",
+          "translation": {
+            "text": "mentioned",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "madhkūran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 650,
+          "position": 12,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﯧ",
+          "page_number": 578,
+          "line_number": 11,
+          "text": "ﯧ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95365,
+          "resource_id": 19,
+          "text": "Hath there come upon man (ever) any period of time in which he was a thing unremembered?"
+        },
+        {
+          "id": 369879,
+          "resource_id": 79,
+          "text": "Прошел ли для человека (некий) срок времени (с момента, когда в нем еще не было духа), (когда) он не был чем-то упоминаемым [о нем даже не упоминали]?"
+        },
+        {
+          "id": 255698,
+          "resource_id": 45,
+          "text": "Неужели не прошло то время, когда человек был безвестен?"
+        },
+        {
+          "id": 144498,
+          "resource_id": 27,
+          "text": "Ist (nicht) über den Menschen eine Spanne der endlosen Zeit gekommen, in der er nichts Nennenswertes ist?"
+        }
+      ]
+    },
+    {
+      "id": 5593,
+      "verse_number": 2,
+      "verse_key": "76:2",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 1621,
+          "position": 1,
+          "audio_url": "wbw/076_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯨ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯨ",
+          "translation": {
+            "text": "Indeed, We",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1622,
+          "position": 2,
+          "audio_url": "wbw/076_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯩ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯩ",
+          "translation": {
+            "text": "[We] created",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "khalaqnā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1623,
+          "position": 3,
+          "audio_url": "wbw/076_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯪ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯪ",
+          "translation": {
+            "text": "man",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-insāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1624,
+          "position": 4,
+          "audio_url": "wbw/076_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯫ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯫ",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1625,
+          "position": 5,
+          "audio_url": "wbw/076_002_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯬ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯬ",
+          "translation": {
+            "text": "a semen-drop",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nuṭ'fatin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1626,
+          "position": 6,
+          "audio_url": "wbw/076_002_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯭ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯭ",
+          "translation": {
+            "text": "a mixture",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "amshājin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1627,
+          "position": 7,
+          "audio_url": "wbw/076_002_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯮ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯮ",
+          "translation": {
+            "text": "(that) We test him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nabtalīhi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1628,
+          "position": 8,
+          "audio_url": "wbw/076_002_008.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯯ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯯ",
+          "translation": {
+            "text": "so We made (for) him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fajaʿalnāhu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1629,
+          "position": 9,
+          "audio_url": "wbw/076_002_009.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯰ",
+          "page_number": 578,
+          "line_number": 12,
+          "text": "ﯰ",
+          "translation": {
+            "text": "hearing",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "samīʿan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1630,
+          "position": 10,
+          "audio_url": "wbw/076_002_010.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯱ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯱ",
+          "translation": {
+            "text": "and sight",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "baṣīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1631,
+          "position": 11,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﯲ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯲ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95377,
+          "resource_id": 19,
+          "text": "Lo! We create man from a drop of thickened fluid to test him; so We make him hearing, knowing."
+        },
+        {
+          "id": 369880,
+          "resource_id": 79,
+          "text": "Поистине, Мы создали человека из капли, смеси (мужской жидкости и женской), испытывая его (когда он достигнет совершеннолетия) (возлагая на него обязанности), и сделали его (для этого) слышащим (чтобы слышал Наши доводы), (и) видящим (чтобы видел Наши знамения)."
+        },
+        {
+          "id": 255695,
+          "resource_id": 45,
+          "text": "Мы создали человека из смешанной капли, подвергая его испытанию, и сделали его слышащим и зрячим."
+        },
+        {
+          "id": 144510,
+          "resource_id": 27,
+          "text": "Wir haben den Menschen ja aus einem Samentropfen, einem Gemisch erschaffen, (um) ihn zu prüfen. Und so haben Wir ihn mit Gehör und Augenlicht versehen."
+        }
+      ]
+    },
+    {
+      "id": 5594,
+      "verse_number": 3,
+      "verse_key": "76:3",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 2751,
+          "position": 1,
+          "audio_url": "wbw/076_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯳ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯳ",
+          "translation": {
+            "text": "Indeed, We",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2752,
+          "position": 2,
+          "audio_url": "wbw/076_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯴ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯴ",
+          "translation": {
+            "text": "guided him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "hadaynāhu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2753,
+          "position": 3,
+          "audio_url": "wbw/076_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯵ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯵ",
+          "translation": {
+            "text": "(to) the way",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-sabīla",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2754,
+          "position": 4,
+          "audio_url": "wbw/076_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯶ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯶ",
+          "translation": {
+            "text": "whether",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "immā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2755,
+          "position": 5,
+          "audio_url": "wbw/076_003_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯷ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯷ",
+          "translation": {
+            "text": "(he) be grateful",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "shākiran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2756,
+          "position": 6,
+          "audio_url": "wbw/076_003_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯸ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯸ",
+          "translation": {
+            "text": "and whether",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-immā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2757,
+          "position": 7,
+          "audio_url": "wbw/076_003_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯹ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯹ",
+          "translation": {
+            "text": "(he) be ungrateful",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kafūran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2758,
+          "position": 8,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﯺ",
+          "page_number": 578,
+          "line_number": 13,
+          "text": "ﯺ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95389,
+          "resource_id": 19,
+          "text": "Lo! We have shown him the way, whether he be grateful or disbelieving."
+        },
+        {
+          "id": 369881,
+          "resource_id": 79,
+          "text": "Поистине, Мы повели его [человека] по пути [показали и разъяснили путь истины и заблуждения, добра и зла] (после чего он, сам выберет путь, и будет) либо благодарным (и верующим), либо неблагодарным (и неверующим)."
+        },
+        {
+          "id": 255390,
+          "resource_id": 45,
+          "text": "Мы повели его путем либо благодарным, либо неблагодарным."
+        },
+        {
+          "id": 144523,
+          "resource_id": 27,
+          "text": "Wir haben ihn ja den (rechten) Weg geleitet, ob er nun dankbar oder undankbar sein mag."
+        }
+      ]
+    },
+    {
+      "id": 5595,
+      "verse_number": 4,
+      "verse_key": "76:4",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 4055,
+          "position": 1,
+          "audio_url": "wbw/076_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯻ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﯻ",
+          "translation": {
+            "text": "Indeed, We",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4056,
+          "position": 2,
+          "audio_url": "wbw/076_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯼ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﯼ",
+          "translation": {
+            "text": "[We] have prepared",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "aʿtadnā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4057,
+          "position": 3,
+          "audio_url": "wbw/076_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯽ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﯽ",
+          "translation": {
+            "text": "for the disbelievers",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lil'kāfirīna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4058,
+          "position": 4,
+          "audio_url": "wbw/076_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯾ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﯾ",
+          "translation": {
+            "text": "chains",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "salāsilā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4059,
+          "position": 5,
+          "audio_url": "wbw/076_004_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﯿ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﯿ",
+          "translation": {
+            "text": "and shackles",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-aghlālan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4060,
+          "position": 6,
+          "audio_url": "wbw/076_004_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰀ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﰀ",
+          "translation": {
+            "text": "and a Blazing Fire",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wasaʿīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4061,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﰁ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﰁ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95393,
+          "resource_id": 19,
+          "text": "Lo! We have prepared for disbelievers manacles and carcans and a raging fire."
+        },
+        {
+          "id": 369882,
+          "resource_id": 79,
+          "text": "Поистине, Мы приготовили для неверных цепи (в которых их поволокут к Аду), (огненные) оковы (чтобы приковать их руки к шеям) и огонь (в котором они будут гореть вечно)."
+        },
+        {
+          "id": 258202,
+          "resource_id": 45,
+          "text": "Мы приготовили для неверующих цепи, оковы и пламя."
+        },
+        {
+          "id": 144527,
+          "resource_id": 27,
+          "text": "Wir haben ja für die Ungläubigen Ketten und Fesseln und eine Feuerglut bereitet."
+        }
+      ]
+    },
+    {
+      "id": 5596,
+      "verse_number": 5,
+      "verse_key": "76:5",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 5392,
+          "position": 1,
+          "audio_url": "wbw/076_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰂ",
+          "page_number": 578,
+          "line_number": 14,
+          "text": "ﰂ",
+          "translation": {
+            "text": "Indeed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "inna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5393,
+          "position": 2,
+          "audio_url": "wbw/076_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰃ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰃ",
+          "translation": {
+            "text": "the righteous",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-abrāra",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5394,
+          "position": 3,
+          "audio_url": "wbw/076_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰄ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰄ",
+          "translation": {
+            "text": "will drink",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yashrabūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5395,
+          "position": 4,
+          "audio_url": "wbw/076_005_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰅ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰅ",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5396,
+          "position": 5,
+          "audio_url": "wbw/076_005_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰆ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰆ",
+          "translation": {
+            "text": "a cup",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kasin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5397,
+          "position": 6,
+          "audio_url": "wbw/076_005_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰇ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰇ",
+          "translation": {
+            "text": "is",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5398,
+          "position": 7,
+          "audio_url": "wbw/076_005_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰈ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰈ",
+          "translation": {
+            "text": "its mixture",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mizājuhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5399,
+          "position": 8,
+          "audio_url": "wbw/076_005_008.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﰉ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰉ",
+          "translation": {
+            "text": "(of) Kafur",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kāfūran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5400,
+          "position": 9,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﰊ",
+          "page_number": 578,
+          "line_number": 15,
+          "text": "ﰊ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95395,
+          "resource_id": 19,
+          "text": "Lo! the righteous shall drink of a cup whereof the mixture is of Kafur,"
+        },
+        {
+          "id": 369883,
+          "resource_id": 79,
+          "text": "Поистине, благочестивые [те, которые были покорны Аллаху] будут пить (в Раю) из кубка, в котором (вино) смешанное с камфарой [имеющим самый лучший аромат]."
+        },
+        {
+          "id": 257654,
+          "resource_id": 45,
+          "text": "А благочестивые будут пить из чаши вино, смешанное с камфарой."
+        },
+        {
+          "id": 144529,
+          "resource_id": 27,
+          "text": "Gewiß, die Frommen trinken aus einem Becher, dessen Beimischung Kampfer ist,"
+        }
+      ]
+    },
+    {
+      "id": 5597,
+      "verse_number": 6,
+      "verse_key": "76:6",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 6625,
+          "position": 1,
+          "audio_url": "wbw/076_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭑ",
+          "translation": {
+            "text": "A spring ",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿaynan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6626,
+          "position": 2,
+          "audio_url": "wbw/076_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭒ",
+          "translation": {
+            "text": "will drink",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yashrabu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6627,
+          "position": 3,
+          "audio_url": "wbw/076_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭓ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭓ",
+          "translation": {
+            "text": "from it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bihā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6628,
+          "position": 4,
+          "audio_url": "wbw/076_006_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭔ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭔ",
+          "translation": {
+            "text": "(the) slaves",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿibādu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6629,
+          "position": 5,
+          "audio_url": "wbw/076_006_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭕ",
+          "translation": {
+            "text": "(of) Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6630,
+          "position": 6,
+          "audio_url": "wbw/076_006_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭖ",
+          "translation": {
+            "text": "causing it to gush forth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yufajjirūnahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6631,
+          "position": 7,
+          "audio_url": "wbw/076_006_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭗ",
+          "translation": {
+            "text": "abundantly",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "tafjīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6632,
+          "position": 8,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭘ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭘ",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95397,
+          "resource_id": 19,
+          "text": "A spring wherefrom the slaves of Allah drink, making it gush forth abundantly,"
+        },
+        {
+          "id": 369884,
+          "resource_id": 79,
+          "text": "(И эта смесь вытекает) из источника, откуда пьют (остерегавшиеся грехов) рабы Аллаха, заставляя литься [направляя] его течением (туда, куда они хотят)."
+        },
+        {
+          "id": 255719,
+          "resource_id": 45,
+          "text": "Рабы Аллаха будут пить из источника, давая ему течь полноводными ручьями."
+        },
+        {
+          "id": 144531,
+          "resource_id": 27,
+          "text": "aus einer Quelle, aus der Allahs Diener trinken, die sie sprudelnd hervorströmen lassen."
+        }
+      ]
+    },
+    {
+      "id": 5598,
+      "verse_number": 7,
+      "verse_key": "76:7",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 7959,
+          "position": 1,
+          "audio_url": "wbw/076_007_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭙ",
+          "translation": {
+            "text": "They fulfill",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yūfūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7960,
+          "position": 2,
+          "audio_url": "wbw/076_007_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭚ",
+          "translation": {
+            "text": "the vows",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-nadhri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7961,
+          "position": 3,
+          "audio_url": "wbw/076_007_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "page_number": 579,
+          "line_number": 1,
+          "text": "ﭛ",
+          "translation": {
+            "text": "and fear",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wayakhāfūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7962,
+          "position": 4,
+          "audio_url": "wbw/076_007_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭜ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭜ",
+          "translation": {
+            "text": "a Day ",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yawman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7963,
+          "position": 5,
+          "audio_url": "wbw/076_007_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭝ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭝ",
+          "translation": {
+            "text": "(which) is",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kāna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7964,
+          "position": 6,
+          "audio_url": "wbw/076_007_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭞ",
+          "translation": {
+            "text": "its evil",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "sharruhu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7965,
+          "position": 7,
+          "audio_url": "wbw/076_007_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭟ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭟ",
+          "translation": {
+            "text": "widespread",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mus'taṭīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7966,
+          "position": 8,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭠ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭠ",
+          "translation": {
+            "text": "(7)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95399,
+          "resource_id": 19,
+          "text": "(Because) they perform the vow and fear a day whereof the evil is wide-spreading,"
+        },
+        {
+          "id": 369885,
+          "resource_id": 79,
+          "text": "Они (в своей земной жизни) исполняли обеты (которые они дали на повиновение Аллаху) и боялись (наказания Аллаха) в День (Суда), зло которого распространяется (на всех, кроме тех, кого помиловал Аллах)."
+        },
+        {
+          "id": 255715,
+          "resource_id": 45,
+          "text": "Они исполняют обеты и боятся дня, зло которого разлетается."
+        },
+        {
+          "id": 144533,
+          "resource_id": 27,
+          "text": "Sie erfüllen das Gelübde und fürchten einen Tag, dessen Übel sich wie im Flug ausbreitet,"
+        }
+      ]
+    },
+    {
+      "id": 5599,
+      "verse_number": 8,
+      "verse_key": "76:8",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 9123,
+          "position": 1,
+          "audio_url": "wbw/076_008_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭡ",
+          "translation": {
+            "text": "And they feed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wayuṭ'ʿimūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9124,
+          "position": 2,
+          "audio_url": "wbw/076_008_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭢ",
+          "translation": {
+            "text": "the food",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ṭaʿāma",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9125,
+          "position": 3,
+          "audio_url": "wbw/076_008_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭣ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭣ",
+          "translation": {
+            "text": "in spite of",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿalā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9126,
+          "position": 4,
+          "audio_url": "wbw/076_008_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭤ",
+          "translation": {
+            "text": "love (for) it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḥubbihi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9127,
+          "position": 5,
+          "audio_url": "wbw/076_008_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭥ",
+          "page_number": 579,
+          "line_number": 2,
+          "text": "ﭥ",
+          "translation": {
+            "text": "(to the) needy",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mis'kīnan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9128,
+          "position": 6,
+          "audio_url": "wbw/076_008_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭦ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭦ",
+          "translation": {
+            "text": "and (the) orphan",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wayatīman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9129,
+          "position": 7,
+          "audio_url": "wbw/076_008_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭧ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭧ",
+          "translation": {
+            "text": "and (the) captive",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-asīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9130,
+          "position": 8,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭨ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭨ",
+          "translation": {
+            "text": "(8)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95401,
+          "resource_id": 19,
+          "text": "And feed with food the needy wretch, the orphan and the prisoner, for love of Him,"
+        },
+        {
+          "id": 369886,
+          "resource_id": 79,
+          "text": "И они кормили едой, несмотря на (собственную потребность) и любовь к ней, неимущего, сироту и пленника (из числа многобожников и других):"
+        },
+        {
+          "id": 255717,
+          "resource_id": 45,
+          "text": "Они дают пищу беднякам, сиротам и пленникам, несмотря на то, что она желанна и для них самих."
+        },
+        {
+          "id": 144534,
+          "resource_id": 27,
+          "text": "und sie geben - obwohl man sie liebt - Speise zu essen einem Armen, einer Waisen und einem Gefangenen:"
+        }
+      ]
+    },
+    {
+      "id": 5600,
+      "verse_number": 9,
+      "verse_key": "76:9",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 10343,
+          "position": 1,
+          "audio_url": "wbw/076_009_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭩ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭩ",
+          "translation": {
+            "text": "Only",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10344,
+          "position": 2,
+          "audio_url": "wbw/076_009_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭪ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭪ",
+          "translation": {
+            "text": "we feed you",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nuṭ'ʿimukum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10345,
+          "position": 3,
+          "audio_url": "wbw/076_009_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭫ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭫ",
+          "translation": {
+            "text": "for (the) Countenance",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "liwajhi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10346,
+          "position": 4,
+          "audio_url": "wbw/076_009_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭬ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭬ",
+          "translation": {
+            "text": "(of) Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10347,
+          "position": 5,
+          "audio_url": "wbw/076_009_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭭ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭭ",
+          "translation": {
+            "text": "Not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10348,
+          "position": 6,
+          "audio_url": "wbw/076_009_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭮ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭮ",
+          "translation": {
+            "text": "we desire",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nurīdu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10349,
+          "position": 7,
+          "audio_url": "wbw/076_009_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭯ",
+          "translation": {
+            "text": "from you",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "minkum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10350,
+          "position": 8,
+          "audio_url": "wbw/076_009_008.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭰ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭰ",
+          "translation": {
+            "text": "any reward",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "jazāan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10351,
+          "position": 9,
+          "audio_url": "wbw/076_009_009.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭱ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭱ",
+          "translation": {
+            "text": "and not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10352,
+          "position": 10,
+          "audio_url": "wbw/076_009_010.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭲ",
+          "page_number": 579,
+          "line_number": 3,
+          "text": "ﭲ",
+          "translation": {
+            "text": "thanks",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "shukūran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10353,
+          "position": 11,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭳ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭳ",
+          "translation": {
+            "text": "(9)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95403,
+          "resource_id": 19,
+          "text": "(Saying): We feed you, for the sake of Allah only. We wish for no reward nor thanks from you;"
+        },
+        {
+          "id": 369887,
+          "resource_id": 79,
+          "text": "(И говорили они про себя): «Мы ведь кормим вас ради лика Аллаха [ради Его довольства] (и надеясь на Его награду); не желаем мы от вас ни воздаяния [платы], ни благодарности [похвалы]!"
+        },
+        {
+          "id": 255722,
+          "resource_id": 45,
+          "text": "Они говорят: «Мы кормим вас лишь ради Лика Аллаха и не хотим от вас ни награды, ни благодарности!"
+        },
+        {
+          "id": 144541,
+          "resource_id": 27,
+          "text": "Wir speisen euch nur um Allahs Angesicht willen. Wir wollen von euch weder Belohnung noch Dank."
+        }
+      ]
+    },
+    {
+      "id": 5601,
+      "verse_number": 10,
+      "verse_key": "76:10",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "words": [
+        {
+          "id": 11585,
+          "position": 1,
+          "audio_url": "wbw/076_010_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭴ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭴ",
+          "translation": {
+            "text": "Indeed, we",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11586,
+          "position": 2,
+          "audio_url": "wbw/076_010_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭵ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭵ",
+          "translation": {
+            "text": "fear",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nakhāfu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11587,
+          "position": 3,
+          "audio_url": "wbw/076_010_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭶ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭶ",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11588,
+          "position": 4,
+          "audio_url": "wbw/076_010_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭷ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭷ",
+          "translation": {
+            "text": "our Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbinā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11589,
+          "position": 5,
+          "audio_url": "wbw/076_010_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭸ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭸ",
+          "translation": {
+            "text": "a Day ",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yawman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11590,
+          "position": 6,
+          "audio_url": "wbw/076_010_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭹ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭹ",
+          "translation": {
+            "text": "harsh",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿabūsan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11591,
+          "position": 7,
+          "audio_url": "wbw/076_010_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭺ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭺ",
+          "translation": {
+            "text": "and distressful",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qamṭarīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11592,
+          "position": 8,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭻ",
+          "page_number": 579,
+          "line_number": 4,
+          "text": "ﭻ",
+          "translation": {
+            "text": "(10)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95366,
+          "resource_id": 19,
+          "text": "Lo! we fear from our Lord a day of frowning and of fate."
+        },
+        {
+          "id": 369888,
+          "resource_id": 79,
+          "text": "(И делаем Мы это, так как) поистине, Мы боимся от нашего Господа мрачного и грозного дня [Дня Суда]»."
+        },
+        {
+          "id": 255684,
+          "resource_id": 45,
+          "text": "Мы боимся от своего Господа того Мрачного и Томительного дня»."
+        },
+        {
+          "id": 144499,
+          "resource_id": 27,
+          "text": "Wir fürchten ja von unserem Herrn einen Tag, der düster blicken läßt, einen unheilvollen."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": 2,
+    "total_pages": 4,
+    "total_records": 31
+  }
+}

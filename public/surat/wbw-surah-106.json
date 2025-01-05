@@ -1,0 +1,537 @@
+{
+  "verses": [
+    {
+      "id": 6194,
+      "verse_number": 1,
+      "verse_key": "106:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "page_number": 602,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 266,
+          "position": 1,
+          "audio_url": "wbw/106_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭑ",
+          "translation": {
+            "text": "For (the) familiarity",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "liīlāfi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 267,
+          "position": 2,
+          "audio_url": "wbw/106_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭒ",
+          "translation": {
+            "text": "(of the) Quraish",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qurayshin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 268,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭓ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭓ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 90046,
+          "resource_id": 19,
+          "text": "For the taming of Qureysh."
+        },
+        {
+          "id": 370481,
+          "resource_id": 79,
+          "text": "(Восхищайтесь) единению курайшитов [племени, из которого происходит пророк Мухаммад],"
+        },
+        {
+          "id": 256850,
+          "resource_id": 45,
+          "text": "Ради единения курейшитов,"
+        },
+        {
+          "id": 145375,
+          "resource_id": 27,
+          "text": "Für die Vereinigung der Qurais"
+        }
+      ]
+    },
+    {
+      "id": 6195,
+      "verse_number": 2,
+      "verse_key": "106:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 961,
+          "position": 1,
+          "audio_url": "wbw/106_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭔ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭔ",
+          "translation": {
+            "text": "Their familiarity",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "īlāfihim",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 962,
+          "position": 2,
+          "audio_url": "wbw/106_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭕ",
+          "translation": {
+            "text": "(with the) journey",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "riḥ'lata",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 963,
+          "position": 3,
+          "audio_url": "wbw/106_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭖ",
+          "translation": {
+            "text": "(of) winter",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-shitāi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 964,
+          "position": 4,
+          "audio_url": "wbw/106_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 602,
+          "line_number": 3,
+          "text": "ﭗ",
+          "translation": {
+            "text": "and summer",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-ṣayfi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 965,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭘ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭘ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 90048,
+          "resource_id": 19,
+          "text": "For their taming (We cause) the caravans to set forth in winter and summer."
+        },
+        {
+          "id": 370482,
+          "resource_id": 79,
+          "text": "единению их в (торговых) поездках зимой (когда они отправлялись в Йемен) и летом [[Их торговля давала им определенное положение среди арабов. То, что они жили рядом с Каабой, было причиной для их безопасности, без которой невозможно было бы совершать эти поездки.]] (когда они ехали на Ближний Восток)..."
+        },
+        {
+          "id": 256864,
+          "resource_id": 45,
+          "text": "единения их во время зимних и летних поездок."
+        },
+        {
+          "id": 145371,
+          "resource_id": 27,
+          "text": "ihre Vereinigung während der Reise des Winters und des Sommers."
+        }
+      ]
+    },
+    {
+      "id": 6196,
+      "verse_number": 3,
+      "verse_key": "106:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 2411,
+          "position": 1,
+          "audio_url": "wbw/106_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭙ",
+          "translation": {
+            "text": "So let them worship",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "falyaʿbudū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2412,
+          "position": 2,
+          "audio_url": "wbw/106_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭚ",
+          "translation": {
+            "text": "(the) Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabba",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2413,
+          "position": 3,
+          "audio_url": "wbw/106_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭛ",
+          "translation": {
+            "text": "(of) this",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "hādhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2414,
+          "position": 4,
+          "audio_url": "wbw/106_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭜ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭜ",
+          "translation": {
+            "text": "House",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-bayti",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2415,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭝ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭝ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 90050,
+          "resource_id": 19,
+          "text": "So let them worship the Lord of this House,"
+        },
+        {
+          "id": 370483,
+          "resource_id": 79,
+          "text": "Пусть же они служат Господу этого Дома [[Уже за одно это благо, которое они имели от Аллаха, за Каабу, рядом с которой они жили, и из-за которой они обрели известность, они уже должны были бы поклоняться и служить Ему. Аллах, который является Господом Каабы, дал им знать о Себе, чтобы они оставили поклонение идолам.]] [Каабы],"
+        },
+        {
+          "id": 256884,
+          "resource_id": 45,
+          "text": "Пусть же они поклоняются Господу этого Дома (Каабы),"
+        },
+        {
+          "id": 145366,
+          "resource_id": 27,
+          "text": "So sollen sie dem Herrn dieses Hauses dienen,"
+        }
+      ]
+    },
+    {
+      "id": 6197,
+      "verse_number": 4,
+      "verse_key": "106:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "page_number": 602,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 3906,
+          "position": 1,
+          "audio_url": "wbw/106_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭞ",
+          "translation": {
+            "text": "The One Who",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alladhī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3907,
+          "position": 2,
+          "audio_url": "wbw/106_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭟ",
+          "page_number": 602,
+          "line_number": 4,
+          "text": "ﭟ",
+          "translation": {
+            "text": "feeds them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "aṭʿamahum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3908,
+          "position": 3,
+          "audio_url": "wbw/106_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭠ",
+          "page_number": 602,
+          "line_number": 5,
+          "text": "ﭠ",
+          "translation": {
+            "text": "[from]",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3909,
+          "position": 4,
+          "audio_url": "wbw/106_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "page_number": 602,
+          "line_number": 5,
+          "text": "ﭡ",
+          "translation": {
+            "text": "(against) hunger",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "jūʿin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3910,
+          "position": 5,
+          "audio_url": "wbw/106_004_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "page_number": 602,
+          "line_number": 5,
+          "text": "ﭢ",
+          "translation": {
+            "text": "and gives them security",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waāmanahum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3911,
+          "position": 6,
+          "audio_url": "wbw/106_004_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭣ",
+          "page_number": 602,
+          "line_number": 5,
+          "text": "ﭣ",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3912,
+          "position": 7,
+          "audio_url": "wbw/106_004_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "page_number": 602,
+          "line_number": 5,
+          "text": "ﭤ",
+          "translation": {
+            "text": "fear",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "khawfin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3913,
+          "position": 8,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭥ",
+          "page_number": 602,
+          "line_number": 5,
+          "text": "ﭥ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 90052,
+          "resource_id": 19,
+          "text": "Who hath fed them against hunger and hath made them safe from fear."
+        },
+        {
+          "id": 370484,
+          "resource_id": 79,
+          "text": "Который накормил их [курайшитов] после голода и даровал им безопасность после страха [[До этих двух ежегодных путешествий, курайшиты постоянно страдали от сильного голода. А их проживание на священной территории было гарантией их безопасности среди арабских племен, среди которых шли взаимные войны. А также Аллах обезопасил их от эфиопского войска, которое двигалось разрушить Каабу.]]."
+        },
+        {
+          "id": 252086,
+          "resource_id": 45,
+          "text": "Который накормил их после голода и избавил их от страха."
+        },
+        {
+          "id": 145363,
+          "resource_id": 27,
+          "text": "Der ihnen Speise nach ihrem Hunger gegeben und ihnen Sicherheit nach ihrer Furcht gewährt hat."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 4
+  }
+}

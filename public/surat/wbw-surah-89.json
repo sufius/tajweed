@@ -1,0 +1,1227 @@
+{
+  "verses": [
+    {
+      "id": 5994,
+      "verse_number": 1,
+      "verse_key": "89:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْفَجْرِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 729,
+          "position": 1,
+          "audio_url": "wbw/089_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭑ",
+          "translation": {
+            "text": "By the dawn",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-fajri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 730,
+          "position": 2,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭒ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭒ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95883,
+          "resource_id": 19,
+          "text": "By the Dawn"
+        },
+        {
+          "id": 370281,
+          "resource_id": 79,
+          "text": "(Я, Аллах) клянусь зарею,"
+        },
+        {
+          "id": 256176,
+          "resource_id": 45,
+          "text": "Клянусь зарею!"
+        },
+        {
+          "id": 145016,
+          "resource_id": 27,
+          "text": "Bei der Morgendämmerung"
+        }
+      ]
+    },
+    {
+      "id": 5995,
+      "verse_number": 2,
+      "verse_key": "89:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَيَالٍ عَشْرٍ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 1778,
+          "position": 1,
+          "audio_url": "wbw/089_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭓ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭓ",
+          "translation": {
+            "text": "And the nights",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walayālin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1779,
+          "position": 2,
+          "audio_url": "wbw/089_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭔ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭔ",
+          "translation": {
+            "text": "ten",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿashrin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1780,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭕ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭕ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95894,
+          "resource_id": 19,
+          "text": "And ten nights,"
+        },
+        {
+          "id": 370282,
+          "resource_id": 79,
+          "text": "и десятью ночами (месяца зуль-хиджжа) [[В первые десять дней месяца зуль-хиджжа совершается паломничество в Заповедную мечеть в Мекке и проходит праздник жертвоприношения.]],"
+        },
+        {
+          "id": 256181,
+          "resource_id": 45,
+          "text": "Клянусь десятью ночами!"
+        },
+        {
+          "id": 145020,
+          "resource_id": 27,
+          "text": "und den zehn Nächten"
+        }
+      ]
+    },
+    {
+      "id": 5996,
+      "verse_number": 3,
+      "verse_key": "89:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 2408,
+          "position": 1,
+          "audio_url": "wbw/089_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭖ",
+          "translation": {
+            "text": "And the even",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-shafʿi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2409,
+          "position": 2,
+          "audio_url": "wbw/089_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭗ",
+          "translation": {
+            "text": "and the odd",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wal-watri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2410,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭘ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭘ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95905,
+          "resource_id": 19,
+          "text": "And the Even and the Odd,"
+        },
+        {
+          "id": 370283,
+          "resource_id": 79,
+          "text": "и четом и нечетом [четным и нечетным количеством всего],"
+        },
+        {
+          "id": 256191,
+          "resource_id": 45,
+          "text": "Клянусь четом и нечетом!"
+        },
+        {
+          "id": 145031,
+          "resource_id": 27,
+          "text": "und dem geraden und dem ungeraden (Tag)"
+        }
+      ]
+    },
+    {
+      "id": 5997,
+      "verse_number": 4,
+      "verse_key": "89:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 3817,
+          "position": 1,
+          "audio_url": "wbw/089_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭙ",
+          "translation": {
+            "text": "And the night",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-al-layli",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3818,
+          "position": 2,
+          "audio_url": "wbw/089_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭚ",
+          "translation": {
+            "text": "when",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3819,
+          "position": 3,
+          "audio_url": "wbw/089_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "page_number": 593,
+          "line_number": 3,
+          "text": "ﭛ",
+          "translation": {
+            "text": "it passes",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yasri",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 3820,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭜ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭜ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95907,
+          "resource_id": 19,
+          "text": "And the night when it departeth,"
+        },
+        {
+          "id": 370284,
+          "resource_id": 79,
+          "text": "и ночью, когда она движется [приходит, становится и затем уходит]"
+        },
+        {
+          "id": 256192,
+          "resource_id": 45,
+          "text": "Клянусь ночью, когда она проходит!"
+        },
+        {
+          "id": 145033,
+          "resource_id": 27,
+          "text": "und der Nacht, wenn sie fortzieht!"
+        }
+      ]
+    },
+    {
+      "id": 5998,
+      "verse_number": 5,
+      "verse_key": "89:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 5125,
+          "position": 1,
+          "audio_url": "wbw/089_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭝ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭝ",
+          "translation": {
+            "text": "Is",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "hal",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5126,
+          "position": 2,
+          "audio_url": "wbw/089_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭞ",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5127,
+          "position": 3,
+          "audio_url": "wbw/089_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭟ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭟ",
+          "translation": {
+            "text": "that",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dhālika",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5128,
+          "position": 4,
+          "audio_url": "wbw/089_005_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭠ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭠ",
+          "translation": {
+            "text": "(not) an oath",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qasamun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5129,
+          "position": 5,
+          "audio_url": "wbw/089_005_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭡ",
+          "translation": {
+            "text": "for those",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lidhī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5130,
+          "position": 6,
+          "audio_url": "wbw/089_005_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭢ",
+          "translation": {
+            "text": "who understand",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḥij'rin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5131,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭣ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭣ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95908,
+          "resource_id": 19,
+          "text": "There surely is an oath for thinking man."
+        },
+        {
+          "id": 370285,
+          "resource_id": 79,
+          "text": "Разве в этом не клятва (Аллаха) для обладающего разумом?"
+        },
+        {
+          "id": 256193,
+          "resource_id": 45,
+          "text": "Неужели этих клятв не достаточно для обладающего разумом?"
+        },
+        {
+          "id": 145034,
+          "resource_id": 27,
+          "text": "Ist darin ein (ausreichender) Schwur für jemanden, der Klugheit besitzt?"
+        }
+      ]
+    },
+    {
+      "id": 5999,
+      "verse_number": 6,
+      "verse_key": "89:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 6346,
+          "position": 1,
+          "audio_url": "wbw/089_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭤ",
+          "translation": {
+            "text": "Did not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alam",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6347,
+          "position": 2,
+          "audio_url": "wbw/089_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭥ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭥ",
+          "translation": {
+            "text": "you see",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "tara",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6348,
+          "position": 3,
+          "audio_url": "wbw/089_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭦ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭦ",
+          "translation": {
+            "text": "how",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "kayfa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6349,
+          "position": 4,
+          "audio_url": "wbw/089_006_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭧ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭧ",
+          "translation": {
+            "text": "dealt",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "faʿala",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6350,
+          "position": 5,
+          "audio_url": "wbw/089_006_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭨ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭨ",
+          "translation": {
+            "text": "your Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbuka",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6351,
+          "position": 6,
+          "audio_url": "wbw/089_006_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭩ",
+          "page_number": 593,
+          "line_number": 4,
+          "text": "ﭩ",
+          "translation": {
+            "text": "with Aad",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "biʿādin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6352,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭪ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭪ",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95710,
+          "resource_id": 19,
+          "text": "Dost thou not consider how thy Lord dealt with (the tribe of) A'ad,"
+        },
+        {
+          "id": 370286,
+          "resource_id": 79,
+          "text": "Разве ты не видел, как поступил твой Господь с ‘адитами,"
+        },
+        {
+          "id": 256195,
+          "resource_id": 45,
+          "text": "Неужели ты не видел, как Господь твой поступил с адитами -"
+        },
+        {
+          "id": 145035,
+          "resource_id": 27,
+          "text": "Siehst du nicht, wie dein Herr mit den ’Ad verfuhr,"
+        }
+      ]
+    },
+    {
+      "id": 6000,
+      "verse_number": 7,
+      "verse_key": "89:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 7765,
+          "position": 1,
+          "audio_url": "wbw/089_007_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭫ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭫ",
+          "translation": {
+            "text": "Iram",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "irama",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7766,
+          "position": 2,
+          "audio_url": "wbw/089_007_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭬ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭬ",
+          "translation": {
+            "text": "possessors (of)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dhāti",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7767,
+          "position": 3,
+          "audio_url": "wbw/089_007_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭭ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭭ",
+          "translation": {
+            "text": "lofty pillars",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ʿimādi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 7768,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭮ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭮ",
+          "translation": {
+            "text": "(7)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95827,
+          "resource_id": 19,
+          "text": "With many-columned Iram,"
+        },
+        {
+          "id": 370287,
+          "resource_id": 79,
+          "text": "Ирамом, обладателем колонн [они жили в городах, в которых были колонны],"
+        },
+        {
+          "id": 256205,
+          "resource_id": 45,
+          "text": "народом Ирама, обладавшим колоннами (воздвигавшим высокие здания с колоннами или обладавшим могучим сложением и огромной силой),"
+        },
+        {
+          "id": 145036,
+          "resource_id": 27,
+          "text": "(mit) Iram mit den Stützen,"
+        }
+      ]
+    },
+    {
+      "id": 6001,
+      "verse_number": 8,
+      "verse_key": "89:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 8855,
+          "position": 1,
+          "audio_url": "wbw/089_008_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭯ",
+          "translation": {
+            "text": "Which",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "allatī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8856,
+          "position": 2,
+          "audio_url": "wbw/089_008_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭰ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭰ",
+          "translation": {
+            "text": "not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lam",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8857,
+          "position": 3,
+          "audio_url": "wbw/089_008_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭱ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭱ",
+          "translation": {
+            "text": "had been created",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yukh'laq",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8858,
+          "position": 4,
+          "audio_url": "wbw/089_008_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭲ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭲ",
+          "translation": {
+            "text": "like them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mith'luhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8859,
+          "position": 5,
+          "audio_url": "wbw/089_008_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭳ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭳ",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8860,
+          "position": 6,
+          "audio_url": "wbw/089_008_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭴ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭴ",
+          "translation": {
+            "text": "the cities",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-bilādi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8861,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭵ",
+          "page_number": 593,
+          "line_number": 5,
+          "text": "ﭵ",
+          "translation": {
+            "text": "(8)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95828,
+          "resource_id": 19,
+          "text": "The like of which was not created in the lands;"
+        },
+        {
+          "id": 370288,
+          "resource_id": 79,
+          "text": "подобных которым [‘адитам] не было создано в странах [на земле], [Им не было подобных по росту, телосложению и силе. Они говорили: «И кто же нас сильнее?»]"
+        },
+        {
+          "id": 256197,
+          "resource_id": 45,
+          "text": "подобных которому не было сотворено в городах?"
+        },
+        {
+          "id": 145037,
+          "resource_id": 27,
+          "text": "dergleichen nicht erschaffen wurden in den Landstrichen?"
+        }
+      ]
+    },
+    {
+      "id": 6002,
+      "verse_number": 9,
+      "verse_key": "89:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 10277,
+          "position": 1,
+          "audio_url": "wbw/089_009_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭶ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭶ",
+          "translation": {
+            "text": "And Thamud",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wathamūda",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10278,
+          "position": 2,
+          "audio_url": "wbw/089_009_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭷ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭷ",
+          "translation": {
+            "text": "who",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alladhīna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10279,
+          "position": 3,
+          "audio_url": "wbw/089_009_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭸ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭸ",
+          "translation": {
+            "text": "carved out",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "jābū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10280,
+          "position": 4,
+          "audio_url": "wbw/089_009_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭹ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭹ",
+          "translation": {
+            "text": "the rocks",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ṣakhra",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10281,
+          "position": 5,
+          "audio_url": "wbw/089_009_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭺ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭺ",
+          "translation": {
+            "text": "in the valley",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-wādi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 10282,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭻ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭻ",
+          "translation": {
+            "text": "(9)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95909,
+          "resource_id": 19,
+          "text": "And with (the tribe of) Thamud, who clove the rocks in the valley;"
+        },
+        {
+          "id": 370289,
+          "resource_id": 79,
+          "text": "и самудитами [[Самудиты (или самудяне) высекали в скалах себе дома, в которых и жили. Их долина располагалась в местности аль-Хиджр и долина селений, которая находится между Мединой и Сирией.]], которые пробивали скалы в долине,"
+        },
+        {
+          "id": 256198,
+          "resource_id": 45,
+          "text": "С самудянами, рассекавшими скалы в лощине?"
+        },
+        {
+          "id": 145038,
+          "resource_id": 27,
+          "text": "Und (mit) den Tamud, die im Tal die Felsen aushöhlten?"
+        }
+      ]
+    },
+    {
+      "id": 6003,
+      "verse_number": 10,
+      "verse_key": "89:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 533,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "page_number": 593,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 11493,
+          "position": 1,
+          "audio_url": "wbw/089_010_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭼ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭼ",
+          "translation": {
+            "text": "And Firaun",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wafir'ʿawna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11494,
+          "position": 2,
+          "audio_url": "wbw/089_010_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭽ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭽ",
+          "translation": {
+            "text": "owner of",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dhī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11495,
+          "position": 3,
+          "audio_url": "wbw/089_010_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭾ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭾ",
+          "translation": {
+            "text": "stakes",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-awtādi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 11496,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭿ",
+          "page_number": 593,
+          "line_number": 6,
+          "text": "ﭿ",
+          "translation": {
+            "text": "(10)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 95884,
+          "resource_id": 19,
+          "text": "And with Pharaoh, firm of might,"
+        },
+        {
+          "id": 370290,
+          "resource_id": 79,
+          "text": "и с Фараоном, обладателем кольев [пирамид и большого войска],"
+        },
+        {
+          "id": 256170,
+          "resource_id": 45,
+          "text": "С Фараоном, владевшим кольями (обладавшим множеством воинов, которые поддерживали его власть, подобно тому, как колышки поддерживают шатер, или привязывавшим людей к кольям во время казни)?"
+        },
+        {
+          "id": 145013,
+          "resource_id": 27,
+          "text": "Und (mit) Fir’aun, dem Besitzer der Pfähle,"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": 2,
+    "total_pages": 3,
+    "total_records": 30
+  }
+}

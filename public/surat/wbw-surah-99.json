@@ -1,0 +1,1099 @@
+{
+  "verses": [
+    {
+      "id": 6139,
+      "verse_number": 1,
+      "verse_key": "99:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 55,
+          "position": 1,
+          "audio_url": "wbw/099_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭩ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭩ",
+          "translation": {
+            "text": "When",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "idhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 56,
+          "position": 2,
+          "audio_url": "wbw/099_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭪ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭪ",
+          "translation": {
+            "text": "is shaken",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "zul'zilati",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 57,
+          "position": 3,
+          "audio_url": "wbw/099_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭫ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭫ",
+          "translation": {
+            "text": "the earth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-arḍu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 58,
+          "position": 4,
+          "audio_url": "wbw/099_001_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭬ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭬ",
+          "translation": {
+            "text": "(with) its earthquake",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "zil'zālahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 59,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭭ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭭ",
+          "translation": {
+            "text": "(1)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96148,
+          "resource_id": 19,
+          "text": "When Earth is shaken with her (final) earthquake"
+        },
+        {
+          "id": 370426,
+          "resource_id": 79,
+          "text": "Когда (в Час наступления Дня Суда) сотрясется земля своим сотрясением,"
+        },
+        {
+          "id": 252176,
+          "resource_id": 45,
+          "text": "Когда земля содрогнется от сотрясений,"
+        },
+        {
+          "id": 145275,
+          "resource_id": 27,
+          "text": "Wenn die Erde erschüttert wird durch ihr heftiges Beben"
+        }
+      ]
+    },
+    {
+      "id": 6140,
+      "verse_number": 2,
+      "verse_key": "99:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 1839,
+          "position": 1,
+          "audio_url": "wbw/099_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭮ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭮ",
+          "translation": {
+            "text": "And brings forth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-akhrajati",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1840,
+          "position": 2,
+          "audio_url": "wbw/099_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭯ",
+          "translation": {
+            "text": "the earth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-arḍu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1841,
+          "position": 3,
+          "audio_url": "wbw/099_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭰ",
+          "page_number": 599,
+          "line_number": 5,
+          "text": "ﭰ",
+          "translation": {
+            "text": "its burdens",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "athqālahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 1842,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭱ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭱ",
+          "translation": {
+            "text": "(2)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96150,
+          "resource_id": 19,
+          "text": "And Earth yieldeth up her burdens,"
+        },
+        {
+          "id": 370427,
+          "resource_id": 79,
+          "text": "и (затем после второго дуновения в Рог) выведет земля (из себя) свои ноши [умерших и сокровища],"
+        },
+        {
+          "id": 256427,
+          "resource_id": 45,
+          "text": "когда земля извергнет свою ношу,"
+        },
+        {
+          "id": 145279,
+          "resource_id": 27,
+          "text": "und die Erde hervorbringt ihre Lasten"
+        }
+      ]
+    },
+    {
+      "id": 6141,
+      "verse_number": 3,
+      "verse_key": "99:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 2911,
+          "position": 1,
+          "audio_url": "wbw/099_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭲ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭲ",
+          "translation": {
+            "text": "And says",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waqāla",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2912,
+          "position": 2,
+          "audio_url": "wbw/099_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭳ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭳ",
+          "translation": {
+            "text": "man",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-insānu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2913,
+          "position": 3,
+          "audio_url": "wbw/099_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭴ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭴ",
+          "translation": {
+            "text": "What",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2914,
+          "position": 4,
+          "audio_url": "wbw/099_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭵ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭵ",
+          "translation": {
+            "text": "(is) with it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 2915,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭶ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭶ",
+          "translation": {
+            "text": "(3)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96152,
+          "resource_id": 19,
+          "text": "And man saith: What aileth her?"
+        },
+        {
+          "id": 370428,
+          "resource_id": 79,
+          "text": "и скажет человек: «Что (происходит) с нею? [Почему она так сотрясается?]»"
+        },
+        {
+          "id": 256429,
+          "resource_id": 45,
+          "text": "и человек спросит, что же с нею,"
+        },
+        {
+          "id": 145277,
+          "resource_id": 27,
+          "text": "und der Mensch sagt: Was ist mit ihr?,"
+        }
+      ]
+    },
+    {
+      "id": 6142,
+      "verse_number": 4,
+      "verse_key": "99:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 4356,
+          "position": 1,
+          "audio_url": "wbw/099_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭷ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭷ",
+          "translation": {
+            "text": "That Day",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yawma-idhin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4357,
+          "position": 2,
+          "audio_url": "wbw/099_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭸ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭸ",
+          "translation": {
+            "text": "it will report",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "tuḥaddithu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4358,
+          "position": 3,
+          "audio_url": "wbw/099_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭹ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭹ",
+          "translation": {
+            "text": "its news",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "akhbārahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 4359,
+          "position": 4,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭺ",
+          "page_number": 599,
+          "line_number": 6,
+          "text": "ﭺ",
+          "translation": {
+            "text": "(4)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96154,
+          "resource_id": 19,
+          "text": "That day she will relate her chronicles,"
+        },
+        {
+          "id": 370429,
+          "resource_id": 79,
+          "text": "В тот день [в День Суда] расскажет она [земля] свои вести [о том, что творили рабы Аллаха на ней],"
+        },
+        {
+          "id": 258223,
+          "resource_id": 45,
+          "text": "в тот день она расскажет свои известия,"
+        },
+        {
+          "id": 145281,
+          "resource_id": 27,
+          "text": "an jenem Tag wird sie die Nachrichten über sich erzählen,"
+        }
+      ]
+    },
+    {
+      "id": 6143,
+      "verse_number": 5,
+      "verse_key": "99:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 5612,
+          "position": 1,
+          "audio_url": "wbw/099_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭻ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﭻ",
+          "translation": {
+            "text": "Because",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bi-anna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5613,
+          "position": 2,
+          "audio_url": "wbw/099_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭼ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﭼ",
+          "translation": {
+            "text": "your Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbaka",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5614,
+          "position": 3,
+          "audio_url": "wbw/099_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭽ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﭽ",
+          "translation": {
+            "text": "inspired",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "awḥā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5615,
+          "position": 4,
+          "audio_url": "wbw/099_005_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭾ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﭾ",
+          "translation": {
+            "text": "[to] it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lahā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 5616,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭿ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﭿ",
+          "translation": {
+            "text": "(5)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96156,
+          "resource_id": 19,
+          "text": "Because thy Lord inspireth her."
+        },
+        {
+          "id": 370430,
+          "resource_id": 79,
+          "text": "потому что Господь твой внушит ей [земле] (речь)."
+        },
+        {
+          "id": 256440,
+          "resource_id": 45,
+          "text": "потому что Господь твой внушит ей это."
+        },
+        {
+          "id": 145285,
+          "resource_id": 27,
+          "text": "weil dein Herr (es) ihr eingegeben hat."
+        }
+      ]
+    },
+    {
+      "id": 6144,
+      "verse_number": 6,
+      "verse_key": "99:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 6824,
+          "position": 1,
+          "audio_url": "wbw/099_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮀ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﮀ",
+          "translation": {
+            "text": "That Day",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yawma-idhin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6825,
+          "position": 2,
+          "audio_url": "wbw/099_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮁ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﮁ",
+          "translation": {
+            "text": "will proceed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yaṣduru",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6826,
+          "position": 3,
+          "audio_url": "wbw/099_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮂ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﮂ",
+          "translation": {
+            "text": "the mankind",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nāsu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6827,
+          "position": 4,
+          "audio_url": "wbw/099_006_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮃ",
+          "page_number": 599,
+          "line_number": 7,
+          "text": "ﮃ",
+          "translation": {
+            "text": "(in) scattered groups",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ashtātan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6828,
+          "position": 5,
+          "audio_url": "wbw/099_006_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮄ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮄ",
+          "translation": {
+            "text": "to be shown",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "liyuraw",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6829,
+          "position": 6,
+          "audio_url": "wbw/099_006_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮅ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮅ",
+          "translation": {
+            "text": "their deeds",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "aʿmālahum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 6830,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮆ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮆ",
+          "translation": {
+            "text": "(6)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96158,
+          "resource_id": 19,
+          "text": "That day mankind will issue forth in scattered groups to be shown their deeds."
+        },
+        {
+          "id": 370431,
+          "resource_id": 79,
+          "text": "В тот день [в День Суда] выйдут люди (из места расчета) толпами (по своим вероубеждениям и поступкам), чтобы им показаны были их деяния;"
+        },
+        {
+          "id": 256434,
+          "resource_id": 45,
+          "text": "В тот день люди выйдут толпами, чтобы им показали их деяния."
+        },
+        {
+          "id": 145283,
+          "resource_id": 27,
+          "text": "An jenem Tag werden die Menschen (in Gruppen) getrennt herauskommen, damit ihnen ihre Werke gezeigt werden."
+        }
+      ]
+    },
+    {
+      "id": 6145,
+      "verse_number": 7,
+      "verse_key": "99:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 8354,
+          "position": 1,
+          "audio_url": "wbw/099_007_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮇ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮇ",
+          "translation": {
+            "text": "So whoever",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "faman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8355,
+          "position": 2,
+          "audio_url": "wbw/099_007_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮈ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮈ",
+          "translation": {
+            "text": "does",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yaʿmal",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8356,
+          "position": 3,
+          "audio_url": "wbw/099_007_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮉ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮉ",
+          "translation": {
+            "text": "(equal to the) weight",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mith'qāla",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8357,
+          "position": 4,
+          "audio_url": "wbw/099_007_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮊ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮊ",
+          "translation": {
+            "text": "(of) an atom",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dharratin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8358,
+          "position": 5,
+          "audio_url": "wbw/099_007_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮋ",
+          "page_number": 599,
+          "line_number": 8,
+          "text": "ﮋ",
+          "translation": {
+            "text": "good",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "khayran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8359,
+          "position": 6,
+          "audio_url": "wbw/099_007_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮌ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮌ",
+          "translation": {
+            "text": "will see it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yarahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 8360,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮍ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮍ",
+          "translation": {
+            "text": "(7)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96160,
+          "resource_id": 19,
+          "text": "And whoso doeth good an atom's weight will see it then,"
+        },
+        {
+          "id": 370432,
+          "resource_id": 79,
+          "text": "и кто (в своей жизни) совершил благое (дело) (даже хоть) на вес пылинки, увидит его (в книге своих дел записанным, и возрадуется этому),"
+        },
+        {
+          "id": 256436,
+          "resource_id": 45,
+          "text": "Тот, кто сделал добро весом в мельчайшую частицу, увидит его."
+        },
+        {
+          "id": 145287,
+          "resource_id": 27,
+          "text": "Wer nun im Gewicht eines Stäubchens Gutes tut, wird es sehen."
+        }
+      ]
+    },
+    {
+      "id": 6146,
+      "verse_number": 8,
+      "verse_key": "99:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "page_number": 599,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 9503,
+          "position": 1,
+          "audio_url": "wbw/099_008_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮎ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮎ",
+          "translation": {
+            "text": "And whoever",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9504,
+          "position": 2,
+          "audio_url": "wbw/099_008_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮏ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮏ",
+          "translation": {
+            "text": "does",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yaʿmal",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9505,
+          "position": 3,
+          "audio_url": "wbw/099_008_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮐ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮐ",
+          "translation": {
+            "text": "(equal to the) weight",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mith'qāla",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9506,
+          "position": 4,
+          "audio_url": "wbw/099_008_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮑ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮑ",
+          "translation": {
+            "text": "(of) an atom",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dharratin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9507,
+          "position": 5,
+          "audio_url": "wbw/099_008_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮒ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮒ",
+          "translation": {
+            "text": "evil",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "sharran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9508,
+          "position": 6,
+          "audio_url": "wbw/099_008_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮓ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮓ",
+          "translation": {
+            "text": "will see it",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yarahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 9509,
+          "position": 7,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮔ",
+          "page_number": 599,
+          "line_number": 9,
+          "text": "ﮔ",
+          "translation": {
+            "text": "(8)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96162,
+          "resource_id": 19,
+          "text": "And whoso doeth ill an atom's weight will see it then."
+        },
+        {
+          "id": 370433,
+          "resource_id": 79,
+          "text": "и кто (в своей жизни) сделал плохое (дело) (даже хоть) на вес пылинки, увидит его."
+        },
+        {
+          "id": 256438,
+          "resource_id": 45,
+          "text": "И тот, кто сделал зло весом в мельчайшую частицу, увидит его."
+        },
+        {
+          "id": 145289,
+          "resource_id": 27,
+          "text": "Und wer im Gewicht eines Stäubchens Böses tut, wird es sehen."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 8
+  }
+}
