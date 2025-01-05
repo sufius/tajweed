@@ -7,10 +7,18 @@ import './tajweed.css'
 const surahNumberStart = 2;
 const amountSurat = surahNumberStart;
 // const url = (surahNumber) => `/surat/surah-${surahNumber}.json`;
-const url = (surahNumber) =>  `https://api.globalquran.com/surah/${surahNumber}/quran-tajweed`;
+const url = (surahNumber: number) =>  `https://api.globalquran.com/surah/${surahNumber}/quran-tajweed`;
 // const url = (surahNumber) =>  `http://api.alquran.cloud/v1/ruku/${surahNumber}/quran-tajweed`;
 
 const parseTajweed = new Tajweed();
+
+interface GetTextWidthFunction extends Function {
+  canvas?: HTMLCanvasElement;
+}
+interface AyahProps {
+  text?: string;
+  verse?: string;
+}
 
 /**
   * Uses canvas.measureText to compute and return the width of the given text of given font in pixels.
@@ -20,20 +28,23 @@ const parseTajweed = new Tajweed();
   * 
   * @see https://stackoverflow.com/questions/118241/calculate-text-width-with-javascript/21015393#21015393
   */
-function getTextWidth(text, font) {
+const getTextWidth: GetTextWidthFunction = function(text: string, font: string): number {
   // re-use canvas object for better performance
-  const canvas = getTextWidth.canvas || (getTextWidth.canvas = document.createElement("canvas"));
-  const context = canvas.getContext("2d");
+  const canvas: HTMLCanvasElement = getTextWidth.canvas || (getTextWidth.canvas = document.createElement("canvas"));
+  const context: CanvasRenderingContext2D | null  = canvas.getContext("2d");
+  if (!context) {
+      throw new Error("Failed to get canvas context");
+  }
   context.font = font;
   const metrics = context.measureText(text);
   return metrics.width;
 }
 
-function getCssStyle(element, prop) {
-    return window.getComputedStyle(element, null).getPropertyValue(prop);
+function getCssStyle(element: Element | HTMLSpanElement | null, prop: string) {
+    return element && window.getComputedStyle(element, null).getPropertyValue(prop);
 }
 
-function getCanvasFont(el = document.body) {
+function getCanvasFont(el: HTMLSpanElement | null = document.body) {
   const fontWeight = getCssStyle(el, 'font-weight') || 'normal';
   const fontSize = getCssStyle(el, 'font-size') || '16px';
   const fontFamily = getCssStyle(el, 'font-family') || 'Times New Roman';
@@ -41,16 +52,19 @@ function getCanvasFont(el = document.body) {
   return `${fontWeight} ${fontSize} ${fontFamily}`;
 }
 
+
+
+
 function App() {
-  const [ayat, setAyat] = useState([]);
+  const [ayat, setAyat] = useState<AyahProps[]>([]);
   const [rows, setRows] = useState([]);
-  const itemsRef = useRef([]);
+  const itemsRef = useRef<(HTMLSpanElement | null)[]>([]);
   console.log('ayat', ayat);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      itemsRef.current.map(ref => {
-        const fontSize = getTextWidth(ref.innerText, getCanvasFont(ref));
+      itemsRef.current?.map((ref) => {
+        const fontSize = getTextWidth(ref?.innerText, getCanvasFont(ref));
         console.log('fontSize', ref, fontSize);
       });
     }, 1000);
@@ -95,7 +109,7 @@ function App() {
                   width: "auto",
                   whiteSpace: "nowrap"
                 }}
-                ref={el => itemsRef.current[index] = el} 
+                ref={(el) => (itemsRef.current[index] = el)}
                 dangerouslySetInnerHTML={{__html:parseTajweed.parse(ayah.text || ayah.verse,true) }} 
                 key={index}
               ></span>
