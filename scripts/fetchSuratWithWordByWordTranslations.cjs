@@ -6,7 +6,6 @@ const path = require("path");
 const baseUrl = "https://api.quran.com/api/v4/verses/by_chapter";
 const outputDir = path.join(__dirname,"..", "public", "surat");
 const languages = "27,19,45,79"; // german, english, ru, ru
-let page = 1;
 
 // Create the output directory if it doesn't exist
 if (!fs.existsSync(outputDir)) {
@@ -17,7 +16,7 @@ if (!fs.existsSync(outputDir)) {
     for (let surahNumber = 1; surahNumber <= 114; surahNumber++) {
         try {
             // Fetch the data for the current Surah
-            const url = `https://api.quran.com/api/v4/verses/by_chapter/${surahNumber}?words=true&translations=27,19,45,79&fields=text_uthmani&page=${page}&per_page=10`;
+            const url = `${baseUrl}/${surahNumber}?words=true&translations=${languages}&fields=text_uthmani`;
             const response = await axios.get(url);
 
             // Save the data to a file
