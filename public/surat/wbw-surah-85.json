@@ -1579,17 +1579,121 @@
       "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":24\">ٱ</tajweed>لَّذِينَ فَتَنُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14408\">ٱ</tajweed>لْمُؤْمِنِينَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":5718\">ٱ</tajweed>لْمُؤْمِنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ ثُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َ لَمْ يَتُوبُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> فَلَهُمْ عَذَابُ جَهَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َمَ وَلَهُمْ عَذَابُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14409\">ٱ</tajweed>لْحَر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">ق</tajweed>ِ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 3,
-    "total_records": 22
-  },
-  "englishName": "Al-Burooj",
-  "name": "سُورَةُ البُرُوجِ",
-  "englishNameTranslation": "The Constellations",
-  "revelationType": "Meccan",
   "numberOfAyahs": 22,
-  "number": 85
+  "chapterNameArabic": "البروج",
+  "chapterNameTranscribed": "Al-Burūj",
+  "chapterNameRomanized": "Al-Buruj",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Созвездия Зодиака"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Burûc"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Las Constelaciones"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les constellations"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Sazviježđa"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Gugusan Bintang"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Sterrenstelsels"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Le Costellazioni"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "十二宫"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Stjärnbilderna"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Mansions of the Stars"
+    }
+  },
+  "chapterNumber": 85,
+  "revelationOrder": 27,
+  "revelationPlace": "makkah",
+  "pages": [
+    590,
+    590
+  ]
 }

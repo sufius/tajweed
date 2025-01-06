@@ -4153,17 +4153,121 @@
       "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":24\">ٱ</tajweed>لَّذِينَ يَأْكُلُونَ أَمْو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2582\">ٱ</tajweed>لْيَتَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>مَىٰ ظُلْمًا إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَا<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":2583\">رًا‌ۖ و</tajweed>َسَيَصْلَوْنَ سَعِيرًا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 18,
-    "total_records": 176
-  },
-  "englishName": "An-Nisaa",
-  "name": "سُورَةُ النِّسَاءِ",
-  "englishNameTranslation": "The Women",
-  "revelationType": "Medinan",
   "numberOfAyahs": 176,
-  "number": 4
+  "chapterNameArabic": "النساء",
+  "chapterNameTranscribed": "An-Nisā",
+  "chapterNameRomanized": "An-Nisa",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Женщины"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Nisâ"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Las Mujeres"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les femmes"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Žene"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Wanita"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Vrouwen"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Le Donne"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "妇女"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Women"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Kvinnor"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Women"
+    }
+  },
+  "chapterNumber": 4,
+  "revelationOrder": 92,
+  "revelationPlace": "madinah",
+  "pages": [
+    77,
+    106
+  ]
 }

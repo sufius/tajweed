@@ -1615,17 +1615,121 @@
       "text_uthmani_tajweed_parsed": "فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>رْتَقِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":12333\">بْ</tajweed> يَوْمَ تَأْتِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12334\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءُ بِدُخَا<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":12335\">نٍ م</tajweed>ُّب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نٍ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 6,
-    "total_records": 59
-  },
-  "englishName": "Ad-Dukhaan",
-  "name": "سُورَةُ الدُّخَانِ",
-  "englishNameTranslation": "The Smoke",
-  "revelationType": "Meccan",
   "numberOfAyahs": 59,
-  "number": 44
+  "chapterNameArabic": "الدخان",
+  "chapterNameTranscribed": "Ad-Dukhān",
+  "chapterNameRomanized": "Ad-Dukhan",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Дым"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Duhân"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Humo"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La fumée"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Dim"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Kabut"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Rook"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Fumo"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "烟雾"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Smoke"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Rök"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Smoke"
+    }
+  },
+  "chapterNumber": 44,
+  "revelationOrder": 64,
+  "revelationPlace": "makkah",
+  "pages": [
+    496,
+    498
+  ]
 }

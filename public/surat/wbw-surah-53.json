@@ -1273,17 +1273,121 @@
       "text_uthmani_tajweed_parsed": "فَأَوْحَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ىٰٓ</tajweed> إِلَىٰ عَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":7944\">بْ</tajweed>دِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَوْحَىٰ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 7,
-    "total_records": 62
-  },
-  "englishName": "An-Najm",
-  "name": "سُورَةُ النَّجۡمِ",
-  "englishNameTranslation": "The Star",
-  "revelationType": "Meccan",
   "numberOfAyahs": 62,
-  "number": 53
+  "chapterNameArabic": "النجم",
+  "chapterNameTranscribed": "An-Najm",
+  "chapterNameRomanized": "An-Najm",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Звезда"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Necm"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Astro"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'étoile"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Zvijezda"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Bintang"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Ster"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Stella"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "星宿"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Star"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Stjärnan"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Star"
+    }
+  },
+  "chapterNumber": 53,
+  "revelationOrder": 23,
+  "revelationPlace": "makkah",
+  "pages": [
+    526,
+    528
+  ]
 }

@@ -2713,17 +2713,121 @@
       "text_uthmani_tajweed_parsed": "ثُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َ كَانَ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>قِبَةَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10432\">ٱ</tajweed>لَّذِينَ أَسَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓـ</tajweed>ــُٔو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10433\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سّ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ُو</tajweed>ٓأَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ىٰٓ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":10434\">ن ك</tajweed>َذَّبُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِـَٔـايَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":322\">ٱ</tajweed>للَّهِ وَكَانُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِهَا يَسْتَهْزِء<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 6,
-    "total_records": 60
-  },
-  "englishName": "Ar-Room",
-  "name": "سُورَةُ الرُّومِ",
-  "englishNameTranslation": "The Romans",
-  "revelationType": "Meccan",
   "numberOfAyahs": 60,
-  "number": 30
+  "chapterNameArabic": "الروم",
+  "chapterNameTranscribed": "Ar-Rūm",
+  "chapterNameRomanized": "Ar-Rum",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Римляне"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Rûm"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Romanos"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les romains"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Bizantinci"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Bangsa Romawi"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Romeinen"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "I Romani"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "罗马人"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Romans"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Bysantinerna"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Romans"
+    }
+  },
+  "chapterNumber": 30,
+  "revelationOrder": 84,
+  "revelationPlace": "makkah",
+  "pages": [
+    404,
+    410
+  ]
 }

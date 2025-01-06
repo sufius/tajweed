@@ -3181,17 +3181,121 @@
       "text_uthmani_tajweed_parsed": "وَلَقَدِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3947\">ٱ</tajweed>سْتُهْزِئَ بِرُسُ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":3948\">لٍ م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":18\">ن ق</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":19\">بْ</tajweed>لِكَ فَحَاقَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2413\">ٱ</tajweed>لَّذِينَ سَخِرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> مِنْه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":3670\">ُم م</tajweed>َّا كَانُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> يَسْتَهْزِء<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 17,
-    "total_records": 165
-  },
-  "englishName": "Al-An'aam",
-  "name": "سُورَةُ الأَنۡعَامِ",
-  "englishNameTranslation": "The Cattle",
-  "revelationType": "Meccan",
   "numberOfAyahs": 165,
-  "number": 6
+  "chapterNameArabic": "الأنعام",
+  "chapterNameTranscribed": "Al-'An`ām",
+  "chapterNameRomanized": "Al-An'am",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Скот"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "En'âm"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Rebaños"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les bestiaux"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Stoka"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Binatang Ternak"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Vee"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il bestiame"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "牲畜"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Cattle"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Boskap"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Cattle"
+    }
+  },
+  "chapterNumber": 6,
+  "revelationOrder": 55,
+  "revelationPlace": "makkah",
+  "pages": [
+    128,
+    150
+  ]
 }

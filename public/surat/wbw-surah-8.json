@@ -2965,17 +2965,121 @@
       "text_uthmani_tajweed_parsed": "وَمَا جَعَلَهُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2224\">ٱ</tajweed>للَّهُ إِلَّا بُشْرَىٰ وَلِتَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":2225\">طْ</tajweed>مَئِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ بِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> قُلُوبُكُمْ‌ۚ وَمَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2227\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َصْرُ إِلَّا مِنْ عِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":398\">ند</tajweed>ِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":399\">ٱ</tajweed>للَّهِ‌ۚ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":80\">ٱ</tajweed>للَّهَ عَزِيزٌ حَك<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مٌ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 8,
-    "total_records": 75
-  },
-  "englishName": "Al-Anfaal",
-  "name": "سُورَةُ الأَنفَالِ",
-  "englishNameTranslation": "The Spoils of War",
-  "revelationType": "Medinan",
   "numberOfAyahs": 75,
-  "number": 8
+  "chapterNameArabic": "الأنفال",
+  "chapterNameTranscribed": "Al-'Anfāl",
+  "chapterNameRomanized": "Al-Anfal",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Трофеи"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Enfâl"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Botines de Guerra"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Le butin"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Plijen"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Rampasan Perang"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Oorlogsbuit"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Bottino"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "战利品"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Krigsbyte"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Spoils of War"
+    }
+  },
+  "chapterNumber": 8,
+  "revelationOrder": 88,
+  "revelationPlace": "madinah",
+  "pages": [
+    177,
+    186
+  ]
 }

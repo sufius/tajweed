@@ -1525,17 +1525,121 @@
       "text_uthmani_tajweed_parsed": "فَعَصَوْ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":13872\">ةً ر</tajweed>َّابِيَةً"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 6,
-    "total_records": 52
-  },
-  "englishName": "Al-Haaqqa",
-  "name": "سُورَةُ الحَاقَّةِ",
-  "englishNameTranslation": "The Reality",
-  "revelationType": "Meccan",
   "numberOfAyahs": 52,
-  "number": 69
+  "chapterNameArabic": "الحاقة",
+  "chapterNameTranscribed": "Al-Ĥāqqah",
+  "chapterNameRomanized": "Al-Haqqah",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Неминуемое"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Hâkka"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Verdad Indefectible"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'inéluctable"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Čas neizbježni"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Kenyataan (Hari Kiamat)"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Zekere Realiteit"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Inevitabile"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "真灾"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Reality"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Sanningens Stund"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Reality"
+    }
+  },
+  "chapterNumber": 69,
+  "revelationOrder": 78,
+  "revelationPlace": "makkah",
+  "pages": [
+    566,
+    568
+  ]
 }

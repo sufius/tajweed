@@ -2407,17 +2407,121 @@
       "text_uthmani_tajweed_parsed": "مّ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":12394\">ِن و</tajweed>َر<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓئِهِمْ جَهَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َمُ‌ۖ وَلَا يُغْنِى عَنْه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":3985\">ُم م</tajweed>َّا كَسَبُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> شَيْـ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":232\">ـًٔا و</tajweed>َلَا مَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12395\">ٱ</tajweed>تَّخَذُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":107\">ن د</tajweed>ُونِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":108\">ٱ</tajweed>للَّهِ أَوْلِي<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ‌ۖ وَلَهُمْ عَذَابٌ عَظ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مٌ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 4,
-    "total_records": 37
-  },
-  "englishName": "Al-Jaathiya",
-  "name": "سُورَةُ الجَاثِيَةِ",
-  "englishNameTranslation": "Crouching",
-  "revelationType": "Meccan",
   "numberOfAyahs": 37,
-  "number": 45
+  "chapterNameArabic": "الجاثية",
+  "chapterNameTranscribed": "Al-Jāthiyah",
+  "chapterNameRomanized": "Al-Jathiyah",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Коленопреклоненные"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Câsiye"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Arrodillada"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'agenouillée"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Oni koji kleče"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Yang Bertekuk Lutut"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Knielenden"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Genuflessa"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "屈膝"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Crouching"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "På Knä"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Crouching"
+    }
+  },
+  "chapterNumber": 45,
+  "revelationOrder": 65,
+  "revelationPlace": "makkah",
+  "pages": [
+    499,
+    502
+  ]
 }

@@ -2821,17 +2821,121 @@
       "text_uthmani_tajweed_parsed": "وَمَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12081\">ٱ</tajweed>خْتَلَفْتُمْ فِيهِ مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2103\">ن ش</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":12082\">َىْءٍ ف</tajweed>َحُكْمُهُ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ۥٓ</tajweed> إِلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1637\">ٱ</tajweed>للَّهِ‌ۚ ذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكُمُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":4260\">ٱ</tajweed>للَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">ب</tajweed>ُ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 6,
-    "total_records": 53
-  },
-  "englishName": "Ash-Shura",
-  "name": "سُورَةُ الشُّورَىٰ",
-  "englishNameTranslation": "Consultation",
-  "revelationType": "Meccan",
   "numberOfAyahs": 53,
-  "number": 42
+  "chapterNameArabic": "الشورى",
+  "chapterNameTranscribed": "Ash-Shūraá",
+  "chapterNameRomanized": "Ash-Shuraa",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Совет"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Şûrâ"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Consulta"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La concertation"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Dogovaranje"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Musyawarah"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Overleg"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Consultazione"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "协商"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Consultation"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Samråd"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Consultation"
+    }
+  },
+  "chapterNumber": 42,
+  "revelationOrder": 62,
+  "revelationPlace": "makkah",
+  "pages": [
+    483,
+    489
+  ]
 }

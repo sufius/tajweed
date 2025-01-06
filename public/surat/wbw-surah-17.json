@@ -3127,17 +3127,121 @@
       "text_uthmani_tajweed_parsed": "وَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7684\">ٱ</tajweed>لَّذِينَ لَا يُؤْمِنُونَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":447\">ٱ</tajweed>لْأَخِرَةِ أَعْتَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":2660\">دْ</tajweed>نَا لَهُمْ عَذَابًا أَلِيمًا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 12,
-    "total_records": 111
-  },
-  "englishName": "Al-Israa",
-  "name": "سُورَةُ الإِسۡرَاءِ",
-  "englishNameTranslation": "The Night Journey",
-  "revelationType": "Meccan",
   "numberOfAyahs": 111,
-  "number": 17
+  "chapterNameArabic": "الإسراء",
+  "chapterNameTranscribed": "Al-'Isrā",
+  "chapterNameRomanized": "Al-Isra",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Ночной перенос"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "İsrâ"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Viaje Nocturno"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Le voyage nocturne"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Noćno putovanje"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Perjalanan Malam"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Nachtelijke Reis"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Viaggio Notturno"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "夜行"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Den Nattliga Resan"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Night Journey"
+    }
+  },
+  "chapterNumber": 17,
+  "revelationOrder": 50,
+  "revelationPlace": "makkah",
+  "pages": [
+    282,
+    293
+  ]
 }

@@ -2677,17 +2677,121 @@
       "text_uthmani_tajweed_parsed": "وَقَالُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> لَوْ كُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا نَسْمَعُ أَوْ نَعْقِلُ مَا كُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا ف<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":11067\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّع<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رِ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 3,
-    "total_records": 30
-  },
-  "englishName": "Al-Mulk",
-  "name": "سُورَةُ المُلۡكِ",
-  "englishNameTranslation": "The Sovereignty",
-  "revelationType": "Meccan",
   "numberOfAyahs": 30,
-  "number": 67
+  "chapterNameArabic": "الملك",
+  "chapterNameTranscribed": "Al-Mulk",
+  "chapterNameRomanized": "Al-Mulk",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Власть"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Mülk"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Soberanía"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La royauté"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Vlast"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Kerajaan"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Heerschappij"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Sovranitр"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "国权"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Herravälde"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Sovereignty"
+    }
+  },
+  "chapterNumber": 67,
+  "revelationOrder": 77,
+  "revelationPlace": "makkah",
+  "pages": [
+    562,
+    564
+  ]
 }

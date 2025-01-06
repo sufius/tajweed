@@ -1597,17 +1597,121 @@
       "text_uthmani_tajweed_parsed": "وَسَو<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءٌ عَلَيْهِمْ ءَأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":25\">نذ</tajweed>َرْتَهُمْ أَمْ لَمْ تُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":26\">نذ</tajweed>ِرْهُمْ لَا يُؤْمِن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 9,
-    "total_records": 83
-  },
-  "englishName": "Yaseen",
-  "name": "سُورَةُ يسٓ",
-  "englishNameTranslation": "Yaseen",
-  "revelationType": "Meccan",
   "numberOfAyahs": 83,
-  "number": 36
+  "chapterNameArabic": "يس",
+  "chapterNameTranscribed": "Yā-Sīn",
+  "chapterNameRomanized": "Ya-Sin",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Йа Син"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Yâsîn"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Ya Sin"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Ya-Sin"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Jasin"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Yas Sin"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Jaa Sien (de letters)"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Yт Sюn"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "雅辛"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Ya-Sin"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Ya Sin"
+    }
+  },
+  "chapterNumber": 36,
+  "revelationOrder": 41,
+  "revelationPlace": "makkah",
+  "pages": [
+    440,
+    445
+  ]
 }

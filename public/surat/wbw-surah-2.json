@@ -2227,17 +2227,121 @@
       "text_uthmani_tajweed_parsed": "فِى قُلُوبِه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":39\">ِم م</tajweed>َّرَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":40\">ضٌ ف</tajweed>َزَادَهُمُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":41\">ٱ</tajweed>للَّهُ مَرَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":42\">ضًا‌ۖ و</tajweed>َلَهُمْ عَذَابٌ أَلِي<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":43\">مُۢ ب</tajweed>ِمَا كَانُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> يَكْذِب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 29,
-    "total_records": 286
-  },
-  "englishName": "Al-Baqara",
-  "name": "سُورَةُ البَقَرَةِ",
-  "englishNameTranslation": "The Cow",
-  "revelationType": "Medinan",
   "numberOfAyahs": 286,
-  "number": 2
+  "chapterNameArabic": "البقرة",
+  "chapterNameTranscribed": "Al-Baqarah",
+  "chapterNameRomanized": "Al-Baqarah",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Корова"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Bakara"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Vaca"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La vache"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Krava"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Sapi Betina"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Koe"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Giovenca"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "黄牛"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Cow"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Kon"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Cow"
+    }
+  },
+  "chapterNumber": 2,
+  "revelationOrder": 87,
+  "revelationPlace": "madinah",
+  "pages": [
+    2,
+    49
+  ]
 }

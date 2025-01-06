@@ -2407,17 +2407,121 @@
       "text_uthmani_tajweed_parsed": "خَلَقَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3913\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّمَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>و<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>تِ بِغَيْرِ عَمَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":6863\">دٍ ت</tajweed>َرَوْنَهَا‌ۖ وَأَلْقَىٰ فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":44\">ٱ</tajweed>لْأَرْضِ رَو<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>سِىَ أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":7354\">ن ت</tajweed>َمِيدَ بِكُمْ وَبَثَّ فِيهَا مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":843\">ن ك</tajweed>ُلِّ د<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">َا</tajweed>ٓبَّ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":10555\">ةٍ‌ۚ و</tajweed>َأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":271\">نز</tajweed>َلْنَا مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":64\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءِ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":9997\">ءً ف</tajweed>َأَ<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":9998\">نۢب</tajweed>َتْنَا فِيهَا مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":843\">ن ك</tajweed>ُلِّ زَوْ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":9715\">جٍ ك</tajweed>َر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>مٍ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 4,
-    "total_records": 34
-  },
-  "englishName": "Luqman",
-  "name": "سُورَةُ لُقۡمَانَ",
-  "englishNameTranslation": "Luqman",
-  "revelationType": "Meccan",
   "numberOfAyahs": 34,
-  "number": 31
+  "chapterNameArabic": "لقمان",
+  "chapterNameTranscribed": "Luqmān",
+  "chapterNameRomanized": "Luqman",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Лукман"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Lokmân"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Luqmán"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Louqman"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Lukman"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Luqman"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Loeqmaan"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Luqmрn"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "鲁格曼"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Luqman"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Luqman"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Luqman"
+    }
+  },
+  "chapterNumber": 31,
+  "revelationOrder": 57,
+  "revelationPlace": "makkah",
+  "pages": [
+    411,
+    414
+  ]
 }

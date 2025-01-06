@@ -2149,17 +2149,121 @@
       "text_uthmani_tajweed_parsed": "جَز<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓؤُهُمْ عِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":264\">ند</tajweed>َ رَبِّهِمْ جَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تُ عَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":5720\">دْ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":8049\">نٍ ت</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":120\">جْ</tajweed>رِى مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":121\">ن ت</tajweed>َحْتِهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":122\">ٱ</tajweed>لْأَنْهَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>رُ خَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لِدِينَ فِيه<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَبَ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":3909\">دًا‌ۖ ر</tajweed>َّضِىَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3910\">ٱ</tajweed>للَّهُ عَنْهُمْ وَرَضُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> عَنْهُ‌ۚ ذ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ لِمَنْ خَشِىَ رَبَّهُۥ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 8
-  },
-  "englishName": "Al-Bayyina",
-  "name": "سُورَةُ البَيِّنَةِ",
-  "englishNameTranslation": "The Evidence",
-  "revelationType": "Medinan",
   "numberOfAyahs": 8,
-  "number": 98
+  "chapterNameArabic": "البينة",
+  "chapterNameTranscribed": "Al-Bayyinah",
+  "chapterNameRomanized": "Al-Bayyinah",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Ясное знамение"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Beyyine"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Evidencia"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La preuve"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Dokaz jasni"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Pembuktian"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Duidelijke Bewijs"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La prova"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "明证"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Det Klara Vittnesbördet"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Clear Proof"
+    }
+  },
+  "chapterNumber": 98,
+  "revelationOrder": 100,
+  "revelationPlace": "madinah",
+  "pages": [
+    598,
+    599
+  ]
 }

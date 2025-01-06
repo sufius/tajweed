@@ -2857,17 +2857,121 @@
       "text_uthmani_tajweed_parsed": "وَأَصْبَحَ فُؤَادُ أُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>ِ مُوسَىٰ فَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>رِغًا‌ۖ إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":10075\">ن ك</tajweed>َادَتْ لَتُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":10076\">بْ</tajweed>دِى بِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> لَوْل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":10077\">َن ر</tajweed>َّبَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":10078\">طْ</tajweed>نَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3047\">ٱ</tajweed>لْمُؤْمِن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 9,
-    "total_records": 88
-  },
-  "englishName": "Al-Qasas",
-  "name": "سُورَةُ القَصَصِ",
-  "englishNameTranslation": "The Stories",
-  "revelationType": "Meccan",
   "numberOfAyahs": 88,
-  "number": 28
+  "chapterNameArabic": "القصص",
+  "chapterNameTranscribed": "Al-Qaşaş",
+  "chapterNameRomanized": "Al-Qasas",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Рассказ"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kasas"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Relatos"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Le récit"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Kazivanje"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Kisah-kisah"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Verhaal"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Racconto"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "故事"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Stories"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Berättelsen"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Stories"
+    }
+  },
+  "chapterNumber": 28,
+  "revelationOrder": 49,
+  "revelationPlace": "makkah",
+  "pages": [
+    385,
+    396
+  ]
 }

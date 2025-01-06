@@ -3343,17 +3343,121 @@
       "text_uthmani_tajweed_parsed": "فَإِذَا قُضِيَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13604\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صَّلَ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">و</tajweed><tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٲ</tajweed>ةُ فَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10874\">ٱ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":10874\">نت</tajweed>َشِرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":44\">ٱ</tajweed>لْأَرْضِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":988\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":988\">بْ</tajweed>تَغُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":6655\">ن ف</tajweed>َضْلِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6656\">ٱ</tajweed>للَّهِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":335\">ٱ</tajweed>ذْكُرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1113\">ٱ</tajweed>للَّهَ كَثِي<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":5368\">رًا ل</tajweed>َّعَلَّكُمْ تُفْلِح<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 11
-  },
-  "englishName": "Al-Jumu'a",
-  "name": "سُورَةُ الجُمُعَةِ",
-  "englishNameTranslation": "Friday",
-  "revelationType": "Medinan",
   "numberOfAyahs": 11,
-  "number": 62
+  "chapterNameArabic": "الجمعة",
+  "chapterNameTranscribed": "Al-Jumu`ah",
+  "chapterNameRomanized": "Al-Jumu'ah",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Собрание"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Cuma"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Viernes"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Le vendredi"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Petak"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Hari Jum\\'at"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Vrijdag"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Venerdь"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "聚礼"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Fredagsbönen"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Congregation, Friday"
+    }
+  },
+  "chapterNumber": 62,
+  "revelationOrder": 110,
+  "revelationPlace": "madinah",
+  "pages": [
+    553,
+    554
+  ]
 }

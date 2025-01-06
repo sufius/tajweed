@@ -4927,17 +4927,121 @@
       "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َمَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13405\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":8519\">جْ</tajweed>وَىٰ مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1870\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>شَّيْطَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>نِ لِيَحْزُنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13406\">ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَلَيْسَ بِض<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">َا</tajweed>ٓرِّهِمْ شَيْــًٔا إِلَّا بِإِذْنِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":509\">ٱ</tajweed>للَّهِ‌ۚ وَعَلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2207\">ٱ</tajweed>للَّهِ فَلْيَتَوَكَّلِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":2208\">ٱ</tajweed>لْمُؤْمِن<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 3,
-    "total_records": 22
-  },
-  "englishName": "Al-Mujaadila",
-  "name": "سُورَةُ المُجَادلَةِ",
-  "englishNameTranslation": "The Pleading Woman",
-  "revelationType": "Medinan",
   "numberOfAyahs": 22,
-  "number": 58
+  "chapterNameArabic": "المجادلة",
+  "chapterNameTranscribed": "Al-Mujādila",
+  "chapterNameRomanized": "Al-Mujadila",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Препирающаяся"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Mücâdele"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Discusión"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La discussion"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Rasprava"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Wanita yang Menggugat"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Zij die Twistte"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Disputante"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "辩诉者"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Hon Som Vädjar"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Pleading Woman"
+    }
+  },
+  "chapterNumber": 58,
+  "revelationOrder": 105,
+  "revelationPlace": "madinah",
+  "pages": [
+    542,
+    545
+  ]
 }

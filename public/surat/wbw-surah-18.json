@@ -2461,17 +2461,121 @@
       "text_uthmani_tajweed_parsed": "إِذْ أَوَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7965\">ٱ</tajweed>لْفِتْيَةُ إِلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7966\">ٱ</tajweed>لْكَهْفِ فَقَالُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> رَبَّن<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> ءَاتِنَا م<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":1746\">ِن ل</tajweed>َّدُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":1747\">نك</tajweed>َ رَحْمَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":7967\">ةً و</tajweed>َهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 11,
-    "total_records": 110
-  },
-  "englishName": "Al-Kahf",
-  "name": "سُورَةُ الكَهۡفِ",
-  "englishNameTranslation": "The Cave",
-  "revelationType": "Meccan",
   "numberOfAyahs": 110,
-  "number": 18
+  "chapterNameArabic": "الكهف",
+  "chapterNameTranscribed": "Al-Kahf",
+  "chapterNameRomanized": "Al-Kahf",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Пещера"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kehf"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Caverna"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La caverne"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Pećina"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Para Penghuni Gua"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Grot"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "La Caverna"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "山洞"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Cave"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Grottan"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Cave"
+    }
+  },
+  "chapterNumber": 18,
+  "revelationOrder": 69,
+  "revelationPlace": "makkah",
+  "pages": [
+    293,
+    304
+  ]
 }

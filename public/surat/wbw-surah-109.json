@@ -811,17 +811,121 @@
       "text_uthmani_tajweed_parsed": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نِ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 6
-  },
-  "englishName": "Al-Kaafiroon",
-  "name": "سُورَةُ الكَافِرُونَ",
-  "englishNameTranslation": "The Disbelievers",
-  "revelationType": "Meccan",
   "numberOfAyahs": 6,
-  "number": 109
+  "chapterNameArabic": "الكافرون",
+  "chapterNameTranscribed": "Al-Kāfirūn",
+  "chapterNameRomanized": "Al-Kafirun",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Неверующие"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kâfirûn"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Incrédulos"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les mécréants"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Nevjernici"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Orang-orang Kafir"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Ongelovigen"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Miscredenti"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "不信道的人们"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Sanningens Förnekare"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    }
+  },
+  "chapterNumber": 109,
+  "revelationOrder": 18,
+  "revelationPlace": "makkah",
+  "pages": [
+    603,
+    603
+  ]
 }

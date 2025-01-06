@@ -535,17 +535,121 @@
       "text_uthmani_tajweed_parsed": "ٱلَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14650\">طْ</tajweed>عَمَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14651\">ُم م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14454\">ن ج</tajweed>ُو<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14652\">عٍ و</tajweed>َءَامَنَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14653\">ُم م</tajweed>ِّنْ خ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َو</tajweed>ْفِۭ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 4
-  },
-  "englishName": "Quraish",
-  "name": "سُورَةُ قُرَيۡشٍ",
-  "englishNameTranslation": "Quraysh",
-  "revelationType": "Meccan",
   "numberOfAyahs": 4,
-  "number": 106
+  "chapterNameArabic": "قريش",
+  "chapterNameTranscribed": "Quraysh",
+  "chapterNameRomanized": "Quraysh",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Курейшиты"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kureyş"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Quraysh"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les Quraysh"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Kurejšije"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Suku Quraisy"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Quraysh"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "I Coreisciti"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "古来氏"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Quraysh"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Quraysh"
+    }
+  },
+  "chapterNumber": 106,
+  "revelationOrder": 29,
+  "revelationPlace": "makkah",
+  "pages": [
+    602,
+    602
+  ]
 }

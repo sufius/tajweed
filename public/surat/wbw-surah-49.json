@@ -3577,17 +3577,121 @@
       "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َمَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":5232\">ٱ</tajweed>لْمُؤْمِنُونَ إِخْوَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":12742\">ةٌ ف</tajweed>َأَصْلِحُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بَيْنَ أَخَوَيْكُمْ‌ۚ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1018\">ٱ</tajweed>تَّقُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1019\">ٱ</tajweed>للَّهَ لَعَلَّكُمْ تُرْحَم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 18
-  },
-  "englishName": "Al-Hujuraat",
-  "name": "سُورَةُ الحُجُرَاتِ",
-  "englishNameTranslation": "The Inner Apartments",
-  "revelationType": "Medinan",
   "numberOfAyahs": 18,
-  "number": 49
+  "chapterNameArabic": "الحجرات",
+  "chapterNameTranscribed": "Al-Ĥujurāt",
+  "chapterNameRomanized": "Al-Hujurat",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Комнаты"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Hucurât"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Aposentos Privados"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les appartements"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Sobe"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Kamar-kamar"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Binnenkamers"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Le Stanze Intime"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "寝室"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Rooms"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "De Inre Rummen"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Rooms"
+    }
+  },
+  "chapterNumber": 49,
+  "revelationOrder": 106,
+  "revelationPlace": "madinah",
+  "pages": [
+    515,
+    517
+  ]
 }

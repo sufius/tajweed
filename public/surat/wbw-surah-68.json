@@ -1381,17 +1381,121 @@
       "text_uthmani_tajweed_parsed": "وَلَا تُطِعْ كُلَّ حَلَّا<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13819\">فٍ م</tajweed>َّه<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نٍ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 6,
-    "total_records": 52
-  },
-  "englishName": "Al-Qalam",
-  "name": "سُورَةُ القَلَمِ",
-  "englishNameTranslation": "The Pen",
-  "revelationType": "Meccan",
   "numberOfAyahs": 52,
-  "number": 68
+  "chapterNameArabic": "القلم",
+  "chapterNameTranscribed": "Al-Qalam",
+  "chapterNameRomanized": "Al-Qalam",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Письменная трость"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kalem"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Cálamo"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La plume"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Kalem"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Pena"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Pen"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Calamo"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "笔"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Pen"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Pennan"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Pen"
+    }
+  },
+  "chapterNumber": 68,
+  "revelationOrder": 2,
+  "revelationPlace": "makkah",
+  "pages": [
+    564,
+    566
+  ]
 }

@@ -514,17 +514,121 @@
       "text_uthmani_tajweed_parsed": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14668\">ٱ</tajweed>سْتَغْفِرْهُ‌ۚ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> كَانَ تَوَّابَۢا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 3
-  },
-  "englishName": "An-Nasr",
-  "name": "سُورَةُ النَّصۡرِ",
-  "englishNameTranslation": "Divine Support",
-  "revelationType": "Medinan",
   "numberOfAyahs": 3,
-  "number": 110
+  "chapterNameArabic": "النصر",
+  "chapterNameTranscribed": "An-Naşr",
+  "chapterNameRomanized": "An-Nasr",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Помощь"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Nasr"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Victoria"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Le secours"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Pomoć"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Pertolongan"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Hulp"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Ausilio"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "援助"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Guds Hjälp"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    }
+  },
+  "chapterNumber": 110,
+  "revelationOrder": 114,
+  "revelationPlace": "madinah",
+  "pages": [
+    603,
+    603
+  ]
 }

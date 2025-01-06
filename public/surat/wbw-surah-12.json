@@ -2983,17 +2983,121 @@
       "text_uthmani_tajweed_parsed": "قَالَ ق<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓئِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":6558\">لٌ م</tajweed>ِّنْهُمْ لَا تَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":2734\">قْ</tajweed>تُلُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> يُوسُفَ وَأَلْقُوهُ فِى غَيَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6559\">ٱ</tajweed>لْجُبِّ يَلْتَقِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":6560\">طْ</tajweed>هُ بَعْضُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6561\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّيَّارَةِ إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":109\">ن ك</tajweed>ُ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":100\">نت</tajweed>ُمْ فَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>عِل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 12,
-    "total_records": 111
-  },
-  "englishName": "Yusuf",
-  "name": "سُورَةُ يُوسُفَ",
-  "englishNameTranslation": "Joseph",
-  "revelationType": "Meccan",
   "numberOfAyahs": 111,
-  "number": 12
+  "chapterNameArabic": "يوسف",
+  "chapterNameTranscribed": "Yūsuf",
+  "chapterNameRomanized": "Yusuf",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Йусуф"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Yûsuf"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "José"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Joseph"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Jusuf"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Yusuf"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Jozef"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Giuseppe"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "优素福"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Joseph"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Josef"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Joseph"
+    }
+  },
+  "chapterNumber": 12,
+  "revelationOrder": 53,
+  "revelationPlace": "makkah",
+  "pages": [
+    235,
+    248
+  ]
 }

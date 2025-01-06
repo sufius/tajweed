@@ -1417,17 +1417,121 @@
       "text_uthmani_tajweed_parsed": "إِلَّا مَنْ خَطِفَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":11323\">ٱ</tajweed>لْخَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":11324\">طْ</tajweed>فَةَ فَأَتْبَعَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> شِهَا<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":11325\">بٌ ث</tajweed>َاقِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">ب</tajweed>ٌ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 19,
-    "total_records": 182
-  },
-  "englishName": "As-Saaffaat",
-  "name": "سُورَةُ الصَّافَّاتِ",
-  "englishNameTranslation": "Those drawn up in Ranks",
-  "revelationType": "Meccan",
   "numberOfAyahs": 182,
-  "number": 37
+  "chapterNameArabic": "الصافات",
+  "chapterNameTranscribed": "Aş-Şāffāt",
+  "chapterNameRomanized": "As-Saffat",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Выстроившиеся в ряды"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Sâffât"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Que se Ponen en Filas"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les rangés"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Redovi"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Barisan-barisan"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Die in Rijen staan"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "I Ranghi"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "列班者"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "I Sluten Ordning"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Those who set the Ranks"
+    }
+  },
+  "chapterNumber": 37,
+  "revelationOrder": 56,
+  "revelationPlace": "makkah",
+  "pages": [
+    446,
+    452
+  ]
 }

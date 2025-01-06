@@ -41,12 +41,7 @@ fs.readdir(directoryPath, (err, files) => {
             // // Merge the data
             let mergedData = {
                 ...wbwSurahData,
-                englishName: surahData.data.englishName,
-                name: surahData.data.name,
-                englishNameTranslation: surahData.data.englishNameTranslation,
-                revelationType: surahData.data.revelationType,
                 numberOfAyahs: surahData.data.numberOfAyahs,
-                number: surahData.data.number,
                 verses: wbwSurahData.verses.map((ayah, index) =>  { return {
                     ...ayah,
                     text_uthmani_tajweed: surahData.data.ayahs[index].text,

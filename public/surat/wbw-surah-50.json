@@ -2047,17 +2047,121 @@
       "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َخْلَ بَاسِقَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":12791\">تٍ ل</tajweed>َّهَا طَلْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":12792\">عٌ ن</tajweed>َّض<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ٌ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 5,
-    "total_records": 45
-  },
-  "englishName": "Qaaf",
-  "name": "سُورَةُ قٓ",
-  "englishNameTranslation": "The letter Qaaf",
-  "revelationType": "Meccan",
   "numberOfAyahs": 45,
-  "number": 50
+  "chapterNameArabic": "ق",
+  "chapterNameTranscribed": "Qāf",
+  "chapterNameRomanized": "Qaf",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Каф"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kâf"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Qaf"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Qaf"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Kaf"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Qaf"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Qaaf (de letter)"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Qтf"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "戛弗"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Qaf"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Letter \"Qaf\""
+    }
+  },
+  "chapterNumber": 50,
+  "revelationOrder": 34,
+  "revelationPlace": "makkah",
+  "pages": [
+    518,
+    520
+  ]
 }

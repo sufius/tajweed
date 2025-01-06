@@ -2821,17 +2821,121 @@
       "text_uthmani_tajweed_parsed": "وَمِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":30\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاسِ م<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":31\">َن ي</tajweed>َقُولُ ءَامَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":32\">ٱ</tajweed>للَّهِ فَإِذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أُوذِىَ فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":714\">ٱ</tajweed>للَّهِ جَعَلَ فِتْنَةَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10296\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاسِ كَعَذَابِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10297\">ٱ</tajweed>للَّهِ وَلَئِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":10298\">ن ج</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ نَصْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":10299\">رٌ م</tajweed>ّ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":770\">ِن ر</tajweed>َّبِّكَ لَيَقُولُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا كُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َا مَعَكُمْ‌ۚ أَوَلَيْسَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10300\">ٱ</tajweed>للَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10301\">ٱ</tajweed>لْعَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لَم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 7,
-    "total_records": 69
-  },
-  "englishName": "Al-Ankaboot",
-  "name": "سُورَةُ العَنكَبُوتِ",
-  "englishNameTranslation": "The Spider",
-  "revelationType": "Meccan",
   "numberOfAyahs": 69,
-  "number": 29
+  "chapterNameArabic": "العنكبوت",
+  "chapterNameTranscribed": "Al-`Ankabūt",
+  "chapterNameRomanized": "Al-'Ankabut",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Паук"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Ankebût"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Araña"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'araignée"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Pauk"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Laba-laba"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Spin"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Ragno"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "蜘蛛"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Spider"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Spindeln"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Spider"
+    }
+  },
+  "chapterNumber": 29,
+  "revelationOrder": 85,
+  "revelationPlace": "makkah",
+  "pages": [
+    396,
+    404
+  ]
 }

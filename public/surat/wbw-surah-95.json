@@ -1069,17 +1069,121 @@
       "text_uthmani_tajweed_parsed": "أَلَيْسَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":4087\">ٱ</tajweed>للَّهُ بِأَحْكَمِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14558\">ٱ</tajweed>لْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>كِم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 8
-  },
-  "englishName": "At-Tin",
-  "name": "سُورَةُ التِّينِ",
-  "englishNameTranslation": "The Fig",
-  "revelationType": "Meccan",
   "numberOfAyahs": 8,
-  "number": 95
+  "chapterNameArabic": "التين",
+  "chapterNameTranscribed": "At-Tīn",
+  "chapterNameRomanized": "At-Tin",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Смоковница"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Tîn"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Higos"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les figues"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Smokva"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Buah Tin"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Vijg"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Fico"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "无花果"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Fikonträdet"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Fig"
+    }
+  },
+  "chapterNumber": 95,
+  "revelationOrder": 28,
+  "revelationPlace": "makkah",
+  "pages": [
+    597,
+    597
+  ]
 }

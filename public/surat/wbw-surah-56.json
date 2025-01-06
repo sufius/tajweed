@@ -1165,17 +1165,121 @@
       "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِقُونَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13212\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِق<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 10,
-    "total_records": 96
-  },
-  "englishName": "Al-Waaqia",
-  "name": "سُورَةُ الوَاقِعَةِ",
-  "englishNameTranslation": "The Inevitable",
-  "revelationType": "Meccan",
   "numberOfAyahs": 96,
-  "number": 56
+  "chapterNameArabic": "الواقعة",
+  "chapterNameTranscribed": "Al-Wāqi`ah",
+  "chapterNameRomanized": "Al-Waqi'ah",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Событие"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Vâkıa"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Lo Que ha de Ocurrir"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'inévitable"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Događaj"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Hari Kiamat"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Dag der Opstanding"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Evento"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "大事"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Det Som Måste Komma"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Inevitable"
+    }
+  },
+  "chapterNumber": 56,
+  "revelationOrder": 46,
+  "revelationPlace": "makkah",
+  "pages": [
+    534,
+    537
+  ]
 }

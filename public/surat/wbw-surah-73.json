@@ -1615,17 +1615,121 @@
       "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>صْبِرْ عَلَىٰ مَا يَقُولُونَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14035\">ٱ</tajweed>هْجُرْهُمْ هَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14036\">جْ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14037\">رًا ج</tajweed>َمِيلاً"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 20
-  },
-  "englishName": "Al-Muzzammil",
-  "name": "سُورَةُ المُزَّمِّلِ",
-  "englishNameTranslation": "The Enshrouded One",
-  "revelationType": "Meccan",
   "numberOfAyahs": 20,
-  "number": 73
+  "chapterNameArabic": "المزمل",
+  "chapterNameTranscribed": "Al-Muzzammil",
+  "chapterNameRomanized": "Al-Muzzammil",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Закутавшийся"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Müzzemmil"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Envuelto en El Manto"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'enveloppé"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Umotani"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Orang yang Berselimut"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Omhulde"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'avvolto"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "披衣的人"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Du Som Täcker Över Dig"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Enshrouded One"
+    }
+  },
+  "chapterNumber": 73,
+  "revelationOrder": 3,
+  "revelationPlace": "makkah",
+  "pages": [
+    574,
+    575
+  ]
 }

@@ -1057,17 +1057,121 @@
       "text_uthmani_tajweed_parsed": "قُتِلَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12847\">ٱ</tajweed>لْخَرّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>ص<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 6,
-    "total_records": 60
-  },
-  "englishName": "Adh-Dhaariyat",
-  "name": "سُورَةُ الذَّارِيَاتِ",
-  "englishNameTranslation": "The Winnowing Winds",
-  "revelationType": "Meccan",
   "numberOfAyahs": 60,
-  "number": 51
+  "chapterNameArabic": "الذاريات",
+  "chapterNameTranscribed": "Adh-Dhāriyāt",
+  "chapterNameRomanized": "Adh-Dhariyat",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Рассеивающие прах"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Zâriyât"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Que Levantan un Torbellino"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Qui éparpillent"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Oni koji pûšū"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Angin yang Menerbangkan"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Winden die doen opwaaien"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Quelle che spargono"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "播种者"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "De Som Virvlar Upp"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Winnowing Winds"
+    }
+  },
+  "chapterNumber": 51,
+  "revelationOrder": 67,
+  "revelationPlace": "makkah",
+  "pages": [
+    520,
+    523
+  ]
 }

@@ -4315,17 +4315,121 @@
       "text_uthmani_tajweed_parsed": "ضَرَبَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":7103\">ٱ</tajweed>للَّهُ مَثَل<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":13737\">اً ل</tajweed>ِّلَّذِينَ كَفَرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13738\">ٱ</tajweed>مْرَأَتَ نُو<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13739\">حٍ و</tajweed>َ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13740\">ٱ</tajweed>مْرَأَتَ لُو<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":13741\">طٍ‌ۖ ك</tajweed>َانَتَا تَحْتَ عَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13742\">بْ</tajweed>دَيْنِ مِنْ عِبَادِنَا صَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":321\">ٱ</tajweed>للَّهِ شَيْـ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13743\">ـًٔا و</tajweed>َقِيلَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13744\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13745\">دْ</tajweed>خُلَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13746\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َارَ مَعَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13747\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>دّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>خِل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 12
-  },
-  "englishName": "At-Tahrim",
-  "name": "سُورَةُ التَّحۡرِيمِ",
-  "englishNameTranslation": "The Prohibition",
-  "revelationType": "Medinan",
   "numberOfAyahs": 12,
-  "number": 66
+  "chapterNameArabic": "التحريم",
+  "chapterNameTranscribed": "At-Taĥrīm",
+  "chapterNameRomanized": "At-Tahrim",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Запрещение"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Tahrîm"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Prohibición"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'interdiction"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Zabrana"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Mengharamkan"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Verbod"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Interdizione"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "禁戒"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Förbudet"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Prohibition"
+    }
+  },
+  "chapterNumber": 66,
+  "revelationOrder": 107,
+  "revelationPlace": "madinah",
+  "pages": [
+    560,
+    561
+  ]
 }

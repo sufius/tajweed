@@ -850,17 +850,121 @@
       "text_uthmani_tajweed_parsed": "وَيَمْنَعُونَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14658\">ٱ</tajweed>لْمَاع<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 7
-  },
-  "englishName": "Al-Maa'un",
-  "name": "سُورَةُ المَاعُونِ",
-  "englishNameTranslation": "Almsgiving",
-  "revelationType": "Meccan",
   "numberOfAyahs": 7,
-  "number": 107
+  "chapterNameArabic": "الماعون",
+  "chapterNameTranscribed": "Al-Mā`ūn",
+  "chapterNameRomanized": "Al-Ma'un",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Мелочь"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Maûn"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Ayuda Imprescindible"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'entraide"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Davanje u naruč"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Barang yang Berguna"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Levensbenodigdheden"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Utensile"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "什物"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Den Minsta Hjälp"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    }
+  },
+  "chapterNumber": 107,
+  "revelationOrder": 17,
+  "revelationPlace": "makkah",
+  "pages": [
+    602,
+    602
+  ]
 }

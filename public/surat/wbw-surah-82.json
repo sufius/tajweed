@@ -1291,17 +1291,121 @@
       "text_uthmani_tajweed_parsed": "وَإِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ عَلَيْكُمْ لَحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِظ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 19
-  },
-  "englishName": "Al-Infitaar",
-  "name": "سُورَةُ الانفِطَارِ",
-  "englishNameTranslation": "The Cleaving",
-  "revelationType": "Meccan",
   "numberOfAyahs": 19,
-  "number": 82
+  "chapterNameArabic": "الإنفطار",
+  "chapterNameTranscribed": "Al-'Infiţār",
+  "chapterNameRomanized": "Al-Infitar",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Раскалывание"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "İnfitâr"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Hendidura"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "La rupture"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Rascjepljenje"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Terbelah"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Splijten"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Lo Squarciarsi"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "破裂"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "När Himlen Rämnar"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    }
+  },
+  "chapterNumber": 82,
+  "revelationOrder": 82,
+  "revelationPlace": "makkah",
+  "pages": [
+    587,
+    587
+  ]
 }

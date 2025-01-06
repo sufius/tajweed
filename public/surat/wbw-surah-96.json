@@ -1237,17 +1237,121 @@
       "text_uthmani_tajweed_parsed": "عَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":3317\">بْ</tajweed>دًا إِذَا صَلَّىٰٓ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 19
-  },
-  "englishName": "Al-Alaq",
-  "name": "سُورَةُ العَلَقِ",
-  "englishNameTranslation": "The Clot",
-  "revelationType": "Meccan",
   "numberOfAyahs": 19,
-  "number": 96
+  "chapterNameArabic": "العلق",
+  "chapterNameTranscribed": "Al-`Alaq",
+  "chapterNameRomanized": "Al-'Alaq",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Сгусток крови"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Alak"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Coágulo"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'adhérence"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Ugrušak"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Segumpal Darah"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Bloedklomp"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Aderenza"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "血块"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Clot"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Grodden"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Clot"
+    }
+  },
+  "chapterNumber": 96,
+  "revelationOrder": 1,
+  "revelationPlace": "makkah",
+  "pages": [
+    597,
+    597
+  ]
 }

@@ -2371,17 +2371,121 @@
       "text_uthmani_tajweed_parsed": "وَأَلْقِ عَصَاكَ‌ۚ فَلَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا رَءَاهَا تَهْتَزُّ كَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهَا ج<tajweed class=\"madda_necessary\" data-type=\"madda-necesssary\" data-description=\"Necessary Prolongation: 6 Vowels\" data-tajweed=\"\">َا</tajweed>ٓ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":9895\"><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ٌ و</tajweed>َلَّىٰ مُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":9896\">دْ</tajweed>بِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":9897\">رًا و</tajweed>َلَمْ يُعَقِّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":9898\">بْ</tajweed>‌ۚ يَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>مُوسَىٰ لَا تَخَفْ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ِى لَا يَخَافُ لَدَىَّ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9899\">ٱ</tajweed>لْمُرْسَل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 10,
-    "total_records": 93
-  },
-  "englishName": "An-Naml",
-  "name": "سُورَةُ النَّمۡلِ",
-  "englishNameTranslation": "The Ant",
-  "revelationType": "Meccan",
   "numberOfAyahs": 93,
-  "number": 27
+  "chapterNameArabic": "النمل",
+  "chapterNameTranscribed": "An-Naml",
+  "chapterNameRomanized": "An-Naml",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Муравьи"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Neml"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Las Hormigas"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les fourmis"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Mravi"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Semut"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Mieren"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Le Formiche"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "蚂蚁"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Ant"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Myrorna"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Ant"
+    }
+  },
+  "chapterNumber": 27,
+  "revelationOrder": 48,
+  "revelationPlace": "makkah",
+  "pages": [
+    377,
+    385
+  ]
 }

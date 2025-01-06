@@ -3199,17 +3199,121 @@
       "text_uthmani_tajweed_parsed": "تَبَارَكَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9556\">ٱ</tajweed>لَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":364\">ن ش</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ جَعَلَ لَكَ خَيْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":8082\">رًا م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2624\">ن ذ</tajweed><tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">َٲ</tajweed>لِكَ جَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":119\">تٍ ت</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":120\">جْ</tajweed>رِى مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":121\">ن ت</tajweed>َحْتِهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":122\">ٱ</tajweed>لْأَنْهَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>رُ وَيَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":9574\">جْ</tajweed>عَل لَّكَ قُصُورَۢا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 8,
-    "total_records": 77
-  },
-  "englishName": "Al-Furqaan",
-  "name": "سُورَةُ الفُرۡقَانِ",
-  "englishNameTranslation": "The Criterion",
-  "revelationType": "Meccan",
   "numberOfAyahs": 77,
-  "number": 25
+  "chapterNameArabic": "الفرقان",
+  "chapterNameTranscribed": "Al-Furqān",
+  "chapterNameRomanized": "Al-Furqan",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "аль-Фуркан"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Furkân"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Discernimiento"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Le discernement"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Furkan"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Pembeda"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Het Onderscheidingsmiddel"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Il Discrimine"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "准则"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Criterion"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Måttstocken"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Criterion"
+    }
+  },
+  "chapterNumber": 25,
+  "revelationOrder": 42,
+  "revelationPlace": "makkah",
+  "pages": [
+    359,
+    366
+  ]
 }

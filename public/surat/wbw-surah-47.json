@@ -2875,17 +2875,121 @@
       "text_uthmani_tajweed_parsed": "۞ أَفَلَمْ يَسِيرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":44\">ٱ</tajweed>لْأَرْضِ فَيَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":6853\">نظ</tajweed>ُرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> كَيْفَ كَانَ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>قِبَةُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6854\">ٱ</tajweed>لَّذِينَ مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":617\">ن ق</tajweed>َ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":618\">بْ</tajweed>لِهِمْ‌ۚ دَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َرَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12552\">ٱ</tajweed>للَّهُ عَلَيْهِمْ‌ۖ وَلِلْكَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِرِينَ أَمْثَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لُهَا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 4,
-    "total_records": 38
-  },
-  "englishName": "Muhammad",
-  "name": "سُورَةُ مُحَمَّدٍ",
-  "englishNameTranslation": "Muhammad",
-  "revelationType": "Medinan",
   "numberOfAyahs": 38,
-  "number": 47
+  "chapterNameArabic": "محمد",
+  "chapterNameTranscribed": "Muĥammad",
+  "chapterNameRomanized": "Muhammad",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Мухаммад"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Muhammed"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Muhammad"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Mouhammad"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Muhammed"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Muhammad"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "Mohammed"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Muhammad"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "穆罕默德"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Muhammad"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Muhammad"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Muhammad"
+    }
+  },
+  "chapterNumber": 47,
+  "revelationOrder": 95,
+  "revelationPlace": "madinah",
+  "pages": [
+    507,
+    510
+  ]
 }

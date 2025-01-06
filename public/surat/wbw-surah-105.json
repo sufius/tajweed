@@ -700,17 +700,121 @@
       "text_uthmani_tajweed_parsed": "فَجَعَلَهُمْ كَعَصْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14646\">فٍ م</tajweed>َّأْك<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>لِۭ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 5
-  },
-  "englishName": "Al-Fil",
-  "name": "سُورَةُ الفِيلِ",
-  "englishNameTranslation": "The Elephant",
-  "revelationType": "Meccan",
   "numberOfAyahs": 5,
-  "number": 105
+  "chapterNameArabic": "الفيل",
+  "chapterNameTranscribed": "Al-Fīl",
+  "chapterNameRomanized": "Al-Fil",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Слон"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Fîl"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Elefante"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'éléphant"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Slon"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Gajah"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Olifant"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Elefante"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "象"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Elefanten"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Elephant"
+    }
+  },
+  "chapterNumber": 105,
+  "revelationOrder": 19,
+  "revelationPlace": "makkah",
+  "pages": [
+    601,
+    601
+  ]
 }

@@ -1327,17 +1327,121 @@
       "text_uthmani_tajweed_parsed": "وَلَا يَسْــَٔلُ حَمِيمٌ حَمِيمًا"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 5,
-    "total_records": 44
-  },
-  "englishName": "Al-Ma'aarij",
-  "name": "سُورَةُ المَعَارِجِ",
-  "englishNameTranslation": "The Ascending Stairways",
-  "revelationType": "Meccan",
   "numberOfAyahs": 44,
-  "number": 70
+  "chapterNameArabic": "المعارج",
+  "chapterNameTranscribed": "Al-Ma`ārij",
+  "chapterNameRomanized": "Al-Ma'arij",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Ступени"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Meâric"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Grados de Elevación"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les voies d'ascension"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Stepeni"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Tempat yang Naik"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Opgaande Trappen"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Le Vie dell'Ascesa"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "天梯"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Vägarna Upp Till Gud"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    }
+  },
+  "chapterNumber": 70,
+  "revelationOrder": 79,
+  "revelationPlace": "makkah",
+  "pages": [
+    568,
+    570
+  ]
 }

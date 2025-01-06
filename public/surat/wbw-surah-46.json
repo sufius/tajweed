@@ -3541,17 +3541,121 @@
       "text_uthmani_tajweed_parsed": "قُلْ أَرَءَيْتُمْ إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2594\">ن ك</tajweed>َانَ مِنْ عِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":398\">ند</tajweed>ِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":399\">ٱ</tajweed>للَّهِ وَكَفَرْت<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":12461\">ُم ب</tajweed>ِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> وَشَهِدَ شَاهِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":6616\">دٌ م</tajweed>ّ<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":1385\">ِنۢ ب</tajweed>َن<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> إِسْر<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َٲ</tajweed>ٓءِيلَ عَلَىٰ مِثْلِه<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed> فَـَٔـامَنَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12462\">ٱ</tajweed>سْتَكْبَرْتُمْ‌ۖ إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":80\">ٱ</tajweed>للَّهَ لَا يَهْدِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1504\">ٱ</tajweed>لْقَوْمَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1505\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ظَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>لِم<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نَ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 4,
-    "total_records": 35
-  },
-  "englishName": "Al-Ahqaf",
-  "name": "سُورَةُ الأَحۡقَافِ",
-  "englishNameTranslation": "The Dunes",
-  "revelationType": "Meccan",
   "numberOfAyahs": 35,
-  "number": 46
+  "chapterNameArabic": "الأحقاف",
+  "chapterNameTranscribed": "Al-'Aĥqāf",
+  "chapterNameRomanized": "Al-Ahqaf",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Барханы"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Ahkâf"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Las Dunas"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Al-Ahqaf"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Ahkaf"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Bukit-bukir Pasir"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Gebogen Duinen"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Al-Ahqрf"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "沙丘"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Sanddynorna"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Wind-Curved Sandhills"
+    }
+  },
+  "chapterNumber": 46,
+  "revelationOrder": 66,
+  "revelationPlace": "makkah",
+  "pages": [
+    502,
+    506
+  ]
 }

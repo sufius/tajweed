@@ -3775,17 +3775,121 @@
       "text_uthmani_tajweed_parsed": "إِذْ ج<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءُوك<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":10694\">ُم م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":4142\">ن ف</tajweed>َوْقِكُمْ وَمِنْ أَسْفَلَ مِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":344\">نك</tajweed>ُمْ وَإِذْ زَاغَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10695\">ٱ</tajweed>لْأَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":4305\">بْ</tajweed>صَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>رُ وَبَلَغَتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10696\">ٱ</tajweed>لْقُلُوبُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10697\">ٱ</tajweed>لْحَنَاجِرَ وَتَظُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>ُونَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":32\">ٱ</tajweed>للَّهِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":10698\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>ظُّنُونَا۟"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 8,
-    "total_records": 73
-  },
-  "englishName": "Al-Ahzaab",
-  "name": "سُورَةُ الأَحۡزَابِ",
-  "englishNameTranslation": "The Clans",
-  "revelationType": "Medinan",
   "numberOfAyahs": 73,
-  "number": 33
+  "chapterNameArabic": "الأحزاب",
+  "chapterNameTranscribed": "Al-'Aĥzāb",
+  "chapterNameRomanized": "Al-Ahzab",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Союзники"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Ahzâb"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Coligados"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les coalisés"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Saveznici"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Golongan yang Bersekutu"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Bondgenoten"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "I Coalizzati"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "同盟军"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "De Sammansvurna"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    }
+  },
+  "chapterNumber": 33,
+  "revelationOrder": 90,
+  "revelationPlace": "madinah",
+  "pages": [
+    418,
+    427
+  ]
 }

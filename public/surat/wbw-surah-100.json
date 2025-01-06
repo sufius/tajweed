@@ -1201,17 +1201,121 @@
       "text_uthmani_tajweed_parsed": "وَحُصِّلَ مَا فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6095\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صُّد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": 2,
-    "total_pages": 2,
-    "total_records": 11
-  },
-  "englishName": "Al-Aadiyaat",
-  "name": "سُورَةُ العَادِيَاتِ",
-  "englishNameTranslation": "The Chargers",
-  "revelationType": "Meccan",
   "numberOfAyahs": 11,
-  "number": 100
+  "chapterNameArabic": "العاديات",
+  "chapterNameTranscribed": "Al-`Ādiyāt",
+  "chapterNameRomanized": "Al-'Adiyat",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Скачущие"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Âdiyât"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Que Galopan"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les coursiers"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Oni koji jure"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Berlari Kencang"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Voortrennenden"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Le Scalpitanti"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "奔驰的马队"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Courser"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Stridshästarna"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Courser"
+    }
+  },
+  "chapterNumber": 100,
+  "revelationOrder": 14,
+  "revelationPlace": "makkah",
+  "pages": [
+    599,
+    600
+  ]
 }

@@ -703,17 +703,121 @@
       "text_uthmani_tajweed_parsed": "مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6531\">ٱ</tajweed>لْجِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َةِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":824\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed><tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َا</tajweed>سِ"
     }
   ],
-  "pagination": {
-    "per_page": 10,
-    "current_page": 1,
-    "next_page": null,
-    "total_pages": 1,
-    "total_records": 6
-  },
-  "englishName": "An-Naas",
-  "name": "سُورَةُ النَّاسِ",
-  "englishNameTranslation": "Mankind",
-  "revelationType": "Meccan",
   "numberOfAyahs": 6,
-  "number": 114
+  "chapterNameArabic": "الناس",
+  "chapterNameTranscribed": "An-Nās",
+  "chapterNameRomanized": "An-Nas",
+  "chapterNameTranslated": {
+    "en": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Люди"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Nâs"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Hombres"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les humains"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Ljudi"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Umat Manusia"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Mensheid"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Gli Uomini"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "世人"
+    },
+    "bg": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Människornas Herre"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Mankind"
+    }
+  },
+  "chapterNumber": 114,
+  "revelationOrder": 21,
+  "revelationPlace": "makkah",
+  "pages": [
+    604,
+    604
+  ]
 }
