@@ -1199,6 +1199,151 @@
       ],
       "text_uthmani_tajweed": "وَحُصِّلَ مَا فِى [h:6095[ٱ][l[ل]صُّد[p[ُو]رِ",
       "text_uthmani_tajweed_parsed": "وَحُصِّلَ مَا فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":6095\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صُّد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>رِ"
+    },
+    {
+      "id": 6157,
+      "verse_number": 11,
+      "verse_key": "100:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "page_number": 600,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 12259,
+          "position": 1,
+          "audio_url": "wbw/100_011_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "page_number": 600,
+          "line_number": 1,
+          "text": "ﭖ",
+          "translation": {
+            "text": "Indeed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "inna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12260,
+          "position": 2,
+          "audio_url": "wbw/100_011_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "page_number": 600,
+          "line_number": 1,
+          "text": "ﭗ",
+          "translation": {
+            "text": "their Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbahum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12261,
+          "position": 3,
+          "audio_url": "wbw/100_011_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭘ",
+          "page_number": 600,
+          "line_number": 1,
+          "text": "ﭘ",
+          "translation": {
+            "text": "about them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bihim",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12262,
+          "position": 4,
+          "audio_url": "wbw/100_011_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "page_number": 600,
+          "line_number": 1,
+          "text": "ﭙ",
+          "translation": {
+            "text": "that Day",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yawma-idhin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12263,
+          "position": 5,
+          "audio_url": "wbw/100_011_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "page_number": 600,
+          "line_number": 1,
+          "text": "ﭚ",
+          "translation": {
+            "text": "(is) surely All-Aware",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lakhabīrun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12264,
+          "position": 6,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭛ",
+          "page_number": 600,
+          "line_number": 1,
+          "text": "ﭛ",
+          "translation": {
+            "text": "(11)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 89933,
+          "resource_id": 19,
+          "text": "On that day will their Lord be perfectly informed concerning them."
+        },
+        {
+          "id": 370444,
+          "resource_id": 79,
+          "text": "Поистине, Господь их [всех] (который воскресит их) в тот день [в День Суда] о них, конечно же, (всегда) осведомлен [знает о них все]."
+        },
+        {
+          "id": 257566,
+          "resource_id": 45,
+          "text": "в тот день Господь их будет осведомлен о них?"
+        },
+        {
+          "id": 141832,
+          "resource_id": 27,
+          "text": "ihr Herr wird an jenem Tag ihrer wahrlich Kundig sein."
+        }
+      ]
     }
   ],
   "numberOfAyahs": 11,

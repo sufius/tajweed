@@ -1181,6 +1181,97 @@
       ],
       "text_uthmani_tajweed": "وَم[o[َآ] أَ[q:13858[دْ]رَ[n[ٮٰ]كَ مَا هِيَهْ",
       "text_uthmani_tajweed_parsed": "وَم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13858\">دْ</tajweed>رَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>كَ مَا هِيَهْ"
+    },
+    {
+      "id": 6168,
+      "verse_number": 11,
+      "verse_key": "101:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَارٌ حَامِيَةٌۢ",
+      "page_number": 600,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 12437,
+          "position": 1,
+          "audio_url": "wbw/101_011_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮈ",
+          "page_number": 600,
+          "line_number": 9,
+          "text": "ﮈ",
+          "translation": {
+            "text": "A Fire",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nārun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12438,
+          "position": 2,
+          "audio_url": "wbw/101_011_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮉ",
+          "page_number": 600,
+          "line_number": 9,
+          "text": "ﮉ",
+          "translation": {
+            "text": "intensely hot",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ḥāmiyatun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12439,
+          "position": 3,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮊ",
+          "page_number": 600,
+          "line_number": 9,
+          "text": "ﮊ",
+          "translation": {
+            "text": "(11)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 89957,
+          "resource_id": 19,
+          "text": "Raging Fire."
+        },
+        {
+          "id": 370455,
+          "resource_id": 79,
+          "text": "Огонь пылающий [достигший предела своего жара и силы]!"
+        },
+        {
+          "id": 251425,
+          "resource_id": 45,
+          "text": "Это - жаркий Огонь!"
+        },
+        {
+          "id": 145292,
+          "resource_id": 27,
+          "text": "Ein sehr heißes Feuer."
+        }
+      ]
     }
   ],
   "numberOfAyahs": 11,

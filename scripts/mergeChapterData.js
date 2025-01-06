@@ -74,7 +74,6 @@ fs.readdir(directoryPath, async (err, files) => {
             delete mergedData.name;
             delete mergedData.revelationType;
             delete mergedData.number;
-            delete mergedData.pagination;
             delete mergedData.englishNameTranslation;
             delete mergedData.chapterNameTranslated.language;
 

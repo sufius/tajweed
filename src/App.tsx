@@ -6,9 +6,9 @@ import './tajweed.css'
 
 const surahNumberStart = 2;
 const amountSurat = surahNumberStart;
-// const url = (surahNumber) => `/surat/surah-${surahNumber}.json`;
-const url = (surahNumber: number) =>  `https://api.globalquran.com/surah/${surahNumber}/quran-tajweed`;
-// const url = (surahNumber) =>  `http://api.alquran.cloud/v1/ruku/${surahNumber}/quran-tajweed`;
+const url = (surahNumber: number) => `/surat/wbw-surah-${surahNumber}.json`;
+// const url = (surahNumber: number) =>  `https://api.globalquran.com/surah/${surahNumber}/quran-tajweed`;
+// const url = (surahNumber: number) =>  `http://api.alquran.cloud/v1/ruku/${surahNumber}/quran-tajweed`;
 
 const parseTajweed = new Tajweed();
 
@@ -76,7 +76,7 @@ function App() {
       for (let surahNumber = surahNumberStart; surahNumber <= amountSurat; surahNumber++) {
         const response = await axios.get(url(surahNumber));
         if (response.status === 200) {
-          let responseData = response.data?.data?.ayahs || response.data?.quran['quran-tajweed'];
+          let responseData = response.data?.verses || response.data?.quran['quran-tajweed'];
           if (typeof responseData === 'object' && responseData !== null) {
               responseData = Object.values(responseData);
           }
@@ -110,7 +110,7 @@ function App() {
                   whiteSpace: "nowrap"
                 }}
                 ref={(el) => (itemsRef.current[index] = el)}
-                dangerouslySetInnerHTML={{__html:parseTajweed.parse(ayah.text || ayah.verse,true) }} 
+                dangerouslySetInnerHTML={{__html:parseTajweed.parse(ayah.text_uthmani_tajweed || ayah.verse,true) }} 
                 key={index}
               ></span>
             )}

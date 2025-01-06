@@ -1217,6 +1217,133 @@
       ],
       "text_uthmani_tajweed": "وَأَ[g[مّ]َا [h:14547[ٱ][l[ل]سّ[o[َا]ٓئِلَ فَلَا تَنْهَرْ",
       "text_uthmani_tajweed_parsed": "وَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14547\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سّ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓئِلَ فَلَا تَنْهَرْ"
+    },
+    {
+      "id": 6090,
+      "verse_number": 11,
+      "verse_key": "93:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "page_number": 596,
+      "juz_number": 30,
+      "words": [
+        {
+          "id": 12598,
+          "position": 1,
+          "audio_url": "wbw/093_011_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮠ",
+          "page_number": 596,
+          "line_number": 10,
+          "text": "ﮠ",
+          "translation": {
+            "text": "But as for",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-ammā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12599,
+          "position": 2,
+          "audio_url": "wbw/093_011_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮡ",
+          "page_number": 596,
+          "line_number": 10,
+          "text": "ﮡ",
+          "translation": {
+            "text": "(the) Favor",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "biniʿ'mati",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12600,
+          "position": 3,
+          "audio_url": "wbw/093_011_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮢ",
+          "page_number": 596,
+          "line_number": 10,
+          "text": "ﮢ",
+          "translation": {
+            "text": "(of) your Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbika",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12601,
+          "position": 4,
+          "audio_url": "wbw/093_011_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮣ",
+          "page_number": 596,
+          "line_number": 10,
+          "text": "ﮣ",
+          "translation": {
+            "text": "narrate",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "faḥaddith",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 12602,
+          "position": 5,
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮤ",
+          "page_number": 596,
+          "line_number": 10,
+          "text": "ﮤ",
+          "translation": {
+            "text": "(11)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ],
+      "translations": [
+        {
+          "id": 96028,
+          "resource_id": 19,
+          "text": "Therefor of the bounty of thy Lord be thy discourse."
+        },
+        {
+          "id": 370377,
+          "resource_id": 79,
+          "text": "И что касается благ (которые дарует) Господь твой, то ты об этом возвещай [[Аллах Всевышний повелел Пророку, чтобы он рассказывал людям о тех благах, которыми одаряет Аллах. А рассказывать о том, что Аллах дарует, является выражением благодарности Ему.]]."
+        },
+        {
+          "id": 256302,
+          "resource_id": 45,
+          "text": "И возвещай о милости своего Господа."
+        },
+        {
+          "id": 145151,
+          "resource_id": 27,
+          "text": "und was die Gunst deines Herrn angeht, so erzähle (davon)."
+        }
+      ]
     }
   ],
   "numberOfAyahs": 11,
