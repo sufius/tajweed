@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6189,
+        "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ[n[ـٰ]بِ [h:14643[ٱ]لْف[p[ِي]لِ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6190,
+        "text": "أَلَمْ يَ[q:4397[جْ]عَلْ كَيْدَهُمْ فِى تَضْل[p[ِي]لٍ",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6191,
+        "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب[p[ِي]لَ",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6192,
+        "text": "تَرْمِيه[c:14644[ِم ب]ِحِجَارَ[a:14645[ةٍ م]ِّ[f:6445[ن س]ِجّ[p[ِي]لٍ",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6193,
+        "text": "فَجَعَلَهُمْ كَعَصْ[a:14646[فٍ م]َّأْك[p[ُو]لِۭ",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 601,
+        "ruku": 547,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-tajweed",
+      "language": "ar",
+      "name": "القرآن الكريم المجود (ملون) (tajweed)",
+      "englishName": "Tajweed",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

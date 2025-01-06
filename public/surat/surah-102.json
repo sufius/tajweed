@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8,
+    "ayahs": [
+      {
+        "number": 6169,
+        "text": "أَلْهَ[n[ـٰ]كُمُ [h:14627[ٱ][l[ل]تَّكَاثُرُ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6170,
+        "text": "حَتَّىٰ زُرْتُمُ [h:14628[ٱ]لْمَقَابِرَ",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6171,
+        "text": "كَلَّا سَوْفَ تَعْلَم[p[ُو]نَ",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6172,
+        "text": "ثُ[g[مّ]َ كَلَّا سَوْفَ تَعْلَم[p[ُو]نَ",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6173,
+        "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ [h:14629[ٱ]لْيَق[p[ِي]نِ",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6174,
+        "text": "لَتَرَوُ[g[نّ]َ [h:14630[ٱ]لْجَح[p[ِي]مَ",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6175,
+        "text": "ثُ[g[مّ]َ لَتَرَوُ[g[نّ]َهَا عَيْنَ [h:14631[ٱ]لْيَق[p[ِي]نِ",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6176,
+        "text": "ثُ[g[مّ]َ لَتُسْــَٔلُ[g[نّ]َ يَوْمَئِذٍ عَنِ [h:14632[ٱ][l[ل][g[نّ]َع[p[ِي]مِ",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 600,
+        "ruku": 544,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-tajweed",
+      "language": "ar",
+      "name": "القرآن الكريم المجود (ملون) (tajweed)",
+      "englishName": "Tajweed",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4,
+    "ayahs": [
+      {
+        "number": 6194,
+        "text": "لِإِيلَ[n[ـٰ]فِ قُر[p[َي]ْشٍ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6195,
+        "text": "إ[n[ِۦ]لَ[n[ـٰ]فِهِمْ رِحْلَةَ [h:14647[ٱ][l[ل]شِّت[o[َا]ٓءِ وَ[h:14648[ٱ][l[ل]صّ[p[َي]ْفِ",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6196,
+        "text": "فَلْيَعْبُدُو[s[اْ] رَبَّ هَ[n[ـٰ]ذَا [h:14649[ٱ]لْب[p[َي]ْتِ",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6197,
+        "text": "ٱلَّذ[o[ِىٓ] أَ[q:14650[طْ]عَمَه[w:14651[ُم م]ِّ[f:14454[ن ج]ُو[a:14652[عٍ و]َءَامَنَه[w:14653[ُم م]ِّنْ خ[p[َو]ْفِۭ",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 602,
+        "ruku": 548,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-tajweed",
+      "language": "ar",
+      "name": "القرآن الكريم المجود (ملون) (tajweed)",
+      "englishName": "Tajweed",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
