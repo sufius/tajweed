@@ -1379,7 +1379,9 @@
           "resource_id": 27,
           "text": "Siehst du! Obwohl er nach der Rechtleitung verfährt,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَرَءَيْتَ إِ[f:2594[ن ك]َانَ عَلَى [h:4019[ٱ]لْهُدَىٰٓ",
+      "text_uthmani_tajweed_parsed": "أَرَءَيْتَ إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":2594\">ن ك</tajweed>َانَ عَلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":4019\">ٱ</tajweed>لْهُدَىٰٓ"
     },
     {
       "id": 6118,
@@ -1488,7 +1490,9 @@
           "resource_id": 27,
           "text": "oder die Gottesfurcht gebietet?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَوْ أَمَرَ بِ[h:14569[ٱ][l[ل]تَّ[q:14569[قْ]وَىٰٓ",
+      "text_uthmani_tajweed_parsed": "أَوْ أَمَرَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14569\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>تَّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14569\">قْ</tajweed>وَىٰٓ"
     },
     {
       "id": 6119,
@@ -1615,7 +1619,9 @@
           "resource_id": 27,
           "text": "Siehst du! Wie (wäre es) wenn er (die Botschaft) für Lüge erklärt und sich abkehrt?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَرَءَيْتَ إِ[f:14570[ن ك]َذَّبَ وَتَوَلَّىٰٓ",
+      "text_uthmani_tajweed_parsed": "أَرَءَيْتَ إِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14570\">ن ك</tajweed>َذَّبَ وَتَوَلَّىٰٓ"
     },
     {
       "id": 6120,
@@ -1760,7 +1766,9 @@
           "resource_id": 27,
           "text": "Weiß er denn nicht, daß Allah sieht?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَلَمْ يَعْل[c:14571[َم ب]ِأَ[g[نّ]َ [h:897[ٱ]للَّهَ يَرَىٰ",
+      "text_uthmani_tajweed_parsed": "أَلَمْ يَعْل<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":14571\">َم ب</tajweed>ِأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":897\">ٱ</tajweed>للَّهَ يَرَىٰ"
     },
     {
       "id": 6121,
@@ -1923,7 +1931,9 @@
           "resource_id": 27,
           "text": "Keineswegs! Wenn er nicht aufhört, werden Wir ihn ganz gewiß an der Stirnlocke packen und ziehen,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "كَلَّا لَئ[u:4195[ِن ل]َّمْ يَ[f:10891[نت]َهِ لَنَسْفَع[i:14572[َۢا ب]ِ[h:14573[ٱ][l[ل][g[نّ]َاصِيَةِ",
+      "text_uthmani_tajweed_parsed": "كَلَّا لَئ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":4195\">ِن ل</tajweed>َّمْ يَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":10891\">نت</tajweed>َهِ لَنَسْفَع<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":14572\">َۢا ب</tajweed>ِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14573\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed><tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َاصِيَةِ"
     },
     {
       "id": 6122,
@@ -2032,7 +2042,9 @@
           "resource_id": 27,
           "text": "einer Stirnlocke, einer lügnerischen, einer verfehlt handelnden."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "نَاصِيَ[f:14574[ةٍ ك]َ[n[ـٰ]ذِبَةٍ خَاطِئَةٍ",
+      "text_uthmani_tajweed_parsed": "نَاصِيَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14574\">ةٍ ك</tajweed>َ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ذِبَةٍ خَاطِئَةٍ"
     },
     {
       "id": 6123,
@@ -2123,7 +2135,9 @@
           "resource_id": 27,
           "text": "So soll er doch seine Genossen rufen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَلْيَ[q:14575[دْ]عُ نَادِيَهُۥ",
+      "text_uthmani_tajweed_parsed": "فَلْيَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14575\">دْ</tajweed>عُ نَادِيَهُۥ"
     },
     {
       "id": 6124,
@@ -2214,7 +2228,9 @@
           "resource_id": 27,
           "text": "Wir werden die (Höllen)wache rufen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "سَنَ[q:14576[دْ]عُ [h:14577[ٱ][l[ل]زَّبَانِيَةَ",
+      "text_uthmani_tajweed_parsed": "سَنَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14576\">دْ</tajweed>عُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14577\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>زَّبَانِيَةَ"
     },
     {
       "id": 6125,
@@ -2359,7 +2375,9 @@
           "resource_id": 27,
           "text": "Keineswegs! Gehorche ihm nicht, sondern wirf dich nieder und sei (Allah) nah!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "كَلَّا لَا تُطِعْهُ وَ[h:14578[ٱ]سْجُ[q:14578[دْ] وَ[h:14579[ٱ][q:14579[قْ]تَرِ[q[ب] ۩",
+      "text_uthmani_tajweed_parsed": "كَلَّا لَا تُطِعْهُ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14578\">ٱ</tajweed>سْجُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14578\">دْ</tajweed> وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14579\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14579\">قْ</tajweed>تَرِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">ب</tajweed> ۩"
     }
   ],
   "numberOfAyahs": 19,

@@ -1235,7 +1235,9 @@
           "resource_id": 27,
           "text": "Die Tamud erklärten in ihrer Auflehnung (die Botschaft) für Lüge,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "كَذَّبَتْ ثَمُودُ بِطَغْوَ[n[ٮٰ]هَآ",
+      "text_uthmani_tajweed_parsed": "كَذَّبَتْ ثَمُودُ بِطَغْوَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>هَآ"
     },
     {
       "id": 6055,
@@ -1344,7 +1346,9 @@
           "resource_id": 27,
           "text": "als der Unseligste von ihnen sich erhob."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِذِ [h:14525[ٱ][i:14526[نۢب]َعَثَ أَشْقَ[n[ـٰ]هَا",
+      "text_uthmani_tajweed_parsed": "إِذِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14525\">ٱ</tajweed><tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":14526\">نۢب</tajweed>َعَثَ أَشْقَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>هَا"
     },
     {
       "id": 6056,
@@ -1525,7 +1529,9 @@
           "resource_id": 27,
           "text": "Allahs Gesandter sagte zu ihnen: (Achtet auf) Allahs Kamelstute und ihre Trinkzeit."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَقَالَ لَهُمْ رَسُولُ [h:3306[ٱ]للَّهِ نَاقَةَ [h:14527[ٱ]للَّهِ وَسُ[q:14528[قْ]يَ[n[ـٰ]هَا",
+      "text_uthmani_tajweed_parsed": "فَقَالَ لَهُمْ رَسُولُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":3306\">ٱ</tajweed>للَّهِ نَاقَةَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14527\">ٱ</tajweed>للَّهِ وَسُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14528\">قْ</tajweed>يَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>هَا"
     },
     {
       "id": 6057,
@@ -1706,7 +1712,9 @@
           "resource_id": 27,
           "text": "Sie aber bezichtigten ihn der Lüge, und so schnitten sie ihr die Sehnen durch. Da schmetterte ihr Herr sie für ihre Sünde nieder, und so ebnete Er über ihnen die Erde ein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّه[c:14529[ُم ب]ِذَ[i:13779[نۢب]ِهِمْ فَسَوَّ[n[ٮٰ]هَا",
+      "text_uthmani_tajweed_parsed": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّه<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":14529\">ُم ب</tajweed>ِذَ<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":13779\">نۢب</tajweed>ِهِمْ فَسَوَّ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>هَا"
     },
     {
       "id": 6058,
@@ -1815,7 +1823,9 @@
           "resource_id": 27,
           "text": "Und Er (Allah) fürchtet nicht die Folge davon."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلَا يَخَافُ عُ[q:14530[قْ]بَ[n[ـٰ]هَا",
+      "text_uthmani_tajweed_parsed": "وَلَا يَخَافُ عُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14530\">قْ</tajweed>بَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>هَا"
     }
   ],
   "numberOfAyahs": 15,

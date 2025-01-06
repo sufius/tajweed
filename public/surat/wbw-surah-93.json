@@ -1343,7 +1343,9 @@
           "resource_id": 27,
           "text": "und was die Gunst deines Herrn angeht, so erzähle (davon)."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَأَ[g[مّ]َا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "text_uthmani_tajweed_parsed": "وَأَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
     }
   ],
   "numberOfAyahs": 11,

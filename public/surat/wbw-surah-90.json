@@ -1379,7 +1379,9 @@
           "resource_id": 27,
           "text": "Aber er ist nicht den steilen Paßweg hinaufgestürmt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَلَا [h:14509[ٱ][q:14510[قْ]تَحَمَ [h:14511[ٱ]لْعَقَبَةَ",
+      "text_uthmani_tajweed_parsed": "فَلَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14509\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14510\">قْ</tajweed>تَحَمَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14511\">ٱ</tajweed>لْعَقَبَةَ"
     },
     {
       "id": 6035,
@@ -1506,7 +1508,9 @@
           "resource_id": 27,
           "text": "Und was läßt dich wissen, was der steile Paßweg ist?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَم[o[َآ] أَ[q:13858[دْ]رَ[n[ٮٰ]كَ مَا [h:14512[ٱ]لْعَقَبَةُ",
+      "text_uthmani_tajweed_parsed": "وَم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13858\">دْ</tajweed>رَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>كَ مَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14512\">ٱ</tajweed>لْعَقَبَةُ"
     },
     {
       "id": 6036,
@@ -1597,7 +1601,9 @@
           "resource_id": 27,
           "text": "(Es ist) die Freilassung eines Sklaven"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَكُّ رَقَبَةٍ",
+      "text_uthmani_tajweed_parsed": "فَكُّ رَقَبَةٍ"
     },
     {
       "id": 6037,
@@ -1760,7 +1766,9 @@
           "resource_id": 27,
           "text": "oder zu speisen am Tag der Hungersnot"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَوْ إِ[q:14513[طْ]عَ[n[ـٰ][f:14514[مٌ ف]ِى يَوْ[f:14515[مٍ ذ]ِى مَسْغَبَةٍ",
+      "text_uthmani_tajweed_parsed": "أَوْ إِ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14513\">طْ</tajweed>عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed><tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14514\">مٌ ف</tajweed>ِى يَوْ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14515\">مٍ ذ</tajweed>ِى مَسْغَبَةٍ"
     },
     {
       "id": 6038,
@@ -1869,7 +1877,9 @@
           "resource_id": 27,
           "text": "eine Waise, die einem nahe ist,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "يَتِي[f:14516[مًا ذ]َا مَ[q:14517[قْ]رَبَةٍ",
+      "text_uthmani_tajweed_parsed": "يَتِي<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14516\">مًا ذ</tajweed>َا مَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14517\">قْ</tajweed>رَبَةٍ"
     },
     {
       "id": 6039,
@@ -1996,7 +2006,9 @@
           "resource_id": 27,
           "text": "oder einen Armen, der dem Boden nahe ist."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أَوْ مِسْكِي[f:14518[نًا ذ]َا مَتْرَبَةٍ",
+      "text_uthmani_tajweed_parsed": "أَوْ مِسْكِي<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14518\">نًا ذ</tajweed>َا مَتْرَبَةٍ"
     },
     {
       "id": 6040,
@@ -2213,7 +2225,9 @@
           "resource_id": 27,
           "text": "Und daß man hierauf zu denjenigen gehört, die glauben, einander die Standhaftigkeit eindringlich empfehlen und einander die Barmherzigkeit eindringlich empfehlen."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ثُ[g[مّ]َ كَانَ مِنَ [h:523[ٱ]لَّذِينَ ءَامَنُو[s[اْ] وَتَوَاصَوْ[s[اْ] بِ[h:223[ٱ][l[ل]صَّ[q:223[بْ]رِ وَتَوَاصَوْ[s[اْ] بِ[h:14519[ٱ]لْمَرْحَمَةِ",
+      "text_uthmani_tajweed_parsed": "ثُ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">مّ</tajweed>َ كَانَ مِنَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":523\">ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> وَتَوَاصَوْ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":223\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صَّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":223\">بْ</tajweed>رِ وَتَوَاصَوْ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14519\">ٱ</tajweed>لْمَرْحَمَةِ"
     },
     {
       "id": 6041,
@@ -2322,7 +2336,9 @@
           "resource_id": 27,
           "text": "Das sind die Gefährten der rechten Seite."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "أُ[s[وْ]لَ[o[ـٰٓ]ئِكَ أَصْحَ[n[ـٰ]بُ [h:13209[ٱ]لْمَيْمَنَةِ",
+      "text_uthmani_tajweed_parsed": "أُ<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">وْ</tajweed>لَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>ئِكَ أَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13209\">ٱ</tajweed>لْمَيْمَنَةِ"
     },
     {
       "id": 6042,
@@ -2485,7 +2501,9 @@
           "resource_id": 27,
           "text": "Diejenigen aber, die Unsere Zeichen verleugnen, sie sind die Gefährten der unglückseligen Seite."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لَّذِينَ كَفَرُو[s[اْ] بِـَٔـايَ[n[ـٰ]تِنَا هُمْ أَصْحَ[n[ـٰ]بُ [h:13211[ٱ]لْمَشْــَٔمَةِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لَّذِينَ كَفَرُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> بِـَٔـايَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>تِنَا هُمْ أَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13211\">ٱ</tajweed>لْمَشْــَٔمَةِ"
     },
     {
       "id": 6043,
@@ -2594,7 +2612,9 @@
           "resource_id": 27,
           "text": "Über ihnen liegt ein (sie) einschließendes Feuer."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "عَلَيْهِمْ نَا[a:14520[رٌ م]ُّؤْصَدَةُۢ",
+      "text_uthmani_tajweed_parsed": "عَلَيْهِمْ نَا<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14520\">رٌ م</tajweed>ُّؤْصَدَةُۢ"
     }
   ],
   "numberOfAyahs": 20,

@@ -3863,7 +3863,9 @@
           "resource_id": 27,
           "text": "Allah wird aber keine Seele zurückstellen, wenn ihre Frist kommt. Und Allah ist Kundig dessen, was ihr tut."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَل[a:13628[َن ي]ُؤَخِّرَ [h:13629[ٱ]للَّهُ نَفْسًا إِذَا ج[o[َا]ٓءَ أَجَلُهَا‌ۚ وَ[h:72[ٱ]للَّهُ خَبِي[i:2335[رُۢ ب]ِمَا تَعْمَل[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":13628\">َن ي</tajweed>ُؤَخِّرَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":13629\">ٱ</tajweed>للَّهُ نَفْسًا إِذَا ج<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ أَجَلُهَا‌ۚ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":72\">ٱ</tajweed>للَّهُ خَبِي<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":2335\">رُۢ ب</tajweed>ِمَا تَعْمَل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ"
     }
   ],
   "numberOfAyahs": 11,

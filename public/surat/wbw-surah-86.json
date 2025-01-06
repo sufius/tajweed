@@ -1397,7 +1397,9 @@
           "resource_id": 27,
           "text": "Beim Himmel mit der Wiederkehr"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ][l[ل]سَّم[o[َا]ٓءِ ذَاتِ [h:14430[ٱ][l[ل]رَّ[q:14431[جْ]عِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>سَّم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءِ ذَاتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14430\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>رَّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14431\">جْ</tajweed>عِ"
     },
     {
       "id": 5943,
@@ -1506,7 +1508,9 @@
           "resource_id": 27,
           "text": "und der Erde mit ihren Sprüngen!"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَ[h:9999[ٱ]لْأَرْضِ ذَاتِ [h:14432[ٱ][l[ل]صَّ[q:14433[دْ]عِ",
+      "text_uthmani_tajweed_parsed": "وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":9999\">ٱ</tajweed>لْأَرْضِ ذَاتِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14432\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صَّ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14433\">دْ</tajweed>عِ"
     },
     {
       "id": 5944,
@@ -1615,7 +1619,9 @@
           "resource_id": 27,
           "text": "Er ist wahrlich ein entscheidendes Wort;"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َهُ[n[ۥ] لَقَوْ[f:14434[لٌ ف]َصْلٌ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> لَقَوْ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14434\">لٌ ف</tajweed>َصْلٌ"
     },
     {
       "id": 5945,
@@ -1724,7 +1730,9 @@
           "resource_id": 27,
           "text": "er ist kein Scherz."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَمَا هُوَ بِ[h:14435[ٱ]لْهَزْلِ",
+      "text_uthmani_tajweed_parsed": "وَمَا هُوَ بِ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14435\">ٱ</tajweed>لْهَزْلِ"
     },
     {
       "id": 5946,
@@ -1833,7 +1841,9 @@
           "resource_id": 27,
           "text": "Sie wenden eine List an,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َهُمْ يَكِيدُونَ كَيْدًا",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهُمْ يَكِيدُونَ كَيْدًا"
     },
     {
       "id": 5947,
@@ -1924,7 +1934,9 @@
           "resource_id": 27,
           "text": "Und Ich wende eine List an."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَأَكِيدُ كَيْدًا",
+      "text_uthmani_tajweed_parsed": "وَأَكِيدُ كَيْدًا"
     },
     {
       "id": 5948,
@@ -2051,7 +2063,9 @@
           "resource_id": 27,
           "text": "So lasse den Ungläubigen noch Zeit; lasse ihnen nur eine Weile Zeit."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَمَهِّلِ [h:14436[ٱ]لْكَ[n[ـٰ]فِرِينَ أَمْهِلْهُمْ رُوَيْدَۢا",
+      "text_uthmani_tajweed_parsed": "فَمَهِّلِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14436\">ٱ</tajweed>لْكَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِرِينَ أَمْهِلْهُمْ رُوَيْدَۢا"
     }
   ],
   "numberOfAyahs": 17,

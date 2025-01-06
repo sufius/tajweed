@@ -1253,7 +1253,9 @@
           "resource_id": 27,
           "text": "und was soll sein Besitz ihm nützen, wenn er sich ins Verderben stürzt?"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَمَا يُغْنِى عَنْهُ مَالُهُ[o[ۥٓ] إِذَا تَرَدَّىٰٓ",
+      "text_uthmani_tajweed_parsed": "وَمَا يُغْنِى عَنْهُ مَالُهُ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ۥٓ</tajweed> إِذَا تَرَدَّىٰٓ"
     },
     {
       "id": 6070,
@@ -1362,7 +1364,9 @@
           "resource_id": 27,
           "text": "Uns obliegt wahrlich die Rechtleitung."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َ عَلَيْنَا لَلْهُدَىٰ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ عَلَيْنَا لَلْهُدَىٰ"
     },
     {
       "id": 6071,
@@ -1489,7 +1493,9 @@
           "resource_id": 27,
           "text": "Und Uns gehört wahrlich das Jenseits und das Diesseits."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَإِ[g[نّ]َ لَنَا لَلْأَخِرَةَ وَ[h:12987[ٱ]لْأُولَىٰ",
+      "text_uthmani_tajweed_parsed": "وَإِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ لَنَا لَلْأَخِرَةَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":12987\">ٱ</tajweed>لْأُولَىٰ"
     },
     {
       "id": 6072,
@@ -1598,7 +1604,9 @@
           "resource_id": 27,
           "text": "So habe Ich euch gewarnt vor einem Feuer, das lodert,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "فَأَ[f:14533[نذ]َرْتُكُمْ نَا[f:14534[رًا ت]َلَظَّىٰ",
+      "text_uthmani_tajweed_parsed": "فَأَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14533\">نذ</tajweed>َرْتُكُمْ نَا<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14534\">رًا ت</tajweed>َلَظَّىٰ"
     },
     {
       "id": 6073,
@@ -1725,7 +1733,9 @@
           "resource_id": 27,
           "text": "dem nur der Unseligste ausgesetzt sein wird,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "لَا يَصْلَ[n[ـٰ]ه[o[َآ] إِلَّا [h:14535[ٱ]لْأَشْقَى",
+      "text_uthmani_tajweed_parsed": "لَا يَصْلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ه<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> إِلَّا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14535\">ٱ</tajweed>لْأَشْقَى"
     },
     {
       "id": 6074,
@@ -1834,7 +1844,9 @@
           "resource_id": 27,
           "text": "der (die Botschaft) für Lüge erklärt und sich abkehrt."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "text_uthmani_tajweed_parsed": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ"
     },
     {
       "id": 6075,
@@ -1925,7 +1937,9 @@
           "resource_id": 27,
           "text": "Doch davon ferngehalten wird der Gottesfürchtigste werden,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَسَيُجَ[g[نّ]َبُهَا [h:14536[ٱ]لْأَتْقَى",
+      "text_uthmani_tajweed_parsed": "وَسَيُجَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َبُهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14536\">ٱ</tajweed>لْأَتْقَى"
     },
     {
       "id": 6076,
@@ -2052,7 +2066,9 @@
           "resource_id": 27,
           "text": "der seinen Besitz hingibt, um sich zu läutern,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "ٱلَّذِى يُؤْتِى مَالَهُ[n[ۥ] يَتَزَكَّىٰ",
+      "text_uthmani_tajweed_parsed": "ٱلَّذِى يُؤْتِى مَالَهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> يَتَزَكَّىٰ"
     },
     {
       "id": 6077,
@@ -2215,7 +2231,9 @@
           "resource_id": 27,
           "text": "und niemand hat bei ihm eine Gunst (anzurechnen), die vergolten werden müßte,"
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَمَا لِأَحَدٍ عِ[f:719[ند]َهُ[n[ۥ] م[a:7433[ِن ن]ِّعْمَ[f:14537[ةٍ ت]ُ[q:11814[جْ]زَىٰٓ",
+      "text_uthmani_tajweed_parsed": "وَمَا لِأَحَدٍ عِ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":719\">ند</tajweed>َهُ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ۥ</tajweed> م<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":7433\">ِن ن</tajweed>ِّعْمَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14537\">ةٍ ت</tajweed>ُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":11814\">جْ</tajweed>زَىٰٓ"
     },
     {
       "id": 6078,
@@ -2360,7 +2378,9 @@
           "resource_id": 27,
           "text": "sondern (er handelt) im Trachten nach dem Angesicht seines höchsten Herrn."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِلَّا [h:1610[ٱ][q:1130[بْ]تِغ[o[َا]ٓءَ وَ[q:1611[جْ]هِ رَبِّهِ [h:14538[ٱ]لْأَعْلَىٰ",
+      "text_uthmani_tajweed_parsed": "إِلَّا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":1610\">ٱ</tajweed><tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":1130\">بْ</tajweed>تِغ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءَ وَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":1611\">جْ</tajweed>هِ رَبِّهِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14538\">ٱ</tajweed>لْأَعْلَىٰ"
     },
     {
       "id": 6079,
@@ -2451,7 +2471,9 @@
           "resource_id": 27,
           "text": "Und er wird wahrlich zufrieden sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "وَلَسَوْفَ يَرْضَىٰ",
+      "text_uthmani_tajweed_parsed": "وَلَسَوْفَ يَرْضَىٰ"
     }
   ],
   "numberOfAyahs": 21,

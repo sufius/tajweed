@@ -1343,7 +1343,9 @@
           "resource_id": 27,
           "text": "ihr Herr wird an jenem Tag ihrer wahrlich Kundig sein."
         }
-      ]
+      ],
+      "text_uthmani_tajweed": "إِ[g[نّ]َ رَبَّه[c:14617[ُم ب]ِهِمْ يَوْمَئِ[u:14618[ذٍ ل]َّخَب[p[ِي]رُۢ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ رَبَّه<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":14617\">ُم ب</tajweed>ِهِمْ يَوْمَئِ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":14618\">ذٍ ل</tajweed>َّخَب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>رُۢ"
     }
   ],
   "numberOfAyahs": 11,
