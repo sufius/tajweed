@@ -77940,10 +77940,18 @@
       "text_uthmani_transcribed": "Yā ayyuhal-lażīna āmanuṣbirū wa ṣābirū wa rabiṭū, wattaqullāha la'allakum tufliḥūn(a)."
     }
   ],
-  "numberOfAyahs": 200,
-  "chapterNameArabic": "آل عمران",
-  "chapterNameTranscribed": "Āli `Imrān",
-  "chapterNameTranslated": {
+  "pages": [
+    50,
+    76
+  ],
+  "chapter_number": 3,
+  "revelation_order": 89,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Ali 'Imran",
+  "number_of_ayahs": 200,
+  "chapter_name_arabic": "آل عمران",
+  "chapter_name_transcribed": "Āli `Imrān",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Family of Imran"
@@ -78048,13 +78056,5 @@
       "language_name": "english",
       "name": "Family of Imran"
     }
-  },
-  "chapterNumber": 3,
-  "revelationOrder": 89,
-  "revelationPlace": "madinah",
-  "pages": [
-    50,
-    76
-  ],
-  "chapterTransliterated": "Ali 'Imran"
+  }
 }

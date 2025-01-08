@@ -2589,10 +2589,18 @@
       "text_uthmani_transcribed": "Wa lasaufa yarḍā."
     }
   ],
-  "numberOfAyahs": 21,
-  "chapterNameArabic": "الليل",
-  "chapterNameTranscribed": "Al-Layl",
-  "chapterNameTranslated": {
+  "pages": [
+    595,
+    596
+  ],
+  "chapter_number": 92,
+  "revelation_order": 9,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Layl",
+  "number_of_ayahs": 21,
+  "chapter_name_arabic": "الليل",
+  "chapter_name_transcribed": "Al-Layl",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Night"
@@ -2697,13 +2705,5 @@
       "language_name": "english",
       "name": "The Night"
     }
-  },
-  "chapterNumber": 92,
-  "revelationOrder": 9,
-  "revelationPlace": "makkah",
-  "pages": [
-    595,
-    596
-  ],
-  "chapterTransliterated": "Al-Layl"
+  }
 }

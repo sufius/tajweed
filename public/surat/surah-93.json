@@ -1410,10 +1410,18 @@
       "text_uthmani_transcribed": "Wa ammā bini'mati rabbika fa ḥaddiṡ."
     }
   ],
-  "numberOfAyahs": 11,
-  "chapterNameArabic": "الضحى",
-  "chapterNameTranscribed": "Ađ-Đuĥaá",
-  "chapterNameTranslated": {
+  "pages": [
+    596,
+    596
+  ],
+  "chapter_number": 93,
+  "revelation_order": 11,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ad-Duhaa",
+  "number_of_ayahs": 11,
+  "chapter_name_arabic": "الضحى",
+  "chapter_name_transcribed": "Ađ-Đuĥaá",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Morning Hours"
@@ -1518,13 +1526,5 @@
       "language_name": "english",
       "name": "The Morning Hours"
     }
-  },
-  "chapterNumber": 93,
-  "revelationOrder": 11,
-  "revelationPlace": "makkah",
-  "pages": [
-    596,
-    596
-  ],
-  "chapterTransliterated": "Ad-Duhaa"
+  }
 }

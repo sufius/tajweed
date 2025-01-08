@@ -5026,10 +5026,18 @@
       "text_uthmani_transcribed": "Yā ayyuhal-lażīna āmanū kūnū anṣārallāhi kamā qāla 'īsabnu maryama lil-ḥawāriyyīna man anṣārī ilallāh(i), qālal-ḥawāriyyūna naḥnu anṣārullāhi fa'āmanaṭ-ṭā'ifatum mim banī isrā'īla wa kafaraṭ-ṭā'ifah(tun), fa'ayyadnal-lażīna āmanū 'alā 'aduwwihim fa'aṣbaḥū ẓāhirīn(a)."
     }
   ],
-  "numberOfAyahs": 14,
-  "chapterNameArabic": "الصف",
-  "chapterNameTranscribed": "Aş-Şaf",
-  "chapterNameTranslated": {
+  "pages": [
+    551,
+    552
+  ],
+  "chapter_number": 61,
+  "revelation_order": 109,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "As-Saf",
+  "number_of_ayahs": 14,
+  "chapter_name_arabic": "الصف",
+  "chapter_name_transcribed": "Aş-Şaf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Ranks"
@@ -5134,13 +5142,5 @@
       "language_name": "english",
       "name": "The Ranks"
     }
-  },
-  "chapterNumber": 61,
-  "revelationOrder": 109,
-  "revelationPlace": "madinah",
-  "pages": [
-    551,
-    552
-  ],
-  "chapterTransliterated": "As-Saf"
+  }
 }

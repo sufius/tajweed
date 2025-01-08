@@ -733,10 +733,18 @@
       "text_uthmani_transcribed": "Fa ja'alahum ka'aṣfim ma'kūl(in)."
     }
   ],
-  "numberOfAyahs": 5,
-  "chapterNameArabic": "الفيل",
-  "chapterNameTranscribed": "Al-Fīl",
-  "chapterNameTranslated": {
+  "pages": [
+    601,
+    601
+  ],
+  "chapter_number": 105,
+  "revelation_order": 19,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Fil",
+  "number_of_ayahs": 5,
+  "chapter_name_arabic": "الفيل",
+  "chapter_name_transcribed": "Al-Fīl",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Elephant"
@@ -841,13 +849,5 @@
       "language_name": "english",
       "name": "The Elephant"
     }
-  },
-  "chapterNumber": 105,
-  "revelationOrder": 19,
-  "revelationPlace": "makkah",
-  "pages": [
-    601,
-    601
-  ],
-  "chapterTransliterated": "Al-Fil"
+  }
 }

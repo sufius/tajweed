@@ -539,10 +539,18 @@
       "text_uthmani_transcribed": "Fasabbiḥ biḥamdi rabbika wastagfirh(u), innahū kāna tawwābā(n)."
     }
   ],
-  "numberOfAyahs": 3,
-  "chapterNameArabic": "النصر",
-  "chapterNameTranscribed": "An-Naşr",
-  "chapterNameTranslated": {
+  "pages": [
+    603,
+    603
+  ],
+  "chapter_number": 110,
+  "revelation_order": 114,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "An-Nasr",
+  "number_of_ayahs": 3,
+  "chapter_name_arabic": "النصر",
+  "chapter_name_transcribed": "An-Naşr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Divine Support"
@@ -647,13 +655,5 @@
       "language_name": "english",
       "name": "The Divine Support"
     }
-  },
-  "chapterNumber": 110,
-  "revelationOrder": 114,
-  "revelationPlace": "madinah",
-  "pages": [
-    603,
-    603
-  ],
-  "chapterTransliterated": "An-Nasr"
+  }
 }

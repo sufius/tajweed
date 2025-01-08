@@ -9744,10 +9744,18 @@
       "text_uthmani_transcribed": "Fī maq'adi ṣidqin 'inda malīkim muqtadir(in)."
     }
   ],
-  "numberOfAyahs": 55,
-  "chapterNameArabic": "القمر",
-  "chapterNameTranscribed": "Al-Qamar",
-  "chapterNameTranslated": {
+  "pages": [
+    528,
+    531
+  ],
+  "chapter_number": 54,
+  "revelation_order": 37,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Qamar",
+  "number_of_ayahs": 55,
+  "chapter_name_arabic": "القمر",
+  "chapter_name_transcribed": "Al-Qamar",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Moon"
@@ -9852,13 +9860,5 @@
       "language_name": "english",
       "name": "The Moon"
     }
-  },
-  "chapterNumber": 54,
-  "revelationOrder": 37,
-  "revelationPlace": "makkah",
-  "pages": [
-    528,
-    531
-  ],
-  "chapterTransliterated": "Al-Qamar"
+  }
 }

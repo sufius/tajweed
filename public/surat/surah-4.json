@@ -81578,10 +81578,18 @@
       "text_uthmani_transcribed": "Yastaftūnak(a), qulillāhu yuftīkum fil-kalālah(ti), inimru'un halaka laisa lahū waladuw wa lahū ukhtun fa lahā niṣfu mā tarak(a), wa huwa yariṡuhā illam yakul lahā walad(un), fa in kānataṡnataini fa lahumaṡ-ṡuluṡāni mimmā tarak(a), wa in kānū ikhwatar rijālaw wa nisā'an fa liż-żakari miṡlu ḥaẓẓil-unṡayain(i), yubayyinullāhu lakum an taḍillū, wallāhu bikulli syai'in 'alīm(un)."
     }
   ],
-  "numberOfAyahs": 176,
-  "chapterNameArabic": "النساء",
-  "chapterNameTranscribed": "An-Nisā",
-  "chapterNameTranslated": {
+  "pages": [
+    77,
+    106
+  ],
+  "chapter_number": 4,
+  "revelation_order": 92,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "An-Nisa",
+  "number_of_ayahs": 176,
+  "chapter_name_arabic": "النساء",
+  "chapter_name_transcribed": "An-Nisā",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Women"
@@ -81686,13 +81694,5 @@
       "language_name": "english",
       "name": "The Women"
     }
-  },
-  "chapterNumber": 4,
-  "revelationOrder": 92,
-  "revelationPlace": "madinah",
-  "pages": [
-    77,
-    106
-  ],
-  "chapterTransliterated": "An-Nisa"
+  }
 }

@@ -18273,10 +18273,18 @@
       "text_uthmani_transcribed": "Alā innahum fī miryatim mil liqā'i rabbihim, alā innahū bikulli syai'im muḥīṭ(un)."
     }
   ],
-  "numberOfAyahs": 54,
-  "chapterNameArabic": "فصلت",
-  "chapterNameTranscribed": "Fuşşilat",
-  "chapterNameTranslated": {
+  "pages": [
+    477,
+    482
+  ],
+  "chapter_number": 41,
+  "revelation_order": 61,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Fussilat",
+  "number_of_ayahs": 54,
+  "chapter_name_arabic": "فصلت",
+  "chapter_name_transcribed": "Fuşşilat",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Explained in Detail"
@@ -18381,13 +18389,5 @@
       "language_name": "english",
       "name": "Explained in Detail"
     }
-  },
-  "chapterNumber": 41,
-  "revelationOrder": 61,
-  "revelationPlace": "makkah",
-  "pages": [
-    477,
-    482
-  ],
-  "chapterTransliterated": "Fussilat"
+  }
 }

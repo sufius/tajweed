@@ -1159,10 +1159,18 @@
       "text_uthmani_transcribed": "Fī 'amadim mumaddadah(tin)."
     }
   ],
-  "numberOfAyahs": 9,
-  "chapterNameArabic": "الهمزة",
-  "chapterNameTranscribed": "Al-Humazah",
-  "chapterNameTranslated": {
+  "pages": [
+    601,
+    601
+  ],
+  "chapter_number": 104,
+  "revelation_order": 32,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Humazah",
+  "number_of_ayahs": 9,
+  "chapter_name_arabic": "الهمزة",
+  "chapter_name_transcribed": "Al-Humazah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Traducer"
@@ -1267,13 +1275,5 @@
       "language_name": "english",
       "name": "The Traducer"
     }
-  },
-  "chapterNumber": 104,
-  "revelationOrder": 32,
-  "revelationPlace": "makkah",
-  "pages": [
-    601,
-    601
-  ],
-  "chapterTransliterated": "Al-Humazah"
+  }
 }

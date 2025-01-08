@@ -1119,10 +1119,18 @@
       "text_uthmani_transcribed": "Alaisallāhu bi'aḥkamil-ḥākimīn(a)."
     }
   ],
-  "numberOfAyahs": 8,
-  "chapterNameArabic": "التين",
-  "chapterNameTranscribed": "At-Tīn",
-  "chapterNameTranslated": {
+  "pages": [
+    597,
+    597
+  ],
+  "chapter_number": 95,
+  "revelation_order": 28,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "At-Tin",
+  "number_of_ayahs": 8,
+  "chapter_name_arabic": "التين",
+  "chapter_name_transcribed": "At-Tīn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Fig"
@@ -1227,13 +1235,5 @@
       "language_name": "english",
       "name": "The Fig"
     }
-  },
-  "chapterNumber": 95,
-  "revelationOrder": 28,
-  "revelationPlace": "makkah",
-  "pages": [
-    597,
-    597
-  ],
-  "chapterTransliterated": "At-Tin"
+  }
 }

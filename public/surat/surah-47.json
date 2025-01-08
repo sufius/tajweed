@@ -12484,10 +12484,18 @@
       "text_uthmani_transcribed": "Hā antum hā'ulā'i tud'auna litunfiqū fī sabīlillāh(i), fa minkum may yabkhal(u), wa may yabkhal fa innamā yabkhalu 'an nafsih(ī),  wallāhul-ganiyyu wa antumul-fuqarā'(u), wa in tatawallau yastabdil qauman gairakum, ṡumma lā yakūnū amṡālakum."
     }
   ],
-  "numberOfAyahs": 38,
-  "chapterNameArabic": "محمد",
-  "chapterNameTranscribed": "Muĥammad",
-  "chapterNameTranslated": {
+  "pages": [
+    507,
+    510
+  ],
+  "chapter_number": 47,
+  "revelation_order": 95,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Muhammad",
+  "number_of_ayahs": 38,
+  "chapter_name_arabic": "محمد",
+  "chapter_name_transcribed": "Muĥammad",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Muhammad"
@@ -12592,13 +12600,5 @@
       "language_name": "english",
       "name": "Muhammad"
     }
-  },
-  "chapterNumber": 47,
-  "revelationOrder": 95,
-  "revelationPlace": "madinah",
-  "pages": [
-    507,
-    510
-  ],
-  "chapterTransliterated": "Muhammad"
+  }
 }

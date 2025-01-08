@@ -733,10 +733,18 @@
       "text_uthmani_transcribed": "Wa min syarri ḥāsidin iżā ḥasad(a)."
     }
   ],
-  "numberOfAyahs": 5,
-  "chapterNameArabic": "الفلق",
-  "chapterNameTranscribed": "Al-Falaq",
-  "chapterNameTranslated": {
+  "pages": [
+    604,
+    604
+  ],
+  "chapter_number": 113,
+  "revelation_order": 20,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Falaq",
+  "number_of_ayahs": 5,
+  "chapter_name_arabic": "الفلق",
+  "chapter_name_transcribed": "Al-Falaq",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Daybreak"
@@ -841,13 +849,5 @@
       "language_name": "english",
       "name": "The Daybreak"
     }
-  },
-  "chapterNumber": 113,
-  "revelationOrder": 20,
-  "revelationPlace": "makkah",
-  "pages": [
-    604,
-    604
-  ],
-  "chapterTransliterated": "Al-Falaq"
+  }
 }

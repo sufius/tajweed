@@ -7656,10 +7656,18 @@
       "text_uthmani_transcribed": "Innallāha ya'lamu gaibas-samāwāti wal-arḍ(i), wallāhu baṣīrum bimā ta'malūn(a)."
     }
   ],
-  "numberOfAyahs": 18,
-  "chapterNameArabic": "الحجرات",
-  "chapterNameTranscribed": "Al-Ĥujurāt",
-  "chapterNameTranslated": {
+  "pages": [
+    515,
+    517
+  ],
+  "chapter_number": 49,
+  "revelation_order": 106,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Hujurat",
+  "number_of_ayahs": 18,
+  "chapter_name_arabic": "الحجرات",
+  "chapter_name_transcribed": "Al-Ĥujurāt",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Rooms"
@@ -7764,13 +7772,5 @@
       "language_name": "english",
       "name": "The Rooms"
     }
-  },
-  "chapterNumber": 49,
-  "revelationOrder": 106,
-  "revelationPlace": "madinah",
-  "pages": [
-    515,
-    517
-  ],
-  "chapterTransliterated": "Al-Hujurat"
+  }
 }

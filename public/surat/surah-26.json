@@ -38436,10 +38436,18 @@
       "text_uthmani_transcribed": "Illal-lażīna āmanū wa 'amiluṣ-ṣāliḥāti wa żakarullāha kaṡīraw wantaṣarū mim ba'di mā ẓulimū, wa saya'lamul-lażīna ẓalamū ayya munqalabiy yanqalibūn(a)."
     }
   ],
-  "numberOfAyahs": 227,
-  "chapterNameArabic": "الشعراء",
-  "chapterNameTranscribed": "Ash-Shu`arā",
-  "chapterNameTranslated": {
+  "pages": [
+    367,
+    376
+  ],
+  "chapter_number": 26,
+  "revelation_order": 47,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ash-Shu'ara",
+  "number_of_ayahs": 227,
+  "chapter_name_arabic": "الشعراء",
+  "chapter_name_transcribed": "Ash-Shu`arā",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Poets"
@@ -38544,13 +38552,5 @@
       "language_name": "english",
       "name": "The Poets"
     }
-  },
-  "chapterNumber": 26,
-  "revelationOrder": 47,
-  "revelationPlace": "makkah",
-  "pages": [
-    367,
-    376
-  ],
-  "chapterTransliterated": "Ash-Shu'ara"
+  }
 }

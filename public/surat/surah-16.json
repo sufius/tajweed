@@ -42589,10 +42589,18 @@
       "text_uthmani_transcribed": "Innallāha ma'al-lażīnattaqau wal-lażīna hum muḥsinūn(a)."
     }
   ],
-  "numberOfAyahs": 128,
-  "chapterNameArabic": "النحل",
-  "chapterNameTranscribed": "An-Naĥl",
-  "chapterNameTranslated": {
+  "pages": [
+    267,
+    281
+  ],
+  "chapter_number": 16,
+  "revelation_order": 70,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "An-Nahl",
+  "number_of_ayahs": 128,
+  "chapter_name_arabic": "النحل",
+  "chapter_name_transcribed": "An-Naĥl",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Bee"
@@ -42697,13 +42705,5 @@
       "language_name": "english",
       "name": "The Bee"
     }
-  },
-  "chapterNumber": 16,
-  "revelationOrder": 70,
-  "revelationPlace": "makkah",
-  "pages": [
-    267,
-    281
-  ],
-  "chapterTransliterated": "An-Nahl"
+  }
 }

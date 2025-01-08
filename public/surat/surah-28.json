@@ -32363,10 +32363,18 @@
       "text_uthmani_transcribed": "Wa lā tad'u ma'allāhi ilāhan ākhar(a), lā ilāha illā huw(a), kullu syai'in hālikun illā wajhah(ū), lahul-ḥukmu wa ilaihi turja'ūn(a)."
     }
   ],
-  "numberOfAyahs": 88,
-  "chapterNameArabic": "القصص",
-  "chapterNameTranscribed": "Al-Qaşaş",
-  "chapterNameTranslated": {
+  "pages": [
+    385,
+    396
+  ],
+  "chapter_number": 28,
+  "revelation_order": 49,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Qasas",
+  "number_of_ayahs": 88,
+  "chapter_name_arabic": "القصص",
+  "chapter_name_transcribed": "Al-Qaşaş",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Stories"
@@ -32471,13 +32479,5 @@
       "language_name": "english",
       "name": "The Stories"
     }
-  },
-  "chapterNumber": 28,
-  "revelationOrder": 49,
-  "revelationPlace": "makkah",
-  "pages": [
-    385,
-    396
-  ],
-  "chapterTransliterated": "Al-Qasas"
+  }
 }

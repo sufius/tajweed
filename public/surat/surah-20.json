@@ -33331,10 +33331,18 @@
       "text_uthmani_transcribed": "Qul kullum mutarabbiṣun fa tarabbaṣū, fa sata'lamūna man aṣḥābuṣ-ṣirāṭis-sawiyyi wa manihtadā."
     }
   ],
-  "numberOfAyahs": 135,
-  "chapterNameArabic": "طه",
-  "chapterNameTranscribed": "Ţāhā",
-  "chapterNameTranslated": {
+  "pages": [
+    312,
+    321
+  ],
+  "chapter_number": 20,
+  "revelation_order": 45,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Taha",
+  "number_of_ayahs": 135,
+  "chapter_name_arabic": "طه",
+  "chapter_name_transcribed": "Ţāhā",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Ta-Ha"
@@ -33439,13 +33447,5 @@
       "language_name": "english",
       "name": "Ta-Ha"
     }
-  },
-  "chapterNumber": 20,
-  "revelationOrder": 45,
-  "revelationPlace": "makkah",
-  "pages": [
-    312,
-    321
-  ],
-  "chapterTransliterated": "Taha"
+  }
 }

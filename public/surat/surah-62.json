@@ -3975,10 +3975,18 @@
       "text_uthmani_transcribed": "Wa iżā ra'au tijāratan au lahwaninfaḍḍū ilaihā wa tarakūka qā'imā(n), qul mā 'indallāhi khairum minal-lahwi wa minat-tijārah(ti), wallāhu khairur-rāziqīn(a)."
     }
   ],
-  "numberOfAyahs": 11,
-  "chapterNameArabic": "الجمعة",
-  "chapterNameTranscribed": "Al-Jumu`ah",
-  "chapterNameTranslated": {
+  "pages": [
+    553,
+    554
+  ],
+  "chapter_number": 62,
+  "revelation_order": 110,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Jumu'ah",
+  "number_of_ayahs": 11,
+  "chapter_name_arabic": "الجمعة",
+  "chapter_name_transcribed": "Al-Jumu`ah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Congregation, Friday"
@@ -4083,13 +4091,5 @@
       "language_name": "english",
       "name": "The Congregation, Friday"
     }
-  },
-  "chapterNumber": 62,
-  "revelationOrder": 110,
-  "revelationPlace": "madinah",
-  "pages": [
-    553,
-    554
-  ],
-  "chapterTransliterated": "Al-Jumu'ah"
+  }
 }

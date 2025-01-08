@@ -8839,10 +8839,18 @@
       "text_uthmani_transcribed": "Fa a'riḍ 'anhum wantaẓir innahum muntaẓirūn(a)."
     }
   ],
-  "numberOfAyahs": 30,
-  "chapterNameArabic": "السجدة",
-  "chapterNameTranscribed": "As-Sajdah",
-  "chapterNameTranslated": {
+  "pages": [
+    415,
+    417
+  ],
+  "chapter_number": 32,
+  "revelation_order": 75,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "As-Sajdah",
+  "number_of_ayahs": 30,
+  "chapter_name_arabic": "السجدة",
+  "chapter_name_transcribed": "As-Sajdah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Prostration"
@@ -8947,13 +8955,5 @@
       "language_name": "english",
       "name": "The Prostration"
     }
-  },
-  "chapterNumber": 32,
-  "revelationOrder": 75,
-  "revelationPlace": "makkah",
-  "pages": [
-    415,
-    417
-  ],
-  "chapterTransliterated": "As-Sajdah"
+  }
 }

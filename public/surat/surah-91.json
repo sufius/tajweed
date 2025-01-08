@@ -1912,10 +1912,18 @@
       "text_uthmani_transcribed": "Wa lā yakhāfu 'uqbāhā."
     }
   ],
-  "numberOfAyahs": 15,
-  "chapterNameArabic": "الشمس",
-  "chapterNameTranscribed": "Ash-Shams",
-  "chapterNameTranslated": {
+  "pages": [
+    595,
+    595
+  ],
+  "chapter_number": 91,
+  "revelation_order": 26,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ash-Shams",
+  "number_of_ayahs": 15,
+  "chapter_name_arabic": "الشمس",
+  "chapter_name_transcribed": "Ash-Shams",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Sun"
@@ -2020,13 +2028,5 @@
       "language_name": "english",
       "name": "The Sun"
     }
-  },
-  "chapterNumber": 91,
-  "revelationOrder": 26,
-  "revelationPlace": "makkah",
-  "pages": [
-    595,
-    595
-  ],
-  "chapterTransliterated": "Ash-Shams"
+  }
 }

@@ -55074,10 +55074,18 @@
       "text_uthmani_transcribed": "Fa in tawallau faqul ḥasbiyallāhu lā ilāha illā huw(a), 'alaihi tawakkaltu wa  huwa rabbul-'arsyil-'aẓīm(i)."
     }
   ],
-  "numberOfAyahs": 129,
-  "chapterNameArabic": "التوبة",
-  "chapterNameTranscribed": "At-Tawbah",
-  "chapterNameTranslated": {
+  "pages": [
+    187,
+    207
+  ],
+  "chapter_number": 9,
+  "revelation_order": 113,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "At-Tawbah",
+  "number_of_ayahs": 129,
+  "chapter_name_arabic": "التوبة",
+  "chapter_name_transcribed": "At-Tawbah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Repentance"
@@ -55182,13 +55190,5 @@
       "language_name": "english",
       "name": "The Repentance"
     }
-  },
-  "chapterNumber": 9,
-  "revelationOrder": 113,
-  "revelationPlace": "madinah",
-  "pages": [
-    187,
-    207
-  ],
-  "chapterTransliterated": "At-Tawbah"
+  }
 }

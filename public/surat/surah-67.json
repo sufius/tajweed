@@ -8098,10 +8098,18 @@
       "text_uthmani_transcribed": "Qul ara'aitum in aṣbaḥa mā'ukum gauran famay ya'tīkum bimā'im ma'īn(in)."
     }
   ],
-  "numberOfAyahs": 30,
-  "chapterNameArabic": "الملك",
-  "chapterNameTranscribed": "Al-Mulk",
-  "chapterNameTranslated": {
+  "pages": [
+    562,
+    564
+  ],
+  "chapter_number": 67,
+  "revelation_order": 77,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Mulk",
+  "number_of_ayahs": 30,
+  "chapter_name_arabic": "الملك",
+  "chapter_name_transcribed": "Al-Mulk",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Sovereignty"
@@ -8206,13 +8214,5 @@
       "language_name": "english",
       "name": "The Sovereignty"
     }
-  },
-  "chapterNumber": 67,
-  "revelationOrder": 77,
-  "revelationPlace": "makkah",
-  "pages": [
-    562,
-    564
-  ],
-  "chapterTransliterated": "Al-Mulk"
+  }
 }

@@ -28820,10 +28820,18 @@
       "text_uthmani_transcribed": "Qāla rabbiḥkum bil-ḥaqq(i), wa rabbunar-raḥmānul-musta'ānu 'alā mā taṣifūn(a)."
     }
   ],
-  "numberOfAyahs": 112,
-  "chapterNameArabic": "الأنبياء",
-  "chapterNameTranscribed": "Al-'Anbyā",
-  "chapterNameTranslated": {
+  "pages": [
+    322,
+    331
+  ],
+  "chapter_number": 21,
+  "revelation_order": 73,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Anbya",
+  "number_of_ayahs": 112,
+  "chapter_name_arabic": "الأنبياء",
+  "chapter_name_transcribed": "Al-'Anbyā",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Prophets"
@@ -28928,13 +28936,5 @@
       "language_name": "english",
       "name": "The Prophets"
     }
-  },
-  "chapterNumber": 21,
-  "revelationOrder": 73,
-  "revelationPlace": "makkah",
-  "pages": [
-    322,
-    331
-  ],
-  "chapterTransliterated": "Al-Anbya"
+  }
 }

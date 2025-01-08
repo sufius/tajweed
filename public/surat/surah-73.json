@@ -4962,10 +4962,18 @@
       "text_uthmani_transcribed": "Inna rabbaka ya'lamu annaka taqūmu adnā min ṡuluṡayil-laili wa niṣfahū wa ṡuluṡahū wa ṭā'ifatum minal-lażīna ma'ak(a), wallāhu yuqaddirul-laila wan-nahār(a), 'alima allan tuḥṣūhu fa tāba 'alaikum faqra'ū mā tayassara minal-qur'ān(i), 'alima an sayakūnu minkum marḍā, wa ākharūna yaḍribūna fil-arḍi yabtagūna min faḍlillāh(i), wa ākharūna yuqātilūna fī sabīlillāh(i), faqra'ū mā tayassara minh(u), wa aqīmuṣ-ṣalāta wa ātuz-zakāta wa aqriḍullāha qarḍan ḥasanā(n), wa mā tuqaddimū li'anfusikum min khairin tajidūhu 'indallāh(i), huwa khairaw wa a'ẓama ajrā(n), wastagfirullāh(a), innallāha gafūrur raḥīm(un)."
     }
   ],
-  "numberOfAyahs": 20,
-  "chapterNameArabic": "المزمل",
-  "chapterNameTranscribed": "Al-Muzzammil",
-  "chapterNameTranslated": {
+  "pages": [
+    574,
+    575
+  ],
+  "chapter_number": 73,
+  "revelation_order": 3,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Muzzammil",
+  "number_of_ayahs": 20,
+  "chapter_name_arabic": "المزمل",
+  "chapter_name_transcribed": "Al-Muzzammil",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Enshrouded One"
@@ -5070,13 +5078,5 @@
       "language_name": "english",
       "name": "The Enshrouded One"
     }
-  },
-  "chapterNumber": 73,
-  "revelationOrder": 3,
-  "revelationPlace": "makkah",
-  "pages": [
-    574,
-    575
-  ],
-  "chapterTransliterated": "Al-Muzzammil"
+  }
 }

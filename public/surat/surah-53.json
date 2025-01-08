@@ -10499,10 +10499,18 @@
       "text_uthmani_transcribed": "Fasjudū lillāhi wa'budū."
     }
   ],
-  "numberOfAyahs": 62,
-  "chapterNameArabic": "النجم",
-  "chapterNameTranscribed": "An-Najm",
-  "chapterNameTranslated": {
+  "pages": [
+    526,
+    528
+  ],
+  "chapter_number": 53,
+  "revelation_order": 23,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "An-Najm",
+  "number_of_ayahs": 62,
+  "chapter_name_arabic": "النجم",
+  "chapter_name_transcribed": "An-Najm",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Star"
@@ -10607,13 +10615,5 @@
       "language_name": "english",
       "name": "The Star"
     }
-  },
-  "chapterNumber": 53,
-  "revelationOrder": 23,
-  "revelationPlace": "makkah",
-  "pages": [
-    526,
-    528
-  ],
-  "chapterTransliterated": "An-Najm"
+  }
 }

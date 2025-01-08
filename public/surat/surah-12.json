@@ -40313,10 +40313,18 @@
       "text_uthmani_transcribed": "Laqad kāna fī qaṣaṣihim 'ibratul li'ulil-albāb(i), mā kāna ḥadīṡay yuftarā wa lākin taṣdīqal-lażī baina yadaihi wa tafṣīla kulli syai'iw wa hudaw wa raḥmatal liqaumiy yu'minūn(a)."
     }
   ],
-  "numberOfAyahs": 111,
-  "chapterNameArabic": "يوسف",
-  "chapterNameTranscribed": "Yūsuf",
-  "chapterNameTranslated": {
+  "pages": [
+    235,
+    248
+  ],
+  "chapter_number": 12,
+  "revelation_order": 53,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Yusuf",
+  "number_of_ayahs": 111,
+  "chapter_name_arabic": "يوسف",
+  "chapter_name_transcribed": "Yūsuf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Joseph"
@@ -40421,13 +40429,5 @@
       "language_name": "english",
       "name": "Joseph"
     }
-  },
-  "chapterNumber": 12,
-  "revelationOrder": 53,
-  "revelationPlace": "makkah",
-  "pages": [
-    235,
-    248
-  ],
-  "chapterTransliterated": "Yusuf"
+  }
 }

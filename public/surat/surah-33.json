@@ -28761,10 +28761,18 @@
       "text_uthmani_transcribed": "Liyu'ażżiballāhul-munāfiqīna wal-munāfiqāti wal-musyrikīna wal-musyrikāti wa yatūballāhu 'alal-mu'minīna wal-mu'mināt(i), wa kānallāhu gafūrar raḥīmā(n)."
     }
   ],
-  "numberOfAyahs": 73,
-  "chapterNameArabic": "الأحزاب",
-  "chapterNameTranscribed": "Al-'Aĥzāb",
-  "chapterNameTranslated": {
+  "pages": [
+    418,
+    427
+  ],
+  "chapter_number": 33,
+  "revelation_order": 90,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Ahzab",
+  "number_of_ayahs": 73,
+  "chapter_name_arabic": "الأحزاب",
+  "chapter_name_transcribed": "Al-'Aĥzāb",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Combined Forces"
@@ -28869,13 +28877,5 @@
       "language_name": "english",
       "name": "The Combined Forces"
     }
-  },
-  "chapterNumber": 33,
-  "revelationOrder": 90,
-  "revelationPlace": "madinah",
-  "pages": [
-    418,
-    427
-  ],
-  "chapterTransliterated": "Al-Ahzab"
+  }
 }

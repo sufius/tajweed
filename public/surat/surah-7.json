@@ -75235,10 +75235,18 @@
       "text_uthmani_transcribed": "Innal-lażīna 'inda rabbika lā yastakbirūna 'an 'ibādatihī wa yusabbiḥūnahū wa lahū yasjudūn(a)."
     }
   ],
-  "numberOfAyahs": 206,
-  "chapterNameArabic": "الأعراف",
-  "chapterNameTranscribed": "Al-'A`rāf",
-  "chapterNameTranslated": {
+  "pages": [
+    151,
+    176
+  ],
+  "chapter_number": 7,
+  "revelation_order": 39,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-A'raf",
+  "number_of_ayahs": 206,
+  "chapter_name_arabic": "الأعراف",
+  "chapter_name_transcribed": "Al-'A`rāf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Heights"
@@ -75343,13 +75351,5 @@
       "language_name": "english",
       "name": "The Heights"
     }
-  },
-  "chapterNumber": 7,
-  "revelationOrder": 39,
-  "revelationPlace": "makkah",
-  "pages": [
-    151,
-    176
-  ],
-  "chapterTransliterated": "Al-A'raf"
+  }
 }

@@ -7068,10 +7068,18 @@
       "text_uthmani_transcribed": "Liya'lama an qad ablagū risālāti rabbihim wa aḥāṭa bimā ladaihim wa aḥṣā kulla syai'in 'adadā(n)."
     }
   ],
-  "numberOfAyahs": 28,
-  "chapterNameArabic": "الجن",
-  "chapterNameTranscribed": "Al-Jinn",
-  "chapterNameTranslated": {
+  "pages": [
+    572,
+    573
+  ],
+  "chapter_number": 72,
+  "revelation_order": 40,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Jinn",
+  "number_of_ayahs": 28,
+  "chapter_name_arabic": "الجن",
+  "chapter_name_transcribed": "Al-Jinn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Jinn"
@@ -7176,13 +7184,5 @@
       "language_name": "english",
       "name": "The Jinn"
     }
-  },
-  "chapterNumber": 72,
-  "revelationOrder": 40,
-  "revelationPlace": "makkah",
-  "pages": [
-    572,
-    573
-  ],
-  "chapterTransliterated": "Al-Jinn"
+  }
 }

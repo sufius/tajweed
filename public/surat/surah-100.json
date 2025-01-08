@@ -1410,10 +1410,18 @@
       "text_uthmani_transcribed": "Inna rabbahum bihim yauma'iżil lakhabīr(un)."
     }
   ],
-  "numberOfAyahs": 11,
-  "chapterNameArabic": "العاديات",
-  "chapterNameTranscribed": "Al-`Ādiyāt",
-  "chapterNameTranslated": {
+  "pages": [
+    599,
+    600
+  ],
+  "chapter_number": 100,
+  "revelation_order": 14,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-'Adiyat",
+  "number_of_ayahs": 11,
+  "chapter_name_arabic": "العاديات",
+  "chapter_name_transcribed": "Al-`Ādiyāt",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Courser"
@@ -1518,13 +1526,5 @@
       "language_name": "english",
       "name": "The Courser"
     }
-  },
-  "chapterNumber": 100,
-  "revelationOrder": 14,
-  "revelationPlace": "makkah",
-  "pages": [
-    599,
-    600
-  ],
-  "chapterTransliterated": "Al-'Adiyat"
+  }
 }

@@ -2490,10 +2490,18 @@
       "text_uthmani_transcribed": "Kallā, lā tuṭi'hu wasjud waqtarib."
     }
   ],
-  "numberOfAyahs": 19,
-  "chapterNameArabic": "العلق",
-  "chapterNameTranscribed": "Al-`Alaq",
-  "chapterNameTranslated": {
+  "pages": [
+    597,
+    597
+  ],
+  "chapter_number": 96,
+  "revelation_order": 1,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-'Alaq",
+  "number_of_ayahs": 19,
+  "chapter_name_arabic": "العلق",
+  "chapter_name_transcribed": "Al-`Alaq",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Clot"
@@ -2598,13 +2606,5 @@
       "language_name": "english",
       "name": "The Clot"
     }
-  },
-  "chapterNumber": 96,
-  "revelationOrder": 1,
-  "revelationPlace": "makkah",
-  "pages": [
-    597,
-    597
-  ],
-  "chapterTransliterated": "Al-'Alaq"
+  }
 }

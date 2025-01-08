@@ -1157,10 +1157,18 @@
       "text_uthmani_transcribed": "Wa may ya'mal miṡqāla żarratin syarray yarah(ū)."
     }
   ],
-  "numberOfAyahs": 8,
-  "chapterNameArabic": "الزلزلة",
-  "chapterNameTranscribed": "Az-Zalzalah",
-  "chapterNameTranslated": {
+  "pages": [
+    599,
+    599
+  ],
+  "chapter_number": 99,
+  "revelation_order": 93,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Az-Zalzalah",
+  "number_of_ayahs": 8,
+  "chapter_name_arabic": "الزلزلة",
+  "chapter_name_transcribed": "Az-Zalzalah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Earthquake"
@@ -1265,13 +1273,5 @@
       "language_name": "english",
       "name": "The Earthquake"
     }
-  },
-  "chapterNumber": 99,
-  "revelationOrder": 93,
-  "revelationPlace": "madinah",
-  "pages": [
-    599,
-    599
-  ],
-  "chapterTransliterated": "Az-Zalzalah"
+  }
 }

@@ -7971,10 +7971,18 @@
       "text_uthmani_transcribed": "Fa sabbiḥ bismi rabbikal-'aẓīm(i)."
     }
   ],
-  "numberOfAyahs": 52,
-  "chapterNameArabic": "الحاقة",
-  "chapterNameTranscribed": "Al-Ĥāqqah",
-  "chapterNameTranslated": {
+  "pages": [
+    566,
+    568
+  ],
+  "chapter_number": 69,
+  "revelation_order": 78,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Haqqah",
+  "number_of_ayahs": 52,
+  "chapter_name_arabic": "الحاقة",
+  "chapter_name_transcribed": "Al-Ĥāqqah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Reality"
@@ -8079,13 +8087,5 @@
       "language_name": "english",
       "name": "The Reality"
     }
-  },
-  "chapterNumber": 69,
-  "revelationOrder": 78,
-  "revelationPlace": "makkah",
-  "pages": [
-    566,
-    568
-  ],
-  "chapterTransliterated": "Al-Haqqah"
+  }
 }

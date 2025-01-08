@@ -5440,10 +5440,18 @@
       "text_uthmani_transcribed": "Wa maryamabnata 'imrānal-latī aḥṣanat farjahā fa nafakhnā fīhi mir rūḥinā wa ṣaddaqat bikalimāti rabbihā wa kutubihī wa kānat minal-qānitīn(a)."
     }
   ],
-  "numberOfAyahs": 12,
-  "chapterNameArabic": "التحريم",
-  "chapterNameTranscribed": "At-Taĥrīm",
-  "chapterNameTranslated": {
+  "pages": [
+    560,
+    561
+  ],
+  "chapter_number": 66,
+  "revelation_order": 107,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "At-Tahrim",
+  "number_of_ayahs": 12,
+  "chapter_name_arabic": "التحريم",
+  "chapter_name_transcribed": "At-Taĥrīm",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Prohibition"
@@ -5548,13 +5556,5 @@
       "language_name": "english",
       "name": "The Prohibition"
     }
-  },
-  "chapterNumber": 66,
-  "revelationOrder": 107,
-  "revelationPlace": "madinah",
-  "pages": [
-    560,
-    561
-  ],
-  "chapterTransliterated": "At-Tahrim"
+  }
 }

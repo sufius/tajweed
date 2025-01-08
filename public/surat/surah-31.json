@@ -12381,10 +12381,18 @@
       "text_uthmani_transcribed": "Innallāha 'indahū 'ilmus-sā'ah(ti), wa yunazzilul-gaiṡ(a), wa ya'lamu mā fil-arḥām(i), wa mā tadrī nafsum māżā taksibu gadā(n), wa mā tadrī nafsum bi'ayyi arḍin tamūt(u), innallāha 'alīmun khabīr(un)."
     }
   ],
-  "numberOfAyahs": 34,
-  "chapterNameArabic": "لقمان",
-  "chapterNameTranscribed": "Luqmān",
-  "chapterNameTranslated": {
+  "pages": [
+    411,
+    414
+  ],
+  "chapter_number": 31,
+  "revelation_order": 57,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Luqman",
+  "number_of_ayahs": 34,
+  "chapter_name_arabic": "لقمان",
+  "chapter_name_transcribed": "Luqmān",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Luqman"
@@ -12489,13 +12497,5 @@
       "language_name": "english",
       "name": "Luqman"
     }
-  },
-  "chapterNumber": 31,
-  "revelationOrder": 57,
-  "revelationPlace": "makkah",
-  "pages": [
-    411,
-    414
-  ],
-  "chapterTransliterated": "Luqman"
+  }
 }

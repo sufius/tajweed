@@ -28177,10 +28177,18 @@
       "text_uthmani_transcribed": "Falam yaku yanfa'uhum īmānuhum lammā ra'au ba'sanā, sunnatallāhil latī qad khalat fī 'ibādih(ī), wa khasira hunālikal-kāfirūn(a)."
     }
   ],
-  "numberOfAyahs": 85,
-  "chapterNameArabic": "غافر",
-  "chapterNameTranscribed": "Ghāfir",
-  "chapterNameTranslated": {
+  "pages": [
+    467,
+    476
+  ],
+  "chapter_number": 40,
+  "revelation_order": 60,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ghafir",
+  "number_of_ayahs": 85,
+  "chapter_name_arabic": "غافر",
+  "chapter_name_transcribed": "Ghāfir",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Forgiver"
@@ -28285,13 +28293,5 @@
       "language_name": "english",
       "name": "The Forgiver"
     }
-  },
-  "chapterNumber": 40,
-  "revelationOrder": 60,
-  "revelationPlace": "makkah",
-  "pages": [
-    467,
-    476
-  ],
-  "chapterTransliterated": "Ghafir"
+  }
 }

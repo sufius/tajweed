@@ -1005,10 +1005,18 @@
       "text_uthmani_transcribed": "Ṡumma latus'alunna yauma'iżin 'anin-na'īm(i)."
     }
   ],
-  "numberOfAyahs": 8,
-  "chapterNameArabic": "التكاثر",
-  "chapterNameTranscribed": "At-Takāthur",
-  "chapterNameTranslated": {
+  "pages": [
+    600,
+    600
+  ],
+  "chapter_number": 102,
+  "revelation_order": 16,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "At-Takathur",
+  "number_of_ayahs": 8,
+  "chapter_name_arabic": "التكاثر",
+  "chapter_name_transcribed": "At-Takāthur",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Rivalry in world increase"
@@ -1113,13 +1121,5 @@
       "language_name": "english",
       "name": "The Rivalry in world increase"
     }
-  },
-  "chapterNumber": 102,
-  "revelationOrder": 16,
-  "revelationPlace": "makkah",
-  "pages": [
-    600,
-    600
-  ],
-  "chapterTransliterated": "At-Takathur"
+  }
 }

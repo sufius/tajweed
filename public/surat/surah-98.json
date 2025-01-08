@@ -2259,10 +2259,18 @@
       "text_uthmani_transcribed": "Jazā'uhum 'inda rabbihim jannātu 'adnin tajrī min taḥtihal-anhāru khālidīna fīhā abadā(n), raḍiyallāhu 'anhum wa raḍū 'anh(u), żālika liman khasyiya rabbah(ū)."
     }
   ],
-  "numberOfAyahs": 8,
-  "chapterNameArabic": "البينة",
-  "chapterNameTranscribed": "Al-Bayyinah",
-  "chapterNameTranslated": {
+  "pages": [
+    598,
+    599
+  ],
+  "chapter_number": 98,
+  "revelation_order": 100,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Bayyinah",
+  "number_of_ayahs": 8,
+  "chapter_name_arabic": "البينة",
+  "chapter_name_transcribed": "Al-Bayyinah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Clear Proof"
@@ -2367,13 +2375,5 @@
       "language_name": "english",
       "name": "The Clear Proof"
     }
-  },
-  "chapterNumber": 98,
-  "revelationOrder": 100,
-  "revelationPlace": "madinah",
-  "pages": [
-    598,
-    599
-  ],
-  "chapterTransliterated": "Al-Bayyinah"
+  }
 }

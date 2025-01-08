@@ -18839,10 +18839,18 @@
       "text_uthmani_transcribed": "Hāżā balāgul lin-nāsi wa liyunżarū bihī wa liya'lamū annamā huwa ilāhuw wāḥiduw wa liyażżakkara ulul-albāb(i)."
     }
   ],
-  "numberOfAyahs": 52,
-  "chapterNameArabic": "ابراهيم",
-  "chapterNameTranscribed": "Ibrāhīm",
-  "chapterNameTranslated": {
+  "pages": [
+    255,
+    261
+  ],
+  "chapter_number": 14,
+  "revelation_order": 72,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ibrahim",
+  "number_of_ayahs": 52,
+  "chapter_name_arabic": "ابراهيم",
+  "chapter_name_transcribed": "Ibrāhīm",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Abraham"
@@ -18947,13 +18955,5 @@
       "language_name": "english",
       "name": "Abraham"
     }
-  },
-  "chapterNumber": 14,
-  "revelationOrder": 72,
-  "revelationPlace": "makkah",
-  "pages": [
-    255,
-    261
-  ],
-  "chapterTransliterated": "Ibrahim"
+  }
 }

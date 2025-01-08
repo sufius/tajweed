@@ -18673,10 +18673,18 @@
       "text_uthmani_transcribed": "Fa subḥānal-lażī biyadihī malakūtu kulli syai'iw wa ilaihi turja'ūn(a)."
     }
   ],
-  "numberOfAyahs": 83,
-  "chapterNameArabic": "يس",
-  "chapterNameTranscribed": "Yā-Sīn",
-  "chapterNameTranslated": {
+  "pages": [
+    440,
+    445
+  ],
+  "chapter_number": 36,
+  "revelation_order": 41,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ya-Sin",
+  "number_of_ayahs": 83,
+  "chapter_name_arabic": "يس",
+  "chapter_name_transcribed": "Yā-Sīn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Ya Sin"
@@ -18781,13 +18789,5 @@
       "language_name": "english",
       "name": "Ya Sin"
     }
-  },
-  "chapterNumber": 36,
-  "revelationOrder": 41,
-  "revelationPlace": "makkah",
-  "pages": [
-    440,
-    445
-  ],
-  "chapterTransliterated": "Ya-Sin"
+  }
 }

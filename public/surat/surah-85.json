@@ -3370,10 +3370,18 @@
       "text_uthmani_transcribed": "Fī lauḥim maḥfūẓ(in)."
     }
   ],
-  "numberOfAyahs": 22,
-  "chapterNameArabic": "البروج",
-  "chapterNameTranscribed": "Al-Burūj",
-  "chapterNameTranslated": {
+  "pages": [
+    590,
+    590
+  ],
+  "chapter_number": 85,
+  "revelation_order": 27,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Buruj",
+  "number_of_ayahs": 22,
+  "chapter_name_arabic": "البروج",
+  "chapter_name_transcribed": "Al-Burūj",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Mansions of the Stars"
@@ -3478,13 +3486,5 @@
       "language_name": "english",
       "name": "The Mansions of the Stars"
     }
-  },
-  "chapterNumber": 85,
-  "revelationOrder": 27,
-  "revelationPlace": "makkah",
-  "pages": [
-    590,
-    590
-  ],
-  "chapterTransliterated": "Al-Buruj"
+  }
 }

@@ -60357,10 +60357,18 @@
       "text_uthmani_transcribed": "Lillāhi mulkus-samāwāti wal-arḍi wa mā fīhinn(a), wa huwa 'alā kulli syai'in qadīr(un)."
     }
   ],
-  "numberOfAyahs": 120,
-  "chapterNameArabic": "المائدة",
-  "chapterNameTranscribed": "Al-Mā'idah",
-  "chapterNameTranslated": {
+  "pages": [
+    106,
+    127
+  ],
+  "chapter_number": 5,
+  "revelation_order": 112,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Ma'idah",
+  "number_of_ayahs": 120,
+  "chapter_name_arabic": "المائدة",
+  "chapter_name_transcribed": "Al-Mā'idah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Table Spread"
@@ -60465,13 +60473,5 @@
       "language_name": "english",
       "name": "The Table Spread"
     }
-  },
-  "chapterNumber": 5,
-  "revelationOrder": 112,
-  "revelationPlace": "madinah",
-  "pages": [
-    106,
-    127
-  ],
-  "chapterTransliterated": "Al-Ma'idah"
+  }
 }

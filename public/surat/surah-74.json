@@ -8150,10 +8150,18 @@
       "text_uthmani_transcribed": "Wa mā yażkurūna illā ay yasyā'allāh(u), huwa ahlut-taqwā wa ahlul-magfirah(ti)."
     }
   ],
-  "numberOfAyahs": 56,
-  "chapterNameArabic": "المدثر",
-  "chapterNameTranscribed": "Al-Muddaththir",
-  "chapterNameTranslated": {
+  "pages": [
+    575,
+    577
+  ],
+  "chapter_number": 74,
+  "revelation_order": 4,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Muddaththir",
+  "number_of_ayahs": 56,
+  "chapter_name_arabic": "المدثر",
+  "chapter_name_transcribed": "Al-Muddaththir",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Cloaked One"
@@ -8258,13 +8266,5 @@
       "language_name": "english",
       "name": "The Cloaked One"
     }
-  },
-  "chapterNumber": 74,
-  "revelationOrder": 4,
-  "revelationPlace": "makkah",
-  "pages": [
-    575,
-    577
-  ],
-  "chapterTransliterated": "Al-Muddaththir"
+  }
 }

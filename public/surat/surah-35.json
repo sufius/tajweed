@@ -17381,10 +17381,18 @@
       "text_uthmani_transcribed": "Wa lau yu'ākhiżullāhun-nāsa bimā kasabū mā taraka 'alā ẓahrihā min dābbatiw wa lākiy yu'akhkhiruhum ilā ajalim musammā(n), fa iżā jā'a ajaluhum fa innallāha kāna bi'ibādihī baṣīrā(n)."
     }
   ],
-  "numberOfAyahs": 45,
-  "chapterNameArabic": "فاطر",
-  "chapterNameTranscribed": "Fāţir",
-  "chapterNameTranslated": {
+  "pages": [
+    434,
+    440
+  ],
+  "chapter_number": 35,
+  "revelation_order": 43,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Fatir",
+  "number_of_ayahs": 45,
+  "chapter_name_arabic": "فاطر",
+  "chapter_name_transcribed": "Fāţir",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Originator"
@@ -17489,13 +17497,5 @@
       "language_name": "english",
       "name": "Originator"
     }
-  },
-  "chapterNumber": 35,
-  "revelationOrder": 43,
-  "revelationPlace": "makkah",
-  "pages": [
-    434,
-    440
-  ],
-  "chapterTransliterated": "Fatir"
+  }
 }

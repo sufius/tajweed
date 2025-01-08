@@ -3509,10 +3509,18 @@
       "text_uthmani_transcribed": "Illal-lażīna āmanū wa 'amiluṣ-ṣāliḥāti lahum ajrun gairu mamnūn(in)."
     }
   ],
-  "numberOfAyahs": 25,
-  "chapterNameArabic": "الإنشقاق",
-  "chapterNameTranscribed": "Al-'Inshiqāq",
-  "chapterNameTranslated": {
+  "pages": [
+    589,
+    589
+  ],
+  "chapter_number": 84,
+  "revelation_order": 83,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Inshiqaq",
+  "number_of_ayahs": 25,
+  "chapter_name_arabic": "الإنشقاق",
+  "chapter_name_transcribed": "Al-'Inshiqāq",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Sundering"
@@ -3617,13 +3625,5 @@
       "language_name": "english",
       "name": "The Sundering"
     }
-  },
-  "chapterNumber": 84,
-  "revelationOrder": 83,
-  "revelationPlace": "makkah",
-  "pages": [
-    589,
-    589
-  ],
-  "chapterTransliterated": "Al-Inshiqaq"
+  }
 }

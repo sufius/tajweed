@@ -965,10 +965,18 @@
       "text_uthmani_transcribed": "Ṣirāṭal-lażīna an'amta 'alaihim, gairil-magḍūbi 'alaihim wa laḍ-ḍāllīn(a)."
     }
   ],
-  "numberOfAyahs": 7,
-  "chapterNameArabic": "الفاتحة",
-  "chapterNameTranscribed": "Al-Fātiĥah",
-  "chapterNameTranslated": {
+  "pages": [
+    1,
+    1
+  ],
+  "chapter_number": 1,
+  "revelation_order": 5,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Fatihah",
+  "number_of_ayahs": 7,
+  "chapter_name_arabic": "الفاتحة",
+  "chapter_name_transcribed": "Al-Fātiĥah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Opener"
@@ -1073,13 +1081,5 @@
       "language_name": "english",
       "name": "The Opener"
     }
-  },
-  "chapterNumber": 1,
-  "revelationOrder": 5,
-  "revelationPlace": "makkah",
-  "pages": [
-    1,
-    1
-  ],
-  "chapterTransliterated": "Al-Fatihah"
+  }
 }

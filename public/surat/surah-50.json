@@ -9743,10 +9743,18 @@
       "text_uthmani_transcribed": "Naḥnu a'lamu bimā yaqūlūna wa mā anta 'alaihim bijabbār(in), fażakkir bil-qur'āni may yakhāfu wa'īd(i)."
     }
   ],
-  "numberOfAyahs": 45,
-  "chapterNameArabic": "ق",
-  "chapterNameTranscribed": "Qāf",
-  "chapterNameTranslated": {
+  "pages": [
+    518,
+    520
+  ],
+  "chapter_number": 50,
+  "revelation_order": 34,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Qaf",
+  "number_of_ayahs": 45,
+  "chapter_name_arabic": "ق",
+  "chapter_name_transcribed": "Qāf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Letter \"Qaf\""
@@ -9851,13 +9859,5 @@
       "language_name": "english",
       "name": "The Letter \"Qaf\""
     }
-  },
-  "chapterNumber": 50,
-  "revelationOrder": 34,
-  "revelationPlace": "makkah",
-  "pages": [
-    518,
-    520
-  ],
-  "chapterTransliterated": "Qaf"
+  }
 }

@@ -28809,10 +28809,18 @@
       "text_uthmani_transcribed": "Wa jāhidū fillāhi ḥaqqa jihādih(ī), huwajtabākum wa mā ja'ala 'alaikum fid-dīni min ḥaraj(in), millata abīkum ibrāhīm(a), huwa sammākumul-muslimīn(a), min qablu wa fī hāżā liyakūnar-rasūlu syahīdan 'alaikum wa takūnū syuhadā'a 'alan-nās(i), fa aqīmuṣ-ṣalāta wa ātuz-zakāta wa'taṣimū billāh(i), huwa maulākum, fa ni'mal-maulā wa ni'man-naṣīr(u)."
     }
   ],
-  "numberOfAyahs": 78,
-  "chapterNameArabic": "الحج",
-  "chapterNameTranscribed": "Al-Ĥajj",
-  "chapterNameTranslated": {
+  "pages": [
+    332,
+    341
+  ],
+  "chapter_number": 22,
+  "revelation_order": 103,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Hajj",
+  "number_of_ayahs": 78,
+  "chapter_name_arabic": "الحج",
+  "chapter_name_transcribed": "Al-Ĥajj",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Pilgrimage"
@@ -28917,13 +28925,5 @@
       "language_name": "english",
       "name": "The Pilgrimage"
     }
-  },
-  "chapterNumber": 22,
-  "revelationOrder": 103,
-  "revelationPlace": "madinah",
-  "pages": [
-    332,
-    341
-  ],
-  "chapterTransliterated": "Al-Hajj"
+  }
 }

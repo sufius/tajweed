@@ -43681,10 +43681,18 @@
       "text_uthmani_transcribed": "Wa lillāhi gaibus-samāwāti wal-arḍi wa ilaihi yurja'ul-amru kulluhū fa'budhu wa tawakkal 'alaih(i), wa mā rabbuka bigāfilin 'ammā ta'malūn(a)."
     }
   ],
-  "numberOfAyahs": 123,
-  "chapterNameArabic": "هود",
-  "chapterNameTranscribed": "Hūd",
-  "chapterNameTranslated": {
+  "pages": [
+    221,
+    235
+  ],
+  "chapter_number": 11,
+  "revelation_order": 52,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Hud",
+  "number_of_ayahs": 123,
+  "chapter_name_arabic": "هود",
+  "chapter_name_transcribed": "Hūd",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Hud"
@@ -43789,13 +43797,5 @@
       "language_name": "english",
       "name": "Hud"
     }
-  },
-  "chapterNumber": 11,
-  "revelationOrder": 52,
-  "revelationPlace": "makkah",
-  "pages": [
-    221,
-    235
-  ],
-  "chapterTransliterated": "Hud"
+  }
 }

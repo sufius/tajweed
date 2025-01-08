@@ -19964,10 +19964,18 @@
       "text_uthmani_transcribed": "Wa ḥīla bainahum wa baina mā yasytahūn(a), kamā fu'ila bi'asy-yā'ihim min qabl(u), innahum fī syakkim murīb(in)."
     }
   ],
-  "numberOfAyahs": 54,
-  "chapterNameArabic": "سبإ",
-  "chapterNameTranscribed": "Saba",
-  "chapterNameTranslated": {
+  "pages": [
+    428,
+    434
+  ],
+  "chapter_number": 34,
+  "revelation_order": 58,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Saba",
+  "number_of_ayahs": 54,
+  "chapter_name_arabic": "سبإ",
+  "chapter_name_transcribed": "Saba",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Sheba"
@@ -20072,13 +20080,5 @@
       "language_name": "english",
       "name": "Sheba"
     }
-  },
-  "chapterNumber": 34,
-  "revelationOrder": 58,
-  "revelationPlace": "makkah",
-  "pages": [
-    428,
-    434
-  ],
-  "chapterTransliterated": "Saba"
+  }
 }

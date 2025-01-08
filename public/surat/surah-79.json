@@ -6116,10 +6116,18 @@
       "text_uthmani_transcribed": "Ka'annahum yauma yaraunahā lam yalbaṡū illā 'asyiyyatan au ḍuḥāhā."
     }
   ],
-  "numberOfAyahs": 46,
-  "chapterNameArabic": "النازعات",
-  "chapterNameTranscribed": "An-Nāzi`āt",
-  "chapterNameTranslated": {
+  "pages": [
+    583,
+    584
+  ],
+  "chapter_number": 79,
+  "revelation_order": 81,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "An-Nazi'at",
+  "number_of_ayahs": 46,
+  "chapter_name_arabic": "النازعات",
+  "chapter_name_transcribed": "An-Nāzi`āt",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Those who drag forth"
@@ -6224,13 +6232,5 @@
       "language_name": "english",
       "name": "Those who drag forth"
     }
-  },
-  "chapterNumber": 79,
-  "revelationOrder": 81,
-  "revelationPlace": "makkah",
-  "pages": [
-    583,
-    584
-  ],
-  "chapterTransliterated": "An-Nazi'at"
+  }
 }

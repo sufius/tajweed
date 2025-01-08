@@ -2739,10 +2739,18 @@
       "text_uthmani_transcribed": "'Alaihim nārum mu'ṣadah(tun)."
     }
   ],
-  "numberOfAyahs": 20,
-  "chapterNameArabic": "البلد",
-  "chapterNameTranscribed": "Al-Balad",
-  "chapterNameTranslated": {
+  "pages": [
+    594,
+    594
+  ],
+  "chapter_number": 90,
+  "revelation_order": 35,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Balad",
+  "number_of_ayahs": 20,
+  "chapter_name_arabic": "البلد",
+  "chapter_name_transcribed": "Al-Balad",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The City"
@@ -2847,13 +2855,5 @@
       "language_name": "english",
       "name": "The City"
     }
-  },
-  "chapterNumber": 90,
-  "revelationOrder": 35,
-  "revelationPlace": "makkah",
-  "pages": [
-    594,
-    594
-  ],
-  "chapterTransliterated": "Al-Balad"
+  }
 }

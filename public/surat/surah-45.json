@@ -11456,10 +11456,18 @@
       "text_uthmani_transcribed": "Wa lahul-kibriyā'u fis-samāwāti wal-arḍ(i), wa huwal-'azīzul-ḥakīm(u)."
     }
   ],
-  "numberOfAyahs": 37,
-  "chapterNameArabic": "الجاثية",
-  "chapterNameTranscribed": "Al-Jāthiyah",
-  "chapterNameTranslated": {
+  "pages": [
+    499,
+    502
+  ],
+  "chapter_number": 45,
+  "revelation_order": 65,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Jathiyah",
+  "number_of_ayahs": 37,
+  "chapter_name_arabic": "الجاثية",
+  "chapter_name_transcribed": "Al-Jāthiyah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Crouching"
@@ -11564,13 +11572,5 @@
       "language_name": "english",
       "name": "The Crouching"
     }
-  },
-  "chapterNumber": 45,
-  "revelationOrder": 65,
-  "revelationPlace": "makkah",
-  "pages": [
-    499,
-    502
-  ],
-  "chapterTransliterated": "Al-Jathiyah"
+  }
 }

@@ -5006,10 +5006,18 @@
       "text_uthmani_transcribed": "Ulā'ika humul-kafaratul-fajarah(tu)."
     }
   ],
-  "numberOfAyahs": 42,
-  "chapterNameArabic": "عبس",
-  "chapterNameTranscribed": "`Abasa",
-  "chapterNameTranslated": {
+  "pages": [
+    585,
+    585
+  ],
+  "chapter_number": 80,
+  "revelation_order": 24,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "'Abasa",
+  "number_of_ayahs": 42,
+  "chapter_name_arabic": "عبس",
+  "chapter_name_transcribed": "`Abasa",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "He Frowned"
@@ -5114,13 +5122,5 @@
       "language_name": "english",
       "name": "He Frowned"
     }
-  },
-  "chapterNumber": 80,
-  "revelationOrder": 24,
-  "revelationPlace": "makkah",
-  "pages": [
-    585,
-    585
-  ],
-  "chapterTransliterated": "'Abasa"
+  }
 }

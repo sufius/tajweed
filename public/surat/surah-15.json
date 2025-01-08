@@ -18287,10 +18287,18 @@
       "text_uthmani_transcribed": "Wa'bud rabbaka ḥattā ya'tiyakal-yaqīn(u)."
     }
   ],
-  "numberOfAyahs": 99,
-  "chapterNameArabic": "الحجر",
-  "chapterNameTranscribed": "Al-Ĥijr",
-  "chapterNameTranslated": {
+  "pages": [
+    262,
+    267
+  ],
+  "chapter_number": 15,
+  "revelation_order": 54,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Hijr",
+  "number_of_ayahs": 99,
+  "chapter_name_arabic": "الحجر",
+  "chapter_name_transcribed": "Al-Ĥijr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Rocky Tract"
@@ -18395,13 +18403,5 @@
       "language_name": "english",
       "name": "The Rocky Tract"
     }
-  },
-  "chapterNumber": 15,
-  "revelationOrder": 54,
-  "revelationPlace": "makkah",
-  "pages": [
-    262,
-    267
-  ],
-  "chapterTransliterated": "Al-Hijr"
+  }
 }

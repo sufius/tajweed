@@ -36114,10 +36114,18 @@
       "text_uthmani_transcribed": "Wa qulil-ḥamdu lillāhil-lażī lam yattakhiż waladaw wa lam yakul lahū syarīkun fil-mulki wa lam yakul lahū waliyyum minaż-żulli wa kabbirhu takbīrā(n)."
     }
   ],
-  "numberOfAyahs": 111,
-  "chapterNameArabic": "الإسراء",
-  "chapterNameTranscribed": "Al-'Isrā",
-  "chapterNameTranslated": {
+  "pages": [
+    282,
+    293
+  ],
+  "chapter_number": 17,
+  "revelation_order": 50,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Isra",
+  "number_of_ayahs": 111,
+  "chapter_name_arabic": "الإسراء",
+  "chapter_name_transcribed": "Al-'Isrā",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Night Journey"
@@ -36222,13 +36230,5 @@
       "language_name": "english",
       "name": "The Night Journey"
     }
-  },
-  "chapterNumber": 17,
-  "revelationOrder": 50,
-  "revelationPlace": "makkah",
-  "pages": [
-    282,
-    293
-  ],
-  "chapterTransliterated": "Al-Isra"
+  }
 }

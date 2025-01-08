@@ -5642,10 +5642,18 @@
       "text_uthmani_transcribed": "'Ālimul-gaibi wasy-syahādatil-'azīzul-ḥakīm(u)."
     }
   ],
-  "numberOfAyahs": 18,
-  "chapterNameArabic": "التغابن",
-  "chapterNameTranscribed": "At-Taghābun",
-  "chapterNameTranslated": {
+  "pages": [
+    556,
+    557
+  ],
+  "chapter_number": 64,
+  "revelation_order": 108,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "At-Taghabun",
+  "number_of_ayahs": 18,
+  "chapter_name_arabic": "التغابن",
+  "chapter_name_transcribed": "At-Taghābun",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Mutual Disillusion"
@@ -5750,13 +5758,5 @@
       "language_name": "english",
       "name": "The Mutual Disillusion"
     }
-  },
-  "chapterNumber": 64,
-  "revelationOrder": 108,
-  "revelationPlace": "madinah",
-  "pages": [
-    556,
-    557
-  ],
-  "chapterTransliterated": "At-Taghabun"
+  }
 }

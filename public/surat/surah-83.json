@@ -5336,10 +5336,18 @@
       "text_uthmani_transcribed": "Hal ṡuwwibal-kuffāru mā kānū yaf'alūn(a)."
     }
   ],
-  "numberOfAyahs": 36,
-  "chapterNameArabic": "المطففين",
-  "chapterNameTranscribed": "Al-Muţaffifīn",
-  "chapterNameTranslated": {
+  "pages": [
+    587,
+    589
+  ],
+  "chapter_number": 83,
+  "revelation_order": 86,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Mutaffifin",
+  "number_of_ayahs": 36,
+  "chapter_name_arabic": "المطففين",
+  "chapter_name_transcribed": "Al-Muţaffifīn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Defrauding"
@@ -5444,13 +5452,5 @@
       "language_name": "english",
       "name": "The Defrauding"
     }
-  },
-  "chapterNumber": 83,
-  "revelationOrder": 86,
-  "revelationPlace": "makkah",
-  "pages": [
-    587,
-    589
-  ],
-  "chapterTransliterated": "Al-Mutaffifin"
+  }
 }

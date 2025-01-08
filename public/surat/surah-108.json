@@ -368,10 +368,18 @@
       "text_uthmani_transcribed": "Inna syāni'aka huwal-abtar(u)."
     }
   ],
-  "numberOfAyahs": 3,
-  "chapterNameArabic": "الكوثر",
-  "chapterNameTranscribed": "Al-Kawthar",
-  "chapterNameTranslated": {
+  "pages": [
+    602,
+    602
+  ],
+  "chapter_number": 108,
+  "revelation_order": 15,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Kawthar",
+  "number_of_ayahs": 3,
+  "chapter_name_arabic": "الكوثر",
+  "chapter_name_transcribed": "Al-Kawthar",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Abundance"
@@ -476,13 +484,5 @@
       "language_name": "english",
       "name": "The Abundance"
     }
-  },
-  "chapterNumber": 108,
-  "revelationOrder": 15,
-  "revelationPlace": "makkah",
-  "pages": [
-    602,
-    602
-  ],
-  "chapterTransliterated": "Al-Kawthar"
+  }
 }

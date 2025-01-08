@@ -6720,10 +6720,18 @@
       "text_uthmani_transcribed": "Khāsyi'atan abṣāruhum tarhaquhum żillah(tun), żālikal-yaumul-lażī kānū yū'adūn(a)."
     }
   ],
-  "numberOfAyahs": 44,
-  "chapterNameArabic": "المعارج",
-  "chapterNameTranscribed": "Al-Ma`ārij",
-  "chapterNameTranslated": {
+  "pages": [
+    568,
+    570
+  ],
+  "chapter_number": 70,
+  "revelation_order": 79,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Ma'arij",
+  "number_of_ayahs": 44,
+  "chapter_name_arabic": "المعارج",
+  "chapter_name_transcribed": "Al-Ma`ārij",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Ascending Stairways"
@@ -6828,13 +6836,5 @@
       "language_name": "english",
       "name": "The Ascending Stairways"
     }
-  },
-  "chapterNumber": 70,
-  "revelationOrder": 79,
-  "revelationPlace": "makkah",
-  "pages": [
-    568,
-    570
-  ],
-  "chapterTransliterated": "Al-Ma'arij"
+  }
 }

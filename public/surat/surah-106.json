@@ -560,10 +560,18 @@
       "text_uthmani_transcribed": "Allażī aṭ'amahum min jū'(in), wa āmanahum min khauf(in)."
     }
   ],
-  "numberOfAyahs": 4,
-  "chapterNameArabic": "قريش",
-  "chapterNameTranscribed": "Quraysh",
-  "chapterNameTranslated": {
+  "pages": [
+    602,
+    602
+  ],
+  "chapter_number": 106,
+  "revelation_order": 29,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Quraysh",
+  "number_of_ayahs": 4,
+  "chapter_name_arabic": "قريش",
+  "chapter_name_transcribed": "Quraysh",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Quraysh"
@@ -668,13 +676,5 @@
       "language_name": "english",
       "name": "Quraysh"
     }
-  },
-  "chapterNumber": 106,
-  "revelationOrder": 29,
-  "revelationPlace": "makkah",
-  "pages": [
-    602,
-    602
-  ],
-  "chapterTransliterated": "Quraysh"
+  }
 }

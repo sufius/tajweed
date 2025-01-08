@@ -986,10 +986,18 @@
       "text_uthmani_transcribed": "Wa ilā rabbika fargab."
     }
   ],
-  "numberOfAyahs": 8,
-  "chapterNameArabic": "الشرح",
-  "chapterNameTranscribed": "Ash-Sharĥ",
-  "chapterNameTranslated": {
+  "pages": [
+    596,
+    596
+  ],
+  "chapter_number": 94,
+  "revelation_order": 12,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ash-Sharh",
+  "number_of_ayahs": 8,
+  "chapter_name_arabic": "الشرح",
+  "chapter_name_transcribed": "Ash-Sharĥ",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Relief"
@@ -1094,13 +1102,5 @@
       "language_name": "english",
       "name": "The Relief"
     }
-  },
-  "chapterNumber": 94,
-  "revelationOrder": 12,
-  "revelationPlace": "makkah",
-  "pages": [
-    596,
-    596
-  ],
-  "chapterTransliterated": "Ash-Sharh"
+  }
 }

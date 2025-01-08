@@ -14283,10 +14283,18 @@
       "text_uthmani_transcribed": "Faṣbir kamā ṣabara ulul-'azmi minar-rusuli wa lā tasta'jil lahum, ka'annahum yauma yarauna mā yū'adūn(a), lam yalbaṡū illā sā'atam min nahār(in), balāg(un), fahal yuhlaku illal-qaumul-fāsiqūn(a)."
     }
   ],
-  "numberOfAyahs": 35,
-  "chapterNameArabic": "الأحقاف",
-  "chapterNameTranscribed": "Al-'Aĥqāf",
-  "chapterNameTranslated": {
+  "pages": [
+    502,
+    506
+  ],
+  "chapter_number": 46,
+  "revelation_order": 66,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Ahqaf",
+  "number_of_ayahs": 35,
+  "chapter_name_arabic": "الأحقاف",
+  "chapter_name_transcribed": "Al-'Aĥqāf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Wind-Curved Sandhills"
@@ -14391,13 +14399,5 @@
       "language_name": "english",
       "name": "The Wind-Curved Sandhills"
     }
-  },
-  "chapterNumber": 46,
-  "revelationOrder": 66,
-  "revelationPlace": "makkah",
-  "pages": [
-    502,
-    506
-  ],
-  "chapterTransliterated": "Al-Ahqaf"
+  }
 }

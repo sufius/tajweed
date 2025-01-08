@@ -5648,10 +5648,18 @@
       "text_uthmani_transcribed": "Innā anżarnākum 'ażāban qarībā(n), yauma yanẓurul-mar'u mā qaddamat yadāhu wa yaqūlul-kāfiru yā laitanī kuntu turābā(n)."
     }
   ],
-  "numberOfAyahs": 40,
-  "chapterNameArabic": "النبإ",
-  "chapterNameTranscribed": "An-Naba",
-  "chapterNameTranslated": {
+  "pages": [
+    582,
+    583
+  ],
+  "chapter_number": 78,
+  "revelation_order": 80,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "An-Naba",
+  "number_of_ayahs": 40,
+  "chapter_name_arabic": "النبإ",
+  "chapter_name_transcribed": "An-Naba",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Tidings"
@@ -5756,13 +5764,5 @@
       "language_name": "english",
       "name": "The Tidings"
     }
-  },
-  "chapterNumber": 78,
-  "revelationOrder": 80,
-  "revelationPlace": "makkah",
-  "pages": [
-    582,
-    583
-  ],
-  "chapterTransliterated": "An-Naba"
+  }
 }

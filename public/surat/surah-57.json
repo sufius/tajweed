@@ -12618,10 +12618,18 @@
       "text_uthmani_transcribed": "Li'allā ya'lama ahlul-kitābi allā yaqdirūna 'alā syai'im min faḍlillāhi wa annal-faḍla biyadillāhi yu'tīhi may yasyā'(u), wallāhu żul-faḍlil-'aẓīm(i)."
     }
   ],
-  "numberOfAyahs": 29,
-  "chapterNameArabic": "الحديد",
-  "chapterNameTranscribed": "Al-Ĥadīd",
-  "chapterNameTranslated": {
+  "pages": [
+    537,
+    541
+  ],
+  "chapter_number": 57,
+  "revelation_order": 94,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Hadid",
+  "number_of_ayahs": 29,
+  "chapter_name_arabic": "الحديد",
+  "chapter_name_transcribed": "Al-Ĥadīd",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Iron"
@@ -12726,13 +12734,5 @@
       "language_name": "english",
       "name": "The Iron"
     }
-  },
-  "chapterNumber": 57,
-  "revelationOrder": 94,
-  "revelationPlace": "madinah",
-  "pages": [
-    537,
-    541
-  ],
-  "chapterTransliterated": "Al-Hadid"
+  }
 }

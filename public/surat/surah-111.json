@@ -733,10 +733,18 @@
       "text_uthmani_transcribed": "Fī jīdihā ḥablum mim masad(in)."
     }
   ],
-  "numberOfAyahs": 5,
-  "chapterNameArabic": "المسد",
-  "chapterNameTranscribed": "Al-Masad",
-  "chapterNameTranslated": {
+  "pages": [
+    603,
+    603
+  ],
+  "chapter_number": 111,
+  "revelation_order": 6,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Masad",
+  "number_of_ayahs": 5,
+  "chapter_name_arabic": "المسد",
+  "chapter_name_transcribed": "Al-Masad",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Palm Fiber"
@@ -841,13 +849,5 @@
       "language_name": "english",
       "name": "The Palm Fiber"
     }
-  },
-  "chapterNumber": 111,
-  "revelationOrder": 6,
-  "revelationPlace": "makkah",
-  "pages": [
-    603,
-    603
-  ],
-  "chapterTransliterated": "Al-Masad"
+  }
 }

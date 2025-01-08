@@ -36492,10 +36492,18 @@
       "text_uthmani_transcribed": "Qul innamā ana basyarum miṡlukum yūḥā ilayya annamā ilāhukum ilāhuw wāḥid(un), faman kāna yarjū liqā'a rabbihī falya'mal 'amalan ṣāliḥaw wa lā yusyrik bi'ibādati rabbihī aḥadā(n)."
     }
   ],
-  "numberOfAyahs": 110,
-  "chapterNameArabic": "الكهف",
-  "chapterNameTranscribed": "Al-Kahf",
-  "chapterNameTranslated": {
+  "pages": [
+    293,
+    304
+  ],
+  "chapter_number": 18,
+  "revelation_order": 69,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Kahf",
+  "number_of_ayahs": 110,
+  "chapter_name_arabic": "الكهف",
+  "chapter_name_transcribed": "Al-Kahf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Cave"
@@ -36600,13 +36608,5 @@
       "language_name": "english",
       "name": "The Cave"
     }
-  },
-  "chapterNumber": 18,
-  "revelationOrder": 69,
-  "revelationPlace": "makkah",
-  "pages": [
-    293,
-    304
-  ],
-  "chapterTransliterated": "Al-Kahf"
+  }
 }

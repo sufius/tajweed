@@ -3688,10 +3688,18 @@
       "text_uthmani_transcribed": "Wa mā tasyā'ūna illā ay yasyā'allāhu rabbul-'ālamīn(a)."
     }
   ],
-  "numberOfAyahs": 29,
-  "chapterNameArabic": "التكوير",
-  "chapterNameTranscribed": "At-Takwīr",
-  "chapterNameTranslated": {
+  "pages": [
+    586,
+    586
+  ],
+  "chapter_number": 81,
+  "revelation_order": 7,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "At-Takwir",
+  "number_of_ayahs": 29,
+  "chapter_name_arabic": "التكوير",
+  "chapter_name_transcribed": "At-Takwīr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Overthrowing"
@@ -3796,13 +3804,5 @@
       "language_name": "english",
       "name": "The Overthrowing"
     }
-  },
-  "chapterNumber": 81,
-  "revelationOrder": 7,
-  "revelationPlace": "makkah",
-  "pages": [
-    586,
-    586
-  ],
-  "chapterTransliterated": "At-Takwir"
+  }
 }

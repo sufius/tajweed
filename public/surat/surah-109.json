@@ -849,10 +849,18 @@
       "text_uthmani_transcribed": "Lakum dīnukum wa liya dīn(i)."
     }
   ],
-  "numberOfAyahs": 6,
-  "chapterNameArabic": "الكافرون",
-  "chapterNameTranscribed": "Al-Kāfirūn",
-  "chapterNameTranslated": {
+  "pages": [
+    603,
+    603
+  ],
+  "chapter_number": 109,
+  "revelation_order": 18,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Kafirun",
+  "number_of_ayahs": 6,
+  "chapter_name_arabic": "الكافرون",
+  "chapter_name_transcribed": "Al-Kāfirūn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Disbelievers"
@@ -957,13 +965,5 @@
       "language_name": "english",
       "name": "The Disbelievers"
     }
-  },
-  "chapterNumber": 109,
-  "revelationOrder": 18,
-  "revelationPlace": "makkah",
-  "pages": [
-    603,
-    603
-  ],
-  "chapterTransliterated": "Al-Kafirun"
+  }
 }

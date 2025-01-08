@@ -27357,10 +27357,18 @@
       "text_uthmani_transcribed": "Wa qulil-ḥamdu lillāhi sayurīkum āyātihī fata'rifūnahā, wa mā rabbuka bigāfilin 'ammā ta'malūn(a)."
     }
   ],
-  "numberOfAyahs": 93,
-  "chapterNameArabic": "النمل",
-  "chapterNameTranscribed": "An-Naml",
-  "chapterNameTranslated": {
+  "pages": [
+    377,
+    385
+  ],
+  "chapter_number": 27,
+  "revelation_order": 48,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "An-Naml",
+  "number_of_ayahs": 93,
+  "chapter_name_arabic": "النمل",
+  "chapter_name_transcribed": "An-Naml",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Ant"
@@ -27465,13 +27473,5 @@
       "language_name": "english",
       "name": "The Ant"
     }
-  },
-  "chapterNumber": 27,
-  "revelationOrder": 48,
-  "revelationPlace": "makkah",
-  "pages": [
-    377,
-    385
-  ],
-  "chapterTransliterated": "An-Naml"
+  }
 }

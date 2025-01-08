@@ -19468,10 +19468,18 @@
       "text_uthmani_transcribed": "Ṣirāṭillāhil-lażī lahū mā fis-samāwāti wa mā fil-arḍ(i), alā ilallāhi taṣīrul-umūr(u)."
     }
   ],
-  "numberOfAyahs": 53,
-  "chapterNameArabic": "الشورى",
-  "chapterNameTranscribed": "Ash-Shūraá",
-  "chapterNameTranslated": {
+  "pages": [
+    483,
+    489
+  ],
+  "chapter_number": 42,
+  "revelation_order": 62,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ash-Shuraa",
+  "number_of_ayahs": 53,
+  "chapter_name_arabic": "الشورى",
+  "chapter_name_transcribed": "Ash-Shūraá",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Consultation"
@@ -19576,13 +19584,5 @@
       "language_name": "english",
       "name": "The Consultation"
     }
-  },
-  "chapterNumber": 42,
-  "revelationOrder": 62,
-  "revelationPlace": "makkah",
-  "pages": [
-    483,
-    489
-  ],
-  "chapterTransliterated": "Ash-Shuraa"
+  }
 }

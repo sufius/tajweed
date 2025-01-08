@@ -41259,10 +41259,18 @@
       "text_uthmani_transcribed": "Wattabi' mā yūḥā ilaika waṣbir ḥattā yaḥkumallāh(u), wa huwa khairul-ḥākimīn(a)."
     }
   ],
-  "numberOfAyahs": 109,
-  "chapterNameArabic": "يونس",
-  "chapterNameTranscribed": "Yūnus",
-  "chapterNameTranslated": {
+  "pages": [
+    208,
+    221
+  ],
+  "chapter_number": 10,
+  "revelation_order": 51,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Yunus",
+  "number_of_ayahs": 109,
+  "chapter_name_arabic": "يونس",
+  "chapter_name_transcribed": "Yūnus",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Jonah"
@@ -41367,13 +41375,5 @@
       "language_name": "english",
       "name": "Jonah"
     }
-  },
-  "chapterNumber": 10,
-  "revelationOrder": 51,
-  "revelationPlace": "makkah",
-  "pages": [
-    208,
-    221
-  ],
-  "chapterTransliterated": "Yunus"
+  }
 }

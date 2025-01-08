@@ -2490,10 +2490,18 @@
       "text_uthmani_transcribed": "Ṣuḥufi ibrāhīma wa mūsā."
     }
   ],
-  "numberOfAyahs": 19,
-  "chapterNameArabic": "الأعلى",
-  "chapterNameTranscribed": "Al-'A`lá",
-  "chapterNameTranslated": {
+  "pages": [
+    591,
+    592
+  ],
+  "chapter_number": 87,
+  "revelation_order": 8,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-A'la",
+  "number_of_ayahs": 19,
+  "chapter_name_arabic": "الأعلى",
+  "chapter_name_transcribed": "Al-'A`lá",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Most High"
@@ -2598,13 +2606,5 @@
       "language_name": "english",
       "name": "The Most High"
     }
-  },
-  "chapterNumber": 87,
-  "revelationOrder": 8,
-  "revelationPlace": "makkah",
-  "pages": [
-    591,
-    592
-  ],
-  "chapterTransliterated": "Al-A'la"
+  }
 }

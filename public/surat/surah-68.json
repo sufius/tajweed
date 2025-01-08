@@ -8769,10 +8769,18 @@
       "text_uthmani_transcribed": "Wa mā huwa illā żikrul lil-'ālamīn(a)."
     }
   ],
-  "numberOfAyahs": 52,
-  "chapterNameArabic": "القلم",
-  "chapterNameTranscribed": "Al-Qalam",
-  "chapterNameTranslated": {
+  "pages": [
+    564,
+    566
+  ],
+  "chapter_number": 68,
+  "revelation_order": 2,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Qalam",
+  "number_of_ayahs": 52,
+  "chapter_name_arabic": "القلم",
+  "chapter_name_transcribed": "Al-Qalam",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Pen"
@@ -8877,13 +8885,5 @@
       "language_name": "english",
       "name": "The Pen"
     }
-  },
-  "chapterNumber": 68,
-  "revelationOrder": 2,
-  "revelationPlace": "makkah",
-  "pages": [
-    564,
-    566
-  ],
-  "chapterTransliterated": "Al-Qalam"
+  }
 }

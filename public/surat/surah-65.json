@@ -6162,10 +6162,18 @@
       "text_uthmani_transcribed": "Allāhul-lażī khalaqa sab'a samāwātiw wa minal-arḍi miṡlahunn(a), yatanazzalul-amru bainahunna lita'lamū annallāha 'alā kulli syai'in qadīr(un), wa annallāha qad aḥāṭa bikulli syai'in 'ilmā(n)."
     }
   ],
-  "numberOfAyahs": 12,
-  "chapterNameArabic": "الطلاق",
-  "chapterNameTranscribed": "Aţ-Ţalāq",
-  "chapterNameTranslated": {
+  "pages": [
+    558,
+    559
+  ],
+  "chapter_number": 65,
+  "revelation_order": 99,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "At-Talaq",
+  "number_of_ayahs": 12,
+  "chapter_name_arabic": "الطلاق",
+  "chapter_name_transcribed": "Aţ-Ţalāq",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Divorce"
@@ -6270,13 +6278,5 @@
       "language_name": "english",
       "name": "The Divorce"
     }
-  },
-  "chapterNumber": 65,
-  "revelationOrder": 99,
-  "revelationPlace": "madinah",
-  "pages": [
-    558,
-    559
-  ],
-  "chapterTransliterated": "At-Talaq"
+  }
 }

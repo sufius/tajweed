@@ -12352,10 +12352,18 @@
       "text_uthmani_transcribed": "Muḥammadur rasūlullāh(i), wal-lażīna ma'ahū asyiddā'u 'alal-kuffāri ruḥamā'u bainahum tarāhum rukka'an sujjaday yabtagūna faḍlam minallāhi wa riḍwānā(n), sīmāhum fī wujūhihim min aṡaris-sujūd(i), żālika maṡaluhum fit-taurāh(ti), wa maṡaluhum fil-injīl(i), kazar'in akhraja syaṭ'ahū fa āzarahū fastaglaẓa fastawā 'alā sūqihī yu'jibuz-zurrā'a liyagīẓa bihimul-kuffār(a), wa'adallāhul-lażīna āmanū wa 'amiluṣ-ṣāliḥāti minhum magfirataw wa ajran 'aẓīmā(n)."
     }
   ],
-  "numberOfAyahs": 29,
-  "chapterNameArabic": "الفتح",
-  "chapterNameTranscribed": "Al-Fatĥ",
-  "chapterNameTranslated": {
+  "pages": [
+    511,
+    515
+  ],
+  "chapter_number": 48,
+  "revelation_order": 111,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Fath",
+  "number_of_ayahs": 29,
+  "chapter_name_arabic": "الفتح",
+  "chapter_name_transcribed": "Al-Fatĥ",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Victory"
@@ -12460,13 +12468,5 @@
       "language_name": "english",
       "name": "The Victory"
     }
-  },
-  "chapterNumber": 48,
-  "revelationOrder": 111,
-  "revelationPlace": "madinah",
-  "pages": [
-    511,
-    515
-  ],
-  "chapterTransliterated": "Al-Fath"
+  }
 }

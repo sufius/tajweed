@@ -5477,10 +5477,18 @@
       "text_uthmani_transcribed": "Alaisa żālika  biqādirin 'alā ay yuḥyiyal-mautā."
     }
   ],
-  "numberOfAyahs": 40,
-  "chapterNameArabic": "القيامة",
-  "chapterNameTranscribed": "Al-Qiyāmah",
-  "chapterNameTranslated": {
+  "pages": [
+    577,
+    578
+  ],
+  "chapter_number": 75,
+  "revelation_order": 31,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Qiyamah",
+  "number_of_ayahs": 40,
+  "chapter_name_arabic": "القيامة",
+  "chapter_name_transcribed": "Al-Qiyāmah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Resurrection"
@@ -5585,13 +5593,5 @@
       "language_name": "english",
       "name": "The Resurrection"
     }
-  },
-  "chapterNumber": 75,
-  "revelationOrder": 31,
-  "revelationPlace": "makkah",
-  "pages": [
-    577,
-    578
-  ],
-  "chapterTransliterated": "Al-Qiyamah"
+  }
 }

@@ -6447,10 +6447,18 @@
       "text_uthmani_transcribed": "Yudkhilu may yasyā'u fī raḥmatih(ī),  waẓ-ẓālimīna a'adda lahum 'ażāban alīmā(n)."
     }
   ],
-  "numberOfAyahs": 31,
-  "chapterNameArabic": "الانسان",
-  "chapterNameTranscribed": "Al-'Insān",
-  "chapterNameTranslated": {
+  "pages": [
+    578,
+    580
+  ],
+  "chapter_number": 76,
+  "revelation_order": 98,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Insan",
+  "number_of_ayahs": 31,
+  "chapter_name_arabic": "الانسان",
+  "chapter_name_transcribed": "Al-'Insān",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Man"
@@ -6555,13 +6563,5 @@
       "language_name": "english",
       "name": "The Man"
     }
-  },
-  "chapterNumber": 76,
-  "revelationOrder": 98,
-  "revelationPlace": "madinah",
-  "pages": [
-    578,
-    580
-  ],
-  "chapterTransliterated": "Al-Insan"
+  }
 }

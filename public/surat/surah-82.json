@@ -2642,10 +2642,18 @@
       "text_uthmani_transcribed": "Yauma lā tamliku nafsul linafsin syai'ā(n), wal-amru yauma'iżil lillāh(i)."
     }
   ],
-  "numberOfAyahs": 19,
-  "chapterNameArabic": "الإنفطار",
-  "chapterNameTranscribed": "Al-'Infiţār",
-  "chapterNameTranslated": {
+  "pages": [
+    587,
+    587
+  ],
+  "chapter_number": 82,
+  "revelation_order": 82,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Infitar",
+  "number_of_ayahs": 19,
+  "chapter_name_arabic": "الإنفطار",
+  "chapter_name_transcribed": "Al-'Infiţār",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Cleaving"
@@ -2750,13 +2758,5 @@
       "language_name": "english",
       "name": "The Cleaving"
     }
-  },
-  "chapterNumber": 82,
-  "revelationOrder": 82,
-  "revelationPlace": "makkah",
-  "pages": [
-    587,
-    587
-  ],
-  "chapterTransliterated": "Al-Infitar"
+  }
 }

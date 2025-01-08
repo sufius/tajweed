@@ -8820,10 +8820,18 @@
       "text_uthmani_transcribed": "Wa minal-laili fa sabbiḥhu wa idbāran-nujūm(i)."
     }
   ],
-  "numberOfAyahs": 49,
-  "chapterNameArabic": "الطور",
-  "chapterNameTranscribed": "Aţ-Ţūr",
-  "chapterNameTranslated": {
+  "pages": [
+    523,
+    525
+  ],
+  "chapter_number": 52,
+  "revelation_order": 76,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "At-Tur",
+  "number_of_ayahs": 49,
+  "chapter_name_arabic": "الطور",
+  "chapter_name_transcribed": "Aţ-Ţūr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Mount"
@@ -8928,13 +8936,5 @@
       "language_name": "english",
       "name": "The Mount"
     }
-  },
-  "chapterNumber": 52,
-  "revelationOrder": 76,
-  "revelationPlace": "makkah",
-  "pages": [
-    523,
-    525
-  ],
-  "chapterTransliterated": "At-Tur"
+  }
 }

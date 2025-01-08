@@ -3283,10 +3283,18 @@
       "text_uthmani_transcribed": "Ṡumma inna 'alainā ḥisābahum."
     }
   ],
-  "numberOfAyahs": 26,
-  "chapterNameArabic": "الغاشية",
-  "chapterNameTranscribed": "Al-Ghāshiyah",
-  "chapterNameTranslated": {
+  "pages": [
+    592,
+    592
+  ],
+  "chapter_number": 88,
+  "revelation_order": 68,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Ghashiyah",
+  "number_of_ayahs": 26,
+  "chapter_name_arabic": "الغاشية",
+  "chapter_name_transcribed": "Al-Ghāshiyah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Overwhelming"
@@ -3391,13 +3399,5 @@
       "language_name": "english",
       "name": "The Overwhelming"
     }
-  },
-  "chapterNumber": 88,
-  "revelationOrder": 68,
-  "revelationPlace": "makkah",
-  "pages": [
-    592,
-    592
-  ],
-  "chapterTransliterated": "Al-Ghashiyah"
+  }
 }

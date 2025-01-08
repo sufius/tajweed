@@ -1334,10 +1334,18 @@
       "text_uthmani_transcribed": "Nārun ḥāmiyah(tun)."
     }
   ],
-  "numberOfAyahs": 11,
-  "chapterNameArabic": "القارعة",
-  "chapterNameTranscribed": "Al-Qāri`ah",
-  "chapterNameTranslated": {
+  "pages": [
+    600,
+    600
+  ],
+  "chapter_number": 101,
+  "revelation_order": 30,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Qari'ah",
+  "number_of_ayahs": 11,
+  "chapter_name_arabic": "القارعة",
+  "chapter_name_transcribed": "Al-Qāri`ah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Calamity"
@@ -1442,13 +1450,5 @@
       "language_name": "english",
       "name": "The Calamity"
     }
-  },
-  "chapterNumber": 101,
-  "revelationOrder": 30,
-  "revelationPlace": "makkah",
-  "pages": [
-    600,
-    600
-  ],
-  "chapterTransliterated": "Al-Qari'ah"
+  }
 }

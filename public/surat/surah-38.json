@@ -19120,10 +19120,18 @@
       "text_uthmani_transcribed": "Wa lata'lamunna naba'ahū ba'da ḥīn(in)."
     }
   ],
-  "numberOfAyahs": 88,
-  "chapterNameArabic": "ص",
-  "chapterNameTranscribed": "Şād",
-  "chapterNameTranslated": {
+  "pages": [
+    453,
+    458
+  ],
+  "chapter_number": 38,
+  "revelation_order": 38,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Sad",
+  "number_of_ayahs": 88,
+  "chapter_name_arabic": "ص",
+  "chapter_name_transcribed": "Şād",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Letter \"Saad\""
@@ -19228,13 +19236,5 @@
       "language_name": "english",
       "name": "The Letter \"Saad\""
     }
-  },
-  "chapterNumber": 38,
-  "revelationOrder": 38,
-  "revelationPlace": "makkah",
-  "pages": [
-    453,
-    458
-  ],
-  "chapterTransliterated": "Sad"
+  }
 }

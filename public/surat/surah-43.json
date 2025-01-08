@@ -21022,10 +21022,18 @@
       "text_uthmani_transcribed": "Faṣfaḥ 'anhum wa qul salām(un), fa saufa ya'lamūn(a)."
     }
   ],
-  "numberOfAyahs": 89,
-  "chapterNameArabic": "الزخرف",
-  "chapterNameTranscribed": "Az-Zukhruf",
-  "chapterNameTranslated": {
+  "pages": [
+    489,
+    495
+  ],
+  "chapter_number": 43,
+  "revelation_order": 63,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Az-Zukhruf",
+  "number_of_ayahs": 89,
+  "chapter_name_arabic": "الزخرف",
+  "chapter_name_transcribed": "Az-Zukhruf",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Ornaments of Gold"
@@ -21130,13 +21138,5 @@
       "language_name": "english",
       "name": "The Ornaments of Gold"
     }
-  },
-  "chapterNumber": 43,
-  "revelationOrder": 63,
-  "revelationPlace": "makkah",
-  "pages": [
-    489,
-    495
-  ],
-  "chapterTransliterated": "Az-Zukhruf"
+  }
 }

@@ -444,10 +444,18 @@
       "text_uthmani_transcribed": "Illal-lażīna āmanū wa 'amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i)."
     }
   ],
-  "numberOfAyahs": 3,
-  "chapterNameArabic": "العصر",
-  "chapterNameTranscribed": "Al-`Aşr",
-  "chapterNameTranslated": {
+  "pages": [
+    601,
+    601
+  ],
+  "chapter_number": 103,
+  "revelation_order": 13,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-'Asr",
+  "number_of_ayahs": 3,
+  "chapter_name_arabic": "العصر",
+  "chapter_name_transcribed": "Al-`Aşr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Declining Day"
@@ -552,13 +560,5 @@
       "language_name": "english",
       "name": "The Declining Day"
     }
-  },
-  "chapterNumber": 103,
-  "revelationOrder": 13,
-  "revelationPlace": "makkah",
-  "pages": [
-    601,
-    601
-  ],
-  "chapterTransliterated": "Al-'Asr"
+  }
 }

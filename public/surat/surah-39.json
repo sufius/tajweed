@@ -26694,10 +26694,18 @@
       "text_uthmani_transcribed": "Wa taral-malā'ikata ḥāffīna min ḥaulil-'arsyi yusabbiḥūna biḥamdi rabbihim, wa quḍiya bainahum bil-ḥaqqi wa qīlal-ḥamdu lillāhi rabbil-'ālamīn(a)."
     }
   ],
-  "numberOfAyahs": 75,
-  "chapterNameArabic": "الزمر",
-  "chapterNameTranscribed": "Az-Zumar",
-  "chapterNameTranslated": {
+  "pages": [
+    458,
+    467
+  ],
+  "chapter_number": 39,
+  "revelation_order": 59,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Az-Zumar",
+  "number_of_ayahs": 75,
+  "chapter_name_arabic": "الزمر",
+  "chapter_name_transcribed": "Az-Zumar",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Troops"
@@ -26802,13 +26810,5 @@
       "language_name": "english",
       "name": "The Troops"
     }
-  },
-  "chapterNumber": 39,
-  "revelationOrder": 59,
-  "revelationPlace": "makkah",
-  "pages": [
-    458,
-    467
-  ],
-  "chapterTransliterated": "Az-Zumar"
+  }
 }

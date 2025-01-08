@@ -12866,10 +12866,18 @@
       "text_uthmani_transcribed": "Fa sabbiḥ bismi rabbikal-'aẓīm(i)."
     }
   ],
-  "numberOfAyahs": 96,
-  "chapterNameArabic": "الواقعة",
-  "chapterNameTranscribed": "Al-Wāqi`ah",
-  "chapterNameTranslated": {
+  "pages": [
+    534,
+    537
+  ],
+  "chapter_number": 56,
+  "revelation_order": 46,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Waqi'ah",
+  "number_of_ayahs": 96,
+  "chapter_name_arabic": "الواقعة",
+  "chapter_name_transcribed": "Al-Wāqi`ah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Inevitable"
@@ -12974,13 +12982,5 @@
       "language_name": "english",
       "name": "The Inevitable"
     }
-  },
-  "chapterNumber": 56,
-  "revelationOrder": 46,
-  "revelationPlace": "makkah",
-  "pages": [
-    534,
-    537
-  ],
-  "chapterTransliterated": "Al-Waqi'ah"
+  }
 }

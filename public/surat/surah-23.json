@@ -26913,10 +26913,18 @@
       "text_uthmani_transcribed": "Wa qur rabbigfir warḥam wa anta khairur-rāḥimīn(a)."
     }
   ],
-  "numberOfAyahs": 118,
-  "chapterNameArabic": "المؤمنون",
-  "chapterNameTranscribed": "Al-Mu'minūn",
-  "chapterNameTranslated": {
+  "pages": [
+    342,
+    349
+  ],
+  "chapter_number": 23,
+  "revelation_order": 74,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Mu'minun",
+  "number_of_ayahs": 118,
+  "chapter_name_arabic": "المؤمنون",
+  "chapter_name_transcribed": "Al-Mu'minūn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Believers"
@@ -27021,13 +27029,5 @@
       "language_name": "english",
       "name": "The Believers"
     }
-  },
-  "chapterNumber": 23,
-  "revelationOrder": 74,
-  "revelationPlace": "makkah",
-  "pages": [
-    342,
-    349
-  ],
-  "chapterTransliterated": "Al-Mu'minun"
+  }
 }

@@ -10267,10 +10267,18 @@
       "text_uthmani_transcribed": "Lā tajidu qaumay yu'minūna billāhi wal-yaumil ākhiri yuwāddūna man ḥāddallāha wa rasūlahū wa lau kānū ābā'ahum au abnā'ahum au ikhwānahum au 'asyīratahum, ulā'ika kataba fī qulūbihimul-īmāna wa ayyadahum birūḥim minh(u), wa yudkhiluhum jannātin tajrī min taḥtihal-anhāru khālidīna fīhā, raḍiyallāhu 'anhum wa raḍū 'anh(u), ulā'ika ḥizbullāh(i), alā inna ḥizballāhi humul-mufliḥūn(a)."
     }
   ],
-  "numberOfAyahs": 22,
-  "chapterNameArabic": "المجادلة",
-  "chapterNameTranscribed": "Al-Mujādila",
-  "chapterNameTranslated": {
+  "pages": [
+    542,
+    545
+  ],
+  "chapter_number": 58,
+  "revelation_order": 105,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Mujadila",
+  "number_of_ayahs": 22,
+  "chapter_name_arabic": "المجادلة",
+  "chapter_name_transcribed": "Al-Mujādila",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Pleading Woman"
@@ -10375,13 +10383,5 @@
       "language_name": "english",
       "name": "The Pleading Woman"
     }
-  },
-  "chapterNumber": 58,
-  "revelationOrder": 105,
-  "revelationPlace": "madinah",
-  "pages": [
-    542,
-    545
-  ],
-  "chapterTransliterated": "Al-Mujadila"
+  }
 }

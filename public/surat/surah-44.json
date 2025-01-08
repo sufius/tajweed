@@ -10056,10 +10056,18 @@
       "text_uthmani_transcribed": "Fartaqib innahum murtaqibūn(a)."
     }
   ],
-  "numberOfAyahs": 59,
-  "chapterNameArabic": "الدخان",
-  "chapterNameTranscribed": "Ad-Dukhān",
-  "chapterNameTranslated": {
+  "pages": [
+    496,
+    498
+  ],
+  "chapter_number": 44,
+  "revelation_order": 64,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ad-Dukhan",
+  "number_of_ayahs": 59,
+  "chapter_name_arabic": "الدخان",
+  "chapter_name_transcribed": "Ad-Dukhān",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Smoke"
@@ -10164,13 +10172,5 @@
       "language_name": "english",
       "name": "The Smoke"
     }
-  },
-  "chapterNumber": 44,
-  "revelationOrder": 64,
-  "revelationPlace": "makkah",
-  "pages": [
-    496,
-    498
-  ],
-  "chapterTransliterated": "Ad-Dukhan"
+  }
 }

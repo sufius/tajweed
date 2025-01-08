@@ -2163,10 +2163,18 @@
       "text_uthmani_transcribed": "Fa mahhilil-kāfirīna amhilhum ruwaidā(n)."
     }
   ],
-  "numberOfAyahs": 17,
-  "chapterNameArabic": "الطارق",
-  "chapterNameTranscribed": "Aţ-Ţāriq",
-  "chapterNameTranslated": {
+  "pages": [
+    591,
+    591
+  ],
+  "chapter_number": 86,
+  "revelation_order": 36,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "At-Tariq",
+  "number_of_ayahs": 17,
+  "chapter_name_arabic": "الطارق",
+  "chapter_name_transcribed": "Aţ-Ţāriq",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Nightcommer"
@@ -2271,13 +2279,5 @@
       "language_name": "english",
       "name": "The Nightcommer"
     }
-  },
-  "chapterNumber": 86,
-  "revelationOrder": 36,
-  "revelationPlace": "makkah",
-  "pages": [
-    591,
-    591
-  ],
-  "chapterTransliterated": "At-Tariq"
+  }
 }

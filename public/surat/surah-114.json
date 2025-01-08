@@ -735,10 +735,18 @@
       "text_uthmani_transcribed": "Minal jinnati wan-nās(i)."
     }
   ],
-  "numberOfAyahs": 6,
-  "chapterNameArabic": "الناس",
-  "chapterNameTranscribed": "An-Nās",
-  "chapterNameTranslated": {
+  "pages": [
+    604,
+    604
+  ],
+  "chapter_number": 114,
+  "revelation_order": 21,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "An-Nas",
+  "number_of_ayahs": 6,
+  "chapter_name_arabic": "الناس",
+  "chapter_name_transcribed": "An-Nās",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Mankind"
@@ -843,13 +851,5 @@
       "language_name": "english",
       "name": "Mankind"
     }
-  },
-  "chapterNumber": 114,
-  "revelationOrder": 21,
-  "revelationPlace": "makkah",
-  "pages": [
-    604,
-    604
-  ],
-  "chapterTransliterated": "An-Nas"
+  }
 }

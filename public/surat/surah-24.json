@@ -28781,10 +28781,18 @@
       "text_uthmani_transcribed": "Alā inna lillāhi mā fis-samāwāti wal-arḍ(i), qad ya'lamu mā antum 'alaih(i), wa yauma yurja'ūna ilaihi fa yunabbi'uhum bimā 'amilū, wallāhu bikulli syai'in 'alīm(un)."
     }
   ],
-  "numberOfAyahs": 64,
-  "chapterNameArabic": "النور",
-  "chapterNameTranscribed": "An-Nūr",
-  "chapterNameTranslated": {
+  "pages": [
+    350,
+    359
+  ],
+  "chapter_number": 24,
+  "revelation_order": 102,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "An-Nur",
+  "number_of_ayahs": 64,
+  "chapter_name_arabic": "النور",
+  "chapter_name_transcribed": "An-Nūr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Light"
@@ -28889,13 +28897,5 @@
       "language_name": "english",
       "name": "The Light"
     }
-  },
-  "chapterNumber": 24,
-  "revelationOrder": 102,
-  "revelationPlace": "madinah",
-  "pages": [
-    350,
-    359
-  ],
-  "chapterTransliterated": "An-Nur"
+  }
 }

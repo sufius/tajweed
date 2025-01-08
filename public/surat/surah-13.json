@@ -18745,10 +18745,18 @@
       "text_uthmani_transcribed": "Wa yaqūlul-lażīna kafarū lasta mursalā(n), qul kafā billāhi syahīdam bainī wa bainakum, wa man 'indahū 'ilmul-kitāb(i)."
     }
   ],
-  "numberOfAyahs": 43,
-  "chapterNameArabic": "الرعد",
-  "chapterNameTranscribed": "Ar-Ra`d",
-  "chapterNameTranslated": {
+  "pages": [
+    249,
+    255
+  ],
+  "chapter_number": 13,
+  "revelation_order": 96,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Ar-Ra'd",
+  "number_of_ayahs": 43,
+  "chapter_name_arabic": "الرعد",
+  "chapter_name_transcribed": "Ar-Ra`d",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Thunder"
@@ -18853,13 +18861,5 @@
       "language_name": "english",
       "name": "The Thunder"
     }
-  },
-  "chapterNumber": 13,
-  "revelationOrder": 96,
-  "revelationPlace": "madinah",
-  "pages": [
-    249,
-    255
-  ],
-  "chapterTransliterated": "Ar-Ra'd"
+  }
 }

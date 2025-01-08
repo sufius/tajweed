@@ -27079,10 +27079,18 @@
       "text_uthmani_transcribed": "Wal-ḥamdu lillāhi rabbil-'ālamīn(a)."
     }
   ],
-  "numberOfAyahs": 182,
-  "chapterNameArabic": "الصافات",
-  "chapterNameTranscribed": "Aş-Şāffāt",
-  "chapterNameTranslated": {
+  "pages": [
+    446,
+    452
+  ],
+  "chapter_number": 37,
+  "revelation_order": 56,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "As-Saffat",
+  "number_of_ayahs": 182,
+  "chapter_name_arabic": "الصافات",
+  "chapter_name_transcribed": "Aş-Şāffāt",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "Those who set the Ranks"
@@ -27187,13 +27195,5 @@
       "language_name": "english",
       "name": "Those who set the Ranks"
     }
-  },
-  "chapterNumber": 37,
-  "revelationOrder": 56,
-  "revelationPlace": "makkah",
-  "pages": [
-    446,
-    452
-  ],
-  "chapterTransliterated": "As-Saffat"
+  }
 }

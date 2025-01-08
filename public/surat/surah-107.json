@@ -889,10 +889,18 @@
       "text_uthmani_transcribed": "Wa yamna'ūnal-mā'ūn(a)."
     }
   ],
-  "numberOfAyahs": 7,
-  "chapterNameArabic": "الماعون",
-  "chapterNameTranscribed": "Al-Mā`ūn",
-  "chapterNameTranslated": {
+  "pages": [
+    602,
+    602
+  ],
+  "chapter_number": 107,
+  "revelation_order": 17,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Ma'un",
+  "number_of_ayahs": 7,
+  "chapter_name_arabic": "الماعون",
+  "chapter_name_transcribed": "Al-Mā`ūn",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Small kindnesses"
@@ -997,13 +1005,5 @@
       "language_name": "english",
       "name": "The Small kindnesses"
     }
-  },
-  "chapterNumber": 107,
-  "revelationOrder": 17,
-  "revelationPlace": "makkah",
-  "pages": [
-    602,
-    602
-  ],
-  "chapterTransliterated": "Al-Ma'un"
+  }
 }

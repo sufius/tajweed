@@ -23,14 +23,27 @@ fs.readdir(directoryPath, (err, files) => {
         try {
           const jsonData = JSON.parse(data);
 
-          // Rename the property if it exists
-          if (jsonData.hasOwnProperty('chapterNameRomanized')) {
-            jsonData.chapterTransliterated = jsonData.chapterNameRomanized;
-            delete jsonData.chapterNameRomanized;
-          }
+        let toRename = {
+            "chapterNumber" : "chapter_number",
+            "revelationOrder" : "revelation_order",
+            "revelationPlace" : "revelation_place",
+            "chapterTransliterated" : "chapter_transliterated",
+            "numberOfAyahs" : "number_of_ayahs",
+            "chapterNameArabic" : "chapter_name_arabic",
+            "chapterNameTranscribed" : "chapter_name_transcribed",
+            "chapterNameTranslated" : "chapter_name_translated"
+        };
 
-          // Write the updated JSON back to the file
-          fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), 'utf8', (writeErr) => {
+        for (fieldIndex in toRename) {
+            // Rename the property if it exists
+            if (jsonData.hasOwnProperty(fieldIndex)) {
+                jsonData[toRename[fieldIndex]] = jsonData[fieldIndex];
+                delete jsonData[fieldIndex];
+            }
+        }
+
+        // Write the updated JSON back to the file
+        fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), 'utf8', (writeErr) => {
             if (writeErr) {
               console.error(`Error writing file ${file}:`, writeErr);
             } else {

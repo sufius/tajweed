@@ -4374,10 +4374,18 @@
       "text_uthmani_transcribed": "Wadkhulī jannatī."
     }
   ],
-  "numberOfAyahs": 30,
-  "chapterNameArabic": "الفجر",
-  "chapterNameTranscribed": "Al-Fajr",
-  "chapterNameTranslated": {
+  "pages": [
+    593,
+    594
+  ],
+  "chapter_number": 89,
+  "revelation_order": 10,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Fajr",
+  "number_of_ayahs": 30,
+  "chapter_name_arabic": "الفجر",
+  "chapter_name_transcribed": "Al-Fajr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Dawn"
@@ -4482,13 +4490,5 @@
       "language_name": "english",
       "name": "The Dawn"
     }
-  },
-  "chapterNumber": 89,
-  "revelationOrder": 10,
-  "revelationPlace": "makkah",
-  "pages": [
-    593,
-    594
-  ],
-  "chapterTransliterated": "Al-Fajr"
+  }
 }

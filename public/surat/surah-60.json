@@ -7380,10 +7380,18 @@
       "text_uthmani_transcribed": "Yā ayyuhal-lażīna āmanū lā tatawallau qauman gaḍiballāhu 'alaihim qad ya'isū minal-ākhirati kamā ya'isal-kuffāru min aṣḥābil-qubūr(i)."
     }
   ],
-  "numberOfAyahs": 13,
-  "chapterNameArabic": "الممتحنة",
-  "chapterNameTranscribed": "Al-Mumtaĥanah",
-  "chapterNameTranslated": {
+  "pages": [
+    549,
+    551
+  ],
+  "chapter_number": 60,
+  "revelation_order": 91,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Mumtahanah",
+  "number_of_ayahs": 13,
+  "chapter_name_arabic": "الممتحنة",
+  "chapter_name_transcribed": "Al-Mumtaĥanah",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "She that is to be examined"
@@ -7488,13 +7496,5 @@
       "language_name": "english",
       "name": "She that is to be examined"
     }
-  },
-  "chapterNumber": 60,
-  "revelationOrder": 91,
-  "revelationPlace": "madinah",
-  "pages": [
-    549,
-    551
-  ],
-  "chapterTransliterated": "Al-Mumtahanah"
+  }
 }

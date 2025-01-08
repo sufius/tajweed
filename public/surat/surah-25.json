@@ -21511,10 +21511,18 @@
       "text_uthmani_transcribed": "Qul mā ya'ba'u bikum rabbī lau lā du'ā'ukum, faqad każżabtum fa saufa yakūnu lizāmā(n)."
     }
   ],
-  "numberOfAyahs": 77,
-  "chapterNameArabic": "الفرقان",
-  "chapterNameTranscribed": "Al-Furqān",
-  "chapterNameTranslated": {
+  "pages": [
+    359,
+    366
+  ],
+  "chapter_number": 25,
+  "revelation_order": 42,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Al-Furqan",
+  "number_of_ayahs": 77,
+  "chapter_name_arabic": "الفرقان",
+  "chapter_name_transcribed": "Al-Furqān",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Criterion"
@@ -21619,13 +21627,5 @@
       "language_name": "english",
       "name": "The Criterion"
     }
-  },
-  "chapterNumber": 25,
-  "revelationOrder": 42,
-  "revelationPlace": "makkah",
-  "pages": [
-    359,
-    366
-  ],
-  "chapterTransliterated": "Al-Furqan"
+  }
 }

@@ -9872,10 +9872,18 @@
       "text_uthmani_transcribed": "Huwallāhul-khāliqul-bāri'ul-muṣawwiru lahul-asmā'ul-ḥusnā, yusabbiḥu lahū mā fis-samāwāti wal-arḍ(i), wa huwal-'azīzul-ḥakīm(u)."
     }
   ],
-  "numberOfAyahs": 24,
-  "chapterNameArabic": "الحشر",
-  "chapterNameTranscribed": "Al-Ĥashr",
-  "chapterNameTranslated": {
+  "pages": [
+    545,
+    548
+  ],
+  "chapter_number": 59,
+  "revelation_order": 101,
+  "revelation_place": "madinah",
+  "chapter_transliterated": "Al-Hashr",
+  "number_of_ayahs": 24,
+  "chapter_name_arabic": "الحشر",
+  "chapter_name_transcribed": "Al-Ĥashr",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Exile"
@@ -9980,13 +9988,5 @@
       "language_name": "english",
       "name": "The Exile"
     }
-  },
-  "chapterNumber": 59,
-  "revelationOrder": 101,
-  "revelationPlace": "madinah",
-  "pages": [
-    545,
-    548
-  ],
-  "chapterTransliterated": "Al-Hashr"
+  }
 }

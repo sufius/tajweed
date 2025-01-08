@@ -19064,10 +19064,18 @@
       "text_uthmani_transcribed": "Faṣbir inna wa'dallāhi ḥaqquw wa lā yastakhiffannakal-lażīna lā yūqinūn(a)."
     }
   ],
-  "numberOfAyahs": 60,
-  "chapterNameArabic": "الروم",
-  "chapterNameTranscribed": "Ar-Rūm",
-  "chapterNameTranslated": {
+  "pages": [
+    404,
+    410
+  ],
+  "chapter_number": 30,
+  "revelation_order": 84,
+  "revelation_place": "makkah",
+  "chapter_transliterated": "Ar-Rum",
+  "number_of_ayahs": 60,
+  "chapter_name_arabic": "الروم",
+  "chapter_name_transcribed": "Ar-Rūm",
+  "chapter_name_translated": {
     "en": {
       "language_name": "english",
       "name": "The Romans"
@@ -19172,13 +19180,5 @@
       "language_name": "english",
       "name": "The Romans"
     }
-  },
-  "chapterNumber": 30,
-  "revelationOrder": 84,
-  "revelationPlace": "makkah",
-  "pages": [
-    404,
-    410
-  ],
-  "chapterTransliterated": "Ar-Rum"
+  }
 }
