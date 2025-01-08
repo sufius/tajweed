@@ -1,95 +1,135 @@
 {
+  "chapter_name_arabic": "الكافرون",
+  "chapter_name_transcribed": "Al-Kāfirūn",
+  "chapter_name_translated": {
+    "bg": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Nevjernici"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "en": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Incrédulos"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les mécréants"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Orang-orang Kafir"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "Miscredenti"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Ongelovigen"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Неверующие"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Sanningens Förnekare"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kâfirûn"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "不信道的人们"
+    }
+  },
+  "chapter_number": 109,
+  "chapter_transliterated": "Al-Kafirun",
+  "number_of_ayahs": 6,
+  "pages": [
+    603,
+    603
+  ],
+  "revelation_order": 18,
+  "revelation_place": "makkah",
   "verses": [
     {
-      "id": 6208,
-      "verse_number": 1,
-      "verse_key": "109:1",
       "hizb_number": 60,
+      "id": 6208,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 603,
       "rub_el_hizb_number": 240,
       "ruku_number": 553,
-      "manzil_number": 7,
       "sajdah_number": null,
       "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
-      "page_number": 603,
-      "juz_number": 30,
-      "words": [
-        {
-          "id": 158,
-          "position": 1,
-          "audio_url": "wbw/109_001_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭑ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭑ",
-          "translation": {
-            "text": "Say",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "qul",
-            "language_name": "english"
-          },
-          "text_uthmani": "قُلْ"
-        },
-        {
-          "id": 159,
-          "position": 2,
-          "audio_url": "wbw/109_001_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭒ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭒ",
-          "translation": {
-            "text": "O",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "yāayyuhā",
-            "language_name": "english"
-          },
-          "text_uthmani": "يَـٰٓأَيُّهَا"
-        },
-        {
-          "id": 160,
-          "position": 3,
-          "audio_url": "wbw/109_001_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭓ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭓ",
-          "translation": {
-            "text": "disbelievers",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "l-kāfirūna",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلْكَـٰفِرُونَ"
-        },
-        {
-          "id": 161,
-          "position": 4,
-          "audio_url": null,
-          "char_type_name": "end",
-          "code_v1": "ﭔ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭔ",
-          "translation": {
-            "text": "(1)",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "١"
-        }
-      ],
+      "text_uthmani_tajweed": "قُلْ يَ[o[ـٰٓ]أَيُّهَا [h:14663[ٱ]لْكَ[n[ـٰ]فِر[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "قُلْ يَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>أَيُّهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14663\">ٱ</tajweed>لْكَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ",
+      "text_uthmani_transcribed": "Qul yā ayyuhal-kāfirūn(a).",
       "translations": [
         {
           "id": 90096,
@@ -112,119 +152,100 @@
           "text": "Sag: O ihr Ungläubigen,"
         }
       ],
-      "text_uthmani_tajweed": "قُلْ يَ[o[ـٰٓ]أَيُّهَا [h:14663[ٱ]لْكَ[n[ـٰ]فِر[p[ُو]نَ",
-      "text_uthmani_tajweed_parsed": "قُلْ يَ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ـٰٓ</tajweed>أَيُّهَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14663\">ٱ</tajweed>لْكَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ",
-      "text_uthmani_transcribed": "Qul yā ayyuhal-kāfirūn(a)."
-    },
-    {
-      "id": 6209,
-      "verse_number": 2,
-      "verse_key": "109:2",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 553,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
-      "page_number": 603,
-      "juz_number": 30,
+      "verse_key": "109:1",
+      "verse_number": 1,
       "words": [
         {
-          "id": 942,
+          "audio_url": "wbw/109_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "id": 158,
+          "line_number": 3,
+          "page_number": 603,
           "position": 1,
-          "audio_url": "wbw/109_002_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭕ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭕ",
+          "text": "ﭑ",
+          "text_uthmani": "قُلْ",
           "translation": {
-            "text": "Not",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Say"
           },
           "transliteration": {
-            "text": "lā",
-            "language_name": "english"
-          },
-          "text_uthmani": "لَآ"
+            "language_name": "english",
+            "text": "qul"
+          }
         },
         {
-          "id": 943,
+          "audio_url": "wbw/109_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "id": 159,
+          "line_number": 3,
+          "page_number": 603,
           "position": 2,
-          "audio_url": "wbw/109_002_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭖ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭖ",
+          "text": "ﭒ",
+          "text_uthmani": "يَـٰٓأَيُّهَا",
           "translation": {
-            "text": "I worship",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "O"
           },
           "transliteration": {
-            "text": "aʿbudu",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَعْبُدُ"
+            "language_name": "english",
+            "text": "yāayyuhā"
+          }
         },
         {
-          "id": 944,
+          "audio_url": "wbw/109_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭓ",
+          "id": 160,
+          "line_number": 3,
+          "page_number": 603,
           "position": 3,
-          "audio_url": "wbw/109_002_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭗ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭗ",
+          "text": "ﭓ",
+          "text_uthmani": "ٱلْكَـٰفِرُونَ",
           "translation": {
-            "text": "what",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "disbelievers"
           },
           "transliteration": {
-            "text": "mā",
-            "language_name": "english"
-          },
-          "text_uthmani": "مَا"
+            "language_name": "english",
+            "text": "l-kāfirūna"
+          }
         },
         {
-          "id": 945,
-          "position": 4,
-          "audio_url": "wbw/109_002_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭘ",
-          "page_number": 603,
-          "line_number": 3,
-          "text": "ﭘ",
-          "translation": {
-            "text": "you worship",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "taʿbudūna",
-            "language_name": "english"
-          },
-          "text_uthmani": "تَعْبُدُونَ"
-        },
-        {
-          "id": 946,
-          "position": 5,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭙ",
-          "page_number": 603,
+          "code_v1": "ﭔ",
+          "id": 161,
           "line_number": 3,
-          "text": "ﭙ",
+          "page_number": 603,
+          "position": 4,
+          "text": "ﭔ",
+          "text_uthmani": "١",
           "translation": {
-            "text": "(2)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(1)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٢"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6209,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 603,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "sajdah_number": null,
+      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_uthmani_tajweed": "ل[o[َآ] أَعْبُدُ مَا تَعْبُد[p[ُو]نَ",
+      "text_uthmani_tajweed_parsed": "ل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ",
+      "text_uthmani_transcribed": "Lā a'budu mā ta'budūn(a).",
       "translations": [
         {
           "id": 90098,
@@ -247,138 +268,119 @@
           "text": "ich diene nicht dem, dem ihr dient,"
         }
       ],
-      "text_uthmani_tajweed": "ل[o[َآ] أَعْبُدُ مَا تَعْبُد[p[ُو]نَ",
-      "text_uthmani_tajweed_parsed": "ل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>نَ",
-      "text_uthmani_transcribed": "Lā a'budu mā ta'budūn(a)."
-    },
-    {
-      "id": 6210,
-      "verse_number": 3,
-      "verse_key": "109:3",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 553,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
-      "page_number": 603,
-      "juz_number": 30,
+      "verse_key": "109:2",
+      "verse_number": 2,
       "words": [
         {
-          "id": 2570,
+          "audio_url": "wbw/109_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "id": 942,
+          "line_number": 3,
+          "page_number": 603,
           "position": 1,
-          "audio_url": "wbw/109_003_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭚ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭚ",
+          "text": "ﭕ",
+          "text_uthmani": "لَآ",
           "translation": {
-            "text": "And not",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Not"
           },
           "transliteration": {
-            "text": "walā",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَلَآ"
+            "language_name": "english",
+            "text": "lā"
+          }
         },
         {
-          "id": 2571,
+          "audio_url": "wbw/109_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "id": 943,
+          "line_number": 3,
+          "page_number": 603,
           "position": 2,
-          "audio_url": "wbw/109_003_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭛ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭛ",
+          "text": "ﭖ",
+          "text_uthmani": "أَعْبُدُ",
           "translation": {
-            "text": "you",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "I worship"
           },
           "transliteration": {
-            "text": "antum",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَنتُمْ"
+            "language_name": "english",
+            "text": "aʿbudu"
+          }
         },
         {
-          "id": 2572,
+          "audio_url": "wbw/109_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "id": 944,
+          "line_number": 3,
+          "page_number": 603,
           "position": 3,
-          "audio_url": "wbw/109_003_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭜ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭜ",
+          "text": "ﭗ",
+          "text_uthmani": "مَا",
           "translation": {
-            "text": "(are) worshippers",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "what"
           },
           "transliteration": {
-            "text": "ʿābidūna",
-            "language_name": "english"
-          },
-          "text_uthmani": "عَـٰبِدُونَ"
+            "language_name": "english",
+            "text": "mā"
+          }
         },
         {
-          "id": 2573,
+          "audio_url": "wbw/109_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭘ",
+          "id": 945,
+          "line_number": 3,
+          "page_number": 603,
           "position": 4,
-          "audio_url": "wbw/109_003_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭝ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭝ",
+          "text": "ﭘ",
+          "text_uthmani": "تَعْبُدُونَ",
           "translation": {
-            "text": "(of) what",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "you worship"
           },
           "transliteration": {
-            "text": "mā",
-            "language_name": "english"
-          },
-          "text_uthmani": "مَآ"
+            "language_name": "english",
+            "text": "taʿbudūna"
+          }
         },
         {
-          "id": 2574,
-          "position": 5,
-          "audio_url": "wbw/109_003_005.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭞ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭞ",
-          "translation": {
-            "text": "I worship",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "aʿbudu",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَعْبُدُ"
-        },
-        {
-          "id": 2575,
-          "position": 6,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭟ",
+          "code_v1": "ﭙ",
+          "id": 946,
+          "line_number": 3,
           "page_number": 603,
-          "line_number": 4,
-          "text": "ﭟ",
+          "position": 5,
+          "text": "ﭙ",
+          "text_uthmani": "٢",
           "translation": {
-            "text": "(3)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(2)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٣"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6210,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 603,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_uthmani_tajweed": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":428\">نت</tajweed>ُمْ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِدُونَ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ",
+      "text_uthmani_transcribed": "Wa lā antum 'ābidūna mā a'bud(u).",
       "translations": [
         {
           "id": 90100,
@@ -401,138 +403,138 @@
           "text": "und ihr dient nicht Dem, Dem ich diene."
         }
       ],
-      "text_uthmani_tajweed": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
-      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":428\">نت</tajweed>ُمْ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِدُونَ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ",
-      "text_uthmani_transcribed": "Wa lā antum 'ābidūna mā a'bud(u)."
-    },
-    {
-      "id": 6211,
-      "verse_number": 4,
-      "verse_key": "109:4",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 553,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
-      "page_number": 603,
-      "juz_number": 30,
+      "verse_key": "109:3",
+      "verse_number": 3,
       "words": [
         {
-          "id": 3992,
+          "audio_url": "wbw/109_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "id": 2570,
+          "line_number": 4,
+          "page_number": 603,
           "position": 1,
-          "audio_url": "wbw/109_004_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭠ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭠ",
+          "text": "ﭚ",
+          "text_uthmani": "وَلَآ",
           "translation": {
-            "text": "And not",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "And not"
           },
           "transliteration": {
-            "text": "walā",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَلَآ"
+            "language_name": "english",
+            "text": "walā"
+          }
         },
         {
-          "id": 3993,
+          "audio_url": "wbw/109_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭛ",
+          "id": 2571,
+          "line_number": 4,
+          "page_number": 603,
           "position": 2,
-          "audio_url": "wbw/109_004_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭡ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭡ",
+          "text": "ﭛ",
+          "text_uthmani": "أَنتُمْ",
           "translation": {
-            "text": "I am",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "you"
           },
           "transliteration": {
-            "text": "anā",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَنَا۠"
+            "language_name": "english",
+            "text": "antum"
+          }
         },
         {
-          "id": 3994,
+          "audio_url": "wbw/109_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭜ",
+          "id": 2572,
+          "line_number": 4,
+          "page_number": 603,
           "position": 3,
-          "audio_url": "wbw/109_004_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭢ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭢ",
+          "text": "ﭜ",
+          "text_uthmani": "عَـٰبِدُونَ",
           "translation": {
-            "text": "a worshipper",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(are) worshippers"
           },
           "transliteration": {
-            "text": "ʿābidun",
-            "language_name": "english"
-          },
-          "text_uthmani": "عَابِدٌۭ"
+            "language_name": "english",
+            "text": "ʿābidūna"
+          }
         },
         {
-          "id": 3995,
+          "audio_url": "wbw/109_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭝ",
+          "id": 2573,
+          "line_number": 4,
+          "page_number": 603,
           "position": 4,
-          "audio_url": "wbw/109_004_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭣ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭣ",
+          "text": "ﭝ",
+          "text_uthmani": "مَآ",
           "translation": {
-            "text": "(of) what",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(of) what"
           },
           "transliteration": {
-            "text": "mā",
-            "language_name": "english"
-          },
-          "text_uthmani": "مَّا"
+            "language_name": "english",
+            "text": "mā"
+          }
         },
         {
-          "id": 3996,
+          "audio_url": "wbw/109_003_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "id": 2574,
+          "line_number": 4,
+          "page_number": 603,
           "position": 5,
-          "audio_url": "wbw/109_004_005.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭤ",
-          "page_number": 603,
-          "line_number": 4,
-          "text": "ﭤ",
+          "text": "ﭞ",
+          "text_uthmani": "أَعْبُدُ",
           "translation": {
-            "text": "you worship",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "I worship"
           },
           "transliteration": {
-            "text": "ʿabadttum",
-            "language_name": "english"
-          },
-          "text_uthmani": "عَبَدتُّمْ"
+            "language_name": "english",
+            "text": "aʿbudu"
+          }
         },
         {
-          "id": 3997,
-          "position": 6,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭥ",
-          "page_number": 603,
+          "code_v1": "ﭟ",
+          "id": 2575,
           "line_number": 4,
-          "text": "ﭥ",
+          "page_number": 603,
+          "position": 6,
+          "text": "ﭟ",
+          "text_uthmani": "٣",
           "translation": {
-            "text": "(4)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(3)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٤"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6211,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 603,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "text_uthmani_tajweed": "وَل[o[َآ] أَنَا۟ عَابِ[a:14664[دٌ م]َّا عَبَ[d:14665[د]تُّمْ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَنَا۟ عَابِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14664\">دٌ م</tajweed>َّا عَبَ<tajweed class=\"idgh_mus\" data-type=\"idgham-mutajanisayn\" data-description=\"Idgham - Mutajanisayn\" data-tajweed=\":14665\">د</tajweed>تُّمْ",
+      "text_uthmani_transcribed": "Wa lā ana 'ābidum mā 'abattum.",
       "translations": [
         {
           "id": 90102,
@@ -555,138 +557,138 @@
           "text": "Und ich werde (auch) nicht dem dienen, dem ihr gedient habt,"
         }
       ],
-      "text_uthmani_tajweed": "وَل[o[َآ] أَنَا۟ عَابِ[a:14664[دٌ م]َّا عَبَ[d:14665[د]تُّمْ",
-      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَنَا۟ عَابِ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14664\">دٌ م</tajweed>َّا عَبَ<tajweed class=\"idgh_mus\" data-type=\"idgham-mutajanisayn\" data-description=\"Idgham - Mutajanisayn\" data-tajweed=\":14665\">د</tajweed>تُّمْ",
-      "text_uthmani_transcribed": "Wa lā ana 'ābidum mā 'abattum."
-    },
-    {
-      "id": 6212,
-      "verse_number": 5,
-      "verse_key": "109:5",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 553,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
-      "page_number": 603,
-      "juz_number": 30,
+      "verse_key": "109:4",
+      "verse_number": 4,
       "words": [
         {
-          "id": 5290,
+          "audio_url": "wbw/109_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭠ",
+          "id": 3992,
+          "line_number": 4,
+          "page_number": 603,
           "position": 1,
-          "audio_url": "wbw/109_005_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭦ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭦ",
+          "text": "ﭠ",
+          "text_uthmani": "وَلَآ",
           "translation": {
-            "text": "And not",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "And not"
           },
           "transliteration": {
-            "text": "walā",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَلَآ"
+            "language_name": "english",
+            "text": "walā"
+          }
         },
         {
-          "id": 5291,
+          "audio_url": "wbw/109_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "id": 3993,
+          "line_number": 4,
+          "page_number": 603,
           "position": 2,
-          "audio_url": "wbw/109_005_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭧ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭧ",
+          "text": "ﭡ",
+          "text_uthmani": "أَنَا۠",
           "translation": {
-            "text": "you",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "I am"
           },
           "transliteration": {
-            "text": "antum",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَنتُمْ"
+            "language_name": "english",
+            "text": "anā"
+          }
         },
         {
-          "id": 5292,
+          "audio_url": "wbw/109_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "id": 3994,
+          "line_number": 4,
+          "page_number": 603,
           "position": 3,
-          "audio_url": "wbw/109_005_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭨ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭨ",
+          "text": "ﭢ",
+          "text_uthmani": "عَابِدٌۭ",
           "translation": {
-            "text": "(are) worshippers",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "a worshipper"
           },
           "transliteration": {
-            "text": "ʿābidūna",
-            "language_name": "english"
-          },
-          "text_uthmani": "عَـٰبِدُونَ"
+            "language_name": "english",
+            "text": "ʿābidun"
+          }
         },
         {
-          "id": 5293,
+          "audio_url": "wbw/109_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭣ",
+          "id": 3995,
+          "line_number": 4,
+          "page_number": 603,
           "position": 4,
-          "audio_url": "wbw/109_005_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭩ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭩ",
+          "text": "ﭣ",
+          "text_uthmani": "مَّا",
           "translation": {
-            "text": "(of) what",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(of) what"
           },
           "transliteration": {
-            "text": "mā",
-            "language_name": "english"
-          },
-          "text_uthmani": "مَآ"
+            "language_name": "english",
+            "text": "mā"
+          }
         },
         {
-          "id": 5294,
+          "audio_url": "wbw/109_004_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "id": 3996,
+          "line_number": 4,
+          "page_number": 603,
           "position": 5,
-          "audio_url": "wbw/109_005_005.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭪ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭪ",
+          "text": "ﭤ",
+          "text_uthmani": "عَبَدتُّمْ",
           "translation": {
-            "text": "I worship",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "you worship"
           },
           "transliteration": {
-            "text": "aʿbudu",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَعْبُدُ"
+            "language_name": "english",
+            "text": "ʿabadttum"
+          }
         },
         {
-          "id": 5295,
-          "position": 6,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭫ",
+          "code_v1": "ﭥ",
+          "id": 3997,
+          "line_number": 4,
           "page_number": 603,
-          "line_number": 5,
-          "text": "ﭫ",
+          "position": 6,
+          "text": "ﭥ",
+          "text_uthmani": "٤",
           "translation": {
-            "text": "(5)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(4)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٥"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6212,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 603,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_uthmani_tajweed": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
+      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":428\">نت</tajweed>ُمْ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِدُونَ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ",
+      "text_uthmani_transcribed": "Wa lā antum 'ābidūna mā a'bud(u).",
       "translations": [
         {
           "id": 90104,
@@ -709,119 +711,138 @@
           "text": "Und ihr werdet nicht Dem dienen, Dem ich diene."
         }
       ],
-      "text_uthmani_tajweed": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
-      "text_uthmani_tajweed_parsed": "وَل<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":428\">نت</tajweed>ُمْ عَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِدُونَ م<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْبُ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\"\">د</tajweed>ُ",
-      "text_uthmani_transcribed": "Wa lā antum 'ābidūna mā a'bud(u)."
-    },
-    {
-      "id": 6213,
-      "verse_number": 6,
-      "verse_key": "109:6",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 553,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
-      "page_number": 603,
-      "juz_number": 30,
+      "verse_key": "109:5",
+      "verse_number": 5,
       "words": [
         {
-          "id": 6550,
+          "audio_url": "wbw/109_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭦ",
+          "id": 5290,
+          "line_number": 5,
+          "page_number": 603,
           "position": 1,
-          "audio_url": "wbw/109_006_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭬ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭬ",
+          "text": "ﭦ",
+          "text_uthmani": "وَلَآ",
           "translation": {
-            "text": "For you",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "And not"
           },
           "transliteration": {
-            "text": "lakum",
-            "language_name": "english"
-          },
-          "text_uthmani": "لَكُمْ"
+            "language_name": "english",
+            "text": "walā"
+          }
         },
         {
-          "id": 6551,
+          "audio_url": "wbw/109_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭧ",
+          "id": 5291,
+          "line_number": 5,
+          "page_number": 603,
           "position": 2,
-          "audio_url": "wbw/109_006_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭭ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭭ",
+          "text": "ﭧ",
+          "text_uthmani": "أَنتُمْ",
           "translation": {
-            "text": "(is) your religion",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "you"
           },
           "transliteration": {
-            "text": "dīnukum",
-            "language_name": "english"
-          },
-          "text_uthmani": "دِينُكُمْ"
+            "language_name": "english",
+            "text": "antum"
+          }
         },
         {
-          "id": 6552,
+          "audio_url": "wbw/109_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭨ",
+          "id": 5292,
+          "line_number": 5,
+          "page_number": 603,
           "position": 3,
-          "audio_url": "wbw/109_006_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭮ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭮ",
+          "text": "ﭨ",
+          "text_uthmani": "عَـٰبِدُونَ",
           "translation": {
-            "text": "and for me",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(are) worshippers"
           },
           "transliteration": {
-            "text": "waliya",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَلِىَ"
+            "language_name": "english",
+            "text": "ʿābidūna"
+          }
         },
         {
-          "id": 6553,
+          "audio_url": "wbw/109_005_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭩ",
+          "id": 5293,
+          "line_number": 5,
+          "page_number": 603,
           "position": 4,
-          "audio_url": "wbw/109_006_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭯ",
-          "page_number": 603,
-          "line_number": 5,
-          "text": "ﭯ",
+          "text": "ﭩ",
+          "text_uthmani": "مَآ",
           "translation": {
-            "text": "(is) my religion",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(of) what"
           },
           "transliteration": {
-            "text": "dīni",
-            "language_name": "english"
-          },
-          "text_uthmani": "دِينِ"
+            "language_name": "english",
+            "text": "mā"
+          }
         },
         {
-          "id": 6554,
+          "audio_url": "wbw/109_005_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭪ",
+          "id": 5294,
+          "line_number": 5,
+          "page_number": 603,
           "position": 5,
+          "text": "ﭪ",
+          "text_uthmani": "أَعْبُدُ",
+          "translation": {
+            "language_name": "english",
+            "text": "I worship"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "aʿbudu"
+          }
+        },
+        {
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭰ",
-          "page_number": 603,
+          "code_v1": "ﭫ",
+          "id": 5295,
           "line_number": 5,
-          "text": "ﭰ",
+          "page_number": 603,
+          "position": 6,
+          "text": "ﭫ",
+          "text_uthmani": "٥",
           "translation": {
-            "text": "(6)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(5)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٦"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6213,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 603,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "sajdah_number": null,
+      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "text_uthmani_tajweed": "لَكُمْ دِينُكُمْ وَلِىَ د[p[ِي]نِ",
+      "text_uthmani_tajweed_parsed": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نِ",
+      "text_uthmani_transcribed": "Lakum dīnukum wa liya dīn(i).",
       "translations": [
         {
           "id": 90106,
@@ -844,126 +865,105 @@
           "text": "Euch eure Religion und mir meine Religion."
         }
       ],
-      "text_uthmani_tajweed": "لَكُمْ دِينُكُمْ وَلِىَ د[p[ِي]نِ",
-      "text_uthmani_tajweed_parsed": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>نِ",
-      "text_uthmani_transcribed": "Lakum dīnukum wa liya dīn(i)."
+      "verse_key": "109:6",
+      "verse_number": 6,
+      "words": [
+        {
+          "audio_url": "wbw/109_006_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭬ",
+          "id": 6550,
+          "line_number": 5,
+          "page_number": 603,
+          "position": 1,
+          "text": "ﭬ",
+          "text_uthmani": "لَكُمْ",
+          "translation": {
+            "language_name": "english",
+            "text": "For you"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "lakum"
+          }
+        },
+        {
+          "audio_url": "wbw/109_006_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭭ",
+          "id": 6551,
+          "line_number": 5,
+          "page_number": 603,
+          "position": 2,
+          "text": "ﭭ",
+          "text_uthmani": "دِينُكُمْ",
+          "translation": {
+            "language_name": "english",
+            "text": "(is) your religion"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "dīnukum"
+          }
+        },
+        {
+          "audio_url": "wbw/109_006_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭮ",
+          "id": 6552,
+          "line_number": 5,
+          "page_number": 603,
+          "position": 3,
+          "text": "ﭮ",
+          "text_uthmani": "وَلِىَ",
+          "translation": {
+            "language_name": "english",
+            "text": "and for me"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "waliya"
+          }
+        },
+        {
+          "audio_url": "wbw/109_006_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭯ",
+          "id": 6553,
+          "line_number": 5,
+          "page_number": 603,
+          "position": 4,
+          "text": "ﭯ",
+          "text_uthmani": "دِينِ",
+          "translation": {
+            "language_name": "english",
+            "text": "(is) my religion"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "dīni"
+          }
+        },
+        {
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭰ",
+          "id": 6554,
+          "line_number": 5,
+          "page_number": 603,
+          "position": 5,
+          "text": "ﭰ",
+          "text_uthmani": "٦",
+          "translation": {
+            "language_name": "english",
+            "text": "(6)"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": null
+          }
+        }
+      ]
     }
-  ],
-  "pages": [
-    603,
-    603
-  ],
-  "chapter_number": 109,
-  "revelation_order": 18,
-  "revelation_place": "makkah",
-  "chapter_transliterated": "Al-Kafirun",
-  "number_of_ayahs": 6,
-  "chapter_name_arabic": "الكافرون",
-  "chapter_name_transcribed": "Al-Kāfirūn",
-  "chapter_name_translated": {
-    "en": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "ru": {
-      "language_name": "russian",
-      "name": "Неверующие"
-    },
-    "de": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "tr": {
-      "language_name": "turkish",
-      "name": "Kâfirûn"
-    },
-    "ce": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "he": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "pl": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "tt": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "ug": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "uk": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "es": {
-      "language_name": "spanish",
-      "name": "Los Incrédulos"
-    },
-    "fr": {
-      "language_name": "french",
-      "name": "Les mécréants"
-    },
-    "bs": {
-      "language_name": "bosnian",
-      "name": "Nevjernici"
-    },
-    "id": {
-      "language_name": "indonesian",
-      "name": "Orang-orang Kafir"
-    },
-    "nl": {
-      "language_name": "dutch",
-      "name": "De Ongelovigen"
-    },
-    "it": {
-      "language_name": "italian",
-      "name": "Miscredenti"
-    },
-    "zh": {
-      "language_name": "chinese",
-      "name": "不信道的人们"
-    },
-    "bg": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "pt": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "ro": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "cs": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "fi": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "no": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "sr": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    },
-    "sv": {
-      "language_name": "swedish",
-      "name": "Sanningens Förnekare"
-    },
-    "sq": {
-      "language_name": "english",
-      "name": "The Disbelievers"
-    }
-  }
+  ]
 }

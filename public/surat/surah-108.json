@@ -1,95 +1,135 @@
 {
+  "chapter_name_arabic": "الكوثر",
+  "chapter_name_transcribed": "Al-Kawthar",
+  "chapter_name_translated": {
+    "bg": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Mnogō dobro"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "en": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "La Abundancia"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'abondance"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Nikmat Berlimpah"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Abbondanza"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Overvloed"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Изобилие"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Det Goda I Överflöd"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kevser"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "多福"
+    }
+  },
+  "chapter_number": 108,
+  "chapter_transliterated": "Al-Kawthar",
+  "number_of_ayahs": 3,
+  "pages": [
+    602,
+    602
+  ],
+  "revelation_order": 15,
+  "revelation_place": "makkah",
   "verses": [
     {
-      "id": 6205,
-      "verse_number": 1,
-      "verse_key": "108:1",
       "hizb_number": 60,
+      "id": 6205,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
       "rub_el_hizb_number": 240,
       "ruku_number": 552,
-      "manzil_number": 7,
       "sajdah_number": null,
       "text_uthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
-      "page_number": 602,
-      "juz_number": 30,
-      "words": [
-        {
-          "id": 276,
-          "position": 1,
-          "audio_url": "wbw/108_001_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮆ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮆ",
-          "translation": {
-            "text": "Indeed, We",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "innā",
-            "language_name": "english"
-          },
-          "text_uthmani": "إِنَّآ"
-        },
-        {
-          "id": 277,
-          "position": 2,
-          "audio_url": "wbw/108_001_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮇ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮇ",
-          "translation": {
-            "text": "We have given you",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "aʿṭaynāka",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَعْطَيْنَـٰكَ"
-        },
-        {
-          "id": 278,
-          "position": 3,
-          "audio_url": "wbw/108_001_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮈ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮈ",
-          "translation": {
-            "text": "Al-Kauthar",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "l-kawthara",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلْكَوْثَرَ"
-        },
-        {
-          "id": 279,
-          "position": 4,
-          "audio_url": null,
-          "char_type_name": "end",
-          "code_v1": "ﮉ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮉ",
-          "translation": {
-            "text": "(1)",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "١"
-        }
-      ],
+      "text_uthmani_tajweed": "إِ[g[نّ][o[َآ] أَعْطَيْنَ[n[ـٰ]كَ [h:14659[ٱ]لْكَوْثَرَ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْطَيْنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>كَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14659\">ٱ</tajweed>لْكَوْثَرَ",
+      "text_uthmani_transcribed": "Innā a'ṭainākal-kauṡar(a).",
       "translations": [
         {
           "id": 90082,
@@ -112,100 +152,100 @@
           "text": "Wir haben dir ja al-Kautar gegeben."
         }
       ],
-      "text_uthmani_tajweed": "إِ[g[نّ][o[َآ] أَعْطَيْنَ[n[ـٰ]كَ [h:14659[ٱ]لْكَوْثَرَ",
-      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed><tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَعْطَيْنَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>كَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14659\">ٱ</tajweed>لْكَوْثَرَ",
-      "text_uthmani_transcribed": "Innā a'ṭainākal-kauṡar(a)."
-    },
-    {
-      "id": 6206,
-      "verse_number": 2,
-      "verse_key": "108:2",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 552,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
-      "page_number": 602,
-      "juz_number": 30,
+      "verse_key": "108:1",
+      "verse_number": 1,
       "words": [
         {
-          "id": 996,
+          "audio_url": "wbw/108_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮆ",
+          "id": 276,
+          "line_number": 14,
+          "page_number": 602,
           "position": 1,
-          "audio_url": "wbw/108_002_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮊ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮊ",
+          "text": "ﮆ",
+          "text_uthmani": "إِنَّآ",
           "translation": {
-            "text": "So pray",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Indeed, We"
           },
           "transliteration": {
-            "text": "faṣalli",
-            "language_name": "english"
-          },
-          "text_uthmani": "فَصَلِّ"
+            "language_name": "english",
+            "text": "innā"
+          }
         },
         {
-          "id": 997,
+          "audio_url": "wbw/108_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮇ",
+          "id": 277,
+          "line_number": 14,
+          "page_number": 602,
           "position": 2,
-          "audio_url": "wbw/108_002_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮋ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮋ",
+          "text": "ﮇ",
+          "text_uthmani": "أَعْطَيْنَـٰكَ",
           "translation": {
-            "text": "to your Lord",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "We have given you"
           },
           "transliteration": {
-            "text": "lirabbika",
-            "language_name": "english"
-          },
-          "text_uthmani": "لِرَبِّكَ"
+            "language_name": "english",
+            "text": "aʿṭaynāka"
+          }
         },
         {
-          "id": 998,
+          "audio_url": "wbw/108_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮈ",
+          "id": 278,
+          "line_number": 14,
+          "page_number": 602,
           "position": 3,
-          "audio_url": "wbw/108_002_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮌ",
-          "page_number": 602,
-          "line_number": 14,
-          "text": "ﮌ",
+          "text": "ﮈ",
+          "text_uthmani": "ٱلْكَوْثَرَ",
           "translation": {
-            "text": "and sacrifice",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Al-Kauthar"
           },
           "transliteration": {
-            "text": "wa-in'ḥar",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَٱنْحَرْ"
+            "language_name": "english",
+            "text": "l-kawthara"
+          }
         },
         {
-          "id": 999,
-          "position": 4,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﮍ",
-          "page_number": 602,
+          "code_v1": "ﮉ",
+          "id": 279,
           "line_number": 14,
-          "text": "ﮍ",
+          "page_number": 602,
+          "position": 4,
+          "text": "ﮉ",
+          "text_uthmani": "١",
           "translation": {
-            "text": "(2)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(1)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٢"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6206,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "sajdah_number": null,
+      "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "text_uthmani_tajweed": "فَصَلِّ لِرَبِّكَ وَ[h:14660[ٱ]نْحَرْ",
+      "text_uthmani_tajweed_parsed": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14660\">ٱ</tajweed>نْحَرْ",
+      "text_uthmani_transcribed": "Faṣalli lirabbika wanḥar.",
       "translations": [
         {
           "id": 90084,
@@ -228,119 +268,100 @@
           "text": "So bete zu deinem Herrn und opfere."
         }
       ],
-      "text_uthmani_tajweed": "فَصَلِّ لِرَبِّكَ وَ[h:14660[ٱ]نْحَرْ",
-      "text_uthmani_tajweed_parsed": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14660\">ٱ</tajweed>نْحَرْ",
-      "text_uthmani_transcribed": "Faṣalli lirabbika wanḥar."
-    },
-    {
-      "id": 6207,
-      "verse_number": 3,
-      "verse_key": "108:3",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 552,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
-      "page_number": 602,
-      "juz_number": 30,
+      "verse_key": "108:2",
+      "verse_number": 2,
       "words": [
         {
-          "id": 2556,
+          "audio_url": "wbw/108_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮊ",
+          "id": 996,
+          "line_number": 14,
+          "page_number": 602,
           "position": 1,
-          "audio_url": "wbw/108_003_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮎ",
-          "page_number": 602,
-          "line_number": 15,
-          "text": "ﮎ",
+          "text": "ﮊ",
+          "text_uthmani": "فَصَلِّ",
           "translation": {
-            "text": "Indeed",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "So pray"
           },
           "transliteration": {
-            "text": "inna",
-            "language_name": "english"
-          },
-          "text_uthmani": "إِنَّ"
+            "language_name": "english",
+            "text": "faṣalli"
+          }
         },
         {
-          "id": 2557,
+          "audio_url": "wbw/108_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮋ",
+          "id": 997,
+          "line_number": 14,
+          "page_number": 602,
           "position": 2,
-          "audio_url": "wbw/108_003_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮏ",
-          "page_number": 602,
-          "line_number": 15,
-          "text": "ﮏ",
+          "text": "ﮋ",
+          "text_uthmani": "لِرَبِّكَ",
           "translation": {
-            "text": "your enemy ",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "to your Lord"
           },
           "transliteration": {
-            "text": "shāni-aka",
-            "language_name": "english"
-          },
-          "text_uthmani": "شَانِئَكَ"
+            "language_name": "english",
+            "text": "lirabbika"
+          }
         },
         {
-          "id": 2558,
+          "audio_url": "wbw/108_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮌ",
+          "id": 998,
+          "line_number": 14,
+          "page_number": 602,
           "position": 3,
-          "audio_url": "wbw/108_003_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮐ",
-          "page_number": 602,
-          "line_number": 15,
-          "text": "ﮐ",
+          "text": "ﮌ",
+          "text_uthmani": "وَٱنْحَرْ",
           "translation": {
-            "text": "he (is)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "and sacrifice"
           },
           "transliteration": {
-            "text": "huwa",
-            "language_name": "english"
-          },
-          "text_uthmani": "هُوَ"
+            "language_name": "english",
+            "text": "wa-in'ḥar"
+          }
         },
         {
-          "id": 2559,
-          "position": 4,
-          "audio_url": "wbw/108_003_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮑ",
-          "page_number": 602,
-          "line_number": 15,
-          "text": "ﮑ",
-          "translation": {
-            "text": "the one cut off",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "l-abtaru",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلْأَبْتَرُ"
-        },
-        {
-          "id": 2560,
-          "position": 5,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﮒ",
+          "code_v1": "ﮍ",
+          "id": 999,
+          "line_number": 14,
           "page_number": 602,
-          "line_number": 15,
-          "text": "ﮒ",
+          "position": 4,
+          "text": "ﮍ",
+          "text_uthmani": "٢",
           "translation": {
-            "text": "(3)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(2)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٣"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6207,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "text_uthmani_tajweed": "إِ[g[نّ]َ شَانِئَكَ هُوَ [h:14661[ٱ]لْأَ[q:14662[بْ]تَرُ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14661\">ٱ</tajweed>لْأَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14662\">بْ</tajweed>تَرُ",
+      "text_uthmani_transcribed": "Inna syāni'aka huwal-abtar(u).",
       "translations": [
         {
           "id": 90086,
@@ -363,126 +384,105 @@
           "text": "Gewiß, derjenige, der dich haßt, - er ist vom Guten abgetrennt ."
         }
       ],
-      "text_uthmani_tajweed": "إِ[g[نّ]َ شَانِئَكَ هُوَ [h:14661[ٱ]لْأَ[q:14662[بْ]تَرُ",
-      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14661\">ٱ</tajweed>لْأَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14662\">بْ</tajweed>تَرُ",
-      "text_uthmani_transcribed": "Inna syāni'aka huwal-abtar(u)."
+      "verse_key": "108:3",
+      "verse_number": 3,
+      "words": [
+        {
+          "audio_url": "wbw/108_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮎ",
+          "id": 2556,
+          "line_number": 15,
+          "page_number": 602,
+          "position": 1,
+          "text": "ﮎ",
+          "text_uthmani": "إِنَّ",
+          "translation": {
+            "language_name": "english",
+            "text": "Indeed"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "inna"
+          }
+        },
+        {
+          "audio_url": "wbw/108_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮏ",
+          "id": 2557,
+          "line_number": 15,
+          "page_number": 602,
+          "position": 2,
+          "text": "ﮏ",
+          "text_uthmani": "شَانِئَكَ",
+          "translation": {
+            "language_name": "english",
+            "text": "your enemy "
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "shāni-aka"
+          }
+        },
+        {
+          "audio_url": "wbw/108_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮐ",
+          "id": 2558,
+          "line_number": 15,
+          "page_number": 602,
+          "position": 3,
+          "text": "ﮐ",
+          "text_uthmani": "هُوَ",
+          "translation": {
+            "language_name": "english",
+            "text": "he (is)"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "huwa"
+          }
+        },
+        {
+          "audio_url": "wbw/108_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮑ",
+          "id": 2559,
+          "line_number": 15,
+          "page_number": 602,
+          "position": 4,
+          "text": "ﮑ",
+          "text_uthmani": "ٱلْأَبْتَرُ",
+          "translation": {
+            "language_name": "english",
+            "text": "the one cut off"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "l-abtaru"
+          }
+        },
+        {
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮒ",
+          "id": 2560,
+          "line_number": 15,
+          "page_number": 602,
+          "position": 5,
+          "text": "ﮒ",
+          "text_uthmani": "٣",
+          "translation": {
+            "language_name": "english",
+            "text": "(3)"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": null
+          }
+        }
+      ]
     }
-  ],
-  "pages": [
-    602,
-    602
-  ],
-  "chapter_number": 108,
-  "revelation_order": 15,
-  "revelation_place": "makkah",
-  "chapter_transliterated": "Al-Kawthar",
-  "number_of_ayahs": 3,
-  "chapter_name_arabic": "الكوثر",
-  "chapter_name_transcribed": "Al-Kawthar",
-  "chapter_name_translated": {
-    "en": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "ru": {
-      "language_name": "russian",
-      "name": "Изобилие"
-    },
-    "de": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "tr": {
-      "language_name": "turkish",
-      "name": "Kevser"
-    },
-    "ce": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "he": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "pl": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "tt": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "ug": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "uk": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "es": {
-      "language_name": "spanish",
-      "name": "La Abundancia"
-    },
-    "fr": {
-      "language_name": "french",
-      "name": "L'abondance"
-    },
-    "bs": {
-      "language_name": "bosnian",
-      "name": "Mnogō dobro"
-    },
-    "id": {
-      "language_name": "indonesian",
-      "name": "Nikmat Berlimpah"
-    },
-    "nl": {
-      "language_name": "dutch",
-      "name": "De Overvloed"
-    },
-    "it": {
-      "language_name": "italian",
-      "name": "L'Abbondanza"
-    },
-    "zh": {
-      "language_name": "chinese",
-      "name": "多福"
-    },
-    "bg": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "pt": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "ro": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "cs": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "fi": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "no": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "sr": {
-      "language_name": "english",
-      "name": "The Abundance"
-    },
-    "sv": {
-      "language_name": "swedish",
-      "name": "Det Goda I Överflöd"
-    },
-    "sq": {
-      "language_name": "english",
-      "name": "The Abundance"
-    }
-  }
+  ]
 }

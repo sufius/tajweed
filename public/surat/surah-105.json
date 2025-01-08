@@ -1,171 +1,135 @@
 {
+  "chapter_name_arabic": "الفيل",
+  "chapter_name_transcribed": "Al-Fīl",
+  "chapter_name_translated": {
+    "bg": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Slon"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "en": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "El Elefante"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "L'éléphant"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Gajah"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "L'Elefante"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Olifant"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Слон"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Elefanten"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Fîl"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "象"
+    }
+  },
+  "chapter_number": 105,
+  "chapter_transliterated": "Al-Fil",
+  "number_of_ayahs": 5,
+  "pages": [
+    601,
+    601
+  ],
+  "revelation_order": 19,
+  "revelation_place": "makkah",
   "verses": [
     {
-      "id": 6189,
-      "verse_number": 1,
-      "verse_key": "105:1",
       "hizb_number": 60,
+      "id": 6189,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 601,
       "rub_el_hizb_number": 240,
       "ruku_number": 549,
-      "manzil_number": 7,
       "sajdah_number": null,
       "text_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
-      "page_number": 601,
-      "juz_number": 30,
-      "words": [
-        {
-          "id": 137,
-          "position": 1,
-          "audio_url": "wbw/105_001_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮍ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮍ",
-          "translation": {
-            "text": "Have not",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "alam",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَلَمْ"
-        },
-        {
-          "id": 138,
-          "position": 2,
-          "audio_url": "wbw/105_001_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮎ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮎ",
-          "translation": {
-            "text": "you seen",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "tara",
-            "language_name": "english"
-          },
-          "text_uthmani": "تَرَ"
-        },
-        {
-          "id": 139,
-          "position": 3,
-          "audio_url": "wbw/105_001_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮏ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮏ",
-          "translation": {
-            "text": "how",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "kayfa",
-            "language_name": "english"
-          },
-          "text_uthmani": "كَيْفَ"
-        },
-        {
-          "id": 140,
-          "position": 4,
-          "audio_url": "wbw/105_001_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮐ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮐ",
-          "translation": {
-            "text": "dealt",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "faʿala",
-            "language_name": "english"
-          },
-          "text_uthmani": "فَعَلَ"
-        },
-        {
-          "id": 141,
-          "position": 5,
-          "audio_url": "wbw/105_001_005.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮑ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮑ",
-          "translation": {
-            "text": "your Lord",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "rabbuka",
-            "language_name": "english"
-          },
-          "text_uthmani": "رَبُّكَ"
-        },
-        {
-          "id": 142,
-          "position": 6,
-          "audio_url": "wbw/105_001_006.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮒ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮒ",
-          "translation": {
-            "text": "with (the) Companions",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "bi-aṣḥābi",
-            "language_name": "english"
-          },
-          "text_uthmani": "بِأَصْحَـٰبِ"
-        },
-        {
-          "id": 143,
-          "position": 7,
-          "audio_url": "wbw/105_001_007.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮓ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮓ",
-          "translation": {
-            "text": "(of the) Elephant",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "l-fīli",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلْفِيلِ"
-        },
-        {
-          "id": 144,
-          "position": 8,
-          "audio_url": null,
-          "char_type_name": "end",
-          "code_v1": "ﮔ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮔ",
-          "translation": {
-            "text": "(1)",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "١"
-        }
-      ],
+      "text_uthmani_tajweed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ[n[ـٰ]بِ [h:14643[ٱ]لْف[p[ِي]لِ",
+      "text_uthmani_tajweed_parsed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14643\">ٱ</tajweed>لْف<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لِ",
+      "text_uthmani_transcribed": "Alam tara kaifa fa'ala rabbuka bi'aṣḥābil-fīl(i).",
       "translations": [
         {
           "id": 90030,
@@ -188,138 +152,176 @@
           "text": "Siehst du nicht, wie dein Herr mit den Leuten des Elefanten verfuhr?"
         }
       ],
-      "text_uthmani_tajweed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ[n[ـٰ]بِ [h:14643[ٱ]لْف[p[ِي]لِ",
-      "text_uthmani_tajweed_parsed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>بِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14643\">ٱ</tajweed>لْف<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لِ",
-      "text_uthmani_transcribed": "Alam tara kaifa fa'ala rabbuka bi'aṣḥābil-fīl(i)."
-    },
-    {
-      "id": 6190,
-      "verse_number": 2,
-      "verse_key": "105:2",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 549,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
-      "page_number": 601,
-      "juz_number": 30,
+      "verse_key": "105:1",
+      "verse_number": 1,
       "words": [
         {
-          "id": 1019,
+          "audio_url": "wbw/105_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮍ",
+          "id": 137,
+          "line_number": 13,
+          "page_number": 601,
           "position": 1,
-          "audio_url": "wbw/105_002_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮕ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮕ",
+          "text": "ﮍ",
+          "text_uthmani": "أَلَمْ",
           "translation": {
-            "text": "Did not",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Have not"
           },
           "transliteration": {
-            "text": "alam",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَلَمْ"
+            "language_name": "english",
+            "text": "alam"
+          }
         },
         {
-          "id": 1020,
+          "audio_url": "wbw/105_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮎ",
+          "id": 138,
+          "line_number": 13,
+          "page_number": 601,
           "position": 2,
-          "audio_url": "wbw/105_002_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮖ",
-          "page_number": 601,
-          "line_number": 13,
-          "text": "ﮖ",
+          "text": "ﮎ",
+          "text_uthmani": "تَرَ",
           "translation": {
-            "text": "He make",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "you seen"
           },
           "transliteration": {
-            "text": "yajʿal",
-            "language_name": "english"
-          },
-          "text_uthmani": "يَجْعَلْ"
+            "language_name": "english",
+            "text": "tara"
+          }
         },
         {
-          "id": 1021,
+          "audio_url": "wbw/105_001_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮏ",
+          "id": 139,
+          "line_number": 13,
+          "page_number": 601,
           "position": 3,
-          "audio_url": "wbw/105_002_003.mp3",
+          "text": "ﮏ",
+          "text_uthmani": "كَيْفَ",
+          "translation": {
+            "language_name": "english",
+            "text": "how"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "kayfa"
+          }
+        },
+        {
+          "audio_url": "wbw/105_001_004.mp3",
           "char_type_name": "word",
-          "code_v1": "ﮗ",
-          "page_number": 601,
+          "code_v1": "ﮐ",
+          "id": 140,
           "line_number": 13,
-          "text": "ﮗ",
-          "translation": {
-            "text": "their plan",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "kaydahum",
-            "language_name": "english"
-          },
-          "text_uthmani": "كَيْدَهُمْ"
-        },
-        {
-          "id": 1022,
+          "page_number": 601,
           "position": 4,
-          "audio_url": "wbw/105_002_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮘ",
-          "page_number": 601,
-          "line_number": 14,
-          "text": "ﮘ",
+          "text": "ﮐ",
+          "text_uthmani": "فَعَلَ",
           "translation": {
-            "text": "go",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "dealt"
           },
           "transliteration": {
-            "text": "fī",
-            "language_name": "english"
-          },
-          "text_uthmani": "فِى"
+            "language_name": "english",
+            "text": "faʿala"
+          }
         },
         {
-          "id": 1023,
+          "audio_url": "wbw/105_001_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮑ",
+          "id": 141,
+          "line_number": 13,
+          "page_number": 601,
           "position": 5,
-          "audio_url": "wbw/105_002_005.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮙ",
-          "page_number": 601,
-          "line_number": 14,
-          "text": "ﮙ",
+          "text": "ﮑ",
+          "text_uthmani": "رَبُّكَ",
           "translation": {
-            "text": "astray",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "your Lord"
           },
           "transliteration": {
-            "text": "taḍlīlin",
-            "language_name": "english"
-          },
-          "text_uthmani": "تَضْلِيلٍۢ"
+            "language_name": "english",
+            "text": "rabbuka"
+          }
         },
         {
-          "id": 1024,
+          "audio_url": "wbw/105_001_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮒ",
+          "id": 142,
+          "line_number": 13,
+          "page_number": 601,
           "position": 6,
+          "text": "ﮒ",
+          "text_uthmani": "بِأَصْحَـٰبِ",
+          "translation": {
+            "language_name": "english",
+            "text": "with (the) Companions"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "bi-aṣḥābi"
+          }
+        },
+        {
+          "audio_url": "wbw/105_001_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮓ",
+          "id": 143,
+          "line_number": 13,
+          "page_number": 601,
+          "position": 7,
+          "text": "ﮓ",
+          "text_uthmani": "ٱلْفِيلِ",
+          "translation": {
+            "language_name": "english",
+            "text": "(of the) Elephant"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "l-fīli"
+          }
+        },
+        {
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﮚ",
+          "code_v1": "ﮔ",
+          "id": 144,
+          "line_number": 13,
           "page_number": 601,
-          "line_number": 14,
-          "text": "ﮚ",
+          "position": 8,
+          "text": "ﮔ",
+          "text_uthmani": "١",
           "translation": {
-            "text": "(2)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(1)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٢"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6190,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 601,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "text_uthmani_tajweed": "أَلَمْ يَ[q:4397[جْ]عَلْ كَيْدَهُمْ فِى تَضْل[p[ِي]لٍ",
+      "text_uthmani_tajweed_parsed": "أَلَمْ يَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":4397\">جْ</tajweed>عَلْ كَيْدَهُمْ فِى تَضْل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لٍ",
+      "text_uthmani_transcribed": "Alam yaj'al kaidahum fī taḍlīl(in).",
       "translations": [
         {
           "id": 90032,
@@ -342,119 +344,138 @@
           "text": "Ließ Er nicht ihre List verlorengehen"
         }
       ],
-      "text_uthmani_tajweed": "أَلَمْ يَ[q:4397[جْ]عَلْ كَيْدَهُمْ فِى تَضْل[p[ِي]لٍ",
-      "text_uthmani_tajweed_parsed": "أَلَمْ يَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":4397\">جْ</tajweed>عَلْ كَيْدَهُمْ فِى تَضْل<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لٍ",
-      "text_uthmani_transcribed": "Alam yaj'al kaidahum fī taḍlīl(in)."
-    },
-    {
-      "id": 6191,
-      "verse_number": 3,
-      "verse_key": "105:3",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 549,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
-      "page_number": 601,
-      "juz_number": 30,
+      "verse_key": "105:2",
+      "verse_number": 2,
       "words": [
         {
-          "id": 2361,
+          "audio_url": "wbw/105_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮕ",
+          "id": 1019,
+          "line_number": 13,
+          "page_number": 601,
           "position": 1,
-          "audio_url": "wbw/105_003_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮛ",
-          "page_number": 601,
-          "line_number": 14,
-          "text": "ﮛ",
+          "text": "ﮕ",
+          "text_uthmani": "أَلَمْ",
           "translation": {
-            "text": "And He sent",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Did not"
           },
           "transliteration": {
-            "text": "wa-arsala",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَأَرْسَلَ"
+            "language_name": "english",
+            "text": "alam"
+          }
         },
         {
-          "id": 2362,
+          "audio_url": "wbw/105_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮖ",
+          "id": 1020,
+          "line_number": 13,
+          "page_number": 601,
           "position": 2,
-          "audio_url": "wbw/105_003_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮜ",
-          "page_number": 601,
-          "line_number": 14,
-          "text": "ﮜ",
+          "text": "ﮖ",
+          "text_uthmani": "يَجْعَلْ",
           "translation": {
-            "text": "against them",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "He make"
           },
           "transliteration": {
-            "text": "ʿalayhim",
-            "language_name": "english"
-          },
-          "text_uthmani": "عَلَيْهِمْ"
+            "language_name": "english",
+            "text": "yajʿal"
+          }
         },
         {
-          "id": 2363,
+          "audio_url": "wbw/105_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮗ",
+          "id": 1021,
+          "line_number": 13,
+          "page_number": 601,
           "position": 3,
-          "audio_url": "wbw/105_003_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮝ",
-          "page_number": 601,
-          "line_number": 14,
-          "text": "ﮝ",
+          "text": "ﮗ",
+          "text_uthmani": "كَيْدَهُمْ",
           "translation": {
-            "text": "birds",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "their plan"
           },
           "transliteration": {
-            "text": "ṭayran",
-            "language_name": "english"
-          },
-          "text_uthmani": "طَيْرًا"
+            "language_name": "english",
+            "text": "kaydahum"
+          }
         },
         {
-          "id": 2364,
+          "audio_url": "wbw/105_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮘ",
+          "id": 1022,
+          "line_number": 14,
+          "page_number": 601,
           "position": 4,
-          "audio_url": "wbw/105_003_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮞ",
-          "page_number": 601,
-          "line_number": 14,
-          "text": "ﮞ",
+          "text": "ﮘ",
+          "text_uthmani": "فِى",
           "translation": {
-            "text": "(in) flocks",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "go"
           },
           "transliteration": {
-            "text": "abābīla",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَبَابِيلَ"
+            "language_name": "english",
+            "text": "fī"
+          }
         },
         {
-          "id": 2365,
+          "audio_url": "wbw/105_002_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮙ",
+          "id": 1023,
+          "line_number": 14,
+          "page_number": 601,
           "position": 5,
+          "text": "ﮙ",
+          "text_uthmani": "تَضْلِيلٍۢ",
+          "translation": {
+            "language_name": "english",
+            "text": "astray"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "taḍlīlin"
+          }
+        },
+        {
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﮟ",
-          "page_number": 601,
+          "code_v1": "ﮚ",
+          "id": 1024,
           "line_number": 14,
-          "text": "ﮟ",
+          "page_number": 601,
+          "position": 6,
+          "text": "ﮚ",
+          "text_uthmani": "٢",
           "translation": {
-            "text": "(3)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(2)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٣"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6191,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 601,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_uthmani_tajweed": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب[p[ِي]لَ",
+      "text_uthmani_tajweed_parsed": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لَ",
+      "text_uthmani_transcribed": "Wa arsala 'alaihim ṭairan abābīl(a).",
       "translations": [
         {
           "id": 90034,
@@ -477,119 +498,119 @@
           "text": "und sandte gegen sie Vögel in aufeinanderfolgenden Schwärmen,"
         }
       ],
-      "text_uthmani_tajweed": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب[p[ِي]لَ",
-      "text_uthmani_tajweed_parsed": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لَ",
-      "text_uthmani_transcribed": "Wa arsala 'alaihim ṭairan abābīl(a)."
-    },
-    {
-      "id": 6192,
-      "verse_number": 4,
-      "verse_key": "105:4",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 549,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
-      "page_number": 601,
-      "juz_number": 30,
+      "verse_key": "105:3",
+      "verse_number": 3,
       "words": [
         {
-          "id": 3867,
-          "position": 1,
-          "audio_url": "wbw/105_004_001.mp3",
+          "audio_url": "wbw/105_003_001.mp3",
           "char_type_name": "word",
-          "code_v1": "ﮠ",
-          "page_number": 601,
+          "code_v1": "ﮛ",
+          "id": 2361,
           "line_number": 14,
-          "text": "ﮠ",
+          "page_number": 601,
+          "position": 1,
+          "text": "ﮛ",
+          "text_uthmani": "وَأَرْسَلَ",
           "translation": {
-            "text": "Striking them",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "And He sent"
           },
           "transliteration": {
-            "text": "tarmīhim",
-            "language_name": "english"
-          },
-          "text_uthmani": "تَرْمِيهِم"
+            "language_name": "english",
+            "text": "wa-arsala"
+          }
         },
         {
-          "id": 3868,
+          "audio_url": "wbw/105_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮜ",
+          "id": 2362,
+          "line_number": 14,
+          "page_number": 601,
           "position": 2,
-          "audio_url": "wbw/105_004_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮡ",
-          "page_number": 601,
-          "line_number": 15,
-          "text": "ﮡ",
+          "text": "ﮜ",
+          "text_uthmani": "عَلَيْهِمْ",
           "translation": {
-            "text": "with stones",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "against them"
           },
           "transliteration": {
-            "text": "biḥijāratin",
-            "language_name": "english"
-          },
-          "text_uthmani": "بِحِجَارَةٍۢ"
+            "language_name": "english",
+            "text": "ʿalayhim"
+          }
         },
         {
-          "id": 3869,
+          "audio_url": "wbw/105_003_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮝ",
+          "id": 2363,
+          "line_number": 14,
+          "page_number": 601,
           "position": 3,
-          "audio_url": "wbw/105_004_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮢ",
-          "page_number": 601,
-          "line_number": 15,
-          "text": "ﮢ",
+          "text": "ﮝ",
+          "text_uthmani": "طَيْرًا",
           "translation": {
-            "text": "of",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "birds"
           },
           "transliteration": {
-            "text": "min",
-            "language_name": "english"
-          },
-          "text_uthmani": "مِّن"
+            "language_name": "english",
+            "text": "ṭayran"
+          }
         },
         {
-          "id": 3870,
+          "audio_url": "wbw/105_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮞ",
+          "id": 2364,
+          "line_number": 14,
+          "page_number": 601,
           "position": 4,
-          "audio_url": "wbw/105_004_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮣ",
-          "page_number": 601,
-          "line_number": 15,
-          "text": "ﮣ",
+          "text": "ﮞ",
+          "text_uthmani": "أَبَابِيلَ",
           "translation": {
-            "text": "baked clay",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(in) flocks"
           },
           "transliteration": {
-            "text": "sijjīlin",
-            "language_name": "english"
-          },
-          "text_uthmani": "سِجِّيلٍۢ"
+            "language_name": "english",
+            "text": "abābīla"
+          }
         },
         {
-          "id": 3871,
-          "position": 5,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﮤ",
+          "code_v1": "ﮟ",
+          "id": 2365,
+          "line_number": 14,
           "page_number": 601,
-          "line_number": 15,
-          "text": "ﮤ",
+          "position": 5,
+          "text": "ﮟ",
+          "text_uthmani": "٣",
           "translation": {
-            "text": "(4)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(3)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٤"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6192,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 601,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "sajdah_number": null,
+      "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "text_uthmani_tajweed": "تَرْمِيه[c:14644[ِم ب]ِحِجَارَ[a:14645[ةٍ م]ِّ[f:6445[ن س]ِجّ[p[ِي]لٍ",
+      "text_uthmani_tajweed_parsed": "تَرْمِيه<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":14644\">ِم ب</tajweed>ِحِجَارَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14645\">ةٍ م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":6445\">ن س</tajweed>ِجّ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لٍ",
+      "text_uthmani_transcribed": "Tarmīhim biḥijāratim min sijjīl(in).",
       "translations": [
         {
           "id": 90036,
@@ -612,100 +633,119 @@
           "text": "die sie mit Steinen aus gebranntem Lehm bewarfen,"
         }
       ],
-      "text_uthmani_tajweed": "تَرْمِيه[c:14644[ِم ب]ِحِجَارَ[a:14645[ةٍ م]ِّ[f:6445[ن س]ِجّ[p[ِي]لٍ",
-      "text_uthmani_tajweed_parsed": "تَرْمِيه<tajweed class=\"ikhf_shfw\" data-type=\"ikhafa-shafawi\" data-description=\"Ikhafa' Shafawi - With Meem\" data-tajweed=\":14644\">ِم ب</tajweed>ِحِجَارَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14645\">ةٍ م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":6445\">ن س</tajweed>ِجّ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ِي</tajweed>لٍ",
-      "text_uthmani_transcribed": "Tarmīhim biḥijāratim min sijjīl(in)."
-    },
-    {
-      "id": 6193,
-      "verse_number": 5,
-      "verse_key": "105:5",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 549,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
-      "page_number": 601,
-      "juz_number": 30,
+      "verse_key": "105:4",
+      "verse_number": 4,
       "words": [
         {
-          "id": 5092,
+          "audio_url": "wbw/105_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮠ",
+          "id": 3867,
+          "line_number": 14,
+          "page_number": 601,
           "position": 1,
-          "audio_url": "wbw/105_005_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮥ",
-          "page_number": 601,
-          "line_number": 15,
-          "text": "ﮥ",
+          "text": "ﮠ",
+          "text_uthmani": "تَرْمِيهِم",
           "translation": {
-            "text": "Then He made them",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Striking them"
           },
           "transliteration": {
-            "text": "fajaʿalahum",
-            "language_name": "english"
-          },
-          "text_uthmani": "فَجَعَلَهُمْ"
+            "language_name": "english",
+            "text": "tarmīhim"
+          }
         },
         {
-          "id": 5093,
+          "audio_url": "wbw/105_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮡ",
+          "id": 3868,
+          "line_number": 15,
+          "page_number": 601,
           "position": 2,
-          "audio_url": "wbw/105_005_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮦ",
-          "page_number": 601,
-          "line_number": 15,
-          "text": "ﮦ",
+          "text": "ﮡ",
+          "text_uthmani": "بِحِجَارَةٍۢ",
           "translation": {
-            "text": "like straw",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "with stones"
           },
           "transliteration": {
-            "text": "kaʿaṣfin",
-            "language_name": "english"
-          },
-          "text_uthmani": "كَعَصْفٍۢ"
+            "language_name": "english",
+            "text": "biḥijāratin"
+          }
         },
         {
-          "id": 5094,
+          "audio_url": "wbw/105_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮢ",
+          "id": 3869,
+          "line_number": 15,
+          "page_number": 601,
           "position": 3,
-          "audio_url": "wbw/105_005_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﮧ",
-          "page_number": 601,
-          "line_number": 15,
-          "text": "ﮧ",
+          "text": "ﮢ",
+          "text_uthmani": "مِّن",
           "translation": {
-            "text": "eaten up",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "of"
           },
           "transliteration": {
-            "text": "makūlin",
-            "language_name": "english"
-          },
-          "text_uthmani": "مَّأْكُولٍۭ"
+            "language_name": "english",
+            "text": "min"
+          }
         },
         {
-          "id": 5095,
+          "audio_url": "wbw/105_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮣ",
+          "id": 3870,
+          "line_number": 15,
+          "page_number": 601,
           "position": 4,
+          "text": "ﮣ",
+          "text_uthmani": "سِجِّيلٍۢ",
+          "translation": {
+            "language_name": "english",
+            "text": "baked clay"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "sijjīlin"
+          }
+        },
+        {
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﮨ",
-          "page_number": 601,
+          "code_v1": "ﮤ",
+          "id": 3871,
           "line_number": 15,
-          "text": "ﮨ",
+          "page_number": 601,
+          "position": 5,
+          "text": "ﮤ",
+          "text_uthmani": "٤",
           "translation": {
-            "text": "(5)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(4)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٥"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6193,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 601,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "text_uthmani_tajweed": "فَجَعَلَهُمْ كَعَصْ[a:14646[فٍ م]َّأْك[p[ُو]لِۭ",
+      "text_uthmani_tajweed_parsed": "فَجَعَلَهُمْ كَعَصْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14646\">فٍ م</tajweed>َّأْك<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>لِۭ",
+      "text_uthmani_transcribed": "Fa ja'alahum ka'aṣfim ma'kūl(in).",
       "translations": [
         {
           "id": 90038,
@@ -728,126 +768,86 @@
           "text": "und sie so wie abgefressene Halme machte?"
         }
       ],
-      "text_uthmani_tajweed": "فَجَعَلَهُمْ كَعَصْ[a:14646[فٍ م]َّأْك[p[ُو]لِۭ",
-      "text_uthmani_tajweed_parsed": "فَجَعَلَهُمْ كَعَصْ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14646\">فٍ م</tajweed>َّأْك<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">ُو</tajweed>لِۭ",
-      "text_uthmani_transcribed": "Fa ja'alahum ka'aṣfim ma'kūl(in)."
+      "verse_key": "105:5",
+      "verse_number": 5,
+      "words": [
+        {
+          "audio_url": "wbw/105_005_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮥ",
+          "id": 5092,
+          "line_number": 15,
+          "page_number": 601,
+          "position": 1,
+          "text": "ﮥ",
+          "text_uthmani": "فَجَعَلَهُمْ",
+          "translation": {
+            "language_name": "english",
+            "text": "Then He made them"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "fajaʿalahum"
+          }
+        },
+        {
+          "audio_url": "wbw/105_005_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮦ",
+          "id": 5093,
+          "line_number": 15,
+          "page_number": 601,
+          "position": 2,
+          "text": "ﮦ",
+          "text_uthmani": "كَعَصْفٍۢ",
+          "translation": {
+            "language_name": "english",
+            "text": "like straw"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "kaʿaṣfin"
+          }
+        },
+        {
+          "audio_url": "wbw/105_005_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﮧ",
+          "id": 5094,
+          "line_number": 15,
+          "page_number": 601,
+          "position": 3,
+          "text": "ﮧ",
+          "text_uthmani": "مَّأْكُولٍۭ",
+          "translation": {
+            "language_name": "english",
+            "text": "eaten up"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "makūlin"
+          }
+        },
+        {
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﮨ",
+          "id": 5095,
+          "line_number": 15,
+          "page_number": 601,
+          "position": 4,
+          "text": "ﮨ",
+          "text_uthmani": "٥",
+          "translation": {
+            "language_name": "english",
+            "text": "(5)"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": null
+          }
+        }
+      ]
     }
-  ],
-  "pages": [
-    601,
-    601
-  ],
-  "chapter_number": 105,
-  "revelation_order": 19,
-  "revelation_place": "makkah",
-  "chapter_transliterated": "Al-Fil",
-  "number_of_ayahs": 5,
-  "chapter_name_arabic": "الفيل",
-  "chapter_name_transcribed": "Al-Fīl",
-  "chapter_name_translated": {
-    "en": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "ru": {
-      "language_name": "russian",
-      "name": "Слон"
-    },
-    "de": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "tr": {
-      "language_name": "turkish",
-      "name": "Fîl"
-    },
-    "ce": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "he": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "pl": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "tt": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "ug": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "uk": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "es": {
-      "language_name": "spanish",
-      "name": "El Elefante"
-    },
-    "fr": {
-      "language_name": "french",
-      "name": "L'éléphant"
-    },
-    "bs": {
-      "language_name": "bosnian",
-      "name": "Slon"
-    },
-    "id": {
-      "language_name": "indonesian",
-      "name": "Gajah"
-    },
-    "nl": {
-      "language_name": "dutch",
-      "name": "De Olifant"
-    },
-    "it": {
-      "language_name": "italian",
-      "name": "L'Elefante"
-    },
-    "zh": {
-      "language_name": "chinese",
-      "name": "象"
-    },
-    "bg": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "pt": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "ro": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "cs": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "fi": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "no": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "sr": {
-      "language_name": "english",
-      "name": "The Elephant"
-    },
-    "sv": {
-      "language_name": "swedish",
-      "name": "Elefanten"
-    },
-    "sq": {
-      "language_name": "english",
-      "name": "The Elephant"
-    }
-  }
+  ]
 }

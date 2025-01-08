@@ -1,76 +1,135 @@
 {
+  "chapter_name_arabic": "قريش",
+  "chapter_name_transcribed": "Quraysh",
+  "chapter_name_translated": {
+    "bg": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "bs": {
+      "language_name": "bosnian",
+      "name": "Kurejšije"
+    },
+    "ce": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "cs": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "de": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "en": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "es": {
+      "language_name": "spanish",
+      "name": "Los Quraysh"
+    },
+    "fi": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "fr": {
+      "language_name": "french",
+      "name": "Les Quraysh"
+    },
+    "he": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "id": {
+      "language_name": "indonesian",
+      "name": "Suku Quraisy"
+    },
+    "it": {
+      "language_name": "italian",
+      "name": "I Coreisciti"
+    },
+    "nl": {
+      "language_name": "dutch",
+      "name": "De Quraysh"
+    },
+    "no": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "pl": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "pt": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "ro": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "ru": {
+      "language_name": "russian",
+      "name": "Курейшиты"
+    },
+    "sq": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "sr": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "sv": {
+      "language_name": "swedish",
+      "name": "Quraysh"
+    },
+    "tr": {
+      "language_name": "turkish",
+      "name": "Kureyş"
+    },
+    "tt": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "ug": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "uk": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "zh": {
+      "language_name": "chinese",
+      "name": "古来氏"
+    }
+  },
+  "chapter_number": 106,
+  "chapter_transliterated": "Quraysh",
+  "number_of_ayahs": 4,
+  "pages": [
+    602,
+    602
+  ],
+  "revelation_order": 29,
+  "revelation_place": "makkah",
   "verses": [
     {
-      "id": 6194,
-      "verse_number": 1,
-      "verse_key": "106:1",
       "hizb_number": 60,
+      "id": 6194,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
       "rub_el_hizb_number": 240,
       "ruku_number": 550,
-      "manzil_number": 7,
       "sajdah_number": null,
       "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
-      "page_number": 602,
-      "juz_number": 30,
-      "words": [
-        {
-          "id": 266,
-          "position": 1,
-          "audio_url": "wbw/106_001_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭑ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭑ",
-          "translation": {
-            "text": "For (the) familiarity",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "liīlāfi",
-            "language_name": "english"
-          },
-          "text_uthmani": "لِإِيلَـٰفِ"
-        },
-        {
-          "id": 267,
-          "position": 2,
-          "audio_url": "wbw/106_001_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭒ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭒ",
-          "translation": {
-            "text": "(of the) Quraish",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "qurayshin",
-            "language_name": "english"
-          },
-          "text_uthmani": "قُرَيْشٍ"
-        },
-        {
-          "id": 268,
-          "position": 3,
-          "audio_url": null,
-          "char_type_name": "end",
-          "code_v1": "ﭓ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭓ",
-          "translation": {
-            "text": "(1)",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "١"
-        }
-      ],
+      "text_uthmani_tajweed": "لِإِيلَ[n[ـٰ]فِ قُر[p[َي]ْشٍ",
+      "text_uthmani_tajweed_parsed": "لِإِيلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِ قُر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َي</tajweed>ْشٍ",
+      "text_uthmani_transcribed": "Li'īlāfi quraisy(in).",
       "translations": [
         {
           "id": 90046,
@@ -93,119 +152,81 @@
           "text": "Für die Vereinigung der Qurais"
         }
       ],
-      "text_uthmani_tajweed": "لِإِيلَ[n[ـٰ]فِ قُر[p[َي]ْشٍ",
-      "text_uthmani_tajweed_parsed": "لِإِيلَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِ قُر<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َي</tajweed>ْشٍ",
-      "text_uthmani_transcribed": "Li'īlāfi quraisy(in)."
-    },
-    {
-      "id": 6195,
-      "verse_number": 2,
-      "verse_key": "106:2",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 550,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
-      "page_number": 602,
-      "juz_number": 30,
+      "verse_key": "106:1",
+      "verse_number": 1,
       "words": [
         {
-          "id": 961,
+          "audio_url": "wbw/106_001_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭑ",
+          "id": 266,
+          "line_number": 3,
+          "page_number": 602,
           "position": 1,
-          "audio_url": "wbw/106_002_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭔ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭔ",
+          "text": "ﭑ",
+          "text_uthmani": "لِإِيلَـٰفِ",
           "translation": {
-            "text": "Their familiarity",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "For (the) familiarity"
           },
           "transliteration": {
-            "text": "īlāfihim",
-            "language_name": "english"
-          },
-          "text_uthmani": "إِۦلَـٰفِهِمْ"
+            "language_name": "english",
+            "text": "liīlāfi"
+          }
         },
         {
-          "id": 962,
+          "audio_url": "wbw/106_001_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭒ",
+          "id": 267,
+          "line_number": 3,
+          "page_number": 602,
           "position": 2,
-          "audio_url": "wbw/106_002_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭕ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭕ",
+          "text": "ﭒ",
+          "text_uthmani": "قُرَيْشٍ",
           "translation": {
-            "text": "(with the) journey",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(of the) Quraish"
           },
           "transliteration": {
-            "text": "riḥ'lata",
-            "language_name": "english"
-          },
-          "text_uthmani": "رِحْلَةَ"
+            "language_name": "english",
+            "text": "qurayshin"
+          }
         },
         {
-          "id": 963,
-          "position": 3,
-          "audio_url": "wbw/106_002_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭖ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭖ",
-          "translation": {
-            "text": "(of) winter",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "l-shitāi",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلشِّتَآءِ"
-        },
-        {
-          "id": 964,
-          "position": 4,
-          "audio_url": "wbw/106_002_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭗ",
-          "page_number": 602,
-          "line_number": 3,
-          "text": "ﭗ",
-          "translation": {
-            "text": "and summer",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "wal-ṣayfi",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَٱلصَّيْفِ"
-        },
-        {
-          "id": 965,
-          "position": 5,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭘ",
+          "code_v1": "ﭓ",
+          "id": 268,
+          "line_number": 3,
           "page_number": 602,
-          "line_number": 4,
-          "text": "ﭘ",
+          "position": 3,
+          "text": "ﭓ",
+          "text_uthmani": "١",
           "translation": {
-            "text": "(2)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(1)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٢"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6195,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "sajdah_number": null,
+      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "text_uthmani_tajweed": "إ[n[ِۦ]لَ[n[ـٰ]فِهِمْ رِحْلَةَ [h:14647[ٱ][l[ل]شِّت[o[َا]ٓءِ وَ[h:14648[ٱ][l[ل]صّ[p[َي]ْفِ",
+      "text_uthmani_tajweed_parsed": "إ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed>لَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِهِمْ رِحْلَةَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14647\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>شِّت<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14648\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صّ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َي</tajweed>ْفِ",
+      "text_uthmani_transcribed": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
       "translations": [
         {
           "id": 90048,
@@ -228,119 +249,119 @@
           "text": "ihre Vereinigung während der Reise des Winters und des Sommers."
         }
       ],
-      "text_uthmani_tajweed": "إ[n[ِۦ]لَ[n[ـٰ]فِهِمْ رِحْلَةَ [h:14647[ٱ][l[ل]شِّت[o[َا]ٓءِ وَ[h:14648[ٱ][l[ل]صّ[p[َي]ْفِ",
-      "text_uthmani_tajweed_parsed": "إ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ِۦ</tajweed>لَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>فِهِمْ رِحْلَةَ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14647\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>شِّت<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َا</tajweed>ٓءِ وَ<tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14648\">ٱ</tajweed><tajweed class=\"slnt\" data-type=\"laam-shamsiyah\" data-description=\"Lam Shamsiyyah\" data-tajweed=\"\">ل</tajweed>صّ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َي</tajweed>ْفِ",
-      "text_uthmani_transcribed": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i)."
-    },
-    {
-      "id": 6196,
-      "verse_number": 3,
-      "verse_key": "106:3",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 550,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
-      "page_number": 602,
-      "juz_number": 30,
+      "verse_key": "106:2",
+      "verse_number": 2,
       "words": [
         {
-          "id": 2411,
+          "audio_url": "wbw/106_002_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭔ",
+          "id": 961,
+          "line_number": 3,
+          "page_number": 602,
           "position": 1,
-          "audio_url": "wbw/106_003_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭙ",
-          "page_number": 602,
-          "line_number": 4,
-          "text": "ﭙ",
+          "text": "ﭔ",
+          "text_uthmani": "إِۦلَـٰفِهِمْ",
           "translation": {
-            "text": "So let them worship",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "Their familiarity"
           },
           "transliteration": {
-            "text": "falyaʿbudū",
-            "language_name": "english"
-          },
-          "text_uthmani": "فَلْيَعْبُدُوا۟"
+            "language_name": "english",
+            "text": "īlāfihim"
+          }
         },
         {
-          "id": 2412,
+          "audio_url": "wbw/106_002_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭕ",
+          "id": 962,
+          "line_number": 3,
+          "page_number": 602,
           "position": 2,
-          "audio_url": "wbw/106_003_002.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭚ",
-          "page_number": 602,
-          "line_number": 4,
-          "text": "ﭚ",
+          "text": "ﭕ",
+          "text_uthmani": "رِحْلَةَ",
           "translation": {
-            "text": "(the) Lord",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(with the) journey"
           },
           "transliteration": {
-            "text": "rabba",
-            "language_name": "english"
-          },
-          "text_uthmani": "رَبَّ"
+            "language_name": "english",
+            "text": "riḥ'lata"
+          }
         },
         {
-          "id": 2413,
+          "audio_url": "wbw/106_002_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭖ",
+          "id": 963,
+          "line_number": 3,
+          "page_number": 602,
           "position": 3,
-          "audio_url": "wbw/106_003_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭛ",
-          "page_number": 602,
-          "line_number": 4,
-          "text": "ﭛ",
+          "text": "ﭖ",
+          "text_uthmani": "ٱلشِّتَآءِ",
           "translation": {
-            "text": "(of) this",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(of) winter"
           },
           "transliteration": {
-            "text": "hādhā",
-            "language_name": "english"
-          },
-          "text_uthmani": "هَـٰذَا"
+            "language_name": "english",
+            "text": "l-shitāi"
+          }
         },
         {
-          "id": 2414,
+          "audio_url": "wbw/106_002_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭗ",
+          "id": 964,
+          "line_number": 3,
+          "page_number": 602,
           "position": 4,
-          "audio_url": "wbw/106_003_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭜ",
-          "page_number": 602,
-          "line_number": 4,
-          "text": "ﭜ",
+          "text": "ﭗ",
+          "text_uthmani": "وَٱلصَّيْفِ",
           "translation": {
-            "text": "House",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "and summer"
           },
           "transliteration": {
-            "text": "l-bayti",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلْبَيْتِ"
+            "language_name": "english",
+            "text": "wal-ṣayfi"
+          }
         },
         {
-          "id": 2415,
-          "position": 5,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭝ",
-          "page_number": 602,
+          "code_v1": "ﭘ",
+          "id": 965,
           "line_number": 4,
-          "text": "ﭝ",
+          "page_number": 602,
+          "position": 5,
+          "text": "ﭘ",
+          "text_uthmani": "٢",
           "translation": {
-            "text": "(3)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(2)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٣"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6196,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "text_uthmani_tajweed": "فَلْيَعْبُدُو[s[اْ] رَبَّ هَ[n[ـٰ]ذَا [h:14649[ٱ]لْب[p[َي]ْتِ",
+      "text_uthmani_tajweed_parsed": "فَلْيَعْبُدُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> رَبَّ هَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14649\">ٱ</tajweed>لْب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َي</tajweed>ْتِ",
+      "text_uthmani_transcribed": "Falya'budū rabba hāżal-bait(i).",
       "translations": [
         {
           "id": 90050,
@@ -363,176 +384,119 @@
           "text": "So sollen sie dem Herrn dieses Hauses dienen,"
         }
       ],
-      "text_uthmani_tajweed": "فَلْيَعْبُدُو[s[اْ] رَبَّ هَ[n[ـٰ]ذَا [h:14649[ٱ]لْب[p[َي]ْتِ",
-      "text_uthmani_tajweed_parsed": "فَلْيَعْبُدُو<tajweed class=\"slnt\" data-type=\"silent\" data-description=\"Silent\" data-tajweed=\"\">اْ</tajweed> رَبَّ هَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ـٰ</tajweed>ذَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14649\">ٱ</tajweed>لْب<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َي</tajweed>ْتِ",
-      "text_uthmani_transcribed": "Falya'budū rabba hāżal-bait(i)."
-    },
-    {
-      "id": 6197,
-      "verse_number": 4,
-      "verse_key": "106:4",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 550,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
-      "page_number": 602,
-      "juz_number": 30,
+      "verse_key": "106:3",
+      "verse_number": 3,
       "words": [
         {
-          "id": 3906,
+          "audio_url": "wbw/106_003_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭙ",
+          "id": 2411,
+          "line_number": 4,
+          "page_number": 602,
           "position": 1,
-          "audio_url": "wbw/106_004_001.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭞ",
-          "page_number": 602,
-          "line_number": 4,
-          "text": "ﭞ",
+          "text": "ﭙ",
+          "text_uthmani": "فَلْيَعْبُدُوا۟",
           "translation": {
-            "text": "The One Who",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "So let them worship"
           },
           "transliteration": {
-            "text": "alladhī",
-            "language_name": "english"
-          },
-          "text_uthmani": "ٱلَّذِىٓ"
+            "language_name": "english",
+            "text": "falyaʿbudū"
+          }
         },
         {
-          "id": 3907,
+          "audio_url": "wbw/106_003_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭚ",
+          "id": 2412,
+          "line_number": 4,
+          "page_number": 602,
           "position": 2,
-          "audio_url": "wbw/106_004_002.mp3",
+          "text": "ﭚ",
+          "text_uthmani": "رَبَّ",
+          "translation": {
+            "language_name": "english",
+            "text": "(the) Lord"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "rabba"
+          }
+        },
+        {
+          "audio_url": "wbw/106_003_003.mp3",
           "char_type_name": "word",
-          "code_v1": "ﭟ",
-          "page_number": 602,
+          "code_v1": "ﭛ",
+          "id": 2413,
           "line_number": 4,
-          "text": "ﭟ",
-          "translation": {
-            "text": "feeds them",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "aṭʿamahum",
-            "language_name": "english"
-          },
-          "text_uthmani": "أَطْعَمَهُم"
-        },
-        {
-          "id": 3908,
+          "page_number": 602,
           "position": 3,
-          "audio_url": "wbw/106_004_003.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭠ",
-          "page_number": 602,
-          "line_number": 5,
-          "text": "ﭠ",
+          "text": "ﭛ",
+          "text_uthmani": "هَـٰذَا",
           "translation": {
-            "text": "[from]",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(of) this"
           },
           "transliteration": {
-            "text": "min",
-            "language_name": "english"
-          },
-          "text_uthmani": "مِّن"
+            "language_name": "english",
+            "text": "hādhā"
+          }
         },
         {
-          "id": 3909,
+          "audio_url": "wbw/106_003_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭜ",
+          "id": 2414,
+          "line_number": 4,
+          "page_number": 602,
           "position": 4,
-          "audio_url": "wbw/106_004_004.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭡ",
-          "page_number": 602,
-          "line_number": 5,
-          "text": "ﭡ",
+          "text": "ﭜ",
+          "text_uthmani": "ٱلْبَيْتِ",
           "translation": {
-            "text": "(against) hunger",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "House"
           },
           "transliteration": {
-            "text": "jūʿin",
-            "language_name": "english"
-          },
-          "text_uthmani": "جُوعٍۢ"
+            "language_name": "english",
+            "text": "l-bayti"
+          }
         },
         {
-          "id": 3910,
-          "position": 5,
-          "audio_url": "wbw/106_004_005.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭢ",
-          "page_number": 602,
-          "line_number": 5,
-          "text": "ﭢ",
-          "translation": {
-            "text": "and gives them security",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "waāmanahum",
-            "language_name": "english"
-          },
-          "text_uthmani": "وَءَامَنَهُم"
-        },
-        {
-          "id": 3911,
-          "position": 6,
-          "audio_url": "wbw/106_004_006.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭣ",
-          "page_number": 602,
-          "line_number": 5,
-          "text": "ﭣ",
-          "translation": {
-            "text": "from",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "min",
-            "language_name": "english"
-          },
-          "text_uthmani": "مِّنْ"
-        },
-        {
-          "id": 3912,
-          "position": 7,
-          "audio_url": "wbw/106_004_007.mp3",
-          "char_type_name": "word",
-          "code_v1": "ﭤ",
-          "page_number": 602,
-          "line_number": 5,
-          "text": "ﭤ",
-          "translation": {
-            "text": "fear",
-            "language_name": "english"
-          },
-          "transliteration": {
-            "text": "khawfin",
-            "language_name": "english"
-          },
-          "text_uthmani": "خَوْفٍۭ"
-        },
-        {
-          "id": 3913,
-          "position": 8,
           "audio_url": null,
           "char_type_name": "end",
-          "code_v1": "ﭥ",
+          "code_v1": "ﭝ",
+          "id": 2415,
+          "line_number": 4,
           "page_number": 602,
-          "line_number": 5,
-          "text": "ﭥ",
+          "position": 5,
+          "text": "ﭝ",
+          "text_uthmani": "٣",
           "translation": {
-            "text": "(4)",
-            "language_name": "english"
+            "language_name": "english",
+            "text": "(3)"
           },
           "transliteration": {
-            "text": null,
-            "language_name": "english"
-          },
-          "text_uthmani": "٤"
+            "language_name": "english",
+            "text": null
+          }
         }
-      ],
+      ]
+    },
+    {
+      "hizb_number": 60,
+      "id": 6197,
+      "juz_number": 30,
+      "manzil_number": 7,
+      "page_number": 602,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "text_uthmani_tajweed": "ٱلَّذ[o[ِىٓ] أَ[q:14650[طْ]عَمَه[w:14651[ُم م]ِّ[f:14454[ن ج]ُو[a:14652[عٍ و]َءَامَنَه[w:14653[ُم م]ِّنْ خ[p[َو]ْفِۭ",
+      "text_uthmani_tajweed_parsed": "ٱلَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14650\">طْ</tajweed>عَمَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14651\">ُم م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14454\">ن ج</tajweed>ُو<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14652\">عٍ و</tajweed>َءَامَنَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14653\">ُم م</tajweed>ِّنْ خ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َو</tajweed>ْفِۭ",
+      "text_uthmani_transcribed": "Allażī aṭ'amahum min jū'(in), wa āmanahum min khauf(in).",
       "translations": [
         {
           "id": 90052,
@@ -555,126 +519,162 @@
           "text": "Der ihnen Speise nach ihrem Hunger gegeben und ihnen Sicherheit nach ihrer Furcht gewährt hat."
         }
       ],
-      "text_uthmani_tajweed": "ٱلَّذ[o[ِىٓ] أَ[q:14650[طْ]عَمَه[w:14651[ُم م]ِّ[f:14454[ن ج]ُو[a:14652[عٍ و]َءَامَنَه[w:14653[ُم م]ِّنْ خ[p[َو]ْفِۭ",
-      "text_uthmani_tajweed_parsed": "ٱلَّذ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ِىٓ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":14650\">طْ</tajweed>عَمَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14651\">ُم م</tajweed>ِّ<tajweed class=\"ikhf\" data-type=\"ikhafa\" data-description=\"Ikhafa'\" data-tajweed=\":14454\">ن ج</tajweed>ُو<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14652\">عٍ و</tajweed>َءَامَنَه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14653\">ُم م</tajweed>ِّنْ خ<tajweed class=\"madda_permissible\" data-type=\"madda-permissible\" data-description=\"Permissible Prolongation: 2, 4, 6 Vowels\" data-tajweed=\"\">َو</tajweed>ْفِۭ",
-      "text_uthmani_transcribed": "Allażī aṭ'amahum min jū'(in), wa āmanahum min khauf(in)."
+      "verse_key": "106:4",
+      "verse_number": 4,
+      "words": [
+        {
+          "audio_url": "wbw/106_004_001.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭞ",
+          "id": 3906,
+          "line_number": 4,
+          "page_number": 602,
+          "position": 1,
+          "text": "ﭞ",
+          "text_uthmani": "ٱلَّذِىٓ",
+          "translation": {
+            "language_name": "english",
+            "text": "The One Who"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "alladhī"
+          }
+        },
+        {
+          "audio_url": "wbw/106_004_002.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭟ",
+          "id": 3907,
+          "line_number": 4,
+          "page_number": 602,
+          "position": 2,
+          "text": "ﭟ",
+          "text_uthmani": "أَطْعَمَهُم",
+          "translation": {
+            "language_name": "english",
+            "text": "feeds them"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "aṭʿamahum"
+          }
+        },
+        {
+          "audio_url": "wbw/106_004_003.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭠ",
+          "id": 3908,
+          "line_number": 5,
+          "page_number": 602,
+          "position": 3,
+          "text": "ﭠ",
+          "text_uthmani": "مِّن",
+          "translation": {
+            "language_name": "english",
+            "text": "[from]"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "min"
+          }
+        },
+        {
+          "audio_url": "wbw/106_004_004.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭡ",
+          "id": 3909,
+          "line_number": 5,
+          "page_number": 602,
+          "position": 4,
+          "text": "ﭡ",
+          "text_uthmani": "جُوعٍۢ",
+          "translation": {
+            "language_name": "english",
+            "text": "(against) hunger"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "jūʿin"
+          }
+        },
+        {
+          "audio_url": "wbw/106_004_005.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭢ",
+          "id": 3910,
+          "line_number": 5,
+          "page_number": 602,
+          "position": 5,
+          "text": "ﭢ",
+          "text_uthmani": "وَءَامَنَهُم",
+          "translation": {
+            "language_name": "english",
+            "text": "and gives them security"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "waāmanahum"
+          }
+        },
+        {
+          "audio_url": "wbw/106_004_006.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭣ",
+          "id": 3911,
+          "line_number": 5,
+          "page_number": 602,
+          "position": 6,
+          "text": "ﭣ",
+          "text_uthmani": "مِّنْ",
+          "translation": {
+            "language_name": "english",
+            "text": "from"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "min"
+          }
+        },
+        {
+          "audio_url": "wbw/106_004_007.mp3",
+          "char_type_name": "word",
+          "code_v1": "ﭤ",
+          "id": 3912,
+          "line_number": 5,
+          "page_number": 602,
+          "position": 7,
+          "text": "ﭤ",
+          "text_uthmani": "خَوْفٍۭ",
+          "translation": {
+            "language_name": "english",
+            "text": "fear"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": "khawfin"
+          }
+        },
+        {
+          "audio_url": null,
+          "char_type_name": "end",
+          "code_v1": "ﭥ",
+          "id": 3913,
+          "line_number": 5,
+          "page_number": 602,
+          "position": 8,
+          "text": "ﭥ",
+          "text_uthmani": "٤",
+          "translation": {
+            "language_name": "english",
+            "text": "(4)"
+          },
+          "transliteration": {
+            "language_name": "english",
+            "text": null
+          }
+        }
+      ]
     }
-  ],
-  "pages": [
-    602,
-    602
-  ],
-  "chapter_number": 106,
-  "revelation_order": 29,
-  "revelation_place": "makkah",
-  "chapter_transliterated": "Quraysh",
-  "number_of_ayahs": 4,
-  "chapter_name_arabic": "قريش",
-  "chapter_name_transcribed": "Quraysh",
-  "chapter_name_translated": {
-    "en": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "ru": {
-      "language_name": "russian",
-      "name": "Курейшиты"
-    },
-    "de": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "tr": {
-      "language_name": "turkish",
-      "name": "Kureyş"
-    },
-    "ce": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "he": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "pl": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "tt": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "ug": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "uk": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "es": {
-      "language_name": "spanish",
-      "name": "Los Quraysh"
-    },
-    "fr": {
-      "language_name": "french",
-      "name": "Les Quraysh"
-    },
-    "bs": {
-      "language_name": "bosnian",
-      "name": "Kurejšije"
-    },
-    "id": {
-      "language_name": "indonesian",
-      "name": "Suku Quraisy"
-    },
-    "nl": {
-      "language_name": "dutch",
-      "name": "De Quraysh"
-    },
-    "it": {
-      "language_name": "italian",
-      "name": "I Coreisciti"
-    },
-    "zh": {
-      "language_name": "chinese",
-      "name": "古来氏"
-    },
-    "bg": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "pt": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "ro": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "cs": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "fi": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "no": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "sr": {
-      "language_name": "english",
-      "name": "Quraysh"
-    },
-    "sv": {
-      "language_name": "swedish",
-      "name": "Quraysh"
-    },
-    "sq": {
-      "language_name": "english",
-      "name": "Quraysh"
-    }
-  }
+  ]
 }
