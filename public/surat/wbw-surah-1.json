@@ -29,7 +29,8 @@
           "transliteration": {
             "text": "bis'mi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "بِسْمِ"
         },
         {
           "id": 2,
@@ -47,7 +48,8 @@
           "transliteration": {
             "text": "l-lahi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱللَّهِ"
         },
         {
           "id": 3,
@@ -65,7 +67,8 @@
           "transliteration": {
             "text": "l-raḥmāni",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلرَّحْمَـٰنِ"
         },
         {
           "id": 4,
@@ -83,7 +86,8 @@
           "transliteration": {
             "text": "l-raḥīmi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلرَّحِيمِ"
         },
         {
           "id": 5,
@@ -101,7 +105,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "١"
         }
       ],
       "translations": [
@@ -158,7 +163,8 @@
           "transliteration": {
             "text": "al-ḥamdu",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلْحَمْدُ"
         },
         {
           "id": 1131,
@@ -176,7 +182,8 @@
           "transliteration": {
             "text": "lillahi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "لِلَّهِ"
         },
         {
           "id": 1132,
@@ -194,7 +201,8 @@
           "transliteration": {
             "text": "rabbi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "رَبِّ"
         },
         {
           "id": 1133,
@@ -212,7 +220,8 @@
           "transliteration": {
             "text": "l-ʿālamīna",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلْعَـٰلَمِينَ"
         },
         {
           "id": 1134,
@@ -230,7 +239,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "٢"
         }
       ],
       "translations": [
@@ -287,7 +297,8 @@
           "transliteration": {
             "text": "al-raḥmāni",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلرَّحْمَـٰنِ"
         },
         {
           "id": 2954,
@@ -305,7 +316,8 @@
           "transliteration": {
             "text": "l-raḥīmi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلرَّحِيمِ"
         },
         {
           "id": 2955,
@@ -323,7 +335,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "٣"
         }
       ],
       "translations": [
@@ -380,7 +393,8 @@
           "transliteration": {
             "text": "māliki",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "مَـٰلِكِ"
         },
         {
           "id": 3253,
@@ -398,7 +412,8 @@
           "transliteration": {
             "text": "yawmi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "يَوْمِ"
         },
         {
           "id": 3254,
@@ -416,7 +431,8 @@
           "transliteration": {
             "text": "l-dīni",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلدِّينِ"
         },
         {
           "id": 3255,
@@ -434,7 +450,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "٤"
         }
       ],
       "translations": [
@@ -491,7 +508,8 @@
           "transliteration": {
             "text": "iyyāka",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "إِيَّاكَ"
         },
         {
           "id": 5335,
@@ -509,7 +527,8 @@
           "transliteration": {
             "text": "naʿbudu",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "نَعْبُدُ"
         },
         {
           "id": 5336,
@@ -527,7 +546,8 @@
           "transliteration": {
             "text": "wa-iyyāka",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "وَإِيَّاكَ"
         },
         {
           "id": 5337,
@@ -545,7 +565,8 @@
           "transliteration": {
             "text": "nastaʿīnu",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "نَسْتَعِينُ"
         },
         {
           "id": 5338,
@@ -563,7 +584,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "٥"
         }
       ],
       "translations": [
@@ -620,7 +642,8 @@
           "transliteration": {
             "text": "ih'dinā",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱهْدِنَا"
         },
         {
           "id": 6845,
@@ -638,7 +661,8 @@
           "transliteration": {
             "text": "l-ṣirāṭa",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلصِّرَٰطَ"
         },
         {
           "id": 6846,
@@ -656,7 +680,8 @@
           "transliteration": {
             "text": "l-mus'taqīma",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلْمُسْتَقِيمَ"
         },
         {
           "id": 6847,
@@ -674,7 +699,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "٦"
         }
       ],
       "translations": [
@@ -731,7 +757,8 @@
           "transliteration": {
             "text": "ṣirāṭa",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "صِرَٰطَ"
         },
         {
           "id": 8412,
@@ -749,7 +776,8 @@
           "transliteration": {
             "text": "alladhīna",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلَّذِينَ"
         },
         {
           "id": 8413,
@@ -767,7 +795,8 @@
           "transliteration": {
             "text": "anʿamta",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "أَنْعَمْتَ"
         },
         {
           "id": 8414,
@@ -785,7 +814,8 @@
           "transliteration": {
             "text": "ʿalayhim",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "عَلَيْهِمْ"
         },
         {
           "id": 8415,
@@ -803,7 +833,8 @@
           "transliteration": {
             "text": "ghayri",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "غَيْرِ"
         },
         {
           "id": 8416,
@@ -821,7 +852,8 @@
           "transliteration": {
             "text": "l-maghḍūbi",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلْمَغْضُوبِ"
         },
         {
           "id": 8417,
@@ -839,7 +871,8 @@
           "transliteration": {
             "text": "ʿalayhim",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "عَلَيْهِمْ"
         },
         {
           "id": 8418,
@@ -857,7 +890,8 @@
           "transliteration": {
             "text": "walā",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "وَلَا"
         },
         {
           "id": 8419,
@@ -875,7 +909,8 @@
           "transliteration": {
             "text": "l-ḍālīna",
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "ٱلضَّآلِّينَ"
         },
         {
           "id": 8420,
@@ -893,7 +928,8 @@
           "transliteration": {
             "text": null,
             "language_name": "english"
-          }
+          },
+          "text_uthmani": "٧"
         }
       ],
       "translations": [

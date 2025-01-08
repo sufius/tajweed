@@ -12,7 +12,7 @@ const directoryPath = path.join(__dirname, '../public/surat/');
 
 // Function to fetch verses for a specific Surah and page
 async function fetchVerses(surahNumber, page) {
-    const url = `https://api.quran.com/api/v4/verses/by_chapter/${surahNumber}?words=true&translations=27,19,45,79&fields=text_uthmani&page=${page}&per_page=10`;
+    const url = `https://api.quran.com/api/v4/verses/by_chapter/${surahNumber}?words=true&word_fields=text_uthmani&translations=27,19,45,79&fields=text_uthmani&page=${page}&per_page=10`;
     try {
         const response = await axios.get(url);
         return response.data.verses; // Extract verses array
@@ -40,14 +40,21 @@ async function mergeVersesForSurah(surahNumber) {
         existingData.verses = [];
     }
 
+    let newVerses = [];
     // Fetch and merge verses from pages 2 to 29
-    for (let page = 2; page <= 29; page++) {
+    for (let page = 1; page <= 29; page++) {
         console.log(`Fetching verses for Surah ${surahNumber}, Page ${page}`);
         const verses = await fetchVerses(surahNumber, page);
         if (!verses.length) { break; }
         console.log(`${surahNumber} - page ${page}`);
         
-        existingData.verses.push(...verses); // Add new verses
+        newVerses.push(...verses); // Add new verses
+    }
+
+    for (const index_v in newVerses) {
+        for (const index_w in newVerses[index_v].words) {
+            existingData.verses[index_v].words[index_w].text_uthmani = newVerses[index_v].words[index_w].text_uthmani
+        }
     }
 
     // Write the updated data back to the file
