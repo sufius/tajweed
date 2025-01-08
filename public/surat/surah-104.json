@@ -128,7 +128,7 @@
       "sajdah_number": null,
       "text_uthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
       "text_uthmani_tajweed": "وَيْ[u:12392[لٌ ل]ِّكُلِّ هُمَزَ[u:14633[ةٍ ل]ُّمَزَةٍ",
-      "text_uthmani_tajweed_parsed": "وَيْ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":12392\">لٌ ل</tajweed>ِّكُلِّ هُمَزَ<tajweed class=\"idgh_w_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - Without Ghunnah\" data-tajweed=\":14633\">ةٍ ل</tajweed>ُّمَزَةٍ",
+      "text_uthmani_tajweed_parsed": "وَيْ<tajweed class='idgh_w_ghn' data-type='idgham-without-ghunnah' data-description='Idgham - Without Ghunnah' data-tajweed=':12392'>لٌ ل</tajweed>ِّكُلِّ هُمَزَ<tajweed class='idgh_w_ghn' data-type='idgham-without-ghunnah' data-description='Idgham - Without Ghunnah' data-tajweed=':14633'>ةٍ ل</tajweed>ُّمَزَةٍ",
       "text_uthmani_transcribed": "Wailul likulli humazatil-lumazah(tin).",
       "translations": [
         {
@@ -263,7 +263,7 @@
       "sajdah_number": null,
       "text_uthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
       "text_uthmani_tajweed": "ٱلَّذِى جَمَعَ مَال[a:14634[اً و]َعَدَّدَهُۥ",
-      "text_uthmani_tajweed_parsed": "ٱلَّذِى جَمَعَ مَال<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14634\">اً و</tajweed>َعَدَّدَهُۥ",
+      "text_uthmani_tajweed_parsed": "ٱلَّذِى جَمَعَ مَال<tajweed class='idgh_ghn' data-type='idgham-without-ghunnah' data-description='Idgham - With Ghunnah' data-tajweed=':14634'>اً و</tajweed>َعَدَّدَهُۥ",
       "text_uthmani_transcribed": "Allażī jama'a mālaw wa 'addadah(ū).",
       "translations": [
         {
@@ -398,7 +398,7 @@
       "sajdah_number": null,
       "text_uthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
       "text_uthmani_tajweed": "يَحْسَبُ أَ[g[نّ]َ مَالَهُ[o[ۥٓ] أَخْلَدَهُۥ",
-      "text_uthmani_tajweed_parsed": "يَحْسَبُ أَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ مَالَهُ<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">ۥٓ</tajweed> أَخْلَدَهُۥ",
+      "text_uthmani_tajweed_parsed": "يَحْسَبُ أَ<tajweed class='ghn' data-type='ghunnah' data-description='Ghunnah: 2 Vowels' data-tajweed=''>نّ</tajweed>َ مَالَهُ<tajweed class='madda_pbligatory' data-type='madda-obligatory' data-description='Obligatory Prolongation: 4-5 Vowels' data-tajweed=''>ۥٓ</tajweed> أَخْلَدَهُۥ",
       "text_uthmani_transcribed": "Yaḥsabu anna mālahū akhladah(ū).",
       "translations": [
         {
@@ -533,7 +533,7 @@
       "sajdah_number": null,
       "text_uthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
       "text_uthmani_tajweed": "كَلَّا‌ۖ لَيُ[i:14635[نۢب]َذَ[g[نّ]َ فِى [h:14636[ٱ]لْحُطَمَةِ",
-      "text_uthmani_tajweed_parsed": "كَلَّا‌ۖ لَيُ<tajweed class=\"iqlb\" data-type=\"iqlab\" data-description=\"Iqlab\" data-tajweed=\":14635\">نۢب</tajweed>َذَ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َ فِى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14636\">ٱ</tajweed>لْحُطَمَةِ",
+      "text_uthmani_tajweed_parsed": "كَلَّا‌ۖ لَيُ<tajweed class='iqlb' data-type='iqlab' data-description='Iqlab' data-tajweed=':14635'>نۢب</tajweed>َذَ<tajweed class='ghn' data-type='ghunnah' data-description='Ghunnah: 2 Vowels' data-tajweed=''>نّ</tajweed>َ فِى <tajweed class='ham_wasl' data-type='hamza-wasl' data-description='Hamzat ul Wasl' data-tajweed=':14636'>ٱ</tajweed>لْحُطَمَةِ",
       "text_uthmani_transcribed": "Kallā layumbażanna fil-ḥuṭamah(ti).",
       "translations": [
         {
@@ -668,7 +668,7 @@
       "sajdah_number": null,
       "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
       "text_uthmani_tajweed": "وَم[o[َآ] أَ[q:13858[دْ]رَ[n[ٮٰ]كَ مَا [h:14637[ٱ]لْحُطَمَةُ",
-      "text_uthmani_tajweed_parsed": "وَم<tajweed class=\"madda_pbligatory\" data-type=\"madda-obligatory\" data-description=\"Obligatory Prolongation: 4-5 Vowels\" data-tajweed=\"\">َآ</tajweed> أَ<tajweed class=\"qlq\" data-type=\"qalaqah\" data-description=\"Qalaqah\" data-tajweed=\":13858\">دْ</tajweed>رَ<tajweed class=\"madda_normal\" data-type=\"madda-normal\" data-description=\"Normal Prolongation: 2 Vowels\" data-tajweed=\"\">ٮٰ</tajweed>كَ مَا <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14637\">ٱ</tajweed>لْحُطَمَةُ",
+      "text_uthmani_tajweed_parsed": "وَم<tajweed class='madda_pbligatory' data-type='madda-obligatory' data-description='Obligatory Prolongation: 4-5 Vowels' data-tajweed=''>َآ</tajweed> أَ<tajweed class='qlq' data-type='qalaqah' data-description='Qalaqah' data-tajweed=':13858'>دْ</tajweed>رَ<tajweed class='madda_normal' data-type='madda-normal' data-description='Normal Prolongation: 2 Vowels' data-tajweed=''>ٮٰ</tajweed>كَ مَا <tajweed class='ham_wasl' data-type='hamza-wasl' data-description='Hamzat ul Wasl' data-tajweed=':14637'>ٱ</tajweed>لْحُطَمَةُ",
       "text_uthmani_transcribed": "Wa mā adrāka mal-ḥuṭamah(tu).",
       "translations": [
         {
@@ -803,7 +803,7 @@
       "sajdah_number": null,
       "text_uthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
       "text_uthmani_tajweed": "نَارُ [h:14638[ٱ]للَّهِ [h:14639[ٱ]لْمُوقَدَةُ",
-      "text_uthmani_tajweed_parsed": "نَارُ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14638\">ٱ</tajweed>للَّهِ <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14639\">ٱ</tajweed>لْمُوقَدَةُ",
+      "text_uthmani_tajweed_parsed": "نَارُ <tajweed class='ham_wasl' data-type='hamza-wasl' data-description='Hamzat ul Wasl' data-tajweed=':14638'>ٱ</tajweed>للَّهِ <tajweed class='ham_wasl' data-type='hamza-wasl' data-description='Hamzat ul Wasl' data-tajweed=':14639'>ٱ</tajweed>لْمُوقَدَةُ",
       "text_uthmani_transcribed": "Nārullāhil-mūqadah(tu).",
       "translations": [
         {
@@ -919,7 +919,7 @@
       "sajdah_number": null,
       "text_uthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
       "text_uthmani_tajweed": "ٱلَّتِى تَطَّلِعُ عَلَى [h:14640[ٱ]لْأَفْــِٔدَةِ",
-      "text_uthmani_tajweed_parsed": "ٱلَّتِى تَطَّلِعُ عَلَى <tajweed class=\"ham_wasl\" data-type=\"hamza-wasl\" data-description=\"Hamzat ul Wasl\" data-tajweed=\":14640\">ٱ</tajweed>لْأَفْــِٔدَةِ",
+      "text_uthmani_tajweed_parsed": "ٱلَّتِى تَطَّلِعُ عَلَى <tajweed class='ham_wasl' data-type='hamza-wasl' data-description='Hamzat ul Wasl' data-tajweed=':14640'>ٱ</tajweed>لْأَفْــِٔدَةِ",
       "text_uthmani_transcribed": "Allatī taṭṭali'u 'alal-af'idah(ti).",
       "translations": [
         {
@@ -1054,7 +1054,7 @@
       "sajdah_number": null,
       "text_uthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
       "text_uthmani_tajweed": "إِ[g[نّ]َهَا عَلَيْه[w:14641[ِم م]ُّؤْصَدَةٌ",
-      "text_uthmani_tajweed_parsed": "إِ<tajweed class=\"ghn\" data-type=\"ghunnah\" data-description=\"Ghunnah: 2 Vowels\" data-tajweed=\"\">نّ</tajweed>َهَا عَلَيْه<tajweed class=\"idghm_shfw\" data-type=\"idgham-shafawi\" data-description=\"Idgham Shafawi - With Meem\" data-tajweed=\":14641\">ِم م</tajweed>ُّؤْصَدَةٌ",
+      "text_uthmani_tajweed_parsed": "إِ<tajweed class='ghn' data-type='ghunnah' data-description='Ghunnah: 2 Vowels' data-tajweed=''>نّ</tajweed>َهَا عَلَيْه<tajweed class='idghm_shfw' data-type='idgham-shafawi' data-description='Idgham Shafawi - With Meem' data-tajweed=':14641'>ِم م</tajweed>ُّؤْصَدَةٌ",
       "text_uthmani_transcribed": "Innahā 'alaihim mu'ṣadah(tun).",
       "translations": [
         {
@@ -1170,7 +1170,7 @@
       "sajdah_number": null,
       "text_uthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
       "text_uthmani_tajweed": "فِى عَمَ[a:14642[دٍ م]ُّمَدَّدَةِۭ",
-      "text_uthmani_tajweed_parsed": "فِى عَمَ<tajweed class=\"idgh_ghn\" data-type=\"idgham-without-ghunnah\" data-description=\"Idgham - With Ghunnah\" data-tajweed=\":14642\">دٍ م</tajweed>ُّمَدَّدَةِۭ",
+      "text_uthmani_tajweed_parsed": "فِى عَمَ<tajweed class='idgh_ghn' data-type='idgham-without-ghunnah' data-description='Idgham - With Ghunnah' data-tajweed=':14642'>دٍ م</tajweed>ُّمَدَّدَةِۭ",
       "text_uthmani_transcribed": "Fī 'amadim mumaddadah(tin).",
       "translations": [
         {
