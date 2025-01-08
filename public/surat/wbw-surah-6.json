@@ -67689,7 +67689,6 @@
   "numberOfAyahs": 165,
   "chapterNameArabic": "الأنعام",
   "chapterNameTranscribed": "Al-'An`ām",
-  "chapterNameRomanized": "Al-An'am",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -67802,5 +67801,6 @@
   "pages": [
     128,
     150
-  ]
+  ],
+  "chapterTransliterated": "Al-An'am"
 }

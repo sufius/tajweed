@@ -968,7 +968,6 @@
   "numberOfAyahs": 7,
   "chapterNameArabic": "الفاتحة",
   "chapterNameTranscribed": "Al-Fātiĥah",
-  "chapterNameRomanized": "Al-Fatihah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1081,5 +1080,6 @@
   "pages": [
     1,
     1
-  ]
+  ],
+  "chapterTransliterated": "Al-Fatihah"
 }

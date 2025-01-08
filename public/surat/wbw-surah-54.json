@@ -9747,7 +9747,6 @@
   "numberOfAyahs": 55,
   "chapterNameArabic": "القمر",
   "chapterNameTranscribed": "Al-Qamar",
-  "chapterNameRomanized": "Al-Qamar",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -9860,5 +9859,6 @@
   "pages": [
     528,
     531
-  ]
+  ],
+  "chapterTransliterated": "Al-Qamar"
 }

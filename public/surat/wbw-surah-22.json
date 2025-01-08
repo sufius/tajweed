@@ -28812,7 +28812,6 @@
   "numberOfAyahs": 78,
   "chapterNameArabic": "الحج",
   "chapterNameTranscribed": "Al-Ĥajj",
-  "chapterNameRomanized": "Al-Hajj",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -28925,5 +28924,6 @@
   "pages": [
     332,
     341
-  ]
+  ],
+  "chapterTransliterated": "Al-Hajj"
 }

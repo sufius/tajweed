@@ -1008,7 +1008,6 @@
   "numberOfAyahs": 8,
   "chapterNameArabic": "التكاثر",
   "chapterNameTranscribed": "At-Takāthur",
-  "chapterNameRomanized": "At-Takathur",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1121,5 +1120,6 @@
   "pages": [
     600,
     600
-  ]
+  ],
+  "chapterTransliterated": "At-Takathur"
 }

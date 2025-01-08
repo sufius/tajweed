@@ -75238,7 +75238,6 @@
   "numberOfAyahs": 206,
   "chapterNameArabic": "الأعراف",
   "chapterNameTranscribed": "Al-'A`rāf",
-  "chapterNameRomanized": "Al-A'raf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -75351,5 +75350,6 @@
   "pages": [
     151,
     176
-  ]
+  ],
+  "chapterTransliterated": "Al-A'raf"
 }

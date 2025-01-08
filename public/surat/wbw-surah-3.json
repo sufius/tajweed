@@ -77943,7 +77943,6 @@
   "numberOfAyahs": 200,
   "chapterNameArabic": "آل عمران",
   "chapterNameTranscribed": "Āli `Imrān",
-  "chapterNameRomanized": "Ali 'Imran",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -78056,5 +78055,6 @@
   "pages": [
     50,
     76
-  ]
+  ],
+  "chapterTransliterated": "Ali 'Imran"
 }

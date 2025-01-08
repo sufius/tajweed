@@ -8842,7 +8842,6 @@
   "numberOfAyahs": 30,
   "chapterNameArabic": "السجدة",
   "chapterNameTranscribed": "As-Sajdah",
-  "chapterNameRomanized": "As-Sajdah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -8955,5 +8954,6 @@
   "pages": [
     415,
     417
-  ]
+  ],
+  "chapterTransliterated": "As-Sajdah"
 }

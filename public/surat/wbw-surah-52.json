@@ -8823,7 +8823,6 @@
   "numberOfAyahs": 49,
   "chapterNameArabic": "الطور",
   "chapterNameTranscribed": "Aţ-Ţūr",
-  "chapterNameRomanized": "At-Tur",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -8936,5 +8935,6 @@
   "pages": [
     523,
     525
-  ]
+  ],
+  "chapterTransliterated": "At-Tur"
 }

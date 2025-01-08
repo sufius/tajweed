@@ -8101,7 +8101,6 @@
   "numberOfAyahs": 30,
   "chapterNameArabic": "الملك",
   "chapterNameTranscribed": "Al-Mulk",
-  "chapterNameRomanized": "Al-Mulk",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -8214,5 +8213,6 @@
   "pages": [
     562,
     564
-  ]
+  ],
+  "chapterTransliterated": "Al-Mulk"
 }

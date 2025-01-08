@@ -27360,7 +27360,6 @@
   "numberOfAyahs": 93,
   "chapterNameArabic": "النمل",
   "chapterNameTranscribed": "An-Naml",
-  "chapterNameRomanized": "An-Naml",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -27473,5 +27472,6 @@
   "pages": [
     377,
     385
-  ]
+  ],
+  "chapterTransliterated": "An-Naml"
 }

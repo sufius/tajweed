@@ -21514,7 +21514,6 @@
   "numberOfAyahs": 77,
   "chapterNameArabic": "الفرقان",
   "chapterNameTranscribed": "Al-Furqān",
-  "chapterNameRomanized": "Al-Furqan",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -21627,5 +21626,6 @@
   "pages": [
     359,
     366
-  ]
+  ],
+  "chapterTransliterated": "Al-Furqan"
 }

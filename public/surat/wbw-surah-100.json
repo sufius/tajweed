@@ -1413,7 +1413,6 @@
   "numberOfAyahs": 11,
   "chapterNameArabic": "العاديات",
   "chapterNameTranscribed": "Al-`Ādiyāt",
-  "chapterNameRomanized": "Al-'Adiyat",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1526,5 +1525,6 @@
   "pages": [
     599,
     600
-  ]
+  ],
+  "chapterTransliterated": "Al-'Adiyat"
 }

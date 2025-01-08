@@ -12384,7 +12384,6 @@
   "numberOfAyahs": 34,
   "chapterNameArabic": "لقمان",
   "chapterNameTranscribed": "Luqmān",
-  "chapterNameRomanized": "Luqman",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -12497,5 +12496,6 @@
   "pages": [
     411,
     414
-  ]
+  ],
+  "chapterTransliterated": "Luqman"
 }

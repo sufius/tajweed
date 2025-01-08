@@ -17384,7 +17384,6 @@
   "numberOfAyahs": 45,
   "chapterNameArabic": "فاطر",
   "chapterNameTranscribed": "Fāţir",
-  "chapterNameRomanized": "Fatir",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -17497,5 +17496,6 @@
   "pages": [
     434,
     440
-  ]
+  ],
+  "chapterTransliterated": "Fatir"
 }

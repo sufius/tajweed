@@ -28823,7 +28823,6 @@
   "numberOfAyahs": 112,
   "chapterNameArabic": "الأنبياء",
   "chapterNameTranscribed": "Al-'Anbyā",
-  "chapterNameRomanized": "Al-Anbya",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -28936,5 +28935,6 @@
   "pages": [
     322,
     331
-  ]
+  ],
+  "chapterTransliterated": "Al-Anbya"
 }

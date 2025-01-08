@@ -7071,7 +7071,6 @@
   "numberOfAyahs": 28,
   "chapterNameArabic": "الجن",
   "chapterNameTranscribed": "Al-Jinn",
-  "chapterNameRomanized": "Al-Jinn",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -7184,5 +7183,6 @@
   "pages": [
     572,
     573
-  ]
+  ],
+  "chapterTransliterated": "Al-Jinn"
 }

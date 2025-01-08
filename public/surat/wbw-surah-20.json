@@ -33334,7 +33334,6 @@
   "numberOfAyahs": 135,
   "chapterNameArabic": "طه",
   "chapterNameTranscribed": "Ţāhā",
-  "chapterNameRomanized": "Taha",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -33447,5 +33446,6 @@
   "pages": [
     312,
     321
-  ]
+  ],
+  "chapterTransliterated": "Taha"
 }

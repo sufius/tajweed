@@ -2592,7 +2592,6 @@
   "numberOfAyahs": 21,
   "chapterNameArabic": "الليل",
   "chapterNameTranscribed": "Al-Layl",
-  "chapterNameRomanized": "Al-Layl",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2705,5 +2704,6 @@
   "pages": [
     595,
     596
-  ]
+  ],
+  "chapterTransliterated": "Al-Layl"
 }

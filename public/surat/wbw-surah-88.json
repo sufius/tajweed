@@ -3286,7 +3286,6 @@
   "numberOfAyahs": 26,
   "chapterNameArabic": "الغاشية",
   "chapterNameTranscribed": "Al-Ghāshiyah",
-  "chapterNameRomanized": "Al-Ghashiyah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -3399,5 +3398,6 @@
   "pages": [
     592,
     592
-  ]
+  ],
+  "chapterTransliterated": "Al-Ghashiyah"
 }

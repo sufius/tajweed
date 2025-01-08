@@ -1122,7 +1122,6 @@
   "numberOfAyahs": 8,
   "chapterNameArabic": "التين",
   "chapterNameTranscribed": "At-Tīn",
-  "chapterNameRomanized": "At-Tin",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1235,5 +1234,6 @@
   "pages": [
     597,
     597
-  ]
+  ],
+  "chapterTransliterated": "At-Tin"
 }

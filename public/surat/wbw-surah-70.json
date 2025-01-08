@@ -6723,7 +6723,6 @@
   "numberOfAyahs": 44,
   "chapterNameArabic": "المعارج",
   "chapterNameTranscribed": "Al-Ma`ārij",
-  "chapterNameRomanized": "Al-Ma'arij",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -6836,5 +6835,6 @@
   "pages": [
     568,
     570
-  ]
+  ],
+  "chapterTransliterated": "Al-Ma'arij"
 }

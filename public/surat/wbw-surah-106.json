@@ -563,7 +563,6 @@
   "numberOfAyahs": 4,
   "chapterNameArabic": "قريش",
   "chapterNameTranscribed": "Quraysh",
-  "chapterNameRomanized": "Quraysh",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -676,5 +675,6 @@
   "pages": [
     602,
     602
-  ]
+  ],
+  "chapterTransliterated": "Quraysh"
 }

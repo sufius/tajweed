@@ -4965,7 +4965,6 @@
   "numberOfAyahs": 20,
   "chapterNameArabic": "المزمل",
   "chapterNameTranscribed": "Al-Muzzammil",
-  "chapterNameRomanized": "Al-Muzzammil",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5078,5 +5077,6 @@
   "pages": [
     574,
     575
-  ]
+  ],
+  "chapterTransliterated": "Al-Muzzammil"
 }

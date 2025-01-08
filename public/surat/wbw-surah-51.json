@@ -10384,7 +10384,6 @@
   "numberOfAyahs": 60,
   "chapterNameArabic": "الذاريات",
   "chapterNameTranscribed": "Adh-Dhāriyāt",
-  "chapterNameRomanized": "Adh-Dhariyat",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -10497,5 +10496,6 @@
   "pages": [
     520,
     523
-  ]
+  ],
+  "chapterTransliterated": "Adh-Dhariyat"
 }

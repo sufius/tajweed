@@ -11275,7 +11275,6 @@
   "numberOfAyahs": 78,
   "chapterNameArabic": "الرحمن",
   "chapterNameTranscribed": "Ar-Raĥmān",
-  "chapterNameRomanized": "Ar-Rahman",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -11388,5 +11387,6 @@
   "pages": [
     531,
     534
-  ]
+  ],
+  "chapterTransliterated": "Ar-Rahman"
 }

@@ -9746,7 +9746,6 @@
   "numberOfAyahs": 45,
   "chapterNameArabic": "ق",
   "chapterNameTranscribed": "Qāf",
-  "chapterNameRomanized": "Qaf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -9859,5 +9858,6 @@
   "pages": [
     518,
     520
-  ]
+  ],
+  "chapterTransliterated": "Qaf"
 }

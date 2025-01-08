@@ -41262,7 +41262,6 @@
   "numberOfAyahs": 109,
   "chapterNameArabic": "يونس",
   "chapterNameTranscribed": "Yūnus",
-  "chapterNameRomanized": "Yunus",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -41375,5 +41374,6 @@
   "pages": [
     208,
     221
-  ]
+  ],
+  "chapterTransliterated": "Yunus"
 }

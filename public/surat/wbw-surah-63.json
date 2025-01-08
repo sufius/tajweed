@@ -4073,7 +4073,6 @@
   "numberOfAyahs": 11,
   "chapterNameArabic": "المنافقون",
   "chapterNameTranscribed": "Al-Munāfiqūn",
-  "chapterNameRomanized": "Al-Munafiqun",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -4186,5 +4185,6 @@
   "pages": [
     554,
     555
-  ]
+  ],
+  "chapterTransliterated": "Al-Munafiqun"
 }

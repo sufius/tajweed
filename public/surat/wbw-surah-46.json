@@ -14286,7 +14286,6 @@
   "numberOfAyahs": 35,
   "chapterNameArabic": "الأحقاف",
   "chapterNameTranscribed": "Al-'Aĥqāf",
-  "chapterNameRomanized": "Al-Ahqaf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -14399,5 +14398,6 @@
   "pages": [
     502,
     506
-  ]
+  ],
+  "chapterTransliterated": "Al-Ahqaf"
 }

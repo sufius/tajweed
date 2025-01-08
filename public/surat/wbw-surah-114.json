@@ -738,7 +738,6 @@
   "numberOfAyahs": 6,
   "chapterNameArabic": "الناس",
   "chapterNameTranscribed": "An-Nās",
-  "chapterNameRomanized": "An-Nas",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -851,5 +850,6 @@
   "pages": [
     604,
     604
-  ]
+  ],
+  "chapterTransliterated": "An-Nas"
 }

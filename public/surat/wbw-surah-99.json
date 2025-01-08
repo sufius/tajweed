@@ -1160,7 +1160,6 @@
   "numberOfAyahs": 8,
   "chapterNameArabic": "الزلزلة",
   "chapterNameTranscribed": "Az-Zalzalah",
-  "chapterNameRomanized": "Az-Zalzalah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1273,5 +1272,6 @@
   "pages": [
     599,
     599
-  ]
+  ],
+  "chapterTransliterated": "Az-Zalzalah"
 }

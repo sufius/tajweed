@@ -4377,7 +4377,6 @@
   "numberOfAyahs": 30,
   "chapterNameArabic": "الفجر",
   "chapterNameTranscribed": "Al-Fajr",
-  "chapterNameRomanized": "Al-Fajr",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -4490,5 +4489,6 @@
   "pages": [
     593,
     594
-  ]
+  ],
+  "chapterTransliterated": "Al-Fajr"
 }

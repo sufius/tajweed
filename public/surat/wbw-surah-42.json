@@ -19471,7 +19471,6 @@
   "numberOfAyahs": 53,
   "chapterNameArabic": "الشورى",
   "chapterNameTranscribed": "Ash-Shūraá",
-  "chapterNameRomanized": "Ash-Shuraa",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -19584,5 +19583,6 @@
   "pages": [
     483,
     489
-  ]
+  ],
+  "chapterTransliterated": "Ash-Shuraa"
 }

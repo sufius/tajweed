@@ -12355,7 +12355,6 @@
   "numberOfAyahs": 29,
   "chapterNameArabic": "الفتح",
   "chapterNameTranscribed": "Al-Fatĥ",
-  "chapterNameRomanized": "Al-Fath",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -12468,5 +12467,6 @@
   "pages": [
     511,
     515
-  ]
+  ],
+  "chapterTransliterated": "Al-Fath"
 }

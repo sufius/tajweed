@@ -43684,7 +43684,6 @@
   "numberOfAyahs": 123,
   "chapterNameArabic": "هود",
   "chapterNameTranscribed": "Hūd",
-  "chapterNameRomanized": "Hud",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -43797,5 +43796,6 @@
   "pages": [
     221,
     235
-  ]
+  ],
+  "chapterTransliterated": "Hud"
 }

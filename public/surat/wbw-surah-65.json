@@ -6165,7 +6165,6 @@
   "numberOfAyahs": 12,
   "chapterNameArabic": "الطلاق",
   "chapterNameTranscribed": "Aţ-Ţalāq",
-  "chapterNameRomanized": "At-Talaq",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -6278,5 +6277,6 @@
   "pages": [
     558,
     559
-  ]
+  ],
+  "chapterTransliterated": "At-Talaq"
 }

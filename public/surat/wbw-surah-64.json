@@ -5645,7 +5645,6 @@
   "numberOfAyahs": 18,
   "chapterNameArabic": "التغابن",
   "chapterNameTranscribed": "At-Taghābun",
-  "chapterNameRomanized": "At-Taghabun",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5758,5 +5757,6 @@
   "pages": [
     556,
     557
-  ]
+  ],
+  "chapterTransliterated": "At-Taghabun"
 }

@@ -1162,7 +1162,6 @@
   "numberOfAyahs": 9,
   "chapterNameArabic": "الهمزة",
   "chapterNameTranscribed": "Al-Humazah",
-  "chapterNameRomanized": "Al-Humazah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1275,5 +1274,6 @@
   "pages": [
     601,
     601
-  ]
+  ],
+  "chapterTransliterated": "Al-Humazah"
 }

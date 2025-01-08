@@ -12487,7 +12487,6 @@
   "numberOfAyahs": 38,
   "chapterNameArabic": "محمد",
   "chapterNameTranscribed": "Muĥammad",
-  "chapterNameRomanized": "Muhammad",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -12600,5 +12599,6 @@
   "pages": [
     507,
     510
-  ]
+  ],
+  "chapterTransliterated": "Muhammad"
 }

@@ -869,7 +869,6 @@
   "numberOfAyahs": 5,
   "chapterNameArabic": "القدر",
   "chapterNameTranscribed": "Al-Qadr",
-  "chapterNameRomanized": "Al-Qadr",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -982,5 +981,6 @@
   "pages": [
     598,
     598
-  ]
+  ],
+  "chapterTransliterated": "Al-Qadr"
 }

@@ -525,7 +525,6 @@
   "numberOfAyahs": 4,
   "chapterNameArabic": "الإخلاص",
   "chapterNameTranscribed": "Al-'Ikhlāş",
-  "chapterNameRomanized": "Al-Ikhlas",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -638,5 +637,6 @@
   "pages": [
     604,
     604
-  ]
+  ],
+  "chapterTransliterated": "Al-Ikhlas"
 }

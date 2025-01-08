@@ -9875,7 +9875,6 @@
   "numberOfAyahs": 24,
   "chapterNameArabic": "الحشر",
   "chapterNameTranscribed": "Al-Ĥashr",
-  "chapterNameRomanized": "Al-Hashr",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -9988,5 +9987,6 @@
   "pages": [
     545,
     548
-  ]
+  ],
+  "chapterTransliterated": "Al-Hashr"
 }

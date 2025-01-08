@@ -5029,7 +5029,6 @@
   "numberOfAyahs": 14,
   "chapterNameArabic": "الصف",
   "chapterNameTranscribed": "Aş-Şaf",
-  "chapterNameRomanized": "As-Saf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5142,5 +5141,6 @@
   "pages": [
     551,
     552
-  ]
+  ],
+  "chapterTransliterated": "As-Saf"
 }

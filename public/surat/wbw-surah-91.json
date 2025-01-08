@@ -1915,7 +1915,6 @@
   "numberOfAyahs": 15,
   "chapterNameArabic": "الشمس",
   "chapterNameTranscribed": "Ash-Shams",
-  "chapterNameRomanized": "Ash-Shams",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2028,5 +2027,6 @@
   "pages": [
     595,
     595
-  ]
+  ],
+  "chapterTransliterated": "Ash-Shams"
 }

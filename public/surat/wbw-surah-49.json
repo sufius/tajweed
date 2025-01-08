@@ -7659,7 +7659,6 @@
   "numberOfAyahs": 18,
   "chapterNameArabic": "الحجرات",
   "chapterNameTranscribed": "Al-Ĥujurāt",
-  "chapterNameRomanized": "Al-Hujurat",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -7772,5 +7771,6 @@
   "pages": [
     515,
     517
-  ]
+  ],
+  "chapterTransliterated": "Al-Hujurat"
 }

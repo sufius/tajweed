@@ -5443,7 +5443,6 @@
   "numberOfAyahs": 12,
   "chapterNameArabic": "التحريم",
   "chapterNameTranscribed": "At-Taĥrīm",
-  "chapterNameRomanized": "At-Tahrim",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5556,5 +5555,6 @@
   "pages": [
     560,
     561
-  ]
+  ],
+  "chapterTransliterated": "At-Tahrim"
 }

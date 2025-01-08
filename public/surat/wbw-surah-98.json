@@ -2262,7 +2262,6 @@
   "numberOfAyahs": 8,
   "chapterNameArabic": "البينة",
   "chapterNameTranscribed": "Al-Bayyinah",
-  "chapterNameRomanized": "Al-Bayyinah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2375,5 +2374,6 @@
   "pages": [
     598,
     599
-  ]
+  ],
+  "chapterTransliterated": "Al-Bayyinah"
 }

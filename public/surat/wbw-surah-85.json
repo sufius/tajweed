@@ -3373,7 +3373,6 @@
   "numberOfAyahs": 22,
   "chapterNameArabic": "البروج",
   "chapterNameTranscribed": "Al-Burūj",
-  "chapterNameRomanized": "Al-Buruj",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -3486,5 +3485,6 @@
   "pages": [
     590,
     590
-  ]
+  ],
+  "chapterTransliterated": "Al-Buruj"
 }

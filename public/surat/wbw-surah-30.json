@@ -19067,7 +19067,6 @@
   "numberOfAyahs": 60,
   "chapterNameArabic": "الروم",
   "chapterNameTranscribed": "Ar-Rūm",
-  "chapterNameRomanized": "Ar-Rum",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -19180,5 +19179,6 @@
   "pages": [
     404,
     410
-  ]
+  ],
+  "chapterTransliterated": "Ar-Rum"
 }

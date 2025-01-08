@@ -11459,7 +11459,6 @@
   "numberOfAyahs": 37,
   "chapterNameArabic": "الجاثية",
   "chapterNameTranscribed": "Al-Jāthiyah",
-  "chapterNameRomanized": "Al-Jathiyah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -11572,5 +11571,6 @@
   "pages": [
     499,
     502
-  ]
+  ],
+  "chapterTransliterated": "Al-Jathiyah"
 }

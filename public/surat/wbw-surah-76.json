@@ -6450,7 +6450,6 @@
   "numberOfAyahs": 31,
   "chapterNameArabic": "الانسان",
   "chapterNameTranscribed": "Al-'Insān",
-  "chapterNameRomanized": "Al-Insan",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -6563,5 +6562,6 @@
   "pages": [
     578,
     580
-  ]
+  ],
+  "chapterTransliterated": "Al-Insan"
 }

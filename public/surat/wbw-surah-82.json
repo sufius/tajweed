@@ -2645,7 +2645,6 @@
   "numberOfAyahs": 19,
   "chapterNameArabic": "الإنفطار",
   "chapterNameTranscribed": "Al-'Infiţār",
-  "chapterNameRomanized": "Al-Infitar",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2758,5 +2757,6 @@
   "pages": [
     587,
     587
-  ]
+  ],
+  "chapterTransliterated": "Al-Infitar"
 }

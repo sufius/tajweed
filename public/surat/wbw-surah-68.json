@@ -8772,7 +8772,6 @@
   "numberOfAyahs": 52,
   "chapterNameArabic": "القلم",
   "chapterNameTranscribed": "Al-Qalam",
-  "chapterNameRomanized": "Al-Qalam",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -8885,5 +8884,6 @@
   "pages": [
     564,
     566
-  ]
+  ],
+  "chapterTransliterated": "Al-Qalam"
 }

@@ -6393,7 +6393,6 @@
   "numberOfAyahs": 50,
   "chapterNameArabic": "المرسلات",
   "chapterNameTranscribed": "Al-Mursalāt",
-  "chapterNameRomanized": "Al-Mursalat",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -6506,5 +6505,6 @@
   "pages": [
     580,
     581
-  ]
+  ],
+  "chapterTransliterated": "Al-Mursalat"
 }

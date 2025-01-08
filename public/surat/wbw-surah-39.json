@@ -26697,7 +26697,6 @@
   "numberOfAyahs": 75,
   "chapterNameArabic": "الزمر",
   "chapterNameTranscribed": "Az-Zumar",
-  "chapterNameRomanized": "Az-Zumar",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -26810,5 +26809,6 @@
   "pages": [
     458,
     467
-  ]
+  ],
+  "chapterTransliterated": "Az-Zumar"
 }

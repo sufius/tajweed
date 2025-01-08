@@ -3691,7 +3691,6 @@
   "numberOfAyahs": 29,
   "chapterNameArabic": "التكوير",
   "chapterNameTranscribed": "At-Takwīr",
-  "chapterNameRomanized": "At-Takwir",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -3804,5 +3803,6 @@
   "pages": [
     586,
     586
-  ]
+  ],
+  "chapterTransliterated": "At-Takwir"
 }

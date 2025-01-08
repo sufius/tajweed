@@ -852,7 +852,6 @@
   "numberOfAyahs": 6,
   "chapterNameArabic": "الكافرون",
   "chapterNameTranscribed": "Al-Kāfirūn",
-  "chapterNameRomanized": "Al-Kafirun",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -965,5 +964,6 @@
   "pages": [
     603,
     603
-  ]
+  ],
+  "chapterTransliterated": "Al-Kafirun"
 }

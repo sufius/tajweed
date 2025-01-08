@@ -1337,7 +1337,6 @@
   "numberOfAyahs": 11,
   "chapterNameArabic": "القارعة",
   "chapterNameTranscribed": "Al-Qāri`ah",
-  "chapterNameRomanized": "Al-Qari'ah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1450,5 +1449,6 @@
   "pages": [
     600,
     600
-  ]
+  ],
+  "chapterTransliterated": "Al-Qari'ah"
 }

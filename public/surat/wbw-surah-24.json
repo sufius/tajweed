@@ -28784,7 +28784,6 @@
   "numberOfAyahs": 64,
   "chapterNameArabic": "النور",
   "chapterNameTranscribed": "An-Nūr",
-  "chapterNameRomanized": "An-Nur",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -28897,5 +28896,6 @@
   "pages": [
     350,
     359
-  ]
+  ],
+  "chapterTransliterated": "An-Nur"
 }

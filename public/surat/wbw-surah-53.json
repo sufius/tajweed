@@ -10502,7 +10502,6 @@
   "numberOfAyahs": 62,
   "chapterNameArabic": "النجم",
   "chapterNameTranscribed": "An-Najm",
-  "chapterNameRomanized": "An-Najm",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -10615,5 +10614,6 @@
   "pages": [
     526,
     528
-  ]
+  ],
+  "chapterTransliterated": "An-Najm"
 }

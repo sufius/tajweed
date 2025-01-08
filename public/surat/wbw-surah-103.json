@@ -447,7 +447,6 @@
   "numberOfAyahs": 3,
   "chapterNameArabic": "العصر",
   "chapterNameTranscribed": "Al-`Aşr",
-  "chapterNameRomanized": "Al-'Asr",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -560,5 +559,6 @@
   "pages": [
     601,
     601
-  ]
+  ],
+  "chapterTransliterated": "Al-'Asr"
 }

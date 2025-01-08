@@ -6119,7 +6119,6 @@
   "numberOfAyahs": 46,
   "chapterNameArabic": "النازعات",
   "chapterNameTranscribed": "An-Nāzi`āt",
-  "chapterNameRomanized": "An-Nazi'at",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -6232,5 +6231,6 @@
   "pages": [
     583,
     584
-  ]
+  ],
+  "chapterTransliterated": "An-Nazi'at"
 }

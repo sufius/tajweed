@@ -7974,7 +7974,6 @@
   "numberOfAyahs": 52,
   "chapterNameArabic": "الحاقة",
   "chapterNameTranscribed": "Al-Ĥāqqah",
-  "chapterNameRomanized": "Al-Haqqah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -8087,5 +8086,6 @@
   "pages": [
     566,
     568
-  ]
+  ],
+  "chapterTransliterated": "Al-Haqqah"
 }

@@ -5009,7 +5009,6 @@
   "numberOfAyahs": 42,
   "chapterNameArabic": "عبس",
   "chapterNameTranscribed": "`Abasa",
-  "chapterNameRomanized": "'Abasa",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5122,5 +5121,6 @@
   "pages": [
     585,
     585
-  ]
+  ],
+  "chapterTransliterated": "'Abasa"
 }

@@ -7383,7 +7383,6 @@
   "numberOfAyahs": 13,
   "chapterNameArabic": "الممتحنة",
   "chapterNameTranscribed": "Al-Mumtaĥanah",
-  "chapterNameRomanized": "Al-Mumtahanah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -7496,5 +7495,6 @@
   "pages": [
     549,
     551
-  ]
+  ],
+  "chapterTransliterated": "Al-Mumtahanah"
 }

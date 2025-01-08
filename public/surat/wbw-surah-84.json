@@ -3512,7 +3512,6 @@
   "numberOfAyahs": 25,
   "chapterNameArabic": "الإنشقاق",
   "chapterNameTranscribed": "Al-'Inshiqāq",
-  "chapterNameRomanized": "Al-Inshiqaq",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -3625,5 +3624,6 @@
   "pages": [
     589,
     589
-  ]
+  ],
+  "chapterTransliterated": "Al-Inshiqaq"
 }

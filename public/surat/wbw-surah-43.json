@@ -21025,7 +21025,6 @@
   "numberOfAyahs": 89,
   "chapterNameArabic": "الزخرف",
   "chapterNameTranscribed": "Az-Zukhruf",
-  "chapterNameRomanized": "Az-Zukhruf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -21138,5 +21137,6 @@
   "pages": [
     489,
     495
-  ]
+  ],
+  "chapterTransliterated": "Az-Zukhruf"
 }

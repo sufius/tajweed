@@ -5651,7 +5651,6 @@
   "numberOfAyahs": 40,
   "chapterNameArabic": "النبإ",
   "chapterNameTranscribed": "An-Naba",
-  "chapterNameRomanized": "An-Naba",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5764,5 +5763,6 @@
   "pages": [
     582,
     583
-  ]
+  ],
+  "chapterTransliterated": "An-Naba"
 }

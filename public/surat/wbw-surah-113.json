@@ -736,7 +736,6 @@
   "numberOfAyahs": 5,
   "chapterNameArabic": "الفلق",
   "chapterNameTranscribed": "Al-Falaq",
-  "chapterNameRomanized": "Al-Falaq",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -849,5 +848,6 @@
   "pages": [
     604,
     604
-  ]
+  ],
+  "chapterTransliterated": "Al-Falaq"
 }

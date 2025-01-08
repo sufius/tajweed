@@ -989,7 +989,6 @@
   "numberOfAyahs": 8,
   "chapterNameArabic": "الشرح",
   "chapterNameTranscribed": "Ash-Sharĥ",
-  "chapterNameRomanized": "Ash-Sharh",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1102,5 +1101,6 @@
   "pages": [
     596,
     596
-  ]
+  ],
+  "chapterTransliterated": "Ash-Sharh"
 }

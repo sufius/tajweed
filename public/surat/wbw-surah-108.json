@@ -371,7 +371,6 @@
   "numberOfAyahs": 3,
   "chapterNameArabic": "الكوثر",
   "chapterNameTranscribed": "Al-Kawthar",
-  "chapterNameRomanized": "Al-Kawthar",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -484,5 +483,6 @@
   "pages": [
     602,
     602
-  ]
+  ],
+  "chapterTransliterated": "Al-Kawthar"
 }

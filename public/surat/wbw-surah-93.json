@@ -1413,7 +1413,6 @@
   "numberOfAyahs": 11,
   "chapterNameArabic": "الضحى",
   "chapterNameTranscribed": "Ađ-Đuĥaá",
-  "chapterNameRomanized": "Ad-Duhaa",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -1526,5 +1525,6 @@
   "pages": [
     596,
     596
-  ]
+  ],
+  "chapterTransliterated": "Ad-Duhaa"
 }

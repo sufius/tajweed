@@ -24045,7 +24045,6 @@
   "numberOfAyahs": 98,
   "chapterNameArabic": "مريم",
   "chapterNameTranscribed": "Maryam",
-  "chapterNameRomanized": "Maryam",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -24158,5 +24157,6 @@
   "pages": [
     305,
     312
-  ]
+  ],
+  "chapterTransliterated": "Maryam"
 }

@@ -10059,7 +10059,6 @@
   "numberOfAyahs": 59,
   "chapterNameArabic": "الدخان",
   "chapterNameTranscribed": "Ad-Dukhān",
-  "chapterNameRomanized": "Ad-Dukhan",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -10172,5 +10171,6 @@
   "pages": [
     496,
     498
-  ]
+  ],
+  "chapterTransliterated": "Ad-Dukhan"
 }

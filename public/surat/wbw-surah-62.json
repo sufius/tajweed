@@ -3978,7 +3978,6 @@
   "numberOfAyahs": 11,
   "chapterNameArabic": "الجمعة",
   "chapterNameTranscribed": "Al-Jumu`ah",
-  "chapterNameRomanized": "Al-Jumu'ah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -4091,5 +4090,6 @@
   "pages": [
     553,
     554
-  ]
+  ],
+  "chapterTransliterated": "Al-Jumu'ah"
 }

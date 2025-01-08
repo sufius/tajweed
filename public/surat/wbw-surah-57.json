@@ -12621,7 +12621,6 @@
   "numberOfAyahs": 29,
   "chapterNameArabic": "الحديد",
   "chapterNameTranscribed": "Al-Ĥadīd",
-  "chapterNameRomanized": "Al-Hadid",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -12734,5 +12733,6 @@
   "pages": [
     537,
     541
-  ]
+  ],
+  "chapterTransliterated": "Al-Hadid"
 }

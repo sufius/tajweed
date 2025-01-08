@@ -5480,7 +5480,6 @@
   "numberOfAyahs": 40,
   "chapterNameArabic": "القيامة",
   "chapterNameTranscribed": "Al-Qiyāmah",
-  "chapterNameRomanized": "Al-Qiyamah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -5593,5 +5592,6 @@
   "pages": [
     577,
     578
-  ]
+  ],
+  "chapterTransliterated": "Al-Qiyamah"
 }

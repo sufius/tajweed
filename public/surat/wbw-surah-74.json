@@ -8153,7 +8153,6 @@
   "numberOfAyahs": 56,
   "chapterNameArabic": "المدثر",
   "chapterNameTranscribed": "Al-Muddaththir",
-  "chapterNameRomanized": "Al-Muddaththir",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -8266,5 +8265,6 @@
   "pages": [
     575,
     577
-  ]
+  ],
+  "chapterTransliterated": "Al-Muddaththir"
 }

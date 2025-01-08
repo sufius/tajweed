@@ -38439,7 +38439,6 @@
   "numberOfAyahs": 227,
   "chapterNameArabic": "الشعراء",
   "chapterNameTranscribed": "Ash-Shu`arā",
-  "chapterNameRomanized": "Ash-Shu'ara",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -38552,5 +38551,6 @@
   "pages": [
     367,
     376
-  ]
+  ],
+  "chapterTransliterated": "Ash-Shu'ara"
 }

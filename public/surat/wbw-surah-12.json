@@ -40316,7 +40316,6 @@
   "numberOfAyahs": 111,
   "chapterNameArabic": "يوسف",
   "chapterNameTranscribed": "Yūsuf",
-  "chapterNameRomanized": "Yusuf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -40429,5 +40428,6 @@
   "pages": [
     235,
     248
-  ]
+  ],
+  "chapterTransliterated": "Yusuf"
 }

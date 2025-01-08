@@ -542,7 +542,6 @@
   "numberOfAyahs": 3,
   "chapterNameArabic": "النصر",
   "chapterNameTranscribed": "An-Naşr",
-  "chapterNameRomanized": "An-Nasr",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -655,5 +654,6 @@
   "pages": [
     603,
     603
-  ]
+  ],
+  "chapterTransliterated": "An-Nasr"
 }

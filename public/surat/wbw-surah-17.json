@@ -36117,7 +36117,6 @@
   "numberOfAyahs": 111,
   "chapterNameArabic": "الإسراء",
   "chapterNameTranscribed": "Al-'Isrā",
-  "chapterNameRomanized": "Al-Isra",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -36230,5 +36229,6 @@
   "pages": [
     282,
     293
-  ]
+  ],
+  "chapterTransliterated": "Al-Isra"
 }

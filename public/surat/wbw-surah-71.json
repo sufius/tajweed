@@ -5950,7 +5950,6 @@
   "numberOfAyahs": 28,
   "chapterNameArabic": "نوح",
   "chapterNameTranscribed": "Nūĥ",
-  "chapterNameRomanized": "Nuh",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -6063,5 +6062,6 @@
   "pages": [
     570,
     571
-  ]
+  ],
+  "chapterTransliterated": "Nuh"
 }

@@ -36495,7 +36495,6 @@
   "numberOfAyahs": 110,
   "chapterNameArabic": "الكهف",
   "chapterNameTranscribed": "Al-Kahf",
-  "chapterNameRomanized": "Al-Kahf",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -36608,5 +36607,6 @@
   "pages": [
     293,
     304
-  ]
+  ],
+  "chapterTransliterated": "Al-Kahf"
 }

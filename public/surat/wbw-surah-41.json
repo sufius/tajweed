@@ -18276,7 +18276,6 @@
   "numberOfAyahs": 54,
   "chapterNameArabic": "فصلت",
   "chapterNameTranscribed": "Fuşşilat",
-  "chapterNameRomanized": "Fussilat",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -18389,5 +18388,6 @@
   "pages": [
     477,
     482
-  ]
+  ],
+  "chapterTransliterated": "Fussilat"
 }

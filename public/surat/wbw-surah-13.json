@@ -18748,7 +18748,6 @@
   "numberOfAyahs": 43,
   "chapterNameArabic": "الرعد",
   "chapterNameTranscribed": "Ar-Ra`d",
-  "chapterNameRomanized": "Ar-Ra'd",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -18861,5 +18860,6 @@
   "pages": [
     249,
     255
-  ]
+  ],
+  "chapterTransliterated": "Ar-Ra'd"
 }

@@ -10270,7 +10270,6 @@
   "numberOfAyahs": 22,
   "chapterNameArabic": "المجادلة",
   "chapterNameTranscribed": "Al-Mujādila",
-  "chapterNameRomanized": "Al-Mujadila",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -10383,5 +10382,6 @@
   "pages": [
     542,
     545
-  ]
+  ],
+  "chapterTransliterated": "Al-Mujadila"
 }

@@ -2493,7 +2493,6 @@
   "numberOfAyahs": 19,
   "chapterNameArabic": "الأعلى",
   "chapterNameTranscribed": "Al-'A`lá",
-  "chapterNameRomanized": "Al-A'la",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2606,5 +2605,6 @@
   "pages": [
     591,
     592
-  ]
+  ],
+  "chapterTransliterated": "Al-A'la"
 }

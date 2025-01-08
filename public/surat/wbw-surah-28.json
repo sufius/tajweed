@@ -32366,7 +32366,6 @@
   "numberOfAyahs": 88,
   "chapterNameArabic": "القصص",
   "chapterNameTranscribed": "Al-Qaşaş",
-  "chapterNameRomanized": "Al-Qasas",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -32479,5 +32478,6 @@
   "pages": [
     385,
     396
-  ]
+  ],
+  "chapterTransliterated": "Al-Qasas"
 }

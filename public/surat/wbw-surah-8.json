@@ -27856,7 +27856,6 @@
   "numberOfAyahs": 75,
   "chapterNameArabic": "الأنفال",
   "chapterNameTranscribed": "Al-'Anfāl",
-  "chapterNameRomanized": "Al-Anfal",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -27969,5 +27968,6 @@
   "pages": [
     177,
     186
-  ]
+  ],
+  "chapterTransliterated": "Al-Anfal"
 }

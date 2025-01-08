@@ -2166,7 +2166,6 @@
   "numberOfAyahs": 17,
   "chapterNameArabic": "الطارق",
   "chapterNameTranscribed": "Aţ-Ţāriq",
-  "chapterNameRomanized": "At-Tariq",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2279,5 +2278,6 @@
   "pages": [
     591,
     591
-  ]
+  ],
+  "chapterTransliterated": "At-Tariq"
 }

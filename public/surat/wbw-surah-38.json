@@ -19123,7 +19123,6 @@
   "numberOfAyahs": 88,
   "chapterNameArabic": "ص",
   "chapterNameTranscribed": "Şād",
-  "chapterNameRomanized": "Sad",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -19236,5 +19235,6 @@
   "pages": [
     453,
     458
-  ]
+  ],
+  "chapterTransliterated": "Sad"
 }

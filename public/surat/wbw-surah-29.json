@@ -22619,7 +22619,6 @@
   "numberOfAyahs": 69,
   "chapterNameArabic": "العنكبوت",
   "chapterNameTranscribed": "Al-`Ankabūt",
-  "chapterNameRomanized": "Al-'Ankabut",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -22732,5 +22731,6 @@
   "pages": [
     396,
     404
-  ]
+  ],
+  "chapterTransliterated": "Al-'Ankabut"
 }

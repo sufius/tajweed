@@ -2742,7 +2742,6 @@
   "numberOfAyahs": 20,
   "chapterNameArabic": "البلد",
   "chapterNameTranscribed": "Al-Balad",
-  "chapterNameRomanized": "Al-Balad",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2855,5 +2854,6 @@
   "pages": [
     594,
     594
-  ]
+  ],
+  "chapterTransliterated": "Al-Balad"
 }

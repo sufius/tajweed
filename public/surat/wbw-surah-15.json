@@ -18290,7 +18290,6 @@
   "numberOfAyahs": 99,
   "chapterNameArabic": "الحجر",
   "chapterNameTranscribed": "Al-Ĥijr",
-  "chapterNameRomanized": "Al-Hijr",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -18403,5 +18402,6 @@
   "pages": [
     262,
     267
-  ]
+  ],
+  "chapterTransliterated": "Al-Hijr"
 }

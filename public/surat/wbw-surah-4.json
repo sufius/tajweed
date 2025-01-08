@@ -81581,7 +81581,6 @@
   "numberOfAyahs": 176,
   "chapterNameArabic": "النساء",
   "chapterNameTranscribed": "An-Nisā",
-  "chapterNameRomanized": "An-Nisa",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -81694,5 +81693,6 @@
   "pages": [
     77,
     106
-  ]
+  ],
+  "chapterTransliterated": "An-Nisa"
 }

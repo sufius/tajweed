@@ -2493,7 +2493,6 @@
   "numberOfAyahs": 19,
   "chapterNameArabic": "العلق",
   "chapterNameTranscribed": "Al-`Alaq",
-  "chapterNameRomanized": "Al-'Alaq",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -2606,5 +2605,6 @@
   "pages": [
     597,
     597
-  ]
+  ],
+  "chapterTransliterated": "Al-'Alaq"
 }

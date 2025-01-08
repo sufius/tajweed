@@ -60360,7 +60360,6 @@
   "numberOfAyahs": 120,
   "chapterNameArabic": "المائدة",
   "chapterNameTranscribed": "Al-Mā'idah",
-  "chapterNameRomanized": "Al-Ma'idah",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -60473,5 +60472,6 @@
   "pages": [
     106,
     127
-  ]
+  ],
+  "chapterTransliterated": "Al-Ma'idah"
 }

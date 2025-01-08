@@ -28180,7 +28180,6 @@
   "numberOfAyahs": 85,
   "chapterNameArabic": "غافر",
   "chapterNameTranscribed": "Ghāfir",
-  "chapterNameRomanized": "Ghafir",
   "chapterNameTranslated": {
     "en": {
       "language_name": "english",
@@ -28293,5 +28292,6 @@
   "pages": [
     467,
     476
-  ]
+  ],
+  "chapterTransliterated": "Ghafir"
 }
