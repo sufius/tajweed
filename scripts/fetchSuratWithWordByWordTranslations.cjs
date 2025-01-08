@@ -16,7 +16,7 @@ if (!fs.existsSync(outputDir)) {
     for (let surahNumber = 1; surahNumber <= 114; surahNumber++) {
         try {
             // Fetch the data for the current Surah
-            const url = `${baseUrl}/${surahNumber}?words=true&translations=${languages}&fields=text_uthmani`;
+            const url = `${baseUrl}/${surahNumber}?words=true&word_fields=text_uthmani&translations=${languages}&fields=text_uthmani`;
             const response = await axios.get(url);
 
             // Save the data to a file
