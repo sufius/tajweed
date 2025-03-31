@@ -1,148 +1,176 @@
+
+require('dotenv').config({ path: '.env.local' });
+
 const fs = require('fs');
 const path = require('path');
+const { OpenAI } = require('openai');
+
 
 // File paths – adjust if needed
-const sourceFile = path.join(__dirname, '../public/boards/surah-2.json');
-const destFile = path.join(__dirname, '../public/boards/surah-2-splitted.json');
+const sourceFile = path.join(__dirname, '../public/boards/surah-18.json');
+const destFile = path.join(__dirname, '../public/boards/surah-18-splitted.json');
 
 // Base string (max allowed length for text_uthmani)
 const baseString = "﴿٥٦﴾ وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ‌ۚ وَيُجَـٰدِلُ ٱلَّذِينَ كَفَرُواْ بِٱلْبَـٰطِلِ لِيُدْحِضُواْ بِهِ ٱلْحَقَّ‌ۖ وَٱتَّخَذُوٓاْ ءَايَـٰتِى وَمَآ أُنذِرُواْ هُزُوًا";
 const maxLength = baseString.length;
 
-// Helper: find last occurrence of any punctuation in a given string
-function findLastPunctuation(str) {
-  const punctuations = [',', '،', ';', '؛', ':', '.', '؟', '?', '!'];
-  let lastIndex = -1;
-  for (let punc of punctuations) {
-    const idx = str.lastIndexOf(punc);
-    if (idx > lastIndex) {
-      lastIndex = idx;
-    }
-  }
-  return lastIndex;
-}
+console.log('process.env.OPENAI_API_KEY', process.env.OPENAI_API_KEY);
 
-// Function to split a verse into segments if needed.
-// It uses the translation text as a guide to find natural breakpoints.
-function splitVerse(verse, maxLength) {
-  const { text_uthmani, text_uthmani_tajweed_parsed, text_uthmani_transcribed, translation } = verse;
-  if (text_uthmani.length <= maxLength) return null; // no splitting needed
+// Setup OpenAI API configuration (make sure OPENAI_API_KEY is set in your environment)
+const openai = new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY,
+});
 
-  const segments = [];
-  const totalArabicLength = text_uthmani.length;
-  const totalTranslationLength = translation.length;
-  // Determine minimum number of segments needed.
-  const nParts = Math.ceil(totalArabicLength / maxLength);
+/**
+ * Calls the OpenAI API to determine the ideal break indices for a given verse.
+ *
+ * @param {string} arabic - The Arabic text (text_uthmani)
+ * @param {string} transcribed - The transcribed text (text_uthmani_transcribed)
+ * @param {string} translation - The translation text
+ * @param {number} maxLen - The maximum allowed length per segment for the Arabic text
+ * @returns {Promise<Object>} - A promise resolving to an object with arrays "arabicBreaks" and "translationBreaks"
+ */
+async function getSegmentBreakIndices(arabic, transcribed, translation, maxLen) {
+  // Determine how many segments are needed
+  const nParts = Math.ceil(arabic.length / maxLen);
 
-  let prevArabicIndex = 0;
-  let prevTranslationIndex = 0;
+  // Construct a prompt instructing the model to find semantically ideal breakpoints.
+  const prompt = `
+You are a text segmentation expert. I have the following texts that represent parallel versions of the same content:
+  
+Arabic (text_uthmani): 
+${arabic}
 
-  // For each segment except the last
-  for (let i = 0; i < nParts - 1; i++) {
-    // Ideal break in the translation for an evenly split segment
-    let idealTranslationBreak = Math.floor((i + 1) * (totalTranslationLength / nParts));
-    // Compute corresponding ideal break in Arabic text by proportion.
-    let idealArabicBreak = Math.floor((idealTranslationBreak / totalTranslationLength) * totalArabicLength);
+Transcribed (text_uthmani_transcribed): 
+${transcribed}
 
-    // Ensure we do not exceed the allowed maximum for this segment.
-    const segmentMaxArabic = prevArabicIndex + maxLength;
-    if (idealArabicBreak > segmentMaxArabic) {
-      idealArabicBreak = segmentMaxArabic;
-    }
-    // Now try to refine the break by checking for a punctuation marker in the translation.
-    // Look at the translation substring corresponding to the current segment.
-    let translationSegment = translation.substring(prevTranslationIndex, idealTranslationBreak);
-    const puncIndex = findLastPunctuation(translationSegment);
-    if (puncIndex !== -1) {
-      // Adjust the translation break to this punctuation position (plus one to include it).
-      idealTranslationBreak = prevTranslationIndex + puncIndex + 1;
-      // Recalculate the corresponding Arabic break using proportion.
-      let newArabicBreak = Math.floor((idealTranslationBreak / totalTranslationLength) * totalArabicLength);
-      // Ensure we do not exceed the segment max.
-      if (newArabicBreak > segmentMaxArabic) {
-        newArabicBreak = segmentMaxArabic;
-      }
-      // Use the adjusted break if it is further than our current previous index.
-      if (newArabicBreak > prevArabicIndex) {
-        idealArabicBreak = newArabicBreak;
-      }
-    }
-    // Fallback: if no punctuation was found or if the computed break is not valid, use segmentMaxArabic.
-    if (idealArabicBreak <= prevArabicIndex) {
-      idealArabicBreak = segmentMaxArabic;
-    }
+Translation: 
+${translation}
 
-    // Now determine the corresponding break in the translation.
-    // We use the ratio of the current segment length in Arabic to approximate the translation break.
-    const segmentArabicLength = idealArabicBreak - prevArabicIndex;
-    const ratio = segmentArabicLength / (totalArabicLength - prevArabicIndex);
-    let idealTranslationBreak2 = prevTranslationIndex + Math.floor(ratio * (totalTranslationLength - prevTranslationIndex));
-    if (idealTranslationBreak2 <= prevTranslationIndex) {
-      idealTranslationBreak2 = prevTranslationIndex + Math.floor(totalTranslationLength / nParts);
-    }
+The maximum allowed length for the Arabic text in a single segment is ${maxLen} characters.
+I need to split the texts into ${nParts} segments such that:
+  1. Each segment of the Arabic text does not exceed ${maxLen} characters.
+  2. The splits occur at semantically coherent positions (e.g. natural breaks in meaning).
+  3. The breakpoints align as much as possible across all texts.
+  4. The start and the end of the transcribed text have to match exactly with start and end of the arabic segment
+  
+Please analyze the texts and return a JSON object with three arrays:
+  - "arabicBreaks": an array of indices (non-inclusive) where each segment of the Arabic text should end.
+  - "transcribedBreaks": an array of indices for the transcription text corresponding to the arabic segment breaks.
+  - "translationBreaks": an array of indices for the translation text corresponding to these segment breaks.
+Do not include any explanation, only return valid JSON. If a segment does not require splitting because the remainder is less than or equal to the allowed maximum, then simply return the index corresponding to the end of the text.
 
-    // Slice the segments for each field.
-    const segArabic = text_uthmani.substring(prevArabicIndex, idealArabicBreak).trim();
-    const segTajweed = text_uthmani_tajweed_parsed.substring(prevArabicIndex, idealArabicBreak).trim();
-    const segTranscribed = text_uthmani_transcribed.substring(prevArabicIndex, idealArabicBreak).trim();
-    const segTranslation = translation.substring(prevTranslationIndex, idealTranslationBreak2).trim();
+For example, if the Arabic text has length 200 and maxLen is 100 and you need 2 segments, you might return:
+{"arabicBreaks": [95, 200], "transcribedBreaks": [88, 195], "translationBreaks": [90, 180]}
+Ensure that the provided indices result in segments that are as long as possible without exceeding the maximum.
+`;
 
-    segments.push({
-      text_uthmani: segArabic,
-      text_uthmani_tajweed_parsed: segTajweed,
-      text_uthmani_transcribed: segTranscribed,
-      translation: segTranslation
+  // Call OpenAI ChatCompletion API
+  try {
+    const completion = await openai.chat.completions.create({
+        model: "gpt-4o",
+    //   model: "gpt-4",
+    //   model: "gpt-3.5-turbo",
+    //   model: "gpt-4o-mini",
+    //   model: "gpt-4o-mini-2024-07-18",
+      messages: [{
+        role: "system",
+        content: "You are an expert in text segmentation."
+      }, {
+        role: "user",
+        content: prompt
+      }],
+      temperature: 0.0, // for deterministic responses
+      //   max_tokens: 300,
+      response_format: { type: "json_object" }  // ✅ Correct value
     });
 
-    // Update indices for the next segment.
-    prevArabicIndex = idealArabicBreak;
-    prevTranslationIndex = idealTranslationBreak2;
+    const responseText = completion.choices[0].message.content.trim();
+    // Expecting JSON output – try to parse it.
+    const result = JSON.parse(responseText);
+    return result;
+  } catch (error) {
+    console.error("Error in OpenAI API call:", error.response ? error.response.data : error.message);
+    throw error;
   }
-  // Last segment takes the remainder.
-  const segArabic = text_uthmani.substring(prevArabicIndex).trim();
-  const segTajweed = text_uthmani_tajweed_parsed.substring(prevArabicIndex).trim();
-  const segTranscribed = text_uthmani_transcribed.substring(prevArabicIndex).trim();
-  const segTranslation = translation.substring(prevTranslationIndex).trim();
+}
 
-  segments.push({
-    text_uthmani: segArabic,
-    text_uthmani_tajweed_parsed: segTajweed,
-    text_uthmani_transcribed: segTranscribed,
-    translation: segTranslation
-  });
+/**
+ * Splits a verse into segments using OpenAI-determined break indices.
+ * Returns an array of segments, where each segment is an object with the four text fields.
+ */
+async function splitVerseUsingAPI(verse, maxLen) {
+  const { text_uthmani, text_uthmani_transcribed, translation } = verse;
+  // If no splitting needed, return null.
+  if (text_uthmani.length <= maxLen) return null;
 
+  // Get break indices from OpenAI API.
+  const { arabicBreaks, transcribedBreaks, translationBreaks } = await getSegmentBreakIndices(
+    text_uthmani,
+    text_uthmani_transcribed,
+    translation,
+    maxLen
+  );
+  
+  // Build segments based on the break indices.
+  const segments = [];
+  let prevArabic = 0;
+  let prevTranscribed = 0;
+  let prevTranslation = 0;
+  for (let i = 0; i < arabicBreaks.length; i++) {
+    const endArabic = arabicBreaks[i];
+    const endTranscribed = transcribedBreaks[i];
+    const endTranslation = translationBreaks[i];
+    segments.push({
+      text_uthmani: text_uthmani.substring(prevArabic, endArabic).trim(),
+      text_uthmani_transcribed: text_uthmani_transcribed.substring(prevTranscribed, endTranscribed).trim(),
+      translation: translation.substring(prevTranslation, endTranslation).trim()
+    });
+    prevArabic = endArabic;
+    prevTranscribed = endTranscribed;
+    prevTranslation = endTranslation;
+  }
+  // If there's any remainder, add it as the final segment.
+  if (prevArabic < text_uthmani.length) {
+    segments.push({
+      text_uthmani: text_uthmani.substring(prevArabic).trim(),
+      text_uthmani_transcribed: text_uthmani_transcribed.substring(prevTranscribed).trim(),
+      translation: translation.substring(prevTranslation).trim()
+    });
+  }
   return segments;
 }
 
-// Read the source file
-fs.readFile(sourceFile, 'utf8', (err, data) => {
-  if (err) {
-    console.error(`Error reading ${sourceFile}:`, err);
-    return;
-  }
+async function processFile() {
   try {
+    const data = fs.readFileSync(sourceFile, 'utf8');
     const jsonData = JSON.parse(data);
-    const newVerses = jsonData.verses.map(verse => {
-      // Create a new verse object with required fields.
+
+    // Process each verse – if it needs splitting, call the API for segmentation.
+    // Using Promise.all to process verses in parallel.
+    const newVerses = await Promise.all(jsonData.verses.map(async (verse) => {
       const newVerse = {
         verse_number: verse.verse_number,
         text_uthmani: verse.text_uthmani,
-        text_uthmani_tajweed_parsed: verse.text_uthmani_tajweed_parsed,
         text_uthmani_transcribed: verse.text_uthmani_transcribed,
         translation: verse.translation
       };
 
-      // Check if the Arabic text exceeds the allowed maximum.
       if (verse.text_uthmani.length > maxLength) {
-        const splittedSegments = splitVerse(verse, maxLength);
-        if (splittedSegments) {
-          newVerse.splitted = splittedSegments;
+        try {
+          const segments = await splitVerseUsingAPI(verse, maxLength);
+          if (segments) {
+            newVerse.splitted = segments;
+          }
+        } catch (err) {
+          console.error(`Error splitting verse ${verse.verse_number}:`, err);
+          // Optionally, you can fallback to not splitting or use a default splitting method.
         }
       }
       return newVerse;
-    });
+    }));
 
-    // Prepare the new data structure.
+    // Prepare new data structure.
     const newData = {
       chapter_number: jsonData.chapter_number,
       verses: newVerses
@@ -153,15 +181,12 @@ fs.readFile(sourceFile, 'utf8', (err, data) => {
     if (!fs.existsSync(destDir)) {
       fs.mkdirSync(destDir, { recursive: true });
     }
-    // Write new data to destination file.
-    fs.writeFile(destFile, JSON.stringify(newData, null, 2), 'utf8', err => {
-      if (err) {
-        console.error(`Error writing ${destFile}:`, err);
-      } else {
-        console.log(`Created file: ${destFile}`);
-      }
-    });
-  } catch (parseErr) {
-    console.error("Error parsing JSON:", parseErr);
+    fs.writeFileSync(destFile, JSON.stringify(newData, null, 2), 'utf8');
+    console.log(`Created file: ${destFile}`);
+  } catch (error) {
+    console.error("Error processing file:", error);
   }
-});
+}
+
+// Run the process.
+processFile();

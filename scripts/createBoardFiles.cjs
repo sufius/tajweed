@@ -32,7 +32,6 @@ glob(path.join(sourceDir, 'surah-*.json'), (err, files) => {
           return {
             verse_number: verse.verse_number,
             text_uthmani: verse.text_uthmani,
-            text_uthmani_tajweed_parsed: verse.text_uthmani_tajweed_parsed,
             text_uthmani_transcribed: verse.text_uthmani_transcribed,
             translation: translationObj ? translationObj.text : null
           };
