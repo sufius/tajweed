@@ -33,17 +33,12 @@ fs.readdir(sourceDir, (err, files) => {
 function processFile(filePath, originalFileName) {
     try {
         const data = fs.readFileSync(filePath, 'utf8');
-        const jsonData = JSON.parse(data);
-        const { chapter_number, verses } = jsonData;
+        const verses = JSON.parse(data);
 
         // Split verses into chunks of MAX_VERSES_PER_FILE
         let chunkIndex = 1;
         for (let i = 0; i < verses.length; i += MAX_VERSES_PER_FILE) {
             const chunk = verses.slice(i, i + MAX_VERSES_PER_FILE);
-            const chunkData = {
-                chapter_number,
-                verses: chunk
-            };
 
             // Construct new file name
             const baseName = path.basename(originalFileName, '.json');
@@ -51,7 +46,7 @@ function processFile(filePath, originalFileName) {
             const newFilePath = path.join(destDir, newFileName);
 
             // Write chunk to new file
-            fs.writeFileSync(newFilePath, JSON.stringify(chunkData, null, 2), 'utf8');
+            fs.writeFileSync(newFilePath, JSON.stringify(chunk, null, 2), 'utf8');
             console.log(`Created file: ${newFilePath}`);
 
             chunkIndex++;

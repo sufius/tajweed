@@ -1,71 +1,68 @@
-{
-  "chapter_number": 90,
-  "verses": [
-    {
-      "verse_number": 1,
-      "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
-      "text_uthmani_transcribed": "Lā uqsimu bihāżal-balad(i).",
-      "translation": "Клянусь сим городом"
-    },
-    {
-      "verse_number": 2,
-      "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
-      "text_uthmani_transcribed": "Wa anta ḥillum bihāżal-balad(i).",
-      "translation": "В котором ты живешь"
-    },
-    {
-      "verse_number": 3,
-      "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
-      "text_uthmani_transcribed": "Wa wālidiw wa mā walad(a).",
-      "translation": "Родителем и тем, что породил он"
-    },
-    {
-      "verse_number": 4,
-      "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
-      "text_uthmani_transcribed": "Laqad khalaqnal-insāna fī kabad(in).",
-      "translation": "Мы человека создали на тяготы (земные)"
-    },
-    {
-      "verse_number": 5,
-      "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
-      "text_uthmani_transcribed": "Ayaḥsabu allay yaqdira 'alaihi  aḥad(un).",
-      "translation": "Так неужели он воображает, Что здесь над ним никто не властен"
-    },
-    {
-      "verse_number": 6,
-      "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
-      "text_uthmani_transcribed": "Yaqūlu ahlaktu mālal lubadā(n).",
-      "translation": "Он может говорить: \"Я заплатил за все сполна"
-    },
-    {
-      "verse_number": 7,
-      "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
-      "text_uthmani_transcribed": "Ayaḥsabu allam yarahū aḥad(un).",
-      "translation": "Ужель он думает, никто его не видит"
-    },
-    {
-      "verse_number": 8,
-      "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
-      "text_uthmani_transcribed": "Alam naj'al lahū 'ainain(i).",
-      "translation": "И разве не дано ему двух глаз"
-    },
-    {
-      "verse_number": 9,
-      "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
-      "text_uthmani_transcribed": "Wa lisānaw wa syafatain(i).",
-      "translation": "И языка, и пары губ"
-    },
-    {
-      "verse_number": 10,
-      "text_uthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
-      "text_uthmani_transcribed": "Wa hadaināhun-najdain(i).",
-      "translation": "И не указаны два главных направленья (Добра и Зла)"
-    },
-    {
-      "verse_number": 11,
-      "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
-      "text_uthmani_transcribed": "Falaqtaḥamal-'aqabah(ta).",
-      "translation": "Но не спешит избрать стезю крутую человек"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 1,
+    "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+    "text_uthmani_transcribed": "Lā uqsimu bihāżal-balad(i).",
+    "translation": "Клянусь сим городом"
+  },
+  {
+    "verse_number": 2,
+    "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+    "text_uthmani_transcribed": "Wa anta ḥillum bihāżal-balad(i).",
+    "translation": "В котором ты живешь"
+  },
+  {
+    "verse_number": 3,
+    "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+    "text_uthmani_transcribed": "Wa wālidiw wa mā walad(a).",
+    "translation": "Родителем и тем, что породил он"
+  },
+  {
+    "verse_number": 4,
+    "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+    "text_uthmani_transcribed": "Laqad khalaqnal-insāna fī kabad(in).",
+    "translation": "Мы человека создали на тяготы (земные)"
+  },
+  {
+    "verse_number": 5,
+    "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+    "text_uthmani_transcribed": "Ayaḥsabu allay yaqdira 'alaihi  aḥad(un).",
+    "translation": "Так неужели он воображает, Что здесь над ним никто не властен"
+  },
+  {
+    "verse_number": 6,
+    "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+    "text_uthmani_transcribed": "Yaqūlu ahlaktu mālal lubadā(n).",
+    "translation": "Он может говорить: \"Я заплатил за все сполна"
+  },
+  {
+    "verse_number": 7,
+    "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+    "text_uthmani_transcribed": "Ayaḥsabu allam yarahū aḥad(un).",
+    "translation": "Ужель он думает, никто его не видит"
+  },
+  {
+    "verse_number": 8,
+    "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+    "text_uthmani_transcribed": "Alam naj'al lahū 'ainain(i).",
+    "translation": "И разве не дано ему двух глаз"
+  },
+  {
+    "verse_number": 9,
+    "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+    "text_uthmani_transcribed": "Wa lisānaw wa syafatain(i).",
+    "translation": "И языка, и пары губ"
+  },
+  {
+    "verse_number": 10,
+    "text_uthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+    "text_uthmani_transcribed": "Wa hadaināhun-najdain(i).",
+    "translation": "И не указаны два главных направленья (Добра и Зла)"
+  },
+  {
+    "verse_number": 11,
+    "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+    "text_uthmani_transcribed": "Falaqtaḥamal-'aqabah(ta).",
+    "translation": "Но не спешит избрать стезю крутую человек"
+  }
+]

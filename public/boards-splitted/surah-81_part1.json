@@ -1,71 +1,68 @@
-{
-  "chapter_number": 81,
-  "verses": [
-    {
-      "verse_number": 1,
-      "text_uthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
-      "text_uthmani_transcribed": "Iżasy-syamsu kuwwirat.",
-      "translation": "Когда свернется (и погаснет) солнце"
-    },
-    {
-      "verse_number": 2,
-      "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
-      "text_uthmani_transcribed": "Wa iżan-nujūmunkadarat.",
-      "translation": "Когда, (теряя блеск свой), распадутся звезды"
-    },
-    {
-      "verse_number": 3,
-      "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
-      "text_uthmani_transcribed": "Wa iżal-jibālu suyyirat.",
-      "translation": "Когда, (подобно миражу), Придут в движенье и исчезнут горы"
-    },
-    {
-      "verse_number": 4,
-      "text_uthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
-      "text_uthmani_transcribed": "Wa iżal-'isyāru 'uṭṭilat.",
-      "translation": "Когда верблюдицы, несущие во чреве последний месяц, Будут без присмотра"
-    },
-    {
-      "verse_number": 5,
-      "text_uthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
-      "text_uthmani_transcribed": "Wa iżal-wuḥūsy ḥusyirat.",
-      "translation": "Когда в стада собьются звери (без разделения на виды)"
-    },
-    {
-      "verse_number": 6,
-      "text_uthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
-      "text_uthmani_transcribed": "Wa iżal-biḥāru sujjirat.",
-      "translation": "Когда набухнут и прольются все моря"
-    },
-    {
-      "verse_number": 7,
-      "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
-      "text_uthmani_transcribed": "Wa iżan-nufūsu zuwwijat.",
-      "translation": "Когда распределятся души (по заслугам)"
-    },
-    {
-      "verse_number": 8,
-      "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
-      "text_uthmani_transcribed": "Wa iżal-mau'ūdatu su'ilat.",
-      "translation": "Когда зарытую живьем младенца-девочку воспросят"
-    },
-    {
-      "verse_number": 9,
-      "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
-      "text_uthmani_transcribed": "Bi'ayyi żambin qutilat.",
-      "translation": "За грех какой она была убита"
-    },
-    {
-      "verse_number": 10,
-      "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
-      "text_uthmani_transcribed": "Wa iżaṣ-ṣuḥufu nusyirat.",
-      "translation": "Когда раскрыты будут свитки (записей добра и зла)"
-    },
-    {
-      "verse_number": 11,
-      "text_uthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
-      "text_uthmani_transcribed": "Wa iżas-samā'u kusyiṭat.",
-      "translation": "И обнажится небо"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 1,
+    "text_uthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+    "text_uthmani_transcribed": "Iżasy-syamsu kuwwirat.",
+    "translation": "Когда свернется (и погаснет) солнце"
+  },
+  {
+    "verse_number": 2,
+    "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+    "text_uthmani_transcribed": "Wa iżan-nujūmunkadarat.",
+    "translation": "Когда, (теряя блеск свой), распадутся звезды"
+  },
+  {
+    "verse_number": 3,
+    "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+    "text_uthmani_transcribed": "Wa iżal-jibālu suyyirat.",
+    "translation": "Когда, (подобно миражу), Придут в движенье и исчезнут горы"
+  },
+  {
+    "verse_number": 4,
+    "text_uthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+    "text_uthmani_transcribed": "Wa iżal-'isyāru 'uṭṭilat.",
+    "translation": "Когда верблюдицы, несущие во чреве последний месяц, Будут без присмотра"
+  },
+  {
+    "verse_number": 5,
+    "text_uthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+    "text_uthmani_transcribed": "Wa iżal-wuḥūsy ḥusyirat.",
+    "translation": "Когда в стада собьются звери (без разделения на виды)"
+  },
+  {
+    "verse_number": 6,
+    "text_uthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+    "text_uthmani_transcribed": "Wa iżal-biḥāru sujjirat.",
+    "translation": "Когда набухнут и прольются все моря"
+  },
+  {
+    "verse_number": 7,
+    "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+    "text_uthmani_transcribed": "Wa iżan-nufūsu zuwwijat.",
+    "translation": "Когда распределятся души (по заслугам)"
+  },
+  {
+    "verse_number": 8,
+    "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+    "text_uthmani_transcribed": "Wa iżal-mau'ūdatu su'ilat.",
+    "translation": "Когда зарытую живьем младенца-девочку воспросят"
+  },
+  {
+    "verse_number": 9,
+    "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+    "text_uthmani_transcribed": "Bi'ayyi żambin qutilat.",
+    "translation": "За грех какой она была убита"
+  },
+  {
+    "verse_number": 10,
+    "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+    "text_uthmani_transcribed": "Wa iżaṣ-ṣuḥufu nusyirat.",
+    "translation": "Когда раскрыты будут свитки (записей добра и зла)"
+  },
+  {
+    "verse_number": 11,
+    "text_uthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+    "text_uthmani_transcribed": "Wa iżas-samā'u kusyiṭat.",
+    "translation": "И обнажится небо"
+  }
+]

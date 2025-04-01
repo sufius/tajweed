@@ -1,53 +1,50 @@
-{
-  "chapter_number": 69,
-  "verses": [
-    {
-      "verse_number": 45,
-      "text_uthmani": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
-      "text_uthmani_transcribed": "La'akhażnā minhu  bil-yamīn(i).",
-      "translation": "Его б схватили Мы за праву руку"
-    },
-    {
-      "verse_number": 46,
-      "text_uthmani": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
-      "text_uthmani_transcribed": "Ṡumma laqaṭa'nā minhul-watīn(a).",
-      "translation": "Потом Мы рассекли б сердечную артерию его"
-    },
-    {
-      "verse_number": 47,
-      "text_uthmani": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ",
-      "text_uthmani_transcribed": "Famā minkum min aḥadin 'anhu ḥājizīn(a).",
-      "translation": "И не было б ни одного из вас, Кто мог бы защитить его (от гнева вашего Владыки)"
-    },
-    {
-      "verse_number": 48,
-      "text_uthmani": "وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
-      "text_uthmani_transcribed": "Wa innahū latażkiratul lil-muttaqīn(a).",
-      "translation": "Поистине, сие - Напоминание для тех, Кто гнева Божьего страшится"
-    },
-    {
-      "verse_number": 49,
-      "text_uthmani": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
-      "text_uthmani_transcribed": "Wa innā lana'lamu anna minkum mukażżibīn(a).",
-      "translation": "И знаем Мы: поистине, средь вас есть и такие, Которые сие (Напоминанье) ложью нарекают"
-    },
-    {
-      "verse_number": 50,
-      "text_uthmani": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ",
-      "text_uthmani_transcribed": "Wa innahū laḥasratun 'alal-kāfirīn(a).",
-      "translation": "Поистине, оно - причина (всех несчастий) для неверных"
-    },
-    {
-      "verse_number": 51,
-      "text_uthmani": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
-      "text_uthmani_transcribed": "Wa innahū laḥaqqul-yaqīn(i).",
-      "translation": "Оно ведь истинная несомненность"
-    },
-    {
-      "verse_number": 52,
-      "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
-      "text_uthmani_transcribed": "Fa sabbiḥ bismi rabbikal-'aẓīm(i).",
-      "translation": "А потому славь имя Бога твоего, Всевышнего Владыки"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 45,
+    "text_uthmani": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+    "text_uthmani_transcribed": "La'akhażnā minhu  bil-yamīn(i).",
+    "translation": "Его б схватили Мы за праву руку"
+  },
+  {
+    "verse_number": 46,
+    "text_uthmani": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+    "text_uthmani_transcribed": "Ṡumma laqaṭa'nā minhul-watīn(a).",
+    "translation": "Потом Мы рассекли б сердечную артерию его"
+  },
+  {
+    "verse_number": 47,
+    "text_uthmani": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ",
+    "text_uthmani_transcribed": "Famā minkum min aḥadin 'anhu ḥājizīn(a).",
+    "translation": "И не было б ни одного из вас, Кто мог бы защитить его (от гнева вашего Владыки)"
+  },
+  {
+    "verse_number": 48,
+    "text_uthmani": "وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+    "text_uthmani_transcribed": "Wa innahū latażkiratul lil-muttaqīn(a).",
+    "translation": "Поистине, сие - Напоминание для тех, Кто гнева Божьего страшится"
+  },
+  {
+    "verse_number": 49,
+    "text_uthmani": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+    "text_uthmani_transcribed": "Wa innā lana'lamu anna minkum mukażżibīn(a).",
+    "translation": "И знаем Мы: поистине, средь вас есть и такие, Которые сие (Напоминанье) ложью нарекают"
+  },
+  {
+    "verse_number": 50,
+    "text_uthmani": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ",
+    "text_uthmani_transcribed": "Wa innahū laḥasratun 'alal-kāfirīn(a).",
+    "translation": "Поистине, оно - причина (всех несчастий) для неверных"
+  },
+  {
+    "verse_number": 51,
+    "text_uthmani": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+    "text_uthmani_transcribed": "Wa innahū laḥaqqul-yaqīn(i).",
+    "translation": "Оно ведь истинная несомненность"
+  },
+  {
+    "verse_number": 52,
+    "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+    "text_uthmani_transcribed": "Fa sabbiḥ bismi rabbikal-'aẓīm(i).",
+    "translation": "А потому славь имя Бога твоего, Всевышнего Владыки"
+  }
+]

@@ -1,53 +1,50 @@
-{
-  "chapter_number": 89,
-  "verses": [
-    {
-      "verse_number": 23,
-      "text_uthmani": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
-      "text_uthmani_transcribed": "Wa jī'a yauma'iżim bijahannam(a), yauma'iżiy yatażakkarul-insānu wa annā lahuż-żikrā.",
-      "translation": "И Ад предстанет (их глазам), - В тот День Все вспомнит человек! Но как воспоминанья эти помогут участь облегчить его"
-    },
-    {
-      "verse_number": 24,
-      "text_uthmani": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
-      "text_uthmani_transcribed": "Yaqūlu yā laitanī qaddamtu liḥayātī.",
-      "translation": "И скажет он: \"О, если бы деяньями благими Я уготовил себе (будущую) жизнь"
-    },
-    {
-      "verse_number": 25,
-      "text_uthmani": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
-      "text_uthmani_transcribed": "Fa yauma'iżil lā yu'ażżibu 'ażābahū aḥad(un).",
-      "translation": "В тот День Никто другой не сможет наказать таким (страданьем)"
-    },
-    {
-      "verse_number": 26,
-      "text_uthmani": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
-      "text_uthmani_transcribed": "Wa lā yūṡiqu waṡāqahū aḥad(un).",
-      "translation": "Никто другой не сможет наложить таких оков"
-    },
-    {
-      "verse_number": 27,
-      "text_uthmani": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
-      "text_uthmani_transcribed": "Yā ayyatuhan-nafsul-muṭma'innah(tu).",
-      "translation": "О ты, ничем не омраченная душа"
-    },
-    {
-      "verse_number": 28,
-      "text_uthmani": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
-      "text_uthmani_transcribed": "Irji'ī ilā rabbiki rāḍiyatam marḍiyyah(tan).",
-      "translation": "Вернись к Владыке своему Ему угодной и довольной"
-    },
-    {
-      "verse_number": 29,
-      "text_uthmani": "فَٱدْخُلِى فِى عِبَـٰدِى",
-      "text_uthmani_transcribed": "Fadkhuli fī 'ibādī.",
-      "translation": "Средь (истинных) служителей Моих"
-    },
-    {
-      "verse_number": 30,
-      "text_uthmani": "وَٱدْخُلِى جَنَّتِى",
-      "text_uthmani_transcribed": "Wadkhulī jannatī.",
-      "translation": "Войди в Мой Рай"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 23,
+    "text_uthmani": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+    "text_uthmani_transcribed": "Wa jī'a yauma'iżim bijahannam(a), yauma'iżiy yatażakkarul-insānu wa annā lahuż-żikrā.",
+    "translation": "И Ад предстанет (их глазам), - В тот День Все вспомнит человек! Но как воспоминанья эти помогут участь облегчить его"
+  },
+  {
+    "verse_number": 24,
+    "text_uthmani": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+    "text_uthmani_transcribed": "Yaqūlu yā laitanī qaddamtu liḥayātī.",
+    "translation": "И скажет он: \"О, если бы деяньями благими Я уготовил себе (будущую) жизнь"
+  },
+  {
+    "verse_number": 25,
+    "text_uthmani": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+    "text_uthmani_transcribed": "Fa yauma'iżil lā yu'ażżibu 'ażābahū aḥad(un).",
+    "translation": "В тот День Никто другой не сможет наказать таким (страданьем)"
+  },
+  {
+    "verse_number": 26,
+    "text_uthmani": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+    "text_uthmani_transcribed": "Wa lā yūṡiqu waṡāqahū aḥad(un).",
+    "translation": "Никто другой не сможет наложить таких оков"
+  },
+  {
+    "verse_number": 27,
+    "text_uthmani": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+    "text_uthmani_transcribed": "Yā ayyatuhan-nafsul-muṭma'innah(tu).",
+    "translation": "О ты, ничем не омраченная душа"
+  },
+  {
+    "verse_number": 28,
+    "text_uthmani": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+    "text_uthmani_transcribed": "Irji'ī ilā rabbiki rāḍiyatam marḍiyyah(tan).",
+    "translation": "Вернись к Владыке своему Ему угодной и довольной"
+  },
+  {
+    "verse_number": 29,
+    "text_uthmani": "فَٱدْخُلِى فِى عِبَـٰدِى",
+    "text_uthmani_transcribed": "Fadkhuli fī 'ibādī.",
+    "translation": "Средь (истинных) служителей Моих"
+  },
+  {
+    "verse_number": 30,
+    "text_uthmani": "وَٱدْخُلِى جَنَّتِى",
+    "text_uthmani_transcribed": "Wadkhulī jannatī.",
+    "translation": "Войди в Мой Рай"
+  }
+]

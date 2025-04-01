@@ -1,41 +1,38 @@
-{
-  "chapter_number": 86,
-  "verses": [
-    {
-      "verse_number": 12,
-      "text_uthmani": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
-      "text_uthmani_transcribed": "Wal-arḍi żātiṣ-ṣad'(i).",
-      "translation": "И в знак земли, способной раскрываться (Для излияния воды иль прорастанья злаков)"
-    },
-    {
-      "verse_number": 13,
-      "text_uthmani": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
-      "text_uthmani_transcribed": "Innahū laqaulun faṣl(un).",
-      "translation": "Сие - поистине, решающее Слово (Для различения Добра и Зла)"
-    },
-    {
-      "verse_number": 14,
-      "text_uthmani": "وَمَا هُوَ بِٱلْهَزْلِ",
-      "text_uthmani_transcribed": "Wa mā huwa bil-hazl(i).",
-      "translation": "И это - не простая тщЕта"
-    },
-    {
-      "verse_number": 15,
-      "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
-      "text_uthmani_transcribed": "Innahum yakīdūna kaidā(n).",
-      "translation": "Они же хитрость замышляют"
-    },
-    {
-      "verse_number": 16,
-      "text_uthmani": "وَأَكِيدُ كَيْدًا",
-      "text_uthmani_transcribed": "Wa akīdu kaidā(n).",
-      "translation": "А Я (для них) Свою готовлю"
-    },
-    {
-      "verse_number": 17,
-      "text_uthmani": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
-      "text_uthmani_transcribed": "Fa mahhilil-kāfirīna amhilhum ruwaidā(n).",
-      "translation": "Дай же отсрочку им - Отсрочь им мягко, нанемного"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 12,
+    "text_uthmani": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+    "text_uthmani_transcribed": "Wal-arḍi żātiṣ-ṣad'(i).",
+    "translation": "И в знак земли, способной раскрываться (Для излияния воды иль прорастанья злаков)"
+  },
+  {
+    "verse_number": 13,
+    "text_uthmani": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+    "text_uthmani_transcribed": "Innahū laqaulun faṣl(un).",
+    "translation": "Сие - поистине, решающее Слово (Для различения Добра и Зла)"
+  },
+  {
+    "verse_number": 14,
+    "text_uthmani": "وَمَا هُوَ بِٱلْهَزْلِ",
+    "text_uthmani_transcribed": "Wa mā huwa bil-hazl(i).",
+    "translation": "И это - не простая тщЕта"
+  },
+  {
+    "verse_number": 15,
+    "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+    "text_uthmani_transcribed": "Innahum yakīdūna kaidā(n).",
+    "translation": "Они же хитрость замышляют"
+  },
+  {
+    "verse_number": 16,
+    "text_uthmani": "وَأَكِيدُ كَيْدًا",
+    "text_uthmani_transcribed": "Wa akīdu kaidā(n).",
+    "translation": "А Я (для них) Свою готовлю"
+  },
+  {
+    "verse_number": 17,
+    "text_uthmani": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+    "text_uthmani_transcribed": "Fa mahhilil-kāfirīna amhilhum ruwaidā(n).",
+    "translation": "Дай же отсрочку им - Отсрочь им мягко, нанемного"
+  }
+]

@@ -1,71 +1,68 @@
-{
-  "chapter_number": 86,
-  "verses": [
-    {
-      "verse_number": 1,
-      "text_uthmani": " وَٱلسَّمَآءِ وَٱلطَّارِقِ",
-      "text_uthmani_transcribed": "Was-samā'i waṭ-ṭāriq(i).",
-      "translation": "В знак неба и идущего в ночи"
-    },
-    {
-      "verse_number": 2,
-      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
-      "text_uthmani_transcribed": "Wa mā adrāka maṭ-ṭāriq(u).",
-      "translation": "Как объяснить тебе, что значит \"в ночь идущий"
-    },
-    {
-      "verse_number": 3,
-      "text_uthmani": "ٱلنَّجْمُ ٱلثَّاقِبُ",
-      "text_uthmani_transcribed": "An-najmuṡ-ṡāqib(u).",
-      "translation": "Звезда, что рассекает (небо своим светом)"
-    },
-    {
-      "verse_number": 4,
-      "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
-      "text_uthmani_transcribed": "In kullu nafsil lammā 'alaihā ḥāfiẓ(un).",
-      "translation": "Нет ни одной живой души, Что над собою стража не имеет"
-    },
-    {
-      "verse_number": 5,
-      "text_uthmani": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
-      "text_uthmani_transcribed": "Falyanẓuril-insānu mimma khuliq(a).",
-      "translation": "Пусть человек подумает над тем, как он был создан"
-    },
-    {
-      "verse_number": 6,
-      "text_uthmani": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
-      "text_uthmani_transcribed": "Khuliqa mim mā'in dāfiq(in).",
-      "translation": "Он создан из воды, что изливается (струей)"
-    },
-    {
-      "verse_number": 7,
-      "text_uthmani": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
-      "text_uthmani_transcribed": "Yakhruju mim bainiṣ-ṣulbi wat-tarā'ib(i).",
-      "translation": "И из грудных костей, и из хребта исходит"
-    },
-    {
-      "verse_number": 8,
-      "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
-      "text_uthmani_transcribed": "Innahū 'alā raj'ihī laqādir(un).",
-      "translation": "Поистине, Он в силах воскресить его опять"
-    },
-    {
-      "verse_number": 9,
-      "text_uthmani": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
-      "text_uthmani_transcribed": "Yauma tublas-sarā'ir(u).",
-      "translation": "В тот День Все тайное подвергнется проверке"
-    },
-    {
-      "verse_number": 10,
-      "text_uthmani": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
-      "text_uthmani_transcribed": "Famā lahū min quwwatiw wa lā nāṣir(in).",
-      "translation": "Лишенным всякой помощи и власти будет (человек)"
-    },
-    {
-      "verse_number": 11,
-      "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
-      "text_uthmani_transcribed": "Was-samā'i żātir-raj'(i).",
-      "translation": "В знак неба, что вершит обратный путь"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 1,
+    "text_uthmani": " وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+    "text_uthmani_transcribed": "Was-samā'i waṭ-ṭāriq(i).",
+    "translation": "В знак неба и идущего в ночи"
+  },
+  {
+    "verse_number": 2,
+    "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+    "text_uthmani_transcribed": "Wa mā adrāka maṭ-ṭāriq(u).",
+    "translation": "Как объяснить тебе, что значит \"в ночь идущий"
+  },
+  {
+    "verse_number": 3,
+    "text_uthmani": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+    "text_uthmani_transcribed": "An-najmuṡ-ṡāqib(u).",
+    "translation": "Звезда, что рассекает (небо своим светом)"
+  },
+  {
+    "verse_number": 4,
+    "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "text_uthmani_transcribed": "In kullu nafsil lammā 'alaihā ḥāfiẓ(un).",
+    "translation": "Нет ни одной живой души, Что над собою стража не имеет"
+  },
+  {
+    "verse_number": 5,
+    "text_uthmani": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+    "text_uthmani_transcribed": "Falyanẓuril-insānu mimma khuliq(a).",
+    "translation": "Пусть человек подумает над тем, как он был создан"
+  },
+  {
+    "verse_number": 6,
+    "text_uthmani": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+    "text_uthmani_transcribed": "Khuliqa mim mā'in dāfiq(in).",
+    "translation": "Он создан из воды, что изливается (струей)"
+  },
+  {
+    "verse_number": 7,
+    "text_uthmani": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+    "text_uthmani_transcribed": "Yakhruju mim bainiṣ-ṣulbi wat-tarā'ib(i).",
+    "translation": "И из грудных костей, и из хребта исходит"
+  },
+  {
+    "verse_number": 8,
+    "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+    "text_uthmani_transcribed": "Innahū 'alā raj'ihī laqādir(un).",
+    "translation": "Поистине, Он в силах воскресить его опять"
+  },
+  {
+    "verse_number": 9,
+    "text_uthmani": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+    "text_uthmani_transcribed": "Yauma tublas-sarā'ir(u).",
+    "translation": "В тот День Все тайное подвергнется проверке"
+  },
+  {
+    "verse_number": 10,
+    "text_uthmani": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+    "text_uthmani_transcribed": "Famā lahū min quwwatiw wa lā nāṣir(in).",
+    "translation": "Лишенным всякой помощи и власти будет (человек)"
+  },
+  {
+    "verse_number": 11,
+    "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+    "text_uthmani_transcribed": "Was-samā'i żātir-raj'(i).",
+    "translation": "В знак неба, что вершит обратный путь"
+  }
+]

@@ -1,53 +1,50 @@
-{
-  "chapter_number": 68,
-  "verses": [
-    {
-      "verse_number": 45,
-      "text_uthmani": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
-      "text_uthmani_transcribed": "Wa umlī lahum, inna kaidī matīn(un).",
-      "translation": "Я дам отсрочку им, Но замысел мой тверд и неминуем"
-    },
-    {
-      "verse_number": 46,
-      "text_uthmani": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
-      "text_uthmani_transcribed": "Am tas'aluhum ajran fahum mim magramim muṡqalūn(a).",
-      "translation": "Иль ты награды ждешь от них, - Они ж отягчены долгами"
-    },
-    {
-      "verse_number": 47,
-      "text_uthmani": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
-      "text_uthmani_transcribed": "Am 'indahumul-gaibu fahum yaktubūn(a).",
-      "translation": "Иль в их руках Незримое лежит, О коем они могут записи вести"
-    },
-    {
-      "verse_number": 48,
-      "text_uthmani": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
-      "text_uthmani_transcribed": "Faṣbir liḥukmi rabbika wa lā takun kaṣāḥibil-ḥūt(i), iż nādā wa huwa makẓūm(un).",
-      "translation": "А потому ты терпеливо жди указа твоего Владыки И человеку в рыбе не уподобляйся, Когда в страданиях он к Господу воззвал"
-    },
-    {
-      "verse_number": 49,
-      "text_uthmani": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
-      "text_uthmani_transcribed": "Lau lā an tadārakahū ni'matum mir rabbihī lanubiża bil-'arā'i wa huwa mażmūm(un).",
-      "translation": "Ведь если б на него не снизошло Великодушие его Владыки, Он был бы на пустынный берег выброшен с позором"
-    },
-    {
-      "verse_number": 50,
-      "text_uthmani": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
-      "text_uthmani_transcribed": "Fajtabāhu rabbuhū faja'alahū minaṣ-ṣāliḥīn(a).",
-      "translation": "Тогда его Господь избрал его И праведником ввел (в назначенное братство)"
-    },
-    {
-      "verse_number": 51,
-      "text_uthmani": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ",
-      "text_uthmani_transcribed": "Wa iy yakādul-lażīna kafarū layuzliqūnaka bi'abṣārihim lammā sami'uż żikra wa yaqūlūna innahū lamajnūn(un).",
-      "translation": "Неверные же взорами своими, Заслышав чтение послания сего, Тебя стараются сбить с толку И говорят: \"Он явно одержим"
-    },
-    {
-      "verse_number": 52,
-      "text_uthmani": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
-      "text_uthmani_transcribed": "Wa mā huwa illā żikrul lil-'ālamīn(a).",
-      "translation": "Сие, поистине, не что иное, Как Напоминание мирам"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 45,
+    "text_uthmani": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
+    "text_uthmani_transcribed": "Wa umlī lahum, inna kaidī matīn(un).",
+    "translation": "Я дам отсрочку им, Но замысел мой тверд и неминуем"
+  },
+  {
+    "verse_number": 46,
+    "text_uthmani": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+    "text_uthmani_transcribed": "Am tas'aluhum ajran fahum mim magramim muṡqalūn(a).",
+    "translation": "Иль ты награды ждешь от них, - Они ж отягчены долгами"
+  },
+  {
+    "verse_number": 47,
+    "text_uthmani": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+    "text_uthmani_transcribed": "Am 'indahumul-gaibu fahum yaktubūn(a).",
+    "translation": "Иль в их руках Незримое лежит, О коем они могут записи вести"
+  },
+  {
+    "verse_number": 48,
+    "text_uthmani": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+    "text_uthmani_transcribed": "Faṣbir liḥukmi rabbika wa lā takun kaṣāḥibil-ḥūt(i), iż nādā wa huwa makẓūm(un).",
+    "translation": "А потому ты терпеливо жди указа твоего Владыки И человеку в рыбе не уподобляйся, Когда в страданиях он к Господу воззвал"
+  },
+  {
+    "verse_number": 49,
+    "text_uthmani": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
+    "text_uthmani_transcribed": "Lau lā an tadārakahū ni'matum mir rabbihī lanubiża bil-'arā'i wa huwa mażmūm(un).",
+    "translation": "Ведь если б на него не снизошло Великодушие его Владыки, Он был бы на пустынный берег выброшен с позором"
+  },
+  {
+    "verse_number": 50,
+    "text_uthmani": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+    "text_uthmani_transcribed": "Fajtabāhu rabbuhū faja'alahū minaṣ-ṣāliḥīn(a).",
+    "translation": "Тогда его Господь избрал его И праведником ввел (в назначенное братство)"
+  },
+  {
+    "verse_number": 51,
+    "text_uthmani": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ",
+    "text_uthmani_transcribed": "Wa iy yakādul-lażīna kafarū layuzliqūnaka bi'abṣārihim lammā sami'uż żikra wa yaqūlūna innahū lamajnūn(un).",
+    "translation": "Неверные же взорами своими, Заслышав чтение послания сего, Тебя стараются сбить с толку И говорят: \"Он явно одержим"
+  },
+  {
+    "verse_number": 52,
+    "text_uthmani": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+    "text_uthmani_transcribed": "Wa mā huwa illā żikrul lil-'ālamīn(a).",
+    "translation": "Сие, поистине, не что иное, Как Напоминание мирам"
+  }
+]

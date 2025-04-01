@@ -1,71 +1,68 @@
-{
-  "chapter_number": 26,
-  "verses": [
-    {
-      "verse_number": 188,
-      "text_uthmani": "قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ",
-      "text_uthmani_transcribed": "Qāla rabbī a'lamu bimā ta'malūn(a).",
-      "translation": "Господь мой знает лучше, - отвечал он, - О том, что делаете вы"
-    },
-    {
-      "verse_number": 189,
-      "text_uthmani": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ ۚ إِنَّهُۥ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
-      "text_uthmani_transcribed": "Fa każżabūhu fa akhażahum 'ażābu yaumiẓ-ẓullah(ti), innahū kāna 'ażāba yaumin 'aẓīm(in).",
-      "translation": "И все ж они сочли его лжецом, И их постигла (Божья) кара В день пелены, (затмившей солнце), Что кару Дня Великого явила им"
-    },
-    {
-      "verse_number": 190,
-      "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
-      "text_uthmani_transcribed": "Inna fī żālika la'āyah(tan),  wa mā kāna akṡaruhum mu'minīn(a).",
-      "translation": "В этом, поистине, знамение (Господне), Но большинство из них не веруют (в Него)"
-    },
-    {
-      "verse_number": 191,
-      "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
-      "text_uthmani_transcribed": "Wa inna rabbaka lahuwal-'azīzur-raḥīm(u).",
-      "translation": "Господь твой, истинно, могуч и милосерд"
-    },
-    {
-      "verse_number": 192,
-      "text_uthmani": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلْعَـٰلَمِينَ",
-      "text_uthmani_transcribed": "Wa innahū latanzīlu rabbil-'ālamīn(a).",
-      "translation": "Это - поистине, послание от Господа миров"
-    },
-    {
-      "verse_number": 193,
-      "text_uthmani": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
-      "text_uthmani_transcribed": "Nazala bihir rūḥul-amīn(u).",
-      "translation": "С ним снизошел Дух верный"
-    },
-    {
-      "verse_number": 194,
-      "text_uthmani": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
-      "text_uthmani_transcribed": "'Alā qalbika litakūna minal-munżirīn(a).",
-      "translation": "На твое сердце, Чтоб быть тебе в числе Увещевающих (рабов Господних)"
-    },
-    {
-      "verse_number": 195,
-      "text_uthmani": "بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ",
-      "text_uthmani_transcribed": "Bilisānin 'arabiyyim mubīn(in).",
-      "translation": "На языке арабском, ясном"
-    },
-    {
-      "verse_number": 196,
-      "text_uthmani": "وَإِنَّهُۥ لَفِى زُبُرِ ٱلْأَوَّلِينَ",
-      "text_uthmani_transcribed": "Wa innahū lafī zuburil-awwalīn(a).",
-      "translation": "И несомненно, (есть свидетельство) о нем В Писаниях, (что приходили) прежде"
-    },
-    {
-      "verse_number": 197,
-      "text_uthmani": "أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ",
-      "text_uthmani_transcribed": "Awalam yakul lahum āyatan ay ya'lamahū 'ulamā'u banī isrā'īl(a).",
-      "translation": "Неужто им знамением не служит то, Что ведают о нем Исраиля ученые мужи"
-    },
-    {
-      "verse_number": 198,
-      "text_uthmani": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ",
-      "text_uthmani_transcribed": "Wa lau nazzalnāhū 'alā ba'ḍil-a'jamīn(a).",
-      "translation": "И если б ниспослали Мы его На человека из другого племени иль рода"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 188,
+    "text_uthmani": "قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ",
+    "text_uthmani_transcribed": "Qāla rabbī a'lamu bimā ta'malūn(a).",
+    "translation": "Господь мой знает лучше, - отвечал он, - О том, что делаете вы"
+  },
+  {
+    "verse_number": 189,
+    "text_uthmani": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ ۚ إِنَّهُۥ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+    "text_uthmani_transcribed": "Fa każżabūhu fa akhażahum 'ażābu yaumiẓ-ẓullah(ti), innahū kāna 'ażāba yaumin 'aẓīm(in).",
+    "translation": "И все ж они сочли его лжецом, И их постигла (Божья) кара В день пелены, (затмившей солнце), Что кару Дня Великого явила им"
+  },
+  {
+    "verse_number": 190,
+    "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "text_uthmani_transcribed": "Inna fī żālika la'āyah(tan),  wa mā kāna akṡaruhum mu'minīn(a).",
+    "translation": "В этом, поистине, знамение (Господне), Но большинство из них не веруют (в Него)"
+  },
+  {
+    "verse_number": 191,
+    "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+    "text_uthmani_transcribed": "Wa inna rabbaka lahuwal-'azīzur-raḥīm(u).",
+    "translation": "Господь твой, истинно, могуч и милосерд"
+  },
+  {
+    "verse_number": 192,
+    "text_uthmani": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلْعَـٰلَمِينَ",
+    "text_uthmani_transcribed": "Wa innahū latanzīlu rabbil-'ālamīn(a).",
+    "translation": "Это - поистине, послание от Господа миров"
+  },
+  {
+    "verse_number": 193,
+    "text_uthmani": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
+    "text_uthmani_transcribed": "Nazala bihir rūḥul-amīn(u).",
+    "translation": "С ним снизошел Дух верный"
+  },
+  {
+    "verse_number": 194,
+    "text_uthmani": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+    "text_uthmani_transcribed": "'Alā qalbika litakūna minal-munżirīn(a).",
+    "translation": "На твое сердце, Чтоб быть тебе в числе Увещевающих (рабов Господних)"
+  },
+  {
+    "verse_number": 195,
+    "text_uthmani": "بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ",
+    "text_uthmani_transcribed": "Bilisānin 'arabiyyim mubīn(in).",
+    "translation": "На языке арабском, ясном"
+  },
+  {
+    "verse_number": 196,
+    "text_uthmani": "وَإِنَّهُۥ لَفِى زُبُرِ ٱلْأَوَّلِينَ",
+    "text_uthmani_transcribed": "Wa innahū lafī zuburil-awwalīn(a).",
+    "translation": "И несомненно, (есть свидетельство) о нем В Писаниях, (что приходили) прежде"
+  },
+  {
+    "verse_number": 197,
+    "text_uthmani": "أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ",
+    "text_uthmani_transcribed": "Awalam yakul lahum āyatan ay ya'lamahū 'ulamā'u banī isrā'īl(a).",
+    "translation": "Неужто им знамением не служит то, Что ведают о нем Исраиля ученые мужи"
+  },
+  {
+    "verse_number": 198,
+    "text_uthmani": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ",
+    "text_uthmani_transcribed": "Wa lau nazzalnāhū 'alā ba'ḍil-a'jamīn(a).",
+    "translation": "И если б ниспослали Мы его На человека из другого племени иль рода"
+  }
+]

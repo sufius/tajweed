@@ -1,71 +1,68 @@
-{
-  "chapter_number": 75,
-  "verses": [
-    {
-      "verse_number": 12,
-      "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
-      "text_uthmani_transcribed": "Ilā rabbika yauma'iżinil-mustaqarr(u).",
-      "translation": "И лишь у твоего Владыки В тот День - (Последнее) пристанище твое"
-    },
-    {
-      "verse_number": 13,
-      "text_uthmani": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
-      "text_uthmani_transcribed": "Yunabba'ul-insānu yauma'iżim bimā qaddama wa akhkhar(a).",
-      "translation": "И человеку возвестят В тот День, Что он себе вперед уготовал И что (без выполнения) оставил"
-    },
-    {
-      "verse_number": 14,
-      "text_uthmani": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
-      "text_uthmani_transcribed": "Balil-insānu 'alā nafsihī baṣīrah(tun).",
-      "translation": "И будет человек В тот День Сам показания давать против себя"
-    },
-    {
-      "verse_number": 15,
-      "text_uthmani": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
-      "text_uthmani_transcribed": "Wa lau alqā ma'āżīrah(ū).",
-      "translation": "И даже если он представит извиненья, (Они Аллахом приняты не будут)"
-    },
-    {
-      "verse_number": 16,
-      "text_uthmani": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
-      "text_uthmani_transcribed": "Lā tuḥarrik bihī lisānaka lita'jala bih(ī).",
-      "translation": "(О Мухаммад!) Ты не спеши переложить (Ниспосланные откровения Корана) на язык, (Боясь, что ускользнут они)"
-    },
-    {
-      "verse_number": 17,
-      "text_uthmani": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
-      "text_uthmani_transcribed": "Inna 'alainā jam'ahū wa qur'ānah(ū).",
-      "translation": "На Нас лежит соединение (частей) и чтение (Корана)"
-    },
-    {
-      "verse_number": 18,
-      "text_uthmani": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
-      "text_uthmani_transcribed": "Fa iżā qara'nāhu fattabi' qur'ānah(ū).",
-      "translation": "Когда же Мы тебе его читаем, (Внимательно его) словам ты следуй"
-    },
-    {
-      "verse_number": 19,
-      "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
-      "text_uthmani_transcribed": "Ṡumma inna 'alainā bayānah(ū).",
-      "translation": "На Нас лежит и разъяснение его"
-    },
-    {
-      "verse_number": 20,
-      "text_uthmani": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
-      "text_uthmani_transcribed": "Kallā bal tuḥibbūnal-'ājilah(ta).",
-      "translation": "Но нет! Мила вам суета и тщЕта (этой жизни)"
-    },
-    {
-      "verse_number": 21,
-      "text_uthmani": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
-      "text_uthmani_transcribed": "Wa tażarūnal-'ākhirah(ta).",
-      "translation": "И оставляете вы жизнь вторую (без вниманья)"
-    },
-    {
-      "verse_number": 22,
-      "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
-      "text_uthmani_transcribed": "Wujūhuy yauma'iżin nāḍirah(tun).",
-      "translation": "В тот День Сияющими будут лица у одних"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 12,
+    "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+    "text_uthmani_transcribed": "Ilā rabbika yauma'iżinil-mustaqarr(u).",
+    "translation": "И лишь у твоего Владыки В тот День - (Последнее) пристанище твое"
+  },
+  {
+    "verse_number": 13,
+    "text_uthmani": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+    "text_uthmani_transcribed": "Yunabba'ul-insānu yauma'iżim bimā qaddama wa akhkhar(a).",
+    "translation": "И человеку возвестят В тот День, Что он себе вперед уготовал И что (без выполнения) оставил"
+  },
+  {
+    "verse_number": 14,
+    "text_uthmani": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+    "text_uthmani_transcribed": "Balil-insānu 'alā nafsihī baṣīrah(tun).",
+    "translation": "И будет человек В тот День Сам показания давать против себя"
+  },
+  {
+    "verse_number": 15,
+    "text_uthmani": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+    "text_uthmani_transcribed": "Wa lau alqā ma'āżīrah(ū).",
+    "translation": "И даже если он представит извиненья, (Они Аллахом приняты не будут)"
+  },
+  {
+    "verse_number": 16,
+    "text_uthmani": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+    "text_uthmani_transcribed": "Lā tuḥarrik bihī lisānaka lita'jala bih(ī).",
+    "translation": "(О Мухаммад!) Ты не спеши переложить (Ниспосланные откровения Корана) на язык, (Боясь, что ускользнут они)"
+  },
+  {
+    "verse_number": 17,
+    "text_uthmani": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+    "text_uthmani_transcribed": "Inna 'alainā jam'ahū wa qur'ānah(ū).",
+    "translation": "На Нас лежит соединение (частей) и чтение (Корана)"
+  },
+  {
+    "verse_number": 18,
+    "text_uthmani": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+    "text_uthmani_transcribed": "Fa iżā qara'nāhu fattabi' qur'ānah(ū).",
+    "translation": "Когда же Мы тебе его читаем, (Внимательно его) словам ты следуй"
+  },
+  {
+    "verse_number": 19,
+    "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+    "text_uthmani_transcribed": "Ṡumma inna 'alainā bayānah(ū).",
+    "translation": "На Нас лежит и разъяснение его"
+  },
+  {
+    "verse_number": 20,
+    "text_uthmani": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+    "text_uthmani_transcribed": "Kallā bal tuḥibbūnal-'ājilah(ta).",
+    "translation": "Но нет! Мила вам суета и тщЕта (этой жизни)"
+  },
+  {
+    "verse_number": 21,
+    "text_uthmani": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+    "text_uthmani_transcribed": "Wa tażarūnal-'ākhirah(ta).",
+    "translation": "И оставляете вы жизнь вторую (без вниманья)"
+  },
+  {
+    "verse_number": 22,
+    "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+    "text_uthmani_transcribed": "Wujūhuy yauma'iżin nāḍirah(tun).",
+    "translation": "В тот День Сияющими будут лица у одних"
+  }
+]

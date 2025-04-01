@@ -1,71 +1,68 @@
-{
-  "chapter_number": 56,
-  "verses": [
-    {
-      "verse_number": 23,
-      "text_uthmani": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
-      "text_uthmani_transcribed": "Ka'amṡālil-lu'lu'il-maknūn(i).",
-      "translation": "Подобно тщательно хранимым жемчугам"
-    },
-    {
-      "verse_number": 24,
-      "text_uthmani": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
-      "text_uthmani_transcribed": "Jazā'am bimā kānū ya'malūn(a).",
-      "translation": "Как воздаяние за их (земную) добродетель"
-    },
-    {
-      "verse_number": 25,
-      "text_uthmani": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
-      "text_uthmani_transcribed": "Lā yasma'ūna fīhā lagwaw wa lā ta'ṡīmā(n).",
-      "translation": "Не будет там ни пустословья И никакого побуждения ко злу"
-    },
-    {
-      "verse_number": 26,
-      "text_uthmani": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
-      "text_uthmani_transcribed": "Illā qīlan salāman salāmā(n).",
-      "translation": "Звучать лишь будет: \"Мир вам! Мир"
-    },
-    {
-      "verse_number": 27,
-      "text_uthmani": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
-      "text_uthmani_transcribed": "Wa aṣḥābul-yamīn(i), mā aṣḥābul-yamīn(i).",
-      "translation": "Собратья правой стороны - Кто ж этой стороны собратья"
-    },
-    {
-      "verse_number": 28,
-      "text_uthmani": "فِى سِدْرٍ مَّخْضُودٍ",
-      "text_uthmani_transcribed": "Fī sidrim makhḍūd(in).",
-      "translation": "(Им пребывать) средь лотоса, лишенного шипов"
-    },
-    {
-      "verse_number": 29,
-      "text_uthmani": "وَطَلْحٍ مَّنضُودٍ",
-      "text_uthmani_transcribed": "Wa ṭalḥim manḍūd(in).",
-      "translation": "И средь растущих гроздьями плодов банана"
-    },
-    {
-      "verse_number": 30,
-      "text_uthmani": "وَظِلٍّ مَّمْدُودٍ",
-      "text_uthmani_transcribed": "Wa ẓillim mamdūd(in).",
-      "translation": "Под далеко раскинувшейся тенью"
-    },
-    {
-      "verse_number": 31,
-      "text_uthmani": "وَمَآءٍ مَّسْكُوبٍ",
-      "text_uthmani_transcribed": "Wa mā'im maskūb(in).",
-      "translation": "На берегу текучих вод"
-    },
-    {
-      "verse_number": 32,
-      "text_uthmani": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
-      "text_uthmani_transcribed": "Wa fākihatin kaṡīrah(tin).",
-      "translation": "И средь плодов обильных"
-    },
-    {
-      "verse_number": 33,
-      "text_uthmani": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
-      "text_uthmani_transcribed": "Lā maqṭū'atiw wa lā mamnū'ah(tin).",
-      "translation": "В которых нет (сезонного) предела И нет запрета (потребленью)"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 23,
+    "text_uthmani": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+    "text_uthmani_transcribed": "Ka'amṡālil-lu'lu'il-maknūn(i).",
+    "translation": "Подобно тщательно хранимым жемчугам"
+  },
+  {
+    "verse_number": 24,
+    "text_uthmani": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "text_uthmani_transcribed": "Jazā'am bimā kānū ya'malūn(a).",
+    "translation": "Как воздаяние за их (земную) добродетель"
+  },
+  {
+    "verse_number": 25,
+    "text_uthmani": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+    "text_uthmani_transcribed": "Lā yasma'ūna fīhā lagwaw wa lā ta'ṡīmā(n).",
+    "translation": "Не будет там ни пустословья И никакого побуждения ко злу"
+  },
+  {
+    "verse_number": 26,
+    "text_uthmani": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+    "text_uthmani_transcribed": "Illā qīlan salāman salāmā(n).",
+    "translation": "Звучать лишь будет: \"Мир вам! Мир"
+  },
+  {
+    "verse_number": 27,
+    "text_uthmani": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+    "text_uthmani_transcribed": "Wa aṣḥābul-yamīn(i), mā aṣḥābul-yamīn(i).",
+    "translation": "Собратья правой стороны - Кто ж этой стороны собратья"
+  },
+  {
+    "verse_number": 28,
+    "text_uthmani": "فِى سِدْرٍ مَّخْضُودٍ",
+    "text_uthmani_transcribed": "Fī sidrim makhḍūd(in).",
+    "translation": "(Им пребывать) средь лотоса, лишенного шипов"
+  },
+  {
+    "verse_number": 29,
+    "text_uthmani": "وَطَلْحٍ مَّنضُودٍ",
+    "text_uthmani_transcribed": "Wa ṭalḥim manḍūd(in).",
+    "translation": "И средь растущих гроздьями плодов банана"
+  },
+  {
+    "verse_number": 30,
+    "text_uthmani": "وَظِلٍّ مَّمْدُودٍ",
+    "text_uthmani_transcribed": "Wa ẓillim mamdūd(in).",
+    "translation": "Под далеко раскинувшейся тенью"
+  },
+  {
+    "verse_number": 31,
+    "text_uthmani": "وَمَآءٍ مَّسْكُوبٍ",
+    "text_uthmani_transcribed": "Wa mā'im maskūb(in).",
+    "translation": "На берегу текучих вод"
+  },
+  {
+    "verse_number": 32,
+    "text_uthmani": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
+    "text_uthmani_transcribed": "Wa fākihatin kaṡīrah(tin).",
+    "translation": "И средь плодов обильных"
+  },
+  {
+    "verse_number": 33,
+    "text_uthmani": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+    "text_uthmani_transcribed": "Lā maqṭū'atiw wa lā mamnū'ah(tin).",
+    "translation": "В которых нет (сезонного) предела И нет запрета (потребленью)"
+  }
+]

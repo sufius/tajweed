@@ -1,71 +1,68 @@
-{
-  "chapter_number": 70,
-  "verses": [
-    {
-      "verse_number": 12,
-      "text_uthmani": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
-      "text_uthmani_transcribed": "Wa ṣāḥibatihī wa akhīh(i).",
-      "translation": "Своей жены и брата"
-    },
-    {
-      "verse_number": 13,
-      "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
-      "text_uthmani_transcribed": "Wa faṣīlatihil-latī tu'wīh(i).",
-      "translation": "И рода своего, который кров ему давал и пищу"
-    },
-    {
-      "verse_number": 14,
-      "text_uthmani": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
-      "text_uthmani_transcribed": "Wa man fil-arḍi jamī'ā(n), ṡumma yunjīh(i).",
-      "translation": "(Ценой) всего, что на земле, Что только бы могло его спасти"
-    },
-    {
-      "verse_number": 15,
-      "text_uthmani": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
-      "text_uthmani_transcribed": "Kallā, innahā laẓā.",
-      "translation": "Напрасно! Это ведь Огонь"
-    },
-    {
-      "verse_number": 16,
-      "text_uthmani": "نَزَّاعَةً لِّلشَّوَىٰ",
-      "text_uthmani_transcribed": "Nazzā'atal lisy-syawā.",
-      "translation": "Что вплоть до черепа Всего его поглотит"
-    },
-    {
-      "verse_number": 17,
-      "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
-      "text_uthmani_transcribed": "Tad'ū man adbara wa tawallā.",
-      "translation": "(В пылающее пламя) приглашая тех, Кто, отвращаясь, стал спиной"
-    },
-    {
-      "verse_number": 18,
-      "text_uthmani": "وَجَمَعَ فَأَوْعَىٰٓ",
-      "text_uthmani_transcribed": "Wa jama'a fa'au'ā.",
-      "translation": "Копил добро и (в закромах его) хранил"
-    },
-    {
-      "verse_number": 19,
-      "text_uthmani": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
-      "text_uthmani_transcribed": "Innal-insāna khuliqa halu'ā(n).",
-      "translation": "Поистине, был беспокойным создан человек"
-    },
-    {
-      "verse_number": 20,
-      "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
-      "text_uthmani_transcribed": "Iżā massahusy-syarru jazū'ā(n).",
-      "translation": "Когда его коснется зло, Он полон (бесконечных) жалоб"
-    },
-    {
-      "verse_number": 21,
-      "text_uthmani": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
-      "text_uthmani_transcribed": "Wa iżā massahul-khairu manū'ā(n).",
-      "translation": "Когда ж к нему добро приходит, Становится он скуп (и недоступен)"
-    },
-    {
-      "verse_number": 22,
-      "text_uthmani": "إِلَّا ٱلْمُصَلِّينَ",
-      "text_uthmani_transcribed": "Illal-muṣallīn(a).",
-      "translation": "(Но не такие те), Кто (перед Господом) в молитве преклонился"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 12,
+    "text_uthmani": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+    "text_uthmani_transcribed": "Wa ṣāḥibatihī wa akhīh(i).",
+    "translation": "Своей жены и брата"
+  },
+  {
+    "verse_number": 13,
+    "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+    "text_uthmani_transcribed": "Wa faṣīlatihil-latī tu'wīh(i).",
+    "translation": "И рода своего, который кров ему давал и пищу"
+  },
+  {
+    "verse_number": 14,
+    "text_uthmani": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+    "text_uthmani_transcribed": "Wa man fil-arḍi jamī'ā(n), ṡumma yunjīh(i).",
+    "translation": "(Ценой) всего, что на земле, Что только бы могло его спасти"
+  },
+  {
+    "verse_number": 15,
+    "text_uthmani": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+    "text_uthmani_transcribed": "Kallā, innahā laẓā.",
+    "translation": "Напрасно! Это ведь Огонь"
+  },
+  {
+    "verse_number": 16,
+    "text_uthmani": "نَزَّاعَةً لِّلشَّوَىٰ",
+    "text_uthmani_transcribed": "Nazzā'atal lisy-syawā.",
+    "translation": "Что вплоть до черепа Всего его поглотит"
+  },
+  {
+    "verse_number": 17,
+    "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+    "text_uthmani_transcribed": "Tad'ū man adbara wa tawallā.",
+    "translation": "(В пылающее пламя) приглашая тех, Кто, отвращаясь, стал спиной"
+  },
+  {
+    "verse_number": 18,
+    "text_uthmani": "وَجَمَعَ فَأَوْعَىٰٓ",
+    "text_uthmani_transcribed": "Wa jama'a fa'au'ā.",
+    "translation": "Копил добро и (в закромах его) хранил"
+  },
+  {
+    "verse_number": 19,
+    "text_uthmani": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+    "text_uthmani_transcribed": "Innal-insāna khuliqa halu'ā(n).",
+    "translation": "Поистине, был беспокойным создан человек"
+  },
+  {
+    "verse_number": 20,
+    "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+    "text_uthmani_transcribed": "Iżā massahusy-syarru jazū'ā(n).",
+    "translation": "Когда его коснется зло, Он полон (бесконечных) жалоб"
+  },
+  {
+    "verse_number": 21,
+    "text_uthmani": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+    "text_uthmani_transcribed": "Wa iżā massahul-khairu manū'ā(n).",
+    "translation": "Когда ж к нему добро приходит, Становится он скуп (и недоступен)"
+  },
+  {
+    "verse_number": 22,
+    "text_uthmani": "إِلَّا ٱلْمُصَلِّينَ",
+    "text_uthmani_transcribed": "Illal-muṣallīn(a).",
+    "translation": "(Но не такие те), Кто (перед Господом) в молитве преклонился"
+  }
+]

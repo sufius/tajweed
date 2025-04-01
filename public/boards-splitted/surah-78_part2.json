@@ -1,71 +1,68 @@
-{
-  "chapter_number": 78,
-  "verses": [
-    {
-      "verse_number": 12,
-      "text_uthmani": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
-      "text_uthmani_transcribed": "Wa banainā fauqakum sab'an syidādā(n).",
-      "translation": "Построили над вами семь твердей"
-    },
-    {
-      "verse_number": 13,
-      "text_uthmani": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
-      "text_uthmani_transcribed": "Wa ja'alnā sirājaw wahhājā(n).",
-      "translation": "И поместили в них пылающий светильник"
-    },
-    {
-      "verse_number": 14,
-      "text_uthmani": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
-      "text_uthmani_transcribed": "Wa anzalnā minal-mu'ṣirāti mā'an ṡajjājā(n).",
-      "translation": "И шлем из облаков обильные дожди"
-    },
-    {
-      "verse_number": 15,
-      "text_uthmani": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
-      "text_uthmani_transcribed": "Linukhrija bihī ḥabbaw wa nabātā(n).",
-      "translation": "Что зелень и зерно взрастят"
-    },
-    {
-      "verse_number": 16,
-      "text_uthmani": "وَجَنَّـٰتٍ أَلْفَافًا",
-      "text_uthmani_transcribed": "Wa jannātin alfāfā(n).",
-      "translation": "Прекрасные сады подымут"
-    },
-    {
-      "verse_number": 17,
-      "text_uthmani": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
-      "text_uthmani_transcribed": "Inna yaumal-faṣli kāna mīqātā(n).",
-      "translation": "Поистине, День Разделенья уж назначен"
-    },
-    {
-      "verse_number": 18,
-      "text_uthmani": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
-      "text_uthmani_transcribed": "Yauma yunfakhu fiṣ-ṣūri fa ta'tūna afwājā(n).",
-      "translation": "Тот День, Когда раздастся трубный глас И толпами пойдете вы"
-    },
-    {
-      "verse_number": 19,
-      "text_uthmani": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
-      "text_uthmani_transcribed": "Wa futiḥatis-samā'u fa kānat abwābā(n).",
-      "translation": "Вратами распахнутся небеса"
-    },
-    {
-      "verse_number": 20,
-      "text_uthmani": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
-      "text_uthmani_transcribed": "Wa suyyiratil-jibālu fa kānat sarābā(n).",
-      "translation": "Исчезнут горы, словно в мираже"
-    },
-    {
-      "verse_number": 21,
-      "text_uthmani": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
-      "text_uthmani_transcribed": "Inna jahannama kānat mirṣādā(n).",
-      "translation": "Поистине, засадою предстанет Ад"
-    },
-    {
-      "verse_number": 22,
-      "text_uthmani": "لِّلطَّـٰغِينَ مَـَٔابًا",
-      "text_uthmani_transcribed": "Liṭ-ṭāgīna ma'ābā(n).",
-      "translation": "Обителью предназначенья для неверных"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 12,
+    "text_uthmani": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+    "text_uthmani_transcribed": "Wa banainā fauqakum sab'an syidādā(n).",
+    "translation": "Построили над вами семь твердей"
+  },
+  {
+    "verse_number": 13,
+    "text_uthmani": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+    "text_uthmani_transcribed": "Wa ja'alnā sirājaw wahhājā(n).",
+    "translation": "И поместили в них пылающий светильник"
+  },
+  {
+    "verse_number": 14,
+    "text_uthmani": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+    "text_uthmani_transcribed": "Wa anzalnā minal-mu'ṣirāti mā'an ṡajjājā(n).",
+    "translation": "И шлем из облаков обильные дожди"
+  },
+  {
+    "verse_number": 15,
+    "text_uthmani": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+    "text_uthmani_transcribed": "Linukhrija bihī ḥabbaw wa nabātā(n).",
+    "translation": "Что зелень и зерно взрастят"
+  },
+  {
+    "verse_number": 16,
+    "text_uthmani": "وَجَنَّـٰتٍ أَلْفَافًا",
+    "text_uthmani_transcribed": "Wa jannātin alfāfā(n).",
+    "translation": "Прекрасные сады подымут"
+  },
+  {
+    "verse_number": 17,
+    "text_uthmani": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+    "text_uthmani_transcribed": "Inna yaumal-faṣli kāna mīqātā(n).",
+    "translation": "Поистине, День Разделенья уж назначен"
+  },
+  {
+    "verse_number": 18,
+    "text_uthmani": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+    "text_uthmani_transcribed": "Yauma yunfakhu fiṣ-ṣūri fa ta'tūna afwājā(n).",
+    "translation": "Тот День, Когда раздастся трубный глас И толпами пойдете вы"
+  },
+  {
+    "verse_number": 19,
+    "text_uthmani": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+    "text_uthmani_transcribed": "Wa futiḥatis-samā'u fa kānat abwābā(n).",
+    "translation": "Вратами распахнутся небеса"
+  },
+  {
+    "verse_number": 20,
+    "text_uthmani": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+    "text_uthmani_transcribed": "Wa suyyiratil-jibālu fa kānat sarābā(n).",
+    "translation": "Исчезнут горы, словно в мираже"
+  },
+  {
+    "verse_number": 21,
+    "text_uthmani": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+    "text_uthmani_transcribed": "Inna jahannama kānat mirṣādā(n).",
+    "translation": "Поистине, засадою предстанет Ад"
+  },
+  {
+    "verse_number": 22,
+    "text_uthmani": "لِّلطَّـٰغِينَ مَـَٔابًا",
+    "text_uthmani_transcribed": "Liṭ-ṭāgīna ma'ābā(n).",
+    "translation": "Обителью предназначенья для неверных"
+  }
+]

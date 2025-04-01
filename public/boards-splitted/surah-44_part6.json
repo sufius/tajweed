@@ -1,29 +1,26 @@
-{
-  "chapter_number": 44,
-  "verses": [
-    {
-      "verse_number": 56,
-      "text_uthmani": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
-      "text_uthmani_transcribed": "Lā yażūqūna fīhal-mauta illal-mautatal-ūlā, wa waqāhum 'ażābal-jaḥīm(i).",
-      "translation": "Им не вкусить там смерть, помимо первой. Он их от мук Огня избавит"
-    },
-    {
-      "verse_number": 57,
-      "text_uthmani": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
-      "text_uthmani_transcribed": "Faḍlam mir rabbika żālika huwal-fauzul-'aẓīm(u).",
-      "translation": "По щедрости Владыки твоего. Сие есть величайшее признание (Аллаха)"
-    },
-    {
-      "verse_number": 58,
-      "text_uthmani": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
-      "text_uthmani_transcribed": "Fa innamā yassarnāhu bilisānika la'allahum yatażakkarūn(a).",
-      "translation": "Поистине, Мы облегчили этот (Аль Кор'ан), (Послав его) на языке твоем, Чтобы могли они понять"
-    },
-    {
-      "verse_number": 59,
-      "text_uthmani": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
-      "text_uthmani_transcribed": "Fartaqib innahum murtaqibūn(a).",
-      "translation": "А потому ты жди, - Ведь они тоже ждут"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 56,
+    "text_uthmani": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+    "text_uthmani_transcribed": "Lā yażūqūna fīhal-mauta illal-mautatal-ūlā, wa waqāhum 'ażābal-jaḥīm(i).",
+    "translation": "Им не вкусить там смерть, помимо первой. Он их от мук Огня избавит"
+  },
+  {
+    "verse_number": 57,
+    "text_uthmani": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "text_uthmani_transcribed": "Faḍlam mir rabbika żālika huwal-fauzul-'aẓīm(u).",
+    "translation": "По щедрости Владыки твоего. Сие есть величайшее признание (Аллаха)"
+  },
+  {
+    "verse_number": 58,
+    "text_uthmani": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+    "text_uthmani_transcribed": "Fa innamā yassarnāhu bilisānika la'allahum yatażakkarūn(a).",
+    "translation": "Поистине, Мы облегчили этот (Аль Кор'ан), (Послав его) на языке твоем, Чтобы могли они понять"
+  },
+  {
+    "verse_number": 59,
+    "text_uthmani": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+    "text_uthmani_transcribed": "Fartaqib innahum murtaqibūn(a).",
+    "translation": "А потому ты жди, - Ведь они тоже ждут"
+  }
+]
