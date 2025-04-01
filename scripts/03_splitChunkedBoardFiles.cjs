@@ -227,6 +227,7 @@ async function processFile() {
         try {
           const segments = await splitVerseUsingAPI(verse, maxLength);
           if (segments) {
+            segments.belongs_to_verse_number = newVerse.verse_number;
             newVerse.splitted = segments;
           }
         } catch (err) {
