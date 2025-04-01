@@ -40,15 +40,10 @@ glob(path.join(sourceDir, 'surah-*.json'), (err, files) => {
         // Determine the chapter number either from the JSON data or fallback to the filename
         const chapterNumber = jsonData.chapter_number ||
           path.basename(file).replace('surah-', '').replace('.json', '');
-          
-        // const newData = {
-        //   chapter_number: chapterNumber,
-        //   verses: newVerses
-        // };
-        const newData = newVerses;
+
 
         const destFile = path.join(destDir, `surah-${chapterNumber}.json`);
-        fs.writeFile(destFile, JSON.stringify(newData, null, 2), 'utf8', err => {
+        fs.writeFile(destFile, JSON.stringify(newVerses, null, 2), 'utf8', err => {
           if (err) {
             console.error(`Error writing file ${destFile}:`, err);
           } else {
