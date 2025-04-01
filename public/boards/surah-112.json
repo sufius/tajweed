@@ -1,29 +1,26 @@
-{
-  "chapter_number": 112,
-  "verses": [
-    {
-      "verse_number": 1,
-      "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
-      "text_uthmani_transcribed": "Qul huwallāhu aḥad(un).",
-      "translation": "Скажи: \"Он - Аллах - Един"
-    },
-    {
-      "verse_number": 2,
-      "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
-      "text_uthmani_transcribed": "Allāhuṣ-ṣamad(u).",
-      "translation": "Извечен Аллах один, Ему чужды любые нужды, Мы же нуждаемся лишь в Нем"
-    },
-    {
-      "verse_number": 3,
-      "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-      "text_uthmani_transcribed": "Lam yalid wa lam yūlad.",
-      "translation": "Он не рождает и Сам не рожден"
-    },
-    {
-      "verse_number": 4,
-      "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
-      "text_uthmani_transcribed": "Wa lam yakul lahū kufuwan aḥad(un).",
-      "translation": "Неподражаем Он и не сравним (ни с чем, Что наше виденье объять способно Или земное знанье может охватить)"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 1,
+    "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "text_uthmani_transcribed": "Qul huwallāhu aḥad(un).",
+    "translation": "Скажи: \"Он - Аллах - Един"
+  },
+  {
+    "verse_number": 2,
+    "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+    "text_uthmani_transcribed": "Allāhuṣ-ṣamad(u).",
+    "translation": "Извечен Аллах один, Ему чужды любые нужды, Мы же нуждаемся лишь в Нем"
+  },
+  {
+    "verse_number": 3,
+    "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "text_uthmani_transcribed": "Lam yalid wa lam yūlad.",
+    "translation": "Он не рождает и Сам не рожден"
+  },
+  {
+    "verse_number": 4,
+    "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "text_uthmani_transcribed": "Wa lam yakul lahū kufuwan aḥad(un).",
+    "translation": "Неподражаем Он и не сравним (ни с чем, Что наше виденье объять способно Или земное знанье может охватить)"
+  }
+]

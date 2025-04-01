@@ -1,35 +1,32 @@
-{
-  "chapter_number": 113,
-  "verses": [
-    {
-      "verse_number": 1,
-      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
-      "text_uthmani_transcribed": "Qul a'ūżu birabbil-falaq(i).",
-      "translation": "Скажи: \"Ищу спасенья я у Господа рассвета"
-    },
-    {
-      "verse_number": 2,
-      "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
-      "text_uthmani_transcribed": "Min syarri mā khalaq(a).",
-      "translation": "От зла того, что Он создал"
-    },
-    {
-      "verse_number": 3,
-      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
-      "text_uthmani_transcribed": "Wa min syarri gāsiqin iżā waqab(a).",
-      "translation": "От зла спустившегося мрака"
-    },
-    {
-      "verse_number": 4,
-      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
-      "text_uthmani_transcribed": "Wa min syarrin-naffāṡāti fil-'uqad(i).",
-      "translation": "От зла того, кто колдовство творит"
-    },
-    {
-      "verse_number": 5,
-      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-      "text_uthmani_transcribed": "Wa min syarri ḥāsidin iżā ḥasad(a).",
-      "translation": "От зла завистника, Когда в нем зависть зреет"
-    }
-  ]
-}
+[
+  {
+    "verse_number": 1,
+    "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "text_uthmani_transcribed": "Qul a'ūżu birabbil-falaq(i).",
+    "translation": "Скажи: \"Ищу спасенья я у Господа рассвета"
+  },
+  {
+    "verse_number": 2,
+    "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+    "text_uthmani_transcribed": "Min syarri mā khalaq(a).",
+    "translation": "От зла того, что Он создал"
+  },
+  {
+    "verse_number": 3,
+    "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "text_uthmani_transcribed": "Wa min syarri gāsiqin iżā waqab(a).",
+    "translation": "От зла спустившегося мрака"
+  },
+  {
+    "verse_number": 4,
+    "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+    "text_uthmani_transcribed": "Wa min syarrin-naffāṡāti fil-'uqad(i).",
+    "translation": "От зла того, кто колдовство творит"
+  },
+  {
+    "verse_number": 5,
+    "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "text_uthmani_transcribed": "Wa min syarri ḥāsidin iżā ḥasad(a).",
+    "translation": "От зла завистника, Когда в нем зависть зреет"
+  }
+]
