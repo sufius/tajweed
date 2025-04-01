@@ -7,8 +7,8 @@ const { OpenAI } = require('openai');
 
 
 // File paths – adjust if needed
-const sourceFile = path.join(__dirname, '../public/boards/surah-18.json');
-const destFile = path.join(__dirname, '../public/boards/surah-18-splitted.json');
+const sourceFile = path.join(__dirname, '../public/boards-splitted/surah-18_part2.json');
+const destFile = path.join(__dirname, '../public/boards-splitted/surah-18_part2-splitted.json');
 
 // Base string (max allowed length for text_uthmani)
 const baseString = "﴿٥٦﴾ وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ‌ۚ وَيُجَـٰدِلُ ٱلَّذِينَ كَفَرُواْ بِٱلْبَـٰطِلِ لِيُدْحِضُواْ بِهِ ٱلْحَقَّ‌ۖ وَٱتَّخَذُوٓاْ ءَايَـٰتِى وَمَآ أُنذِرُواْ هُزُوًا";
