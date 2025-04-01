@@ -226,18 +226,12 @@ async function processFile() {
       return newVerse;
     }));
 
-    // Prepare new data structure.
-    const newData = {
-      chapter_number: jsonData.chapter_number,
-      verses: newVerses
-    };
-
     // Ensure destination directory exists.
     const destDir = path.dirname(destFile);
     if (!fs.existsSync(destDir)) {
       fs.mkdirSync(destDir, { recursive: true });
     }
-    fs.writeFileSync(destFile, JSON.stringify(newData, null, 2), 'utf8');
+    fs.writeFileSync(destFile, JSON.stringify(newVerses, null, 2), 'utf8');
     console.log(`Created file: ${destFile}`);
   } catch (error) {
     console.error("Error processing file:", error);
