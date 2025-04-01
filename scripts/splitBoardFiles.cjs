@@ -14,8 +14,6 @@ const destFile = path.join(__dirname, '../public/boards/surah-18-splitted.json')
 const baseString = "﴿٥٦﴾ وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ‌ۚ وَيُجَـٰدِلُ ٱلَّذِينَ كَفَرُواْ بِٱلْبَـٰطِلِ لِيُدْحِضُواْ بِهِ ٱلْحَقَّ‌ۖ وَٱتَّخَذُوٓاْ ءَايَـٰتِى وَمَآ أُنذِرُواْ هُزُوًا";
 const maxLength = baseString.length;
 
-console.log('process.env.OPENAI_API_KEY', process.env.OPENAI_API_KEY);
-
 // Setup OpenAI API configuration (make sure OPENAI_API_KEY is set in your environment)
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY,
@@ -31,58 +29,109 @@ const openai = new OpenAI({
  * @returns {Promise<Object>} - A promise resolving to an object with arrays "arabicBreaks" and "translationBreaks"
  */
 async function getSegmentBreakIndices(arabic, transcribed, translation, maxLen) {
-  // Determine how many segments are needed
-  const nParts = Math.ceil(arabic.length / maxLen);
-
   // Construct a prompt instructing the model to find semantically ideal breakpoints.
   const prompt = `
-You are a text segmentation expert. I have the following texts that represent parallel versions of the same content:
-  
-Arabic (text_uthmani): 
-${arabic}
+You are a text segmentation expert specializing in natural sentence structure.
 
-Transcribed (text_uthmani_transcribed): 
-${transcribed}
-
-Translation: 
+text to split: 
 ${translation}
 
-The maximum allowed length for the Arabic text in a single segment is ${maxLen} characters.
-I need to split the texts into ${nParts} segments such that:
-  1. Each segment of the Arabic text does not exceed ${maxLen} characters.
-  2. The splits occur at semantically coherent positions (e.g. natural breaks in meaning).
-  3. The breakpoints align as much as possible across all texts.
-  4. The start and the end of the transcribed text have to match exactly with start and end of the arabic segment
-  
-Please analyze the texts and return a JSON object with three arrays:
-  - "arabicBreaks": an array of indices (non-inclusive) where each segment of the Arabic text should end.
-  - "transcribedBreaks": an array of indices for the transcription text corresponding to the arabic segment breaks.
-  - "translationBreaks": an array of indices for the translation text corresponding to these segment breaks.
-Do not include any explanation, only return valid JSON. If a segment does not require splitting because the remainder is less than or equal to the allowed maximum, then simply return the index corresponding to the end of the text.
+${arabic}
 
-For example, if the Arabic text has length 200 and maxLen is 100 and you need 2 segments, you might return:
-{"arabicBreaks": [95, 200], "transcribedBreaks": [88, 195], "translationBreaks": [90, 180]}
-Ensure that the provided indices result in segments that are as long as possible without exceeding the maximum.
+${transcribed}
+
+Task:
+Segment the given translation text into multiple parts while ensuring:
+✅ Each segment does not exceed 200 characters.
+✅ Each segment preserves full sentences and readability.
+
+
+
+Segmentation Rules:
+Always prioritize complete sentences.
+
+If a sentence fits within 200 characters, keep it whole.
+
+Do not split in the middle of a sentence unless absolutely unavoidable.
+
+Break at natural punctuation points:
+
+Periods (.), Semicolons (;) → Best break points
+
+Commas ( ,) → Only if they separate independent clauses
+
+Ensure that if an opening bracket (e.g., "(") appears in a segment, the corresponding closing bracket (e.g., ")") must also appear in the same segment.
+
+Do not split a paired punctuation mark across different segments.
+
+Avoid breaking at conjunctions (and, but, or), prepositions, or pronouns.
+
+🚨 Never split proper nouns, names, or meaningful short words.
+
+🚨 Never split words or proper nouns; always ensure that each segment ends at a natural break without cutting through a word.
+
+If a break would result in cutting a name (e.g., 'Allah'), adjust it to the next safe point.
+
+Proper nouns must always stay together.
+
+If a sentence must be split:
+
+The first segment must be a full clause.
+
+The next segment should start with a natural transition (not an isolated word).
+
+Do not create unnecessary breaks.
+
+If the remaining text is ≤200 characters, return only the final index.
+
+Output Format:
+Return a JSON object with:
+
+"translationBreaks": an array of character indices where each segment should end.
+"arabicBreaks": an array of character indices where each segment should end.
+"transcribedBreaks": an array of character indices where each segment should end.
+
+Strictly return only valid JSON without any explanations.
+
+Example Output:
+If a text has 500 characters, an ideal segmentation might be:
+{"translationBreaks": [195, 390], "arabicBreaks": [120, 284], "transcribedBreaks": [125, 290]}
 `;
 
   // Call OpenAI ChatCompletion API
   try {
     const completion = await openai.chat.completions.create({
-        model: "gpt-4o",
-    //   model: "gpt-4",
+        model: "gpt-4",
+    //   model: "gpt-4o",
     //   model: "gpt-3.5-turbo",
     //   model: "gpt-4o-mini",
     //   model: "gpt-4o-mini-2024-07-18",
       messages: [{
         role: "system",
-        content: "You are an expert in text segmentation."
+        "content": `You are a text segmentation expert specializing in preserving sentence structure and meaning. 
+  Your goal is to split text into multiple segments without exceeding 200 characters per segment.
+  
+  **Rules:**
+  - Never split words across segments.
+  - Always keep proper nouns (e.g., 'Аллах') and meaningful short words intact.
+  - Prioritize splitting at punctuation (e.g., periods, semicolons).
+  - If a sentence must be split, ensure the first segment forms a complete thought.
+  - Avoid creating unnecessary splits if the remaining text fits within the limit.
+  - Ensure that if an opening bracket (e.g., "(") appears in a segment, the corresponding closing bracket (e.g., ")") must also appear in the same segment.
+  - Do not split a paired punctuation mark across different segments.
+
+  Return a JSON object with:
+  'translationBreaks': an array of split indices
+  'arabicBreaks': an array of split indices
+  'transcribedBreaks': an array of split indices
+  `
       }, {
         role: "user",
         content: prompt
       }],
       temperature: 0.0, // for deterministic responses
       //   max_tokens: 300,
-      response_format: { type: "json_object" }  // ✅ Correct value
+    //   response_format: { type: "json_object" }  // ✅ Correct value
     });
 
     const responseText = completion.choices[0].message.content.trim();
@@ -102,10 +151,15 @@ Ensure that the provided indices result in segments that are as long as possible
 async function splitVerseUsingAPI(verse, maxLen) {
   const { text_uthmani, text_uthmani_transcribed, translation } = verse;
   // If no splitting needed, return null.
-  if (text_uthmani.length <= maxLen) return null;
+//   if (text_uthmani.length <= maxLen) return null;
+  if (translation.length <= maxLen) return null;
 
   // Get break indices from OpenAI API.
-  const { arabicBreaks, transcribedBreaks, translationBreaks } = await getSegmentBreakIndices(
+  const {
+    arabicBreaks, 
+    transcribedBreaks,
+    translationBreaks
+    } = await getSegmentBreakIndices(
     text_uthmani,
     text_uthmani_transcribed,
     translation,
@@ -117,7 +171,8 @@ async function splitVerseUsingAPI(verse, maxLen) {
   let prevArabic = 0;
   let prevTranscribed = 0;
   let prevTranslation = 0;
-  for (let i = 0; i < arabicBreaks.length; i++) {
+//   for (let i = 0; i < arabicBreaks.length; i++) {
+  for (let i = 0; i < translationBreaks.length; i++) {
     const endArabic = arabicBreaks[i];
     const endTranscribed = transcribedBreaks[i];
     const endTranslation = translationBreaks[i];
@@ -131,7 +186,8 @@ async function splitVerseUsingAPI(verse, maxLen) {
     prevTranslation = endTranslation;
   }
   // If there's any remainder, add it as the final segment.
-  if (prevArabic < text_uthmani.length) {
+//   if (prevArabic < text_uthmani.length) {
+  if (prevTranslation < translation.length) {
     segments.push({
       text_uthmani: text_uthmani.substring(prevArabic).trim(),
       text_uthmani_transcribed: text_uthmani_transcribed.substring(prevTranscribed).trim(),
