@@ -1,5 +1,7 @@
 const fs = require('fs');
 const path = require('path');
+const glob = require('glob');
+const { exit } = require('process');
 
 // 19; // en - https://raw.githubusercontent.com/fawazahmed0/quran-api/refs/heads/1/database/originals/en.pickthall
 // 27; // de - https://raw.githubusercontent.com/fawazahmed0/quran-api/refs/heads/1/database/originals/de.bubenheim
@@ -41,8 +43,8 @@ glob(path.join(sourceDir, 'surah-*.json'), (err, files) => {
 
         const jsonData = JSON.parse(data) || [];
         jsonData.forEach((verse, index) => {
-          existingData[index + 1].text_uthmani = verse.text_uthmani;
-          existingData[index + 1].text_uthmani_transcribed = verse.text_uthmani_transcribed;
+          existingData[index].text_uthmani = verse.text_uthmani;
+          existingData[index].text_uthmani_transcribed = verse.text_uthmani_transcribed;
         });
 
         fs.writeFile(destFile, JSON.stringify(existingData, null, 2), 'utf8', err => {
