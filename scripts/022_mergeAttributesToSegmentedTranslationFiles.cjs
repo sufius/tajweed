@@ -8,7 +8,7 @@ const { exit } = require('process');
 // 79; // ru - https://raw.githubusercontent.com/fawazahmed0/quran-api/refs/heads/1/database/originals/rus-abuadel.txt
 // 45; // ru - https://raw.githubusercontent.com/fawazahmed0/quran-api/refs/heads/1/database/originals/rus-elmirkuliev.txt
 // 445; // ru - https://raw.githubusercontent.com/fawazahmed0/quran-api/refs/heads/1/database/originals/rus-vporokhova.txt
-const translationKey = 27;
+const translationKey = "de-27";
 
 // Source directories
 const sourceDir = path.join(__dirname, '../public/surat-densed');

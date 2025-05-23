@@ -71,17 +71,17 @@ async function processFile(inputPath) {
 
   const outputPath = path.join(
     path.dirname(inputPath),
-    path.basename(inputPath, '.json') + '_aligned_with_transcription.json'
+    path.basename(inputPath, '.json') + '_all_segmented.json'
   );
 
   fs.writeFileSync(outputPath, JSON.stringify(processed, null, 2), 'utf-8');
   console.log(`✔️ Fertig! Datei gespeichert unter:\n${outputPath}`);
 }
 
-// 🔧 Aufruf: node align_uthmani_with_transcription.js ./deine_input_datei.json
+// 🔧 Aufruf: node 032_alignUthmaniWithTranscription.cjs ./public/surat-aligned/surah-1.json
 const inputPath = process.argv[2];
 if (!inputPath) {
-  console.error("❗ Bitte Pfad zur Eingabedatei angeben:\nnode align_uthmani_with_transcription.js ./surah-63_segmented_semantic.json");
+  console.error("❗ Bitte Pfad zur Eingabedatei angeben:\nnode 032_alignUthmaniWithTranscription.cjs ./public/surat-aligned/surah-1.json");
   process.exit(1);
 }
 
