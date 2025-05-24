@@ -38,6 +38,18 @@ Segmentierte Übersetzungen:
 ${JSON.stringify(verse.splitted.map(s => s.translation), null, 2)}
 `;
 
+
+
+console.log(`
+  Originaltext (arabisch):
+  ${verse.text_uthmani}
+  
+  Segmentierte Übersetzungen:
+  ${JSON.stringify(verse.splitted.map(s => s.translation), null, 2)}`
+);
+
+
+
   const response = await openai.chat.completions.create({
     model: "gpt-4",
     temperature: 0,
