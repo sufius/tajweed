@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# Argument prüfen
+if [ -z "$1" ]; then
+  echo "❗ Fehler: Du musst einen Übersetzungsschlüssel angeben (z. B. de-27)"
+  echo "➡️  Verwendung: $0 de-27"
+  exit 1
+fi
+
+TRANSLATION_KEY="$1"
+
 # Liste der Suren-Dateien
 FILES=(
   "surah-100.json"
@@ -19,7 +28,7 @@ FILES=(
 )
 
 # Verzeichnis definieren
-DIR="./public/surat-aligned"
+DIR="./public/surat-aligned-$TRANSLATION_KEY"
 
 # Starte jeweils 10 aufeinanderfolgend
 for ((i=0; i<${#FILES[@]}; i+=10)); do

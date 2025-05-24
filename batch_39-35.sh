@@ -11,16 +11,11 @@ TRANSLATION_KEY="$1"
 
 # Liste der Suren-Dateien
 FILES=(
-  "surah-99.json"
-  "surah-98.json"
-  "surah-97.json"
-  "surah-96.json"
-  "surah-95.json"
-  "surah-94.json"
-  "surah-93.json"
-  "surah-92.json"
-  "surah-91.json"
-  "surah-90.json"
+  "surah-39.json"
+  "surah-38.json"
+  "surah-37.json"
+  "surah-36.json"
+  "surah-35.json"
 )
 
 # Verzeichnis definieren
@@ -33,7 +28,7 @@ for ((i=0; i<${#FILES[@]}; i+=10)); do
     FILE="${FILES[$((i+j))]}"
     echo "⚙️  → $FILE"
     node scripts/032_alignUthmaniWithTranscription.cjs "$DIR/$FILE"
-    sleep 1 # optional: Vermeide Rate Limits
+    sleep 1
   done
   echo "⏳ Warte 10 Sekunden, um Rate Limits zu vermeiden..."
   sleep 10
