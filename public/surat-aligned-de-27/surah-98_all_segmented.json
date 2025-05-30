@@ -4,14 +4,16 @@
     "translation": "Diejenigen von den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden sich nicht (eher von ihrem Unglauben) lösen, bis (daß) der klare Beweis zu ihnen kommt,",
     "splitted": [
       {
-        "translation": "Diejenigen von den Leuten der Schrift",
-        "text_uthmani": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ",
-        "text_uthmani_transcribed": "Lam yakuni allatheena kafaroo min ahli alkitabi"
+        "belongs_to_verse_number": 1,
+        "translation": "Diejenigen von den Leuten der Schrift und den Götzendienern, die ungläubig sind, ",
+        "text_uthmani": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ",
+        "text_uthmani_transcribed": "Lam yakunil-lażīna kafarū min ahlil-kitābi wal-musyrikīna"
       },
       {
-        "translation": "und den Götzendienern, die ungläubig sind, werden sich nicht (eher von ihrem Unglauben) lösen, bis (daß) der klare Beweis zu ihnen kommt,",
-        "text_uthmani": "وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
-        "text_uthmani_transcribed": "waalmushrikeena munfakkeena hatta ta/tiyahumu albayyinatu"
+        "belongs_to_verse_number": 1,
+        "translation": "werden sich nicht (eher von ihrem Unglauben) lösen, bis (daß) der klare Beweis zu ihnen kommt,",
+        "text_uthmani": "مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+        "text_uthmani_transcribed": "munfakkīna ḥattā ta'tiyahumul-bayyinah(tu)."
       }
     ],
     "text_uthmani": " لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
@@ -40,19 +42,22 @@
     "translation": "Und nichts anderes wurde ihnen befohlen, als nur Allah zu dienen und (dabei) Ihm gegenüber aufrichtig in der Religion (zu sein), als Anhänger des rechten Glaubens, und das Gebet zu verrichten und die Abgabe zu entrichten; das ist die Religion des rechten Verhaltens.",
     "splitted": [
       {
+        "belongs_to_verse_number": 5,
         "translation": "Und nichts anderes wurde ihnen befohlen, als nur Allah zu dienen",
         "text_uthmani": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ",
-        "text_uthmani_transcribed": "Wa maa umiroo illa liya'budoo Allah"
+        "text_uthmani_transcribed": "Wa mā umirū illā liya'budullāha"
       },
       {
+        "belongs_to_verse_number": 5,
         "translation": "und (dabei) Ihm gegenüber aufrichtig in der Religion (zu sein), als Anhänger des rechten Glaubens, und das Gebet zu verrichten",
         "text_uthmani": "مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ",
-        "text_uthmani_transcribed": "Mukhliseena lahu addeen, hunafaa'a wa yuqeemoo as-salat"
+        "text_uthmani_transcribed": "mukhliṣīna lahud-dīn(a), ḥunafā'a wa yuqīmuṣ-ṣalāta"
       },
       {
+        "belongs_to_verse_number": 5,
         "translation": "und die Abgabe zu entrichten; das ist die Religion des rechten Verhaltens.",
         "text_uthmani": "وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
-        "text_uthmani_transcribed": "Wa yu'too az-zakat, wa thalika deenu alqayyimah"
+        "text_uthmani_transcribed": "wa yu'tuz-zakāta wa żālika dīnul-qayyimah(ti)."
       }
     ],
     "text_uthmani": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
@@ -63,14 +68,16 @@
     "translation": "Gewiß, diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben. Das sind die schlechtesten Geschöpfe.",
     "splitted": [
       {
+        "belongs_to_verse_number": 6,
         "translation": "Gewiß, diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben.",
         "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ",
-        "text_uthmani_transcribed": "Inna allatheena kafaroo min ahli alkitabi waalmushrikeena fee nari jahannama khalideena feeha."
+        "text_uthmani_transcribed": "Innal-lażīna kafarū min ahlil-kitābi wal-musyrikīna fī nāri jahannama khālidīna fīhā,"
       },
       {
+        "belongs_to_verse_number": 6,
         "translation": "Das sind die schlechtesten Geschöpfe.",
         "text_uthmani": "أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
-        "text_uthmani_transcribed": "Ola-ika hum sharru albariyyati."
+        "text_uthmani_transcribed": "ulā'ika hum syarrul-bariyyah(ti)."
       }
     ],
     "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
@@ -87,14 +94,16 @@
     "translation": "Ihr Lohn bei ihrem Herrn sind die Gärten Edens, durcheilt von Bächen, ewig und auf immer darin zu bleiben. Allah hat Wohlgefallen an ihnen, und sie haben Wohlgefallen an Ihm; das ist für jemanden, der seinen Herrn fürchtet.",
     "splitted": [
       {
+        "belongs_to_verse_number": 8,
         "translation": "Ihr Lohn bei ihrem Herrn sind die Gärten Edens, durcheilt von Bächen, ewig und auf immer darin zu bleiben.",
         "text_uthmani": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ",
-        "text_uthmani_transcribed": "Jazaohum 'inda rabbihim jannatu 'adnin tajri min tahtiha al-anharu khalideena feeha abadan."
+        "text_uthmani_transcribed": "Jazā'uhum 'inda rabbihim jannātu 'adnin tajrī min taḥtihal-anhāru khālidīna fīhā abadā(n)"
       },
       {
+        "belongs_to_verse_number": 8,
         "translation": "Allah hat Wohlgefallen an ihnen, und sie haben Wohlgefallen an Ihm; das ist für jemanden, der seinen Herrn fürchtet.",
         "text_uthmani": "رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
-        "text_uthmani_transcribed": "Radiya Allahu 'anhum wa radu 'anhu. Thalika liman khashiya rabbahu."
+        "text_uthmani_transcribed": "raḍiyallāhu 'anhum wa raḍū 'anh(u), żālika liman khasyiya rabbah(ū)."
       }
     ],
     "text_uthmani": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
