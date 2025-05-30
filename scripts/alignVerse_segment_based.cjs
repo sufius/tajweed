@@ -7,21 +7,17 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 async function alignSingleSegment(splitted, verse) {
   const prompt = `
-Segmentiere die folgende Transkription 'text_uthmani_transcribed_full' so, dass es zu dem markierten Teil einer deutschen Gesamtübersetzung passt und speichere es als 'text_uthmani_transcribed'.
-Danach segmentiere den folgenden arabischen Originaltext 'text_uthmani_full' so, dass er zu 'text_uthmani_transcribed' passt.
+Segmentiere die folgende Transkription 'text_uthmani_transcribed_full' so, dass es zu der Übersetzung 'translation' passt und speichere es als 'text_uthmani_transcribed'.
+Danach segmentiere den arabischen text 'text_uthmani_full' so, dass er zu 'text_uthmani_transcribed' passt.
 
 Du bekommst:
-- 'text_uthmani_transcribed_full': die vollständige Transkription des arabischen Textes
+- 'text_uthmani_transcribed_full': die vollständige Transkription des vollständigen arabischen Textes
 - 'text_uthmani_full': der vollständige arabische Text
-- 'translation_full': die vollständige deutsche Übersetzung
-- 'translation': ein markiertes Segment aus 'translation_full'
+- 'translation_full': die vollständige Übersetzung
+- 'translation': ein Segment aus 'translation_full'
 
 Deine Aufgabe:
-- Finde den exakt passenden Transkriptionstextausschnitt, der sinngemäß zur Übersetzung 'translation' gehört.
-- Gib exakt den Ausschnitt aus 'text_uthmani_transcribed_full' zurück, der den Übersetzungsteil 'translation' abbildet.
-- Finde den exakt passenden arabischen Textausschnitt 'text_uthmani', der sinngemäß zu 'text_uthmani_transcribed' gehört.
-- Gib exakt den Ausschnitt aus 'text_uthmani_full' zurück, der den Transkriptionteil (text_uthmani_transcribed) abbildet.
-- Gib ein gültiges JSON-Objekt mit "text_uthmani", "text_uthmani_transcribed" und "translation" zurück.
+- Wähle den sinnvollen Ausschnitt, der zur Übersetzung passt.
 - ❗ Zeichen wie ۩,۞, ۖ, ۚ, ۗ, ۙ, ۛ, ۜ usw. sind integraler Bestandteil des arabischen Originaltextes. Du darfst keines davon weglassen oder verändern. Sie müssen exakt im passenden Segment stehen bleiben. Wenn an einer Stelle geschnitten wird, muss das Symbol im Segment bleiben, zu dem es inhaltlich gehört.
 
 ### 🔹 Eingabe:
@@ -46,11 +42,6 @@ Gib deine Antwort im folgenden JSON-Format zurück:
   });
 
   const parsed = JSON.parse(res.choices[0].message.content);
-  // console.log('parsed', parsed);
-  // console.log('parsed');
-  // console.log('parsed');
-  // console.log('parsed');
-  // process.exit(1);
   
   return {
     belongs_to_verse_number: splitted.belongs_to_verse_number,
@@ -67,8 +58,6 @@ async function alignVerse(verse) {
   const enriched = [];
 
   for (const splitted of verse.splitted) {
-    // console.log('splitted', splitted,verse.text_uthmani, verse.text_uthmani_transcribed);
-    // process.exit(1);
     const result = await alignSingleSegment(splitted, verse); 
     enriched.push(result);
   }
