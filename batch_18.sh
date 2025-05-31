@@ -10,11 +10,7 @@ TRANSLATION_KEY="${1:-$DEFAULT_TRANSLATION_KEY}"
 
 # Liste der Suren-Dateien
 FILES=(
-  "surah-34.json"
-  "surah-33.json"
-  "surah-32.json"
-  "surah-31.json"
-  "surah-30.json"
+  "surah-18.json"
 )
 
 # Verzeichnis definieren

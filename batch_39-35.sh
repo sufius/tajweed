@@ -2,12 +2,11 @@
 
 # Argument prüfen
 if [ -z "$1" ]; then
-  echo "❗ Fehler: Du musst einen Übersetzungsschlüssel angeben (z. B. de-27)"
   echo "➡️  Verwendung: $0 de-27"
-  exit 1
 fi
 
-TRANSLATION_KEY="$1"
+DEFAULT_TRANSLATION_KEY="de-27"
+TRANSLATION_KEY="${1:-$DEFAULT_TRANSLATION_KEY}"
 
 # Liste der Suren-Dateien
 FILES=(
