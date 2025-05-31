@@ -10,14 +10,16 @@
     "translation": "Aber nein! Sie wundern sich darüber, daß ein Überbringer von Warnungen von ihnen selbst zu ihnen gekommen ist. Da sagen die Ungläubigen: Das ist eine verwunderliche Sache.",
     "splitted": [
       {
+        "belongs_to_verse_number": 2,
         "translation": "Aber nein! Sie wundern sich darüber, daß ein Überbringer von Warnungen von ihnen selbst zu ihnen gekommen ist.",
         "text_uthmani": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ",
-        "text_uthmani_transcribed": "Bal 'ajibū 'an jā'ahum munthirun minhum"
+        "text_uthmani_transcribed": "Bal 'ajibū an jā'ahum munżirum minhum"
       },
       {
+        "belongs_to_verse_number": 2,
         "translation": "Da sagen die Ungläubigen: Das ist eine verwunderliche Sache.",
         "text_uthmani": "فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ",
-        "text_uthmani_transcribed": "Faqāla al-kāfirūna hādhā shay'un 'ajīb"
+        "text_uthmani_transcribed": "faqālal-kāfirūna hāżā syai'un 'ajīb(un)."
       }
     ],
     "text_uthmani": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ",
@@ -52,14 +54,16 @@
     "translation": "Und die Erde haben Wir gedehnt und darauf festgegründete Berge gesetzt, und Wir haben auf ihr von jeder entzückenden (Pflanzen)art wachsen lassen,",
     "splitted": [
       {
+        "belongs_to_verse_number": 7,
         "translation": "Und die Erde haben Wir gedehnt und darauf festgegründete Berge gesetzt,",
         "text_uthmani": "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ",
-        "text_uthmani_transcribed": "Wa al-arda madadnaha wa alqayna fiha rawasiya"
+        "text_uthmani_transcribed": "Wal-arḍa madadnāhā wa alqainā fīhā rawāsiya"
       },
       {
+        "belongs_to_verse_number": 7,
         "translation": "und Wir haben auf ihr von jeder entzückenden (Pflanzen)art wachsen lassen,",
         "text_uthmani": "وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
-        "text_uthmani_transcribed": "Wa anbatna fiha min kulli zawjin bahijin"
+        "text_uthmani_transcribed": "wa ambatnā fīhā min kulli zaujim bahīj(in)."
       }
     ],
     "text_uthmani": "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
@@ -106,14 +110,16 @@
     "translation": "und die Bewohner des Dickichts und das Volk Tubba’s. Alle bezichtigten die Gesandten der Lüge, so ist Meine Androhung unvermeidlich fällig geworden.",
     "splitted": [
       {
+        "belongs_to_verse_number": 14,
         "translation": "und die Bewohner des Dickichts und das Volk Tubba’s.",
-        "text_uthmani": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ",
-        "text_uthmani_transcribed": "Wa as-habu al-aykati wa qawmu tubba'in"
+        "text_uthmani": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ",
+        "text_uthmani_transcribed": "Wa aṣḥābul-aikati wa qaumu tubba'(in),"
       },
       {
+        "belongs_to_verse_number": 14,
         "translation": "Alle bezichtigten die Gesandten der Lüge, so ist Meine Androhung unvermeidlich fällig geworden.",
-        "text_uthmani": "ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
-        "text_uthmani_transcribed": "Kullun kaththaba al-rusula fahaqqa wa'eedi"
+        "text_uthmani": "كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+        "text_uthmani_transcribed": "kullun każżabar-rusula faḥaqqa wa'īd(i)."
       }
     ],
     "text_uthmani": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
@@ -196,11 +202,13 @@
     "translation": "Sein Geselle wird sagen: Unser Herr, ich habe ihn nicht zu einem Übermaß (an Frevel) verleitet, sondern er (selbst) befand sich in tiefem Irrtum.",
     "splitted": [
       {
+        "belongs_to_verse_number": 27,
         "translation": "Sein Geselle wird sagen: Unser Herr, ich habe ihn nicht zu einem Übermaß (an Frevel) verleitet, sondern er (selbst) befand sich in tiefem",
         "text_uthmani": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ",
         "text_uthmani_transcribed": "Qāla qarīnuhū rabbanā mā atghaytuhū walākin kāna fī ḍalālin"
       },
       {
+        "belongs_to_verse_number": 27,
         "translation": "Irrtum.",
         "text_uthmani": "بَعِيدٍ",
         "text_uthmani_transcribed": "ba'īdin"
@@ -262,14 +270,16 @@
     "translation": "Wie viele Geschlechter vernichteten Wir vor ihnen, die eine stärkere Gewalt hatten als sie und in den Landstrichen umherzogen! Gibt es denn ein Entrinnen?",
     "splitted": [
       {
+        "belongs_to_verse_number": 36,
         "translation": "Wie viele Geschlechter vernichteten Wir vor ihnen, die eine stärkere Gewalt hatten als sie und in den Landstrichen umherzogen!",
         "text_uthmani": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ",
-        "text_uthmani_transcribed": "Wa kam ahlakna qablahum min qarnin hum ashaddu minhum batsan fa naqqabu fi al-bilad"
+        "text_uthmani_transcribed": "Wa kam ahlaknā qablahum min qarnin hum asyaddu minhum baṭsyan fanaqqabū fil-bilād(i)"
       },
       {
+        "belongs_to_verse_number": 36,
         "translation": "Gibt es denn ein Entrinnen?",
         "text_uthmani": "هَلْ مِن مَّحِيصٍ",
-        "text_uthmani_transcribed": "Hal min mahis"
+        "text_uthmani_transcribed": "hal mim maḥīṣ(in)."
       }
     ],
     "text_uthmani": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍ",
@@ -328,14 +338,16 @@
     "translation": "Wir wissen sehr wohl, was sie sagen, und du bist nicht als Gewalthaber über sie (eingesetzt). Darum ermahne (nur) mit dem Qur’an (jeden,) wer Meine Androhung fürchtet.",
     "splitted": [
       {
+        "belongs_to_verse_number": 45,
         "translation": "Wir wissen sehr wohl, was sie sagen, und du bist nicht als Gewalthaber über sie (eingesetzt).",
         "text_uthmani": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ",
-        "text_uthmani_transcribed": "Nahnu a'lamu bima yaquluna. Wa ma anta 'alayhim bijabbarin."
+        "text_uthmani_transcribed": "Naḥnu a'lamu bimā yaqūlūna wa mā anta 'alaihim bijabbār(in),"
       },
       {
+        "belongs_to_verse_number": 45,
         "translation": "Darum ermahne (nur) mit dem Qur’an (jeden,) wer Meine Androhung fürchtet.",
         "text_uthmani": "فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
-        "text_uthmani_transcribed": "Fadhakkir bil-Qur'ani man yakhafu wa'id."
+        "text_uthmani_transcribed": "fażakkir bil-qur'āni may yakhāfu wa'īd(i)."
       }
     ],
     "text_uthmani": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
