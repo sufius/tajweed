@@ -22,7 +22,6 @@ DIR="./public/surat-aligned-$TRANSLATION_KEY"
 
 # Starte jeweils 10 aufeinanderfolgend
 for ((i=0; i<${#FILES[@]}; i+=10)); do
-  echo "🔄 Bearbeite Suren $((i+1)) bis $((i+10))"
   for ((j=0; j<10 && (i+j)<${#FILES[@]}; j++)); do
     FILE="${FILES[$((i+j))]}"
     echo "⚙️  → $FILE"
