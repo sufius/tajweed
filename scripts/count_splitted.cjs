@@ -1,31 +1,37 @@
 const fs = require('fs');
 const path = require('path');
 
-const fileArg = process.argv[2];
+const fileArgs = process.argv.slice(2);
 
-if (!fileArg) {
-  console.error('Usage: node count-splitted.js <file.json>');
+if (fileArgs.length === 0) {
+  console.error('Usage: node count-splitted.js <file1.json> <file2.json> ...');
   process.exit(1);
 }
 
-try {
-  const filePath = path.resolve(fileArg);
-  const raw = fs.readFileSync(filePath, 'utf-8');
-  const data = JSON.parse(raw);
+let totalCount = 0;
 
-  if (!Array.isArray(data)) {
-    throw new Error('Expected top-level array.');
-  }
+for (const fileArg of fileArgs) {
+  try {
+    const filePath = path.resolve(fileArg);
+    const raw = fs.readFileSync(filePath, 'utf-8');
+    const data = JSON.parse(raw);
 
-  let count = 0;
-  for (const item of data) {
-    if (Array.isArray(item.splitted)) {
-      count += item.splitted.length;
+    if (!Array.isArray(data)) {
+      throw new Error(`Expected top-level array in file: ${fileArg}`);
     }
-  }
 
-  console.log(`Total splitted elements: ${count}`);
-} catch (err) {
-  console.error('Error:', err.message);
-  process.exit(1);
+    let count = 0;
+    for (const item of data) {
+      if (Array.isArray(item.splitted)) {
+        count += item.splitted.length;
+      }
+    }
+
+    console.log(`${fileArg}: ${count} splitted elements`);
+    totalCount += count;
+  } catch (err) {
+    console.error(`Error in file "${fileArg}":`, err.message);
+  }
 }
+
+console.log(`Total splitted elements across all files: ${totalCount}`);
