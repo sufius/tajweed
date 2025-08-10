@@ -1,7 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = path.join(__dirname, '../public/surat'); // Adjust this path if needed
+const directoryPath = path.join(__dirname, '../public/surat/segmented/de/27'); // Adjust path
+const prefix = '';       // String to prepend
+const removeStr = '_all_segmented';         // String to remove (set to '' if you don't want to remove anything)
 
 fs.readdir(directoryPath, (err, files) => {
   if (err) {
@@ -10,13 +12,23 @@ fs.readdir(directoryPath, (err, files) => {
   }
 
   files.forEach((file) => {
-    // Check if the filename includes "wbw-surah"
-    if (file.includes('wbw-surah')) {
+    let newFileName = file;
+
+    // Remove specific string from filename
+    if (removeStr && newFileName.includes(removeStr)) {
+      newFileName = newFileName.replace(removeStr, '');
+    }
+
+    // Prepend prefix (only if not already present)
+    if (prefix && !newFileName.startsWith(prefix)) {
+      newFileName = prefix + newFileName;
+    }
+
+    // Rename if different
+    if (newFileName !== file) {
       const oldFilePath = path.join(directoryPath, file);
-      const newFileName = file.replace('wbw-surah', 'surah');
       const newFilePath = path.join(directoryPath, newFileName);
 
-      // Rename the file
       fs.rename(oldFilePath, newFilePath, (renameErr) => {
         if (renameErr) {
           console.error(`Error renaming file ${file}:`, renameErr);

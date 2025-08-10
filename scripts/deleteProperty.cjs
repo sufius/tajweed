@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = path.join(__dirname, '../public/surat-densed'); // Adjust this path as necessary
+const directoryPath = path.join(__dirname, '../public/surat/transcription'); // Adjust this path as necessary
 
 fs.readdir(directoryPath, (err, files) => {
   if (err) {
@@ -26,17 +26,26 @@ fs.readdir(directoryPath, (err, files) => {
 
           // List of properties to delete
           const toDelete = [
-            "translation"
+            "tafsirs",
           ];
 
-          jsonData.forEach((item) => {
+          
+          // jsonData.forEach((item) => {
+          //   debugger
+          //   toDelete.forEach((prop) => {
+          //     if (item.hasOwnProperty(prop)) {
+          //       console.log(item[prop])
+          //       delete item[prop];
+          //     }
+          //   });
+          // });
+
             toDelete.forEach((prop) => {
-              if (item.hasOwnProperty(prop)) {
-                console.log(item[prop])
-                delete item[prop];
+              if (jsonData.hasOwnProperty(prop)) {
+                debugger
+                delete jsonData[prop];
               }
             });
-          });
 
 
           // Write the updated JSON back to the file
