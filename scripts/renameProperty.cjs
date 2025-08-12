@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = path.join(__dirname, '../public/surat/transcription'); // Adjust path
+const directoryPath = path.join(__dirname, '../public/surat/segmented/de/27'); // Adjust path
 
-// Rename rules
+// Apply at most ONE rename per property name (first matching rule)
 const renameRules = [
-  { from: 'text', to: 'transcription' },
+  { from: 'splitted', to: 'segmented' },
   // { from: 'foo', to: 'bar' }
 ];
 
@@ -28,20 +28,21 @@ fs.readdir(directoryPath, (err, files) => {
 
         try {
           const arr = JSON.parse(data);
-
           if (!Array.isArray(arr)) {
             console.warn(`Skipping ${file} — not an array`);
             return;
           }
 
           const updated = arr.map(item => {
-            renameRules.forEach(rule => {
-              if (item.hasOwnProperty(rule.from)) {
-                item[rule.to] = item[rule.from];
-                delete item[rule.from];
-              }
+            if (item === null || typeof item !== 'object') return item;
+
+            const out = {};
+            Object.keys(item).forEach(key => {
+              const rule = renameRules.find(r => r.from === key);
+              const newKey = rule ? rule.to : key; // rename exactly one matching key
+              out[newKey] = item[key];
             });
-            return item;
+            return out;
           });
 
           fs.writeFile(filePath, JSON.stringify(updated, null, 2), 'utf8', (writeErr) => {

@@ -32,7 +32,7 @@
   {
     "verse_number": 6,
     "translation": "Unter den Menschen gibt es manchen, der zerstreuende Unterhaltung erkauft, um (die Menschen) von Allahs Weg ohne (richtiges) Wissen in die Irre zu führen und sich über ihn lustig zu machen. Für solche wird es schmachvolle Strafe geben.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Unter den Menschen gibt es manchen, der zerstreuende Unterhaltung erkauft, um (die Menschen) von Allahs Weg ohne (richtiges) Wissen in die Irre zu führen",
         "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ",
@@ -50,7 +50,7 @@
   {
     "verse_number": 7,
     "translation": "Und wenn ihm Unsere Zeichen verlesen werden, kehrt er sich hochmütig ab, als ob er sie nicht gehört hätte, als ob in seinen Ohren Schwerhörigkeit wäre. So verkünde ihm schmerzhafte Strafe.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und wenn ihm Unsere Zeichen verlesen werden, kehrt er sich hochmütig ab, als ob er sie nicht gehört hätte, als ob in seinen Ohren",
         "text_uthmani": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ",
@@ -80,7 +80,7 @@
   {
     "verse_number": 10,
     "translation": "Er hat die Himmel ohne Stützen, die ihr sehen könnt, erschaffen und auf der Erde festgegründete Berge gesetzt, daß sie nicht mit euch wanke, und auf ihr allerlei Tiere sich ausbreiten lassen. Und Wir lassen Wasser vom Himmel herabkommen und dann viele edle Arten auf ihr wachsen.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Er hat die Himmel ohne Stützen, die ihr sehen könnt, erschaffen und auf der Erde festgegründete Berge gesetzt, daß sie nicht mit euch wanke,",
         "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ",
@@ -98,7 +98,7 @@
   {
     "verse_number": 11,
     "translation": "Das ist Allahs Schöpfung. Zeigt mir nun, was diejenigen außer Ihm erschaffen haben. Aber nein! Die Ungerechten befinden sich in deutlichem Irrtum.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Das ist Allahs Schöpfung. Zeigt mir nun, was diejenigen außer Ihm erschaffen haben. Aber nein!",
         "text_uthmani": "هَـٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ",
@@ -116,7 +116,7 @@
   {
     "verse_number": 12,
     "translation": "Und Wir gaben ja Luqman Weisheit: „Sei Allah dankbar. Und wer dankbar ist, der ist nur zu seinem eigenen Vorteil dankbar. Und wer undankbar ist, - so ist Allah Unbedürftig und Lobenswürdig.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und Wir gaben ja Luqman Weisheit: „Sei Allah dankbar. Und wer dankbar ist, der ist nur zu seinem eigenen Vorteil dankbar.",
         "text_uthmani": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ",
@@ -134,7 +134,7 @@
   {
     "verse_number": 13,
     "translation": "Und (gedenke,) als Luqman zu seinem Sohn sagte, indem er ihn ermahnte: „O mein lieber Sohn, geselle Allah nicht(s) bei, denn Götzendienst ist fürwahr ein gewaltiges Unrecht.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und (gedenke,) als Luqman zu seinem Sohn sagte, indem er ihn ermahnte: „O mein lieber Sohn, geselle Allah nicht(s) bei, denn Götzendienst ist",
         "text_uthmani": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ",
@@ -152,7 +152,7 @@
   {
     "verse_number": 14,
     "translation": "Und Wir haben dem Menschen seine Eltern anbefohlen - seine Mutter hat ihn unter wiederholter Schwäche getragen, und seine Entwöhnung (erfolgt) innerhalb von zwei Jahren -: „Sei Mir und deinen Eltern dankbar. Zu Mir ist der Ausgang.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und Wir haben dem Menschen seine Eltern anbefohlen - seine Mutter hat ihn unter wiederholter Schwäche getragen,",
         "text_uthmani": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ",
@@ -170,7 +170,7 @@
   {
     "verse_number": 15,
     "translation": "Wenn sie sich aber darum bemühen, daß du Mir das beigesellst, wovon du kein Wissen hast, dann gehorche ihnen nicht, doch geh mit ihnen im Diesseits in rechtlicher Weise um. Und folge dem Weg dessen, der sich Mir reuig zuwendet. Zu Mir wird hierauf eure Rückkehr sein, da werde Ich euch kundtun, was ihr zu tun pflegtet.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Wenn sie sich aber darum bemühen, daß du Mir das beigesellst, wovon du kein Wissen hast",
         "text_uthmani": "وَإِن جَـٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ",
@@ -193,7 +193,7 @@
   {
     "verse_number": 16,
     "translation": "O mein lieber Sohn, gewiß, wäre es auch das Gewicht eines Senfkorns und befände es sich in einem Felsen oder in den Himmeln oder in der Erde, bringt es Allah bei. Gewiß, Allah ist Feinfühlig und Allkundig.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "O mein lieber Sohn, gewiß, wäre es auch das Gewicht eines Senfkorns",
         "text_uthmani": "يَـٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ",
@@ -211,7 +211,7 @@
   {
     "verse_number": 17,
     "translation": "O mein lieber Sohn, verrichte das Gebet, gebiete das Rechte und verbiete das Verwerfliche und ertrage standhaft, was dich trifft. Gewiß, dies gehört zur Entschlossenheit (in der Handhabung) der Angelegenheiten.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "O mein lieber Sohn, verrichte das Gebet, gebiete das Rechte und verbiete das Verwerfliche und ertrage standhaft, was dich trifft.",
         "text_uthmani": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ",
@@ -229,7 +229,7 @@
   {
     "verse_number": 18,
     "translation": "Und zeige den Menschen nicht geringschätzig die Wange und gehe nicht übermütig auf der Erde einher, denn Allah liebt niemanden, der eingebildet und prahlerisch ist.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und zeige den Menschen nicht geringschätzig die Wange und gehe nicht übermütig auf der Erde einher, denn Allah liebt niemanden, der eingebildet",
         "text_uthmani": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ",
@@ -253,7 +253,7 @@
   {
     "verse_number": 20,
     "translation": "Seht ihr nicht, daß Allah euch das, was in den Himmeln und was auf der Erde ist, dienstbar gemacht hat, und euch mit Seinen Gunsterweisen überhäuft hat - äußerlich und innerlich? Doch gibt es unter den Menschen manchen, der über Allah ohne (richtiges) Wissen, ohne Rechtleitung und ohne erleuchtendes Buch streitet.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Seht ihr nicht, daß Allah euch das, was in den Himmeln und was auf der Erde ist, dienstbar gemacht hat,",
         "text_uthmani": "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ",
@@ -276,7 +276,7 @@
   {
     "verse_number": 21,
     "translation": "Und wenn zu ihnen gesagt wird: „Folgt dem, was Allah herabgesandt hat, sagen sie: „Nein! Vielmehr folgen wir dem, worin wir unsere Väter vorgefunden haben. Was denn, auch wenn der Satan sie zur Strafe der Feuerglut einlädt?",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und wenn zu ihnen gesagt wird: „Folgt dem, was Allah herabgesandt hat, sagen sie: „Nein!",
         "text_uthmani": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ",
@@ -300,7 +300,7 @@
   {
     "verse_number": 23,
     "translation": "Und wer ungläubig ist, dessen Unglaube soll dich nicht traurig machen. Zu Uns wird ihre Rückkehr sein, dann werden Wir ihnen kundtun, was sie taten. Gewiß, Allah weiß über das Innerste der Brüste Bescheid.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und wer ungläubig ist, dessen Unglaube soll dich nicht traurig machen.",
         "text_uthmani": "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ",
@@ -324,7 +324,7 @@
   {
     "verse_number": 25,
     "translation": "Und wenn du sie fragst, wer die Himmel und die Erde erschaffen hat, sagen sie ganz gewiß: „Allah. Sag: (Alles) Lob gehört Allah! Aber nein! Die meisten von ihnen wissen nicht.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und wenn du sie fragst, wer die Himmel und die Erde erschaffen hat, sagen sie ganz gewiß: „Allah. Sag: (Alles) Lob gehört Allah! Aber nein!",
         "text_uthmani": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ",
@@ -348,7 +348,7 @@
   {
     "verse_number": 27,
     "translation": "Und wenn auch das, was es auf der Erde an Bäumen gibt, Schreibrohre wären und das (gesamte) Meer und danach sieben weitere Meere als Nachschub (Tinte wären), würden die Worte Allahs nicht zu Ende gehen, denn Allah ist Allmächtig und Allweise.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und wenn auch das, was es auf der Erde an Bäumen gibt, Schreibrohre wären und das (gesamte) Meer",
         "text_uthmani": "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ",
@@ -377,7 +377,7 @@
   {
     "verse_number": 29,
     "translation": "Siehst du denn nicht, daß Allah die Nacht in den Tag eindringen und den Tag in die Nacht eindringen läßt und die Sonne und den Mond dienstbar gemacht hat - ein jedes läuft auf eine festgesetzte Frist zu -, und daß Allah dessen Kundig ist, was ihr tut?",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Siehst du denn nicht, daß Allah die Nacht in den Tag eindringen und den Tag in die Nacht eindringen läßt und die Sonne",
         "text_uthmani": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ",
@@ -401,7 +401,7 @@
   {
     "verse_number": 31,
     "translation": "Siehst du nicht, daß die Schiffe durch die Gunst Allahs auf dem Meer fahren, damit Er euch etwas von Seinen Zeichen zeigt? Darin sind wahrlich Zeichen für jeden sehr Standhaften und sehr Dankbaren.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Siehst du nicht, daß die Schiffe durch die Gunst Allahs auf dem Meer fahren, damit Er euch etwas von Seinen Zeichen zeigt?",
         "text_uthmani": "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ",
@@ -419,7 +419,7 @@
   {
     "verse_number": 32,
     "translation": "Und wenn Wogen wie Schattendächer sie überdecken, rufen sie Allah an, (wobei sie) Ihm gegenüber aufrichtig in der Religion (sind). Wenn Er sie nun ans Land errettet, zeigen einige von ihnen ein gemäßigtes Verhalten. Und Unsere Zeichen verleugnet nur jeder sehr Treulose und sehr Undankbare.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Und wenn Wogen wie Schattendächer sie überdecken, rufen sie Allah an, (wobei sie) Ihm gegenüber aufrichtig in der Religion (sind).",
         "text_uthmani": "وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ",
@@ -442,7 +442,7 @@
   {
     "verse_number": 33,
     "translation": "O ihr Menschen, fürchtet euren Herrn und habt Angst vor einem Tag, an dem weder ein Vater etwas für sein Kind begleichen kann, noch ein Kind für seinen Vater etwas wird begleichen können. Gewiß, Allahs Versprechen ist wahr. So soll euch das diesseitige Leben nicht täuschen, und nicht täuschen soll euch hinsichtlich Allahs der Täuscher.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "O ihr Menschen, fürchtet euren Herrn",
         "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ",
@@ -470,7 +470,7 @@
   {
     "verse_number": 34,
     "translation": "Gewiß, Allah (allein) besitzt das Wissen über die Stunde, läßt den Regen herabkommen und weiß, was im Mutterleib ist. Niemand weiß, was er morgen erwerben wird, und niemand weiß, in welchem Land er sterben wird. Gewiß, Allah ist Allwissend und Allkundig.",
-    "splitted": [
+    "segmented": [
       {
         "translation": "Gewiß, Allah (allein) besitzt das Wissen über die Stunde, läßt den Regen herabkommen und weiß, was im Mutterleib ist.",
         "text_uthmani": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ",
