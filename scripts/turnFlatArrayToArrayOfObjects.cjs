@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = path.join(__dirname, '../public/surat/transcription'); // folder containing the array files
+const label = 'tafsir';
+const directoryPath = path.join(__dirname, `../public/surat/${label}`); // folder containing the array files
 
 fs.readdir(directoryPath, (err, files) => {
   if (err) {
@@ -30,7 +31,7 @@ fs.readdir(directoryPath, (err, files) => {
 
           const updated = arr.map((text, idx) => ({
             verse_number: idx + 1,
-            text
+            [label]: text
           }));
 
           fs.writeFile(filePath, JSON.stringify(updated, null, 2), 'utf8', (writeErr) => {
