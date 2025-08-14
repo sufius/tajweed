@@ -5,7 +5,7 @@ const directoryPath = path.join(__dirname, '../public/surat/complete'); // Adjus
 
 // Rename rules using dot-notation
 const renameRules = [
-  { from: 'verses.translations.text', to: 'verses.translations.translation' },
+  { from: 'verses.words.text_uthmani', to: 'verses.words.arabic' },
   // { from: 'verses.text_uthmani_transcribed', to: 'verses.transcription' }
 ];
 
