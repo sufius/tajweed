@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = path.join(__dirname, '../public/surat/segmented/de/27'); // Adjust path
+const directoryPath = path.join(__dirname, '../public/surat/densed'); // Adjust path
 
 // Apply at most ONE rename per property name (first matching rule)
 const renameRules = [
-  { from: 'splitted', to: 'segmented' },
+  { from: 'text_uthmani_transcribed', to: 'transcription' },
   // { from: 'foo', to: 'bar' }
 ];
 
