@@ -2426,18 +2426,20 @@
   {
     "index": 304,
     "verse_number": 153,
-    "translation": "Da belohnte Er euch mit Kummer für (den) Kummer (des Propheten), damit ihr weder traurig wäret über das, was euch entgangen war, noch über das,",
+    "translation": "Da belohnte Er euch mit Kummer für (den) Kummer (des Propheten), damit ihr weder traurig wäret über das, was euch entgangen war,",
     "arabic_full": "۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَـٰبَكُمْ غَمًّۢا بِغَمٍّ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَـٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
     "arabic": "",
-    "transcription": "fa aṡābakum gammam bigammil likailā taḥzanū 'alā mā fātakum wa lā mā"
+    "transcription": "fa aṡābakum gammam bigammil likailā taḥzanū 'alā mā fātakum",
+    "color": "red"
   },
   {
     "index": 305,
     "verse_number": 153,
-    "translation": "was euch getroffen hatte. Und Allah ist Kundig dessen, was ihr tut.",
+    "translation": "noch über das, was euch getroffen hatte. Und Allah ist Kundig dessen, was ihr tut.",
     "arabic_full": "۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَـٰبَكُمْ غَمًّۢا بِغَمٍّ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَـٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
     "arabic": "",
-    "transcription": "mā aṣābakum, wallāhu khabīrum bimā ta'malūn(a)."
+    "transcription": "wa lā mā aṣābakum, wallāhu khabīrum bimā ta'malūn(a).",
+    "color": "red"
   },
   {
     "index": 306,
@@ -2698,18 +2700,20 @@
   {
     "index": 338,
     "verse_number": 165,
-    "translation": "Ist es nicht (so), daß, als euch ein Unglück traf, obwohl ihr (den Feind) mit einem zweimal so großen getroffen hattet, ihr sagtet: „Woher kommt",
+    "translation": "Ist es nicht (so), daß, als euch ein Unglück traf, obwohl ihr (den Feind) mit einem zweimal so großen getroffen hattet, ihr sagtet: 'Woher kommt das?'",
     "arabic_full": "أَوَلَمَّآ أَصَـٰبَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَـٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
     "arabic": "",
-    "transcription": "Awa lammā aṣābatkum muṣībatun qad aṣabtum miṡlaihā, qultum annā hāżā"
+    "transcription": "Awa lammā aṣābatkum muṣībatun qad aṣabtum miṡlaihā, qultum annā hāżā,",
+    "color": "red"
   },
   {
     "index": 339,
     "verse_number": 165,
-    "translation": "das? Sag: Es kommt von euch selbst. Gewiß, Allah hat zu allem die Macht.",
+    "translation": "Sag: Es kommt von euch selbst. Gewiß, Allah hat zu allem die Macht.",
     "arabic_full": "أَوَلَمَّآ أَصَـٰبَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَـٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
     "arabic": "",
-    "transcription": "hāżā, qul huwa min 'indi anfusikum, innallāha 'alā kulli syai'in qadīr(un)."
+    "transcription": "qul huwa min 'indi anfusikum, innallāha 'alā kulli syai'in qadīr(un).",
+    "color": "red"
   },
   {
     "index": 340,
@@ -2773,7 +2777,8 @@
     "translation": "Und meine ja nicht, diejenigen, die auf Allahs Weg getötet worden sind, seien (wirklich) tot. Nein!",
     "arabic_full": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
     "arabic": "",
-    "transcription": "Wa lā taḥsabannal-lażīna qutilū fī sabīlillāhi amwātā(n), bal"
+    "transcription": "Wa lā taḥsabannal-lażīna qutilū fī sabīlillāhi amwātā(n), bal",
+    "color": "red"
   },
   {
     "index": 348,
@@ -2781,7 +2786,8 @@
     "translation": "Vielmehr sind sie lebendig bei ihrem Herrn und werden versorgt",
     "arabic_full": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
     "arabic": "",
-    "transcription": "bal aḥyā'un 'inda rabbihim yurzaqūn(a)."
+    "transcription": "aḥyā'un 'inda rabbihim yurzaqūn(a).",
+    "color": "red"
   },
   {
     "index": 349,
