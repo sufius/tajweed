@@ -1,11 +1,11 @@
 /**
- * segment_arabic.js
- *
- * Verwendet OpenAI (gpt-4o), um in Dateien unter ../public/surat/segmented/de/27
- * aus "arabic_full" passende Teilsegmente für "transcription" zu extrahieren und
- * ins Feld "arabic" zu schreiben – exakt als Präfix des verbleibenden arabic_full
- * (Cursor-Ansatz), sodass das spätere Konkatenieren aller Segmente wieder exakt
- * arabic_full ergibt (inkl. Leerzeichen und Sonderzeichen).
+ * segment_arabic.js  (aktualisiert)
+ * - Läuft durch ../public/surat/segmented/de/27 (oder --file)
+ * - Startet beim ersten leeren arabic ODER bei --start-index
+ * - Ein OpenAI-Call pro leerem Objekt
+ * - Akzeptiert Segment, wenn es Präfix von remaining ist
+ *   oder wenn remaining mit [ein Randzeichen] + Segment beginnt
+ *   (Randzeichen aus arabic_full genommen: Space, Waqf, Tatweel)
  */
 
 const fs = require('fs');
@@ -13,20 +13,24 @@ const path = require('path');
 const OpenAI = require('openai');
 require('dotenv').config({ path: '../.env.local' });
 
-// ---------- KONFIG ----------
 const SOURCE_DIR = path.join(__dirname, '../public/surat/segmented/de/27');
 const MODEL = 'gpt-4o';
 const TEMPERATURE = 0;
-const SLEEP_MS_BETWEEN_CALLS = 200; // kleine Pause zwischen Requests
-// ----------------------------
+const SLEEP_MS_BETWEEN_CALLS = 200;
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-function sleep(ms) {
-  return new Promise((res) => setTimeout(res, ms));
-}
+// Optional CLI
+const argFile = process.argv.includes('--file')
+  ? process.argv[process.argv.indexOf('--file') + 1]
+  : null;
 
-// Hilfs-Write: sicher schreiben (mit Temp-Datei + rename)
+const argStartIndex = process.argv.includes('--start-index')
+  ? Number(process.argv[process.argv.indexOf('--start-index') + 1])
+  : null;
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
 function safeWriteJSON(filePath, data) {
   const tmp = filePath + '.tmp';
   fs.writeFileSync(tmp, JSON.stringify(data, null, 2), 'utf8');
@@ -38,13 +42,11 @@ function safeWriteJSON(filePath, data) {
 // transcription passt. Keine Normalisierung, keine Zeichen-Entfernung, nichts erfinden.
 function buildPrompt({ remaining_arabic, transcription }) {
   return [
-    `Du segmentierst arabische Verse ausschließlich aus dem gegebenen Originaltext.`,
+    `Du segmentierst ausschließlich aus dem gegebenen arabischen Original.`,
     `REGELN:`,
-    `1) Nimm als Ergebnis eine EXAKTE Teilzeichenkette (substring) am ANFANG (Präfix) von "remaining_arabic".`,
-    `2) Entferne KEINE Zeichen, verändere KEINE Zeichen, füge KEINE Zeichen hinzu.`,
-    `3) Lasse alle Leerzeichen und Sonderzeichen (z. B. ۚ, ۖ, ۞, etc.) genauso stehen, wie sie im Präfix vorkommen.`,
-    `4) Wähle genau jenes Präfix, das am besten zur gegebenen "transcription" passt.`,
-    `5) Antworte NUR als JSON-Objekt: { "arabic_segment": "<EXAKTES_PRAEFIX>" }`,
+    `1) Gib eine EXAKTE Teilzeichenkette zurück, die am ANFANG (Präfix) von "remaining_arabic" steht.`,
+    `2) Entferne/ändere/füge keinerlei Zeichen hinzu (inkl. Leerzeichen und Sonderzeichen).`,
+    `3) Antworte nur als JSON: { "arabic_segment": "<EXAKTES_PRAEFIX>" }`,
     ``,
     `remaining_arabic:`,
     remaining_arabic,
@@ -56,14 +58,12 @@ function buildPrompt({ remaining_arabic, transcription }) {
 
 // Finde den ersten Index eines Objekts mit leerem arabic
 function findFirstEmptyArabicIndex(arr) {
-  return arr.findIndex(
-    (x) => x && typeof x === 'object' && typeof x.arabic === 'string' && x.arabic.trim() === ''
-  );
+  return arr.findIndex(x => x && typeof x === 'object' && typeof x.arabic === 'string' && x.arabic.trim() === '');
 }
 
 // Zähle die bereits verbrauchte Länge (Cursor) je arabic_full in diesem Array (bis zu idx-1)
 function computeUsedLengthForArabicFull(arr, idx) {
-  const usedByFull = new Map(); // arabic_full -> used_length
+  const usedByFull = new Map();
   for (let i = 0; i < idx; i++) {
     const it = arr[i];
     if (!it || typeof it !== 'object') continue;
@@ -83,7 +83,23 @@ function remainingArabicForItem(item, usedByFull) {
   return af.slice(used);
 }
 
-// Verarbeite eine Datei: starte beim ersten leeren arabic, iteriere ab dort
+// EINZIGE NEUE LOGIK: tolerantes Präfix mit optional GENAU 1 führendem Randzeichen
+const OPTIONAL_LEADING_CHARS = /[\u0020\u0640\u06DD\u06DE\u06E6\u06DA\u06DB\u06DC\u06D6-\u06ED\u061F\u060C\u061B]/u;
+//  \u0020 space, \u0640 Tatweel ـ, \u06DD ۝, \u06DE ۞, \u06E6 ۦ (selten), \u06D6–\u06ED Diverse Small High/Quranic marks,
+//  \u060C، comma, \u061B؛ semicolon, \u061F؟ question
+
+function acceptSegment(remaining, segment) {
+  if (remaining.startsWith(segment)) {
+    return segment; // exakt
+  }
+  // genau EIN führendes Randzeichen erlaubt (falls Modell es „vergessen“ hat)
+  const firstChar = remaining.charAt(0);
+  if (OPTIONAL_LEADING_CHARS.test(firstChar) && remaining.startsWith(firstChar + segment)) {
+    return firstChar + segment;
+  }
+  return null;
+}
+
 async function processFile(filePath) {
   let data;
   try {
@@ -97,7 +113,7 @@ async function processFile(filePath) {
     return { changed: false, done: false };
   }
 
-  let startIdx = findFirstEmptyArabicIndex(data);
+  let startIdx = argStartIndex ?? findFirstEmptyArabicIndex(data);
   if (startIdx === -1) {
     console.log(`Alles befüllt: ${path.basename(filePath)}`);
     return { changed: false, done: true };
@@ -134,7 +150,7 @@ async function processFile(filePath) {
     const prompt = buildPrompt({ remaining_arabic: remaining, transcription });
 
     // OpenAI-Aufruf (ein Request pro Objekt)
-    let segment = null;
+    let modelSeg = null;
     try {
       const res = await openai.chat.completions.create({
         model: MODEL,
@@ -145,22 +161,10 @@ async function processFile(filePath) {
 
       const raw = res.choices?.[0]?.message?.content || '{}';
       const parsed = JSON.parse(raw);
-      segment = parsed.arabic_segment;
+      modelSeg = parsed.arabic_segment;
 
-      if (typeof segment !== 'string') {
+      if (typeof modelSeg !== 'string') {
         console.warn(`Eintrag ${i}: ungültige Antwort (kein arabic_segment String) – übersprungen.`);
-        continue;
-      }
-
-      // Validierung: segment MUSS Präfix von remaining sein
-      if (!remaining.startsWith(segment)) {
-        console.warn(`Eintrag ${i}: segment ist kein Präfix des remaining – übersprungen.`);
-        continue;
-      }
-
-      // Optional: Minimale Nicht-Leer-Validierung
-      if (segment.length === 0) {
-        console.warn(`Eintrag ${i}: leeres Segment – übersprungen.`);
         continue;
       }
     } catch (e) {
@@ -171,12 +175,18 @@ async function processFile(filePath) {
       continue;
     }
 
-    // Segment eintragen & Datei sofort speichern
-    item.arabic = segment;
+    // Präfix-Validierung (exakt oder mit GENAU 1 führendem Randzeichen)
+    const accepted = acceptSegment(remaining, modelSeg);
+    if (!accepted) {
+      console.warn(`Eintrag ${i}: Segment ist kein akzeptiertes Präfix (len rem=${remaining.length}, seg=${JSON.stringify(modelSeg).slice(0,80)}...). Übersprungen.`);
+      continue;
+    }
 
+    // Eintragen & sofort speichern
+    item.arabic = accepted;
     try {
       safeWriteJSON(filePath, data);
-      console.log(`Gespeichert: ${path.basename(filePath)} [idx ${i}] (len=${segment.length})`);
+      console.log(`Gespeichert: ${path.basename(filePath)} [idx ${i}] (len=${accepted.length})`);
     } catch (e) {
       console.error(`Fehler beim Schreiben: ${path.basename(filePath)} -> ${e.message}`);
       // Wenn Schreiben fehlschlägt, nicht weiter riskieren:
@@ -192,33 +202,27 @@ async function processFile(filePath) {
 
 // Main: alle Dateien oder eine spezifische Datei
 (async () => {
-  const argFile = process.argv.includes('--file')
-    ? process.argv[process.argv.indexOf('--file') + 1]
-    : null;
-
   let files;
   if (argFile) {
-    files = [argFile];
+    files = [path.isAbsolute(argFile) ? argFile : path.join(SOURCE_DIR, argFile)];
   } else {
-    files = fs.readdirSync(SOURCE_DIR).filter((f) => f.endsWith('.json'));
+    files = fs.readdirSync(SOURCE_DIR).filter(f => f.endsWith('.json')).map(f => path.join(SOURCE_DIR, f));
   }
 
-  if (!files || files.length === 0) {
+  if (files.length === 0) {
     console.log('Keine JSON-Dateien gefunden.');
     process.exit(0);
   }
 
-  let anyPending = false;
-
-  for (const f of files) {
-    const filePath = path.isAbsolute(f) ? f : path.join(SOURCE_DIR, f);
-    const res = await processFile(filePath);
-    if (res.done === false) anyPending = true;
+  let allDone = true;
+  for (const fp of files) {
+    const res = await processFile(fp);
+    if (!res.done) allDone = false;
   }
 
-  if (!anyPending) {
+  if (allDone) {
     console.log('Alle arabic-Felder sind bereits gefüllt – stoppe das Script.');
   } else {
-    console.log('Durchlauf beendet (es gibt ggf. noch weitere leere Felder für nächste Runs).');
+    console.log('Durchlauf beendet (für nächste Runs bleibt der Fortschritt erhalten).');
   }
 })();
