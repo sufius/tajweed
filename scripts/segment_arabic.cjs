@@ -92,9 +92,9 @@ function acceptSegment(remaining, segment) {
   if (remaining.startsWith(segment)) {
     return segment; // exakt
   }
-  // genau EIN führendes Randzeichen erlaubt (falls Modell es „vergessen“ hat)
   const firstChar = remaining.charAt(0);
-  if (OPTIONAL_LEADING_CHARS.test(firstChar) && remaining.startsWith(firstChar + segment)) {
+  // nur übernehmen, wenn es ein Qur’an-Sonderzeichen ist – KEIN normales Leerzeichen
+  if (firstChar !== ' ' && OPTIONAL_LEADING_CHARS.test(firstChar) && remaining.startsWith(firstChar + segment)) {
     return firstChar + segment;
   }
   return null;
