@@ -1,12 +1,15 @@
 /**
- * Segmentiert "arabic_full" zu "arabic" passend zur "transcription",
- * ohne Randzeichen zu verlieren (Waqf/Spaces etc.).
+ * Segmentiert "arabic_full" → "arabic" passend zur "transcription".
+ * - Speichert nach jedem Objekt (Fortschritt sicher)
+ * - OpenAI nur, wenn Nachbar (prev/next) gleiche verse_number hat
+ * - Token-Budget pro Tag mit Abbruch bei Limit
  *
  * Nutzung:
- *   node segment_arabic_snap.js
- *   node segment_arabic_snap.js --file surah-18.json
- *   node segment_arabic_snap.js --start-index 120
- *   node segment_arabic_snap.js --file surah-18.json --start-index 200
+ *   node segment_arabic_with_budget.js
+ *   node segment_arabic_with_budget.js --file surah-18.json
+ *   node segment_arabic_with_budget.js --start-index 120
+ *   node segment_arabic_with_budget.js --limit 240000
+ *   node segment_arabic_with_budget.js --budget-file ./my_usage.json
  */
 
 const fs = require('fs');
@@ -27,6 +30,60 @@ const argFile = process.argv.includes('--file')
 const argStartIndex = process.argv.includes('--start-index')
   ? Number(process.argv[process.argv.indexOf('--start-index') + 1])
   : null;
+
+const argLimit = process.argv.includes('--limit')
+  ? Number(process.argv[process.argv.indexOf('--limit') + 1])
+  : 240000;
+
+const argBudgetFile = process.argv.includes('--budget-file')
+  ? process.argv[process.argv.indexOf('--budget-file') + 1]
+  : path.join(__dirname, '.openai_usage.json');
+
+// ----- Token-Budget Verwaltung -----
+class DailyTokenBudget {
+  constructor(filePath, dailyLimit) {
+    this.filePath = filePath;
+    this.dailyLimit = Number.isFinite(dailyLimit) ? dailyLimit : 240000;
+    const today = new Date();
+    this.todayKey = today.toISOString().slice(0, 10); // YYYY-MM-DD
+    this._load();
+  }
+  _load() {
+    try {
+      const raw = fs.existsSync(this.filePath) ? fs.readFileSync(this.filePath, 'utf8') : '{}';
+      const data = JSON.parse(raw || '{}');
+      // Reset bei Tageswechsel
+      if (data.date !== this.todayKey) {
+        this.usage = 0;
+        this._save();
+      } else {
+        this.usage = Number(data.usage) || 0;
+      }
+    } catch {
+      this.usage = 0;
+      this._save();
+    }
+  }
+  _save() {
+    fs.writeFileSync(this.filePath, JSON.stringify({ date: this.todayKey, usage: this.usage }, null, 2), 'utf8');
+  }
+  canSpend() {
+    return this.usage < this.dailyLimit;
+  }
+  add(usedTokens) {
+    if (!Number.isFinite(usedTokens) || usedTokens <= 0) return;
+    this.usage += usedTokens;
+    this._save();
+  }
+  getUsage() {
+    return this.usage;
+  }
+  getRemaining() {
+    return Math.max(0, this.dailyLimit - this.usage);
+  }
+}
+
+const budget = new DailyTokenBudget(argBudgetFile, argLimit);
 
 // ----- Utils -----
 function readJson(fp) {
@@ -54,13 +111,10 @@ function hasSiblingSameVerse(arr, i) {
 function collectContext(arr, i) {
   const cur = arr[i];
   const vn = cur?.verse_number;
-
   const prev = i > 0 ? arr[i - 1] : null;
   const next = i < arr.length - 1 ? arr[i + 1] : null;
-
   const prevSame = prev && prev.verse_number === vn ? prev : null;
   const nextSame = next && next.verse_number === vn ? next : null;
-
   const earlierSame = [];
   for (let k = 0; k < i; k++) {
     const it = arr[k];
@@ -68,35 +122,48 @@ function collectContext(arr, i) {
       earlierSame.push({ transcription: it.transcription || '', arabic: it.arabic });
     }
   }
-
   return { prevSame, nextSame, earlierSame };
 }
 
 // ---- Randzeichen-Erkennung (alles, was am Segmentrand "dranhängen" darf) ----
-const RIGHT_BOUNDARY_RE = /[\u200C\u200D\s\u0640\u060C\u061B\u061F\u06D6-\u06ED\u06DD\u06DE\u06DC\u06E2\u06E3\u06E5\u06E6]+/u; // ZWNJ/ZWJ, Space, Tatweel, arab. Komma/Semikolon/Fragez., Waqf-Bereich u.a.
+const RIGHT_BOUNDARY_RE = /[\u200C\u200D\s\u0640\u060C\u061B\u061F\u06D6-\u06ED\u06DD\u06DE\u06DC\u06E2\u06E3\u06E5\u06E6]+/u;
 const LEFT_BOUNDARY_RE  = /[\u200C\u200D\s\u0640\u060C\u061B\u061F\u06D6-\u06ED\u06DD\u06DE\u06DC\u06E2\u06E3\u06E5\u06E6]+/u;
-
-// rechte Grenze ab Cursor erweitern (inkl. aller Randzeichen)
 function expandRight(full, end) {
   if (end >= full.length) return end;
   const m = full.slice(end).match(RIGHT_BOUNDARY_RE);
-  if (m && m.index === 0) {
-    return end + m[0].length;
-  }
+  if (m && m.index === 0) return end + m[0].length;
   return end;
 }
-// linke Grenze vor Start erweitern (nur beim ersten Segment eines Verses)
 function expandLeft(full, start) {
   if (start <= 0) return start;
-  // suche rückwärts bis Zeichen nicht mehr als Randzeichen zählt
   let i = start - 1;
-  while (i >= 0 && LEFT_BOUNDARY_RE.test(full[i])) {
-    i--;
-  }
+  while (i >= 0 && LEFT_BOUNDARY_RE.test(full[i])) i--;
   return i + 1;
 }
+function indexOfFrom(full, needle, fromIdx) {
+  if (!needle) return -1;
+  return full.indexOf(needle, fromIdx);
+}
+function sliceWithBoundaries(full, core, cursor, isFirstInVerse, isLastInVerse) {
+  if (!core) return { slice: '', newCursor: cursor };
+  const startCore = indexOfFrom(full, core, cursor);
+  if (startCore === -1) {
+    const anywhere = full.indexOf(core);
+    if (anywhere === -1) {
+      return { slice: full.slice(cursor), newCursor: full.length };
+    }
+    const endCoreA = anywhere + core.length;
+    const endA = expandRight(full, endCoreA);
+    const startA = isFirstInVerse ? expandLeft(full, anywhere) : anywhere;
+    return { slice: full.slice(startA, endA), newCursor: endA };
+  }
+  const endCore = startCore + core.length;
+  const start = isFirstInVerse ? expandLeft(full, startCore) : startCore;
+  const end = isLastInVerse ? full.length : expandRight(full, endCore);
+  return { slice: full.slice(start, end), newCursor: end };
+}
 
-// OpenAI-Prompt: liefert NUR den arabischen Kern-Substring (ohne Rand-Erweiterung)
+// ----- OpenAI-Aufruf (mit Budgetprüfung) -----
 function buildPrompt({ arabic_full, transcription, prevSame, nextSame, earlierSame }) {
   return `
 Du segmentierst arabischen Quran-Text.
@@ -107,7 +174,7 @@ AUFGABE:
   - "transcription": das Zielsegment in Transkription (lateinisch, String)
 - Finde in "arabic_full" den **zusammenhängenden Kern-Substring**, der diesem Transkriptions-Segment entspricht.
 - Gib **exakt** diesen Kern-Substring zurück (ohne zusätzliche Zeichen, keine Normalisierung).
-- (Randzeichen/Leerzeichen an den Grenzen werden NICHT hier ergänzt – das erledigt das Programm nachträglich.)
+- (Randzeichen/Leerzeichen an den Grenzen ergänzt das Programm selbst.)
 
 KONTEXT (gleiche verse_number):
 - Bereits segmentierte frühere Teile:
@@ -133,6 +200,10 @@ AUSGABE (nur JSON-Objekt):
 }
 
 async function segmentWithOpenAI(item, ctx) {
+  if (!budget.canSpend()) {
+    throw new Error(`Tageslimit erreicht (${budget.getUsage()}/${argLimit} Tokens).`);
+  }
+
   const prompt = buildPrompt({
     arabic_full: item.arabic_full,
     transcription: item.transcription,
@@ -148,51 +219,19 @@ async function segmentWithOpenAI(item, ctx) {
     response_format: { type: "json_object" }
   });
 
+  // Tokens verbuchen
+  const used =
+    (res.usage?.prompt_tokens || 0) +
+    (res.usage?.completion_tokens || 0);
+  budget.add(used);
+
   const content = res.choices?.[0]?.message?.content || '{}';
   let parsed = {};
   try { parsed = JSON.parse(content); } catch {}
   return typeof parsed.arabic === 'string' ? parsed.arabic : '';
 }
 
-function indexOfFrom(full, needle, fromIdx) {
-  if (!needle) return -1;
-  return full.indexOf(needle, fromIdx);
-}
-
-// Schneidet robust aus arabic_full: Kern lokalisieren, linke/rechte Randzeichen anhängen
-function sliceWithBoundaries(full, core, cursor, isFirstInVerse, isLastInVerse) {
-  if (!core) {
-    // Fallback: falls leer, nimm nichts (oder minimalen Slice)
-    return { slice: '', newCursor: cursor };
-  }
-
-  // suche core ab cursor
-  const startCore = indexOfFrom(full, core, cursor);
-  if (startCore === -1) {
-    // Fallback: versuche ohne strikte Position (kann unerwartete Treffer geben)
-    const anywhere = full.indexOf(core);
-    if (anywhere === -1) {
-      // Wenn gar nicht gefunden: gib den Rest (damit nichts verloren geht)
-      return { slice: full.slice(cursor), newCursor: full.length };
-    }
-    // trotzdem an anywhere andocken
-    const endCoreA = anywhere + core.length;
-    const endA = expandRight(full, endCoreA);
-    const startA = isFirstInVerse ? expandLeft(full, anywhere) : anywhere;
-    return { slice: full.slice(startA, endA), newCursor: endA };
-  }
-
-  const endCore = startCore + core.length;
-
-  // linke Grenze nur beim ersten Segment aufziehen (um führende Zeichen zu bewahren)
-  const start = isFirstInVerse ? expandLeft(full, startCore) : startCore;
-
-  // rechte Grenze IMMER bis inkl. aller Randzeichen erweitern
-  const end = isLastInVerse ? full.length : expandRight(full, endCore);
-
-  return { slice: full.slice(start, end), newCursor: end };
-}
-
+// ----- Datei verarbeiten -----
 async function processFile(fp) {
   let data;
   try {
@@ -206,23 +245,20 @@ async function processFile(fp) {
     return { done: true };
   }
 
-  // Startindex: CLI > erster leerer arabic
   const startAt = Number.isFinite(argStartIndex) ? argStartIndex : findFirstEmptyArabicIndex(data);
   if (startAt === -1) {
     console.log(`STOP: Alle arabic-Felder sind gefüllt in ${path.basename(fp)}.`);
     return { done: true };
   }
 
-  console.log(`Verarbeite ${path.basename(fp)} ab Index ${startAt} …`);
+  console.log(`Verarbeite ${path.basename(fp)} ab Index ${startAt} … (Heute: ${budget.getUsage()}/${argLimit} Tokens)`);
 
-  // Für jede verse_number halten wir einen Cursor innerhalb des arabic_full,
-  // damit Segmente nahtlos hintereinander ausgeschnitten werden
-  const verseCursors = new Map(); // vn -> cursor position in full
+  const verseCursors = new Map(); // vn -> cursor in arabic_full
 
   for (let i = startAt; i < data.length; i++) {
     const item = data[i];
     if (!item || typeof item !== 'object') continue;
-    if (!isEmptyArabic(item)) continue; // schon befüllt
+    if (!isEmptyArabic(item)) continue;
 
     const vn = item.verse_number;
     const full = item.arabic_full;
@@ -231,7 +267,6 @@ async function processFile(fp) {
       continue;
     }
 
-    // Alle Items derselben verse_number (Dateireihenfolge)
     const siblings = data
       .map((obj, idx) => ({ obj, idx }))
       .filter(x => x.obj?.verse_number === vn);
@@ -240,26 +275,28 @@ async function processFile(fp) {
     const isFirst = myPos === 0;
     const isLast  = myPos === siblings.length - 1;
 
-    // Cursor initialisieren
     if (!verseCursors.has(vn)) verseCursors.set(vn, 0);
     let cursor = verseCursors.get(vn);
 
-    // Entscheide: OpenAI nötig?
     const useOpenAI = hasSiblingSameVerse(data, i);
 
-    let core = '';
     if (!useOpenAI) {
-      // Kein Split-Kontext → komplettes full übernehmen
       item.arabic = full;
-      // Cursor auf Ende, damit evtl. weitere (unerwartete) Teile nicht abgeschnitten werden
       verseCursors.set(vn, full.length);
     } else {
+      // Vor jedem Call prüfen, ob noch Budget da ist
+      if (!budget.canSpend()) {
+        console.error(`Abbruch: Tageslimit erreicht (${budget.getUsage()}/${argLimit} Tokens).`);
+        return { done: false };
+      }
+
+      let core = '';
       try {
         const ctx = collectContext(data, i);
         core = await segmentWithOpenAI(item, ctx);
       } catch (e) {
         console.error(`OpenAI-Fehler in ${path.basename(fp)} [index ${i}]:`, e.message);
-        core = ''; // lässt unten in den Fallback laufen
+        core = '';
       }
 
       const { slice, newCursor } = sliceWithBoundaries(full, core, cursor, isFirst, isLast);
@@ -270,19 +307,18 @@ async function processFile(fp) {
     // Sofort speichern (Fortschritt sichern)
     try {
       writeJson(fp, data);
-      console.log(`→ Gespeichert: ${path.basename(fp)} [index ${i}]`);
+      console.log(`→ Gespeichert: ${path.basename(fp)} [index ${i}]  | Budget: ${budget.getUsage()}/${argLimit}`);
     } catch (e) {
       console.error(`Fehler beim Schreiben ${path.basename(fp)} [index ${i}]:`, e.message);
       return { done: false };
     }
   }
 
-  // Prüfen, ob noch leere arabic übrig sind
   const remaining = findFirstEmptyArabicIndex(data);
   return { done: remaining === -1 };
 }
 
-// ----- Main: alle Dateien oder eine spezifische Datei -----
+// ----- Main -----
 (async () => {
   let files;
   if (argFile) {
@@ -302,6 +338,12 @@ async function processFile(fp) {
   for (const fp of files) {
     const res = await processFile(fp);
     if (!res.done) allDone = false;
+
+    // Wenn Budget aufgebraucht: komplett abbrechen
+    if (!budget.canSpend()) {
+      console.error(`Abbruch: Tageslimit erreicht (${budget.getUsage()}/${argLimit} Tokens).`);
+      process.exit(1);
+    }
   }
 
   if (allDone) {
