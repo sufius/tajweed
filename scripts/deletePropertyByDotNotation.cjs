@@ -1,14 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = path.join(__dirname, '../public/surat/complete'); // Adjust as needed
+const directoryPath = path.join(__dirname, '../public/surat/segmented/de/27'); // Adjust as needed
 
 // Define properties (dot-notation) to remove:
 const toDelete = [
-  'verses.text_uthmani',
-  'verses.text_uthmani_tajweed',
-  'verses.text_uthmani_tajweed_parsed',
-  'verses.text_uthmani_transcribed',
+  'color',
 ];
 
 /**
