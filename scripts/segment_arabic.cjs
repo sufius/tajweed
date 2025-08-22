@@ -8,7 +8,7 @@
  *   node segment_arabic_with_budget.js
  *   node segment_arabic_with_budget.js --file surah-18.json
  *   node segment_arabic_with_budget.js --start-index 120
- *   node segment_arabic_with_budget.js --limit 240000
+ *   node segment_arabic_with_budget.js --limit 248000
  *   node segment_arabic_with_budget.js --budget-file ./my_usage.json
  */
 
@@ -33,7 +33,7 @@ const argStartIndex = process.argv.includes('--start-index')
 
 const argLimit = process.argv.includes('--limit')
   ? Number(process.argv[process.argv.indexOf('--limit') + 1])
-  : 240000;
+  : 248000;
 
 const argBudgetFile = process.argv.includes('--budget-file')
   ? process.argv[process.argv.indexOf('--budget-file') + 1]
@@ -43,7 +43,7 @@ const argBudgetFile = process.argv.includes('--budget-file')
 class DailyTokenBudget {
   constructor(filePath, dailyLimit) {
     this.filePath = filePath;
-    this.dailyLimit = Number.isFinite(dailyLimit) ? dailyLimit : 240000;
+    this.dailyLimit = Number.isFinite(dailyLimit) ? dailyLimit : 248000;
     const today = new Date();
     this.todayKey = today.toISOString().slice(0, 10); // YYYY-MM-DD
     this._load();
