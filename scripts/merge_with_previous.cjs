@@ -2,25 +2,22 @@
  * Merge eines bestimmten Index mit dem vorherigen und Anpassen der nachfolgenden Indizes.
  *
  * Nutzung:
- *   node merge_with_previous.js --index 91
  *   node merge_with_previous.js --file ../public/surat/segmented/de/27/surah-18.json --index 91
- *   node merge_with_previous.js --index 91 --force --backup
+ *   node merge_with_previous.js --file ./surah-18.json --index 91 --force --backup
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// --- Defaults anpassen, falls gewünscht ---
-const DEFAULT_FILE = path.join(__dirname, '../public/surat/segmented/de/27/surah-18.json');
-
-// --- CLI ---
+// --- CLI: --file ist Pflicht ---
 const argFile = (() => {
   const i = process.argv.indexOf('--file');
-  if (i !== -1 && process.argv[i + 1]) {
-    const p = process.argv[i + 1];
-    return path.isAbsolute(p) ? p : path.join(__dirname, p);
+  if (i === -1 || !process.argv[i + 1]) {
+    console.error('Fehler: Bitte --file <Pfad/zur/Datei.json> angeben.');
+    process.exit(1);
   }
-  return DEFAULT_FILE;
+  const p = process.argv[i + 1];
+  return path.isAbsolute(p) ? p : path.join(__dirname, p);
 })();
 
 const argIndex = (() => {
