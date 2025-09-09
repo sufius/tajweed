@@ -12,7 +12,7 @@ const targetFile = path.join(__dirname, '../public/surat/segmented/de/27/surah-2
 
 // Attributes to add (dot-notation supported)
 const addRules = [
-  { path: 'newField', value: '' },
+  { path: 'transcription', value: '' },
   // examples:
   // { path: 'transcription_full', value: '' },
   // { path: 'metadata.checked', value: false },
