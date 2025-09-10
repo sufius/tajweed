@@ -1,21 +1,16 @@
 #!/usr/bin/env node
 /**
- * Füllt leere `transcription` Felder mithilfe der OpenAI API.
- * - Liest EINE Zieldatei (Array von Segment-Objekten).
- * - Gruppiert nach `verse_number`.
- * - Pro Vers ruft OpenAI auf, um `transcription_full` in N zusammenhängende Teilstrings
- *   (genau aus dem Originaltext) passend zu den N `translation`-Segmenten aufzuteilen.
- * - Schreibt das Ergebnis in alle Items mit leerer `transcription`.
- * - Speichert die Datei NACH JEDEM geänderten Item (resumierbar).
+ * Segmentiert "transcription_full" → "transcription" passend zur "translation".
+ * - Speichert nach jedem Objekt (Fortschritt sicher)
+ * - OpenAI nur, wenn Nachbar (prev/next) gleiche verse_number hat
+ * - Token-Budget pro Tag mit Abbruch bei Limit
  *
  * Nutzung:
- *   node 05_01_segment_transcription.cjs \
- *     --file ../public/surat/segmented/de/27/surah-22.json \
- *     --model gpt-4o
- *
- * Hinweise:
- * - Setze OPENAI_API_KEY in deiner Umgebung.
- * - `--model` optional (Default: gpt-4o).
+ *   node segment_transcription_with_budget.cjs
+ *   node segment_transcription_with_budget.cjs --file surah-18.json
+ *   node segment_transcription_with_budget.cjs --start-index 120
+ *   node segment_transcription_with_budget.cjs --limit 248000
+ *   node segment_transcription_with_budget.cjs --budget-file ./my_usage.json
  */
 
 const fs = require('fs');
@@ -23,274 +18,343 @@ const path = require('path');
 const OpenAI = require('openai');
 require('dotenv').config({ path: '../.env.local' });
 
-/* ------------------------------ CLI-Argumente ------------------------------ */
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-function getArg(name, def) {
-  const i = process.argv.indexOf(`--${name}`);
-  if (i !== -1 && i + 1 < process.argv.length) return process.argv[i + 1];
-  return def;
+// ----- Pfade anpassen -----
+const SOURCE_DIR = path.join(__dirname, '../public/surat/segmented/de/27');
+
+// ----- Optional CLI -----
+const argFile = process.argv.includes('--file')
+  ? process.argv[process.argv.indexOf('--file') + 1]
+  : null;
+
+const argStartIndex = process.argv.includes('--start-index')
+  ? Number(process.argv[process.argv.indexOf('--start-index') + 1])
+  : null;
+
+const argLimit = process.argv.includes('--limit')
+  ? Number(process.argv[process.argv.indexOf('--limit') + 1])
+  : 248000;
+
+const argBudgetFile = process.argv.includes('--budget-file')
+  ? process.argv[process.argv.indexOf('--budget-file') + 1]
+  : path.join(__dirname, '.openai_usage.json');
+
+// ----- Token-Budget Verwaltung -----
+class DailyTokenBudget {
+  constructor(filePath, dailyLimit) {
+    this.filePath = filePath;
+    this.dailyLimit = Number.isFinite(dailyLimit) ? dailyLimit : 248000;
+    const today = new Date();
+    this.todayKey = today.toISOString().slice(0, 10); // YYYY-MM-DD
+    this._load();
+  }
+  _load() {
+    try {
+      const raw = fs.existsSync(this.filePath) ? fs.readFileSync(this.filePath, 'utf8') : '{}';
+      const data = JSON.parse(raw || '{}');
+      if (data.date !== this.todayKey) {
+        this.usage = 0;
+        this._save();
+      } else {
+        this.usage = Number(data.usage) || 0;
+      }
+    } catch {
+      this.usage = 0;
+      this._save();
+    }
+  }
+  _save() {
+    fs.writeFileSync(this.filePath, JSON.stringify({ date: this.todayKey, usage: this.usage }, null, 2), 'utf8');
+  }
+  canSpend() {
+    return this.usage < this.dailyLimit;
+  }
+  add(usedTokens) {
+    if (!Number.isFinite(usedTokens) || usedTokens <= 0) return;
+    this.usage += usedTokens;
+    this._save();
+  }
+  getUsage() {
+    return this.usage;
+  }
+  getRemaining() {
+    return Math.max(0, this.dailyLimit - this.usage);
+  }
 }
 
-const targetFile = path.resolve(getArg('file', path.join(__dirname, '../public/surat/segmented/de/27/surah-22.json')));
-const MODEL = getArg('model', process.env.OPENAI_MODEL || 'gpt-4o'); // frei anpassbar
-const DRY_RUN = getArg('dry-run', 'false') === 'true';
+const budget = new DailyTokenBudget(argBudgetFile, argLimit);
 
-if (!process.env.OPENAI_API_KEY) {
-  console.error('❌ Bitte OPENAI_API_KEY als Umgebungsvariable setzen.');
-  process.exit(1);
-}
-
-const client = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-  // Node-SDK macht automatische Retries (2x) bei 408/409/429/5xx; anpassbar mit maxRetries. :contentReference[oaicite:0]{index=0}
-  // maxRetries: 2,
-});
-
-/* --------------------------------- Utils ---------------------------------- */
-
+// ----- Utils -----
 function readJson(fp) {
   return JSON.parse(fs.readFileSync(fp, 'utf8'));
 }
 function writeJson(fp, obj) {
-  if (DRY_RUN) return;
   fs.writeFileSync(fp, JSON.stringify(obj, null, 2), 'utf8');
 }
-function isEmptyTranscription(v) {
-  return typeof v !== 'string' || v.trim() === '';
+function isEmptyTranscription(item) {
+  return item && typeof item === 'object' && (item.transcription === '' || item.transcription === undefined);
 }
-function norm(s) {
-  return String(s || '').replace(/\s+/g, ' ').trim();
+function findFirstEmptyTranscriptionIndex(arr, from = 0) {
+  for (let i = Math.max(0, from); i < arr.length; i++) {
+    if (isEmptyTranscription(arr[i])) return i;
+  }
+  return -1;
+}
+function hasSiblingSameVerse(arr, i) {
+  const vn = arr[i]?.verse_number;
+  if (!Number.isFinite(vn)) return false;
+  const prevSame = i > 0 && arr[i - 1]?.verse_number === vn;
+  const nextSame = i < arr.length - 1 && arr[i + 1]?.verse_number === vn;
+  return prevSame || nextSame;
+}
+function collectContext(arr, i) {
+  const cur = arr[i];
+  const vn = cur?.verse_number;
+  const prev = i > 0 ? arr[i - 1] : null;
+  const next = i < arr.length - 1 ? arr[i + 1] : null;
+  const prevSame = prev && prev.verse_number === vn ? prev : null;
+  const nextSame = next && next.verse_number === vn ? next : null;
+  const earlierSame = [];
+  for (let k = 0; k < i; k++) {
+    const it = arr[k];
+    if (it?.verse_number === vn && it?.transcription) {
+      earlierSame.push({ translation: it.translation || '', transcription: it.transcription });
+    }
+  }
+  return { prevSame, nextSame, earlierSame };
 }
 
-/* ------------------- Heuristik-Fallback (nur wenn nötig) ------------------- */
-/** Fallback: proportionale Aufteilung + Schnapp an Whitespaces (Notanker). */
-function fallbackSplit(full, translations) {
-  const text = norm(full);
-  if (!text) return translations.map(() => '');
-  const weights = translations.map(t => {
-    const cleaned = String(t || '').replace(/[^\p{Letter}\p{Mark}\s]/gu, '').replace(/\s+/g, ' ').trim();
-    return cleaned.length || String(t || '').length || 1;
+// ---- Randzeichen-Erkennung für lateinische Transkription ----
+const RIGHT_BOUNDARY_RE = /[\s,;:.\-–—]+/u;
+const LEFT_BOUNDARY_RE  = /[\s,;:.\-–—]+/u;
+function expandRight(full, end) {
+  if (end >= full.length) return end;
+  const m = full.slice(end).match(RIGHT_BOUNDARY_RE);
+  if (m && m.index === 0) return end + m[0].length;
+  return end;
+}
+function expandLeft(full, start) {
+  if (start <= 0) return start;
+  let i = start - 1;
+  while (i >= 0 && LEFT_BOUNDARY_RE.test(full[i])) i--;
+  return i + 1;
+}
+function indexOfFrom(full, needle, fromIdx) {
+  if (!needle) return -1;
+  return full.indexOf(needle, fromIdx);
+}
+function sliceWithBoundaries(full, core, cursor, isFirstInVerse, isLastInVerse) {
+  if (!core) return { slice: '', newCursor: cursor };
+  const startCore = indexOfFrom(full, core, cursor);
+  if (startCore === -1) {
+    const anywhere = full.indexOf(core);
+    if (anywhere === -1) {
+      return { slice: full.slice(cursor), newCursor: full.length };
+    }
+    const endCoreA = anywhere + core.length;
+    const endA = expandRight(full, endCoreA);
+    const startA = isFirstInVerse ? expandLeft(full, anywhere) : anywhere;
+    return { slice: full.slice(startA, endA), newCursor: endA };
+  }
+  const endCore = startCore + core.length;
+  const start = isFirstInVerse ? expandLeft(full, startCore) : startCore;
+  const end = isLastInVerse ? full.length : expandRight(full, endCore);
+  return { slice: full.slice(start, end), newCursor: end };
+}
+
+// ----- OpenAI-Aufruf (mit Budgetprüfung) -----
+// (WICHTIG: jetzt translation → transcription aus transcription_full)
+function buildPrompt({ transcription_full, translation, prevSame, nextSame, earlierSame }) {
+  return `
+Du segmentierst **lateinische Quran-Transkription**.
+
+AUFGABE:
+- Du erhältst:
+  - "transcription_full": komplette Transkription eines Verses (lateinisch)
+  - "translation": das Zielsegment (deutsche Übersetzung) für dieses Teilstück
+- Finde in "transcription_full" den **zusammenhängenden Kern-Substring**, der semantisch zu dieser "translation" passt.
+- Gib **exakt** diesen Kern-Substring zurück (ohne zusätzliche Zeichen, keine Normalisierung, keine Paraphrase).
+- (Randzeichen/Leerzeichen an den Grenzen ergänzt das Programm selbst.)
+
+KONTEXT (gleiche verse_number):
+- Bereits segmentierte frühere Teile:
+${earlierSame.length ? JSON.stringify(earlierSame, null, 2) : '[]'}
+
+- Unmittelbares vorheriges Segment:
+${prevSame ? JSON.stringify({ translation: prevSame.translation, transcription: prevSame.transcription || '' }, null, 2) : 'null'}
+
+- Unmittelbares nächstes Segment:
+${nextSame ? JSON.stringify({ translation: nextSame.translation, transcription: nextSame.transcription || '' }, null, 2) : 'null'}
+
+DATEN:
+{
+  "transcription_full": ${JSON.stringify(transcription_full)},
+  "translation": ${JSON.stringify(translation)}
+}
+
+AUSGABE (nur JSON-Objekt):
+{
+  "transcription": "<EXAKTER KERN-Substring aus transcription_full>"
+}
+`.trim();
+}
+
+async function segmentWithOpenAI(item, ctx) {
+  if (!budget.canSpend()) {
+    throw new Error(`Tageslimit erreicht (${budget.getUsage()}/${argLimit} Tokens).`);
+  }
+
+  const prompt = buildPrompt({
+    transcription_full: item.transcription_full,
+    translation: item.translation,
+    prevSame: ctx.prevSame,
+    nextSame: ctx.nextSame,
+    earlierSame: ctx.earlierSame,
   });
-  const total = weights.reduce((a, b) => a + b, 0) || translations.length;
-  const desired = weights.map(w => Math.max(1, Math.round((w / total) * text.length)));
-  const drift = text.length - desired.reduce((a, b) => a + b, 0);
-  if (drift) {
-    const i = desired.indexOf(Math.max(...desired));
-    desired[i] += drift;
-  }
-  const out = [];
-  let start = 0;
-  for (let i = 0; i < desired.length; i++) {
-    let end = i === desired.length - 1 ? text.length : start + desired[i];
-    // an Wortgrenze schnappen
-    const left = text.lastIndexOf(' ', end);
-    const right = text.indexOf(' ', end);
-    if (i !== desired.length - 1) {
-      if (right !== -1 && right - end <= 12) end = right;
-      else if (left !== -1 && end - left <= 12) end = left;
-    }
-    out.push(text.slice(start, end).trim());
-    start = end;
-  }
-  return out;
-}
 
-/* ----------------------------- OpenAI-Aufruf ------------------------------ */
-/**
- * Holt Segment-Indizes oder -Texte von OpenAI.
- * Wir nutzen die Responses API + JSON-Output-Modus. :contentReference[oaicite:1]{index=1}
- * Rückgabe: Array von Strings (eine Teil-Transkription pro Segment).
- */
-async function segmentWithOpenAI(fullText, translations) {
-  // Kurzer Guard
-  const verse = norm(fullText);
-  const trans = translations.map(norm);
-  if (!verse || trans.length === 0) return trans.map(() => '');
-
-  // Wir bitten das Modell, nur JSON zu liefern:
-  // { "segments": [ {"index":0,"start":int,"end":int}, ... ] }
-  // Start/Ende sind Zeichenindizes (end exklusiv) im EXACT selben String `verse`.
-  // Danach schneiden wir serverseitig selbst zu (Garant für "echter Substring").
-  const system = [
-    `Du bist ein präziser Segmentierer für lateinische Umschrift (Quran-Transkription).`,
-    `Aufgabe: Teile die gegebene Gesamt-Umschrift ('transcription_full') in N zusammenhängende Teilstücke, eines pro deutschem Übersetzungssegment.`,
-    `WICHTIG:`,
-    `- Jedes Teilstück MUSS ein KONTIGUER EXAKTER SUBSTRING von 'transcription_full' sein (keine Paraphrasen).`,
-    `- Reihenfolge beibehalten, nicht überlappen.`,
-    `- Gib Start/End-Indizes (end exklusiv) in Zeichenpositionen des GENAU übergebenen Strings.`,
-    `- Nicht neu umschreiben; nutze ausschließlich Originaltext.`,
-  ].join('\n');
-
-  const user = {
-    verse,
-    segments: trans.map((t, i) => ({ index: i, translation: t })),
-  };
-
-  // JSON-Output erzwingen (einfach & robust)
-  const response = await client.responses.create({
-    model: MODEL,
-    // Responses API akzeptiert "input" mit Rollen. :contentReference[oaicite:2]{index=2}
-    input: [
-      { role: 'system', content: system },
-      {
-        role: 'user',
-        content: [
-          { type: 'text', text: `transcription_full:\n${verse}` },
-          { type: 'text', text: `Segments (in Reihenfolge):\n${JSON.stringify(user.segments, null, 2)}` },
-          { type: 'text', text: `Antworte ausschließlich als JSON-Objekt mit Schema:\n{"segments":[{"index":number,"start":number,"end":number}]}` },
-        ],
-      },
-    ],
-    response_format: { type: 'json_object' }, // strukturierter JSON-Output (vereinfachte, kompatible Variante)
-    max_output_tokens: 2000,
+  const res = await openai.chat.completions.create({
+    model: 'gpt-4o',          // <- wie gewünscht: immer gpt-4o
+    temperature: 0,
+    messages: [{ role: 'user', content: prompt }],
+    response_format: { type: "json_object" }
   });
 
-  // Responses-Objekt auslesen
-  let jsonText = '';
-  try {
-    // bevorzugt: gesamte Ausgabe als Text greifen
-    jsonText = response.output_text ?? '';
-    if (!jsonText) {
-      // Fallback: erstes Text-Teil suchen
-      const piece = response.output?.[0]?.content?.find(c => c.type === 'output_text');
-      if (piece?.text) jsonText = piece.text;
-    }
-  } catch (_) {
-    // ignore
-  }
+  // Tokens verbuchen
+  const used =
+    (res.usage?.prompt_tokens || 0) +
+    (res.usage?.completion_tokens || 0);
+  budget.add(used);
 
-  let parsed;
-  try {
-    parsed = JSON.parse(jsonText);
-  } catch (e) {
-    console.warn('⚠️ OpenAI-JSON konnte nicht geparst werden – Fallback-Heuristik wird verwendet.');
-    return fallbackSplit(verse, trans);
-  }
-
-  const cuts = Array.isArray(parsed?.segments) ? parsed.segments : [];
-  if (cuts.length !== trans.length) {
-    console.warn(`⚠️ Anzahl Segmente (${cuts.length}) ≠ Übersetzungen (${trans.length}) – Fallback.`);
-    return fallbackSplit(verse, trans);
-  }
-
-  // Schneiden & sanity-check
-  const out = [];
-  for (let i = 0; i < cuts.length; i++) {
-    const { start, end } = cuts[i] || {};
-    const s = Number.isInteger(start) ? start : 0;
-    const e = Number.isInteger(end) ? end : verse.length;
-    if (s < 0 || e > verse.length || s >= e) {
-      out.push('');
-      continue;
-    }
-    out.push(verse.slice(s, e).trim());
-  }
-
-  // Falls leer/komisch → Fallback
-  if (out.filter(Boolean).length === 0) {
-    return fallbackSplit(verse, trans);
-  }
-  return out;
+  const content = res.choices?.[0]?.message?.content || '{}';
+  let parsed = {};
+  try { parsed = JSON.parse(content); } catch {}
+  return typeof parsed.transcription === 'string' ? parsed.transcription : '';
 }
 
-/* --------------------------------- Main ---------------------------------- */
-
-(async function main() {
+// ----- Datei verarbeiten -----
+async function processFile(fp) {
   let data;
   try {
-    data = readJson(targetFile);
+    data = readJson(fp);
     if (!Array.isArray(data)) {
-      console.error('❌ Zieldatei ist kein Array:', targetFile);
-      process.exit(1);
+      console.warn(`Übersprungen (keine Array-Struktur): ${path.basename(fp)}`);
+      return { done: true };
     }
   } catch (e) {
-    console.error(`❌ Fehler beim Lesen ${targetFile}:`, e.message);
+    console.error(`Fehler beim Lesen/Parsen ${fp}:`, e.message);
+    return { done: true };
+  }
+
+  const startAt = Number.isFinite(argStartIndex) ? argStartIndex : findFirstEmptyTranscriptionIndex(data);
+  if (startAt === -1) {
+    console.log(`STOP: Alle transcription-Felder sind gefüllt in ${path.basename(fp)}.`);
+    return { done: true };
+  }
+
+  console.log(`Verarbeite ${path.basename(fp)} ab Index ${startAt} … (Heute: ${budget.getUsage()}/${argLimit} Tokens)`);
+
+  const verseCursors = new Map(); // vn -> cursor in transcription_full
+
+  for (let i = startAt; i < data.length; i++) {
+    const item = data[i];
+    if (!item || typeof item !== 'object') continue;
+    if (!isEmptyTranscription(item)) continue;
+
+    const vn = item.verse_number;
+    const full = item.transcription_full;
+    if (!Number.isFinite(vn) || typeof full !== 'string') {
+      console.warn(`Index ${i}: verse_number/transcription_full fehlt – übersprungen`);
+      continue;
+    }
+
+    const siblings = data
+      .map((obj, idx) => ({ obj, idx }))
+      .filter(x => x.obj?.verse_number === vn);
+
+    const myPos = siblings.findIndex(x => x.idx === i);
+    const isFirst = myPos === 0;
+    const isLast  = myPos === siblings.length - 1;
+
+    if (!verseCursors.has(vn)) verseCursors.set(vn, 0);
+    let cursor = verseCursors.get(vn);
+
+    const useOpenAI = hasSiblingSameVerse(data, i);
+
+    if (!useOpenAI) {
+      // nur ein Segment für diesen Vers → kompletter Vers ist das Segment
+      item.transcription = full;
+      verseCursors.set(vn, full.length);
+    } else {
+      // Vor jedem Call prüfen, ob noch Budget da ist
+      if (!budget.canSpend()) {
+        console.error(`Abbruch: Tageslimit erreicht (${budget.getUsage()}/${argLimit} Tokens).`);
+        return { done: false };
+      }
+
+      let core = '';
+      try {
+        const ctx = collectContext(data, i);
+        core = await segmentWithOpenAI(item, ctx);
+      } catch (e) {
+        console.error(`OpenAI-Fehler in ${path.basename(fp)} [index ${i}]:`, e.message);
+        core = '';
+      }
+
+      const { slice, newCursor } = sliceWithBoundaries(full, core, cursor, isFirst, isLast);
+      item.transcription = slice;
+      verseCursors.set(vn, newCursor);
+    }
+
+    // Sofort speichern (Fortschritt sichern)
+    try {
+      writeJson(fp, data);
+      console.log(`→ Gespeichert: ${path.basename(fp)} [index ${i}]  | Budget: ${budget.getUsage()}/${argLimit}`);
+    } catch (e) {
+      console.error(`Fehler beim Schreiben ${path.basename(fp)} [index ${i}]:`, e.message);
+      return { done: false };
+    }
+  }
+
+  const remaining = findFirstEmptyTranscriptionIndex(data);
+  return { done: remaining === -1 };
+}
+
+// ----- Main -----
+(async () => {
+  if (!process.env.OPENAI_API_KEY) {
+    console.error('❌ Bitte OPENAI_API_KEY in ../.env.local setzen.');
     process.exit(1);
   }
 
-  // verse_number -> Liste von Indizes (Datei-Reihenfolge)
-  const groups = new Map();
-  for (let i = 0; i < data.length; i++) {
-    const it = data[i];
-    if (!it || typeof it !== 'object') continue;
-    const vn = it.verse_number;
-    if (vn == null) continue;
-    if (!groups.has(vn)) groups.set(vn, []);
-    groups.get(vn).push(i);
-  }
-
-  // Cache: verse_number -> bereits berechnete Stücke (um API-Calls zu minimieren)
-  const piecesCache = new Map();
-
-  let totalFilled = 0;
-
-  for (let i = 0; i < data.length; i++) {
-    const item = data[i];
-    if (!item || typeof item !== 'object') continue;
-    if (!isEmptyTranscription(item.transcription)) continue; // nur leere füllen
-
-    const vn = item.verse_number;
-    const idxList = groups.get(vn) || [];
-    if (idxList.length === 0) continue;
-
-    // Verse-full finden (aus aktuellem oder Nachbar)
-    let verseFull = norm(item.transcription_full);
-    if (!verseFull) {
-      for (const j of idxList) {
-        const g = data[j];
-        if (g?.transcription_full) { verseFull = norm(g.transcription_full); break; }
-      }
-    }
-    if (!verseFull) {
-      console.warn(`⚠️ verse_number=${vn}: keine "transcription_full" gefunden – übersprungen (Indices: ${idxList.join(', ')})`);
-      continue;
-    }
-
-    // Übersetzungen in Gruppen-Reihenfolge
-    const translations = idxList.map(j => norm(data[j]?.translation));
-
-    // Stücke aus Cache oder OpenAI holen (ein Call pro Vers)
-    let pieces = piecesCache.get(vn);
-    if (!pieces) {
-      try {
-        pieces = await segmentWithOpenAI(verseFull, translations);
-      } catch (e) {
-        console.warn(`⚠️ OpenAI-Fehler bei verse_number=${vn}: ${e.message}. Fallback-Heuristik.`);
-        pieces = fallbackSplit(verseFull, translations);
-      }
-      piecesCache.set(vn, pieces);
-    }
-
-    // Index im Gruppenkontext bestimmen
-    const idxInGroup = idxList.indexOf(i);
-    const newVal = (pieces && pieces[idxInGroup]) ? pieces[idxInGroup] : '';
-
-    if (!isEmptyTranscription(newVal)) {
-      data[i].transcription = newVal;
-
-      if (!DRY_RUN) {
-        try {
-          writeJson(targetFile, data); // nach JEDEM Update speichern
-          console.log(`💾 gespeichert – index=${data[i].index} verse_number=${vn}`);
-        } catch (e) {
-          console.error(`❌ Fehler beim Schreiben ${targetFile}:`, e.message);
-          process.exit(1);
-        }
-      } else {
-        console.log(`[DRY] Würde schreiben – index=${data[i].index} verse_number=${vn}`);
-      }
-
-      totalFilled++;
-    }
-    // Weiter zum nächsten leeren – dank Cache nur 1 API-Call pro Vers
-  }
-
-  if (totalFilled > 0) {
-    console.log(`✅ Fertig: ${totalFilled} leere "transcription"-Werte gefüllt in ${targetFile}.`);
+  let files;
+  if (argFile) {
+    files = [path.isAbsolute(argFile) ? argFile : path.join(SOURCE_DIR, argFile)];
   } else {
-    console.log('OK: Keine leeren "transcription" gefunden oder keine Änderungen nötig.');
+    files = fs.readdirSync(SOURCE_DIR)
+      .filter(f => f.endsWith('.json'))
+      .map(f => path.join(SOURCE_DIR, f));
   }
-})().catch(err => {
-  console.error('❌ Unerwarteter Fehler:', err);
-  process.exit(1);
-});
+
+  if (files.length === 0) {
+    console.log('Keine JSON-Dateien gefunden.');
+    process.exit(0);
+  }
+
+  let allDone = true;
+  for (const fp of files) {
+    const res = await processFile(fp);
+    if (!res.done) allDone = false;
+
+    if (!budget.canSpend()) {
+      console.error(`Abbruch: Tageslimit erreicht (${budget.getUsage()}/${argLimit} Tokens).`);
+      process.exit(1);
+    }
+  }
+
+  if (allDone) {
+    console.log('Alle transcription-Felder sind bereits gefüllt – stoppe das Script.');
+  } else {
+    console.log('Durchlauf beendet (für nächste Runs bleibt der Fortschritt erhalten).');
+  }
+})();
